@@ -1,7 +1,7 @@
 /* Opix Instruments — shared site JS */
 const OPIX = {
   email: "info@opixinst.com",
-  wa: "",            // e.g. "923001234567" — set your WhatsApp Business number (country code, no +)
+  wa: "923316189184",            // e.g. "923001234567" — set your WhatsApp Business number (country code, no +)
   imgPath: "assets/img/products/"
 };
 
