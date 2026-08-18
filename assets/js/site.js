@@ -104,8 +104,22 @@ function renderGrid(){
   });
 }
 
+/* ---------- floating WhatsApp button (all pages) ---------- */
+function waLink(text){
+  const msg = encodeURIComponent(text || "Hello Opix Instruments, I'd like to enquire about your surgical instruments.");
+  return `https://wa.me/${OPIX.wa}?text=${msg}`;
+}
+function wireWhatsApp(){
+  if(!OPIX.wa) return;                       // no button until a number is configured
+  const a=document.createElement("a");
+  a.className="wafab"; a.href=waLink(); a.target="_blank"; a.rel="noopener";
+  a.setAttribute("aria-label","Chat with Opix Instruments on WhatsApp");
+  a.innerHTML=`<svg viewBox="0 0 32 32" aria-hidden="true"><path fill="currentColor" d="M16 3C9 3 3.5 8.5 3.5 15.5c0 2.4.7 4.7 1.9 6.7L3 29l7-1.8c1.9 1 4 1.6 6 1.6 7 0 12.5-5.5 12.5-12.5S23 3 16 3zm0 22.8c-1.8 0-3.6-.5-5.2-1.4l-.4-.2-4.1 1.1 1.1-4-.3-.4a10 10 0 0 1-1.6-5.4C5.5 9.9 10.2 5.3 16 5.3S26.5 9.9 26.5 15.5 21.8 25.8 16 25.8zm5.7-7.6c-.3-.2-1.8-.9-2.1-1s-.5-.2-.7.2c-.2.3-.8 1-1 1.2-.2.2-.4.2-.7.1-.3-.2-1.3-.5-2.5-1.5-.9-.8-1.5-1.8-1.7-2.1-.2-.3 0-.5.1-.7l.5-.6c.2-.2.2-.3.3-.5.1-.2.1-.4 0-.6l-1-2.4c-.3-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4-.3.3-1.1 1-1.1 2.5s1.1 2.9 1.3 3.1c.2.2 2.2 3.4 5.3 4.7.7.3 1.3.5 1.7.6.7.2 1.4.2 1.9.1.6-.1 1.8-.7 2-1.5.3-.7.3-1.4.2-1.5-.1-.2-.3-.2-.6-.4z"/></svg><span class="walabel">Chat on WhatsApp</span>`;
+  document.body.appendChild(a);
+}
+
 /* mobile nav */
 document.addEventListener("DOMContentLoaded",()=>{
-  renderCount(); wireDrawer();
+  renderCount(); wireDrawer(); wireWhatsApp();
   const mm=$("mobmenu"); if(mm) mm.onclick=()=>document.querySelector("nav.main").classList.toggle("open");
 });

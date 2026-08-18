@@ -195,3 +195,11 @@ footer{border-top:1px solid var(--line);background:var(--white);margin-top:40px}
 .dlbtn svg{width:14px;height:14px}
 .dlcard:hover .dlbtn{background:var(--blue)}
 @media(max-width:520px){.dlbtn span{display:none}}
+
+/* ===== floating WhatsApp button ===== */
+.wafab{position:fixed;right:20px;bottom:20px;z-index:45;display:flex;align-items:center;height:56px;padding:0 13px;gap:10px;background:#25D366;color:#fff;border-radius:28px;box-shadow:0 6px 20px rgba(0,0,0,.22);max-width:56px;overflow:hidden;transition:max-width .3s ease,box-shadow .15s}
+.wafab svg{width:30px;height:30px;flex:0 0 30px}
+.walabel{font-family:'Archivo',sans-serif;font-weight:600;font-size:14px;white-space:nowrap;opacity:0;transition:opacity .2s}
+.wafab:hover{max-width:240px;box-shadow:0 8px 26px rgba(0,0,0,.28)}
+.wafab:hover .walabel{opacity:1}
+@media(max-width:520px){.wafab{right:14px;bottom:14px}}
