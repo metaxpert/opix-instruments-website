@@ -1,0 +1,191 @@
+[
+ {
+  "code": "SL",
+  "title": "Scalpels, Knives",
+  "file": "downloads/opix-sl-scalpels-knives.pdf",
+  "pages": 23,
+  "mb": 1.8
+ },
+ {
+  "code": "SS",
+  "title": "Scissors",
+  "file": "downloads/opix-ss-scissors.pdf",
+  "pages": 118,
+  "mb": 10.3
+ },
+ {
+  "code": "FR",
+  "title": "Forceps",
+  "file": "downloads/opix-fr-forceps.pdf",
+  "pages": 75,
+  "mb": 6.2
+ },
+ {
+  "code": "AF",
+  "title": "Artery & Hemostatic Forceps",
+  "file": "downloads/opix-af-artery-hemostatic-forceps.pdf",
+  "pages": 64,
+  "mb": 5.5
+ },
+ {
+  "code": "CS",
+  "title": "Cotton & Swab Forceps",
+  "file": "downloads/opix-cs-cotton-swab-forceps.pdf",
+  "pages": 8,
+  "mb": 0.7
+ },
+ {
+  "code": "RT",
+  "title": "Retractors",
+  "file": "downloads/opix-rt-retractors.pdf",
+  "pages": 74,
+  "mb": 6.4
+ },
+ {
+  "code": "PB",
+  "title": "Probes & Applicators",
+  "file": "downloads/opix-pb-probes-applicators.pdf",
+  "pages": 10,
+  "mb": 0.8
+ },
+ {
+  "code": "DG",
+  "title": "Diagnostic Instruments",
+  "file": "downloads/opix-dg-diagnostic-instruments.pdf",
+  "pages": 11,
+  "mb": 0.9
+ },
+ {
+  "code": "TS",
+  "title": "Trocars & Suction",
+  "file": "downloads/opix-ts-trocars-suction.pdf",
+  "pages": 19,
+  "mb": 1.5
+ },
+ {
+  "code": "SU",
+  "title": "Suture Instruments",
+  "file": "downloads/opix-su-suture-instruments.pdf",
+  "pages": 57,
+  "mb": 4.8
+ },
+ {
+  "code": "DR",
+  "title": "Dressing Instruments",
+  "file": "downloads/opix-dr-dressing-instruments.pdf",
+  "pages": 5,
+  "mb": 0.4
+ },
+ {
+  "code": "BS",
+  "title": "Bone Surgery",
+  "file": "downloads/opix-bs-bone-surgery.pdf",
+  "pages": 115,
+  "mb": 9.6
+ },
+ {
+  "code": "CV",
+  "title": "Thorax & Cardiovascular",
+  "file": "downloads/opix-cv-thorax-cardiovascular.pdf",
+  "pages": 61,
+  "mb": 5.5
+ },
+ {
+  "code": "NS",
+  "title": "Neurosurgery",
+  "file": "downloads/opix-ns-neurosurgery.pdf",
+  "pages": 46,
+  "mb": 3.9
+ },
+ {
+  "code": "OG",
+  "title": "Ophthalmic Surgery",
+  "file": "downloads/opix-og-ophthalmic-surgery.pdf",
+  "pages": 62,
+  "mb": 4.9
+ },
+ {
+  "code": "TR",
+  "title": "Tracheotomy",
+  "file": "downloads/opix-tr-tracheotomy.pdf",
+  "pages": 6,
+  "mb": 0.5
+ },
+ {
+  "code": "DM",
+  "title": "Dermatology",
+  "file": "downloads/opix-dm-dermatology.pdf",
+  "pages": 5,
+  "mb": 0.4
+ },
+ {
+  "code": "GA",
+  "title": "Stomach & Intestinal",
+  "file": "downloads/opix-ga-stomach-intestinal.pdf",
+  "pages": 30,
+  "mb": 2.5
+ },
+ {
+  "code": "LG",
+  "title": "Liver & Gallbladder",
+  "file": "downloads/opix-lg-liver-gallbladder.pdf",
+  "pages": 13,
+  "mb": 1.1
+ },
+ {
+  "code": "GY",
+  "title": "Gynecology",
+  "file": "downloads/opix-gy-gynecology.pdf",
+  "pages": 35,
+  "mb": 2.9
+ },
+ {
+  "code": "OB",
+  "title": "Obstetric",
+  "file": "downloads/opix-ob-obstetric.pdf",
+  "pages": 6,
+  "mb": 0.5
+ },
+ {
+  "code": "OT",
+  "title": "Otology (Ear)",
+  "file": "downloads/opix-ot-otology-ear.pdf",
+  "pages": 42,
+  "mb": 3.4
+ },
+ {
+  "code": "RH",
+  "title": "Rhinology (Nose)",
+  "file": "downloads/opix-rh-rhinology-nose.pdf",
+  "pages": 41,
+  "mb": 3.7
+ },
+ {
+  "code": "OM",
+  "title": "Oral & Maxillofacial",
+  "file": "downloads/opix-om-oral-maxillofacial.pdf",
+  "pages": 23,
+  "mb": 2.0
+ },
+ {
+  "code": "TN",
+  "title": "Tonsillectomy",
+  "file": "downloads/opix-tn-tonsillectomy.pdf",
+  "pages": 16,
+  "mb": 1.3
+ },
+ {
+  "code": "PD",
+  "title": "Podiatry",
+  "file": "downloads/opix-pd-podiatry.pdf",
+  "pages": 8,
+  "mb": 0.6
+ },
+ {
+  "code": "DN",
+  "title": "Dental Instruments",
+  "file": "downloads/opix-dn-dental-instruments.pdf",
+  "pages": 163,
+  "mb": 13.7
+ }
+]

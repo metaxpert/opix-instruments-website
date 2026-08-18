@@ -1,0 +1,16 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Node (only if you add tooling deps later)
+node_modules/
+
+# Local build scratch (page renders / transcription JSON live outside the repo)
+tools/pages/
+tmp/
+*.log
+
+# Keep everything else — this is a static, no-build site that deploys as-is.
