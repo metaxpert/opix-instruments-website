@@ -1,0 +1,56 @@
+# Auto-deploy the static site to your production server on every push to main.
+#
+# One-time setup — in the GitHub repo: Settings → Secrets and variables →
+# Actions → "New repository secret", add:
+#   SSH_HOST      your server host or IP           (e.g. 203.0.113.10 or opixinst.com)
+#   SSH_USER      SSH user with write access       (e.g. deploy)
+#   SSH_KEY       the PRIVATE deploy key (full text, incl. BEGIN/END lines)
+# Optional:
+#   SSH_PORT      SSH port (default 22)
+#   DEPLOY_PATH   web root on the server (default /var/www/opixinst)
+#
+# Generate a deploy key locally, add the PUBLIC half to the server:
+#   ssh-keygen -t ed25519 -f deploy_key -N ""      # creates deploy_key (+ .pub)
+#   ssh-copy-id -i deploy_key.pub SSH_USER@SSH_HOST # or append .pub to ~/.ssh/authorized_keys
+#   # then paste the contents of deploy_key into the SSH_KEY secret.
+
+name: Deploy to production
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}      # allow manual runs from the Actions tab
+
+concurrency:
+  group: production-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Configure SSH
+        run: |
+          mkdir -p ~/.ssh
+          printf '%s\n' "${{ secrets.SSH_KEY }}" > ~/.ssh/id_deploy
+          chmod 600 ~/.ssh/id_deploy
+          ssh-keyscan -p "${{ secrets.SSH_PORT || 22 }}" -H "${{ secrets.SSH_HOST }}" >> ~/.ssh/known_hosts 2>/dev/null
+
+      - name: Deploy with rsync
+        env:
+          SSH_PORT: ${{ secrets.SSH_PORT || 22 }}
+          DEPLOY_PATH: ${{ secrets.DEPLOY_PATH }}
+        run: |
+          TARGET="${DEPLOY_PATH:-/var/www/opixinst}"
+          echo "Deploying to ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${TARGET}"
+          rsync -avz --delete \
+            --exclude '.git' \
+            --exclude '.github' \
+            -e "ssh -i ~/.ssh/id_deploy -p ${SSH_PORT} -o StrictHostKeyChecking=yes" \
+            ./ "${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:${TARGET}/"
+
+      - name: Done
+        run: echo "✅ Site deployed to ${{ secrets.SSH_HOST }}"
