@@ -47,6 +47,8 @@ const ONCE = [
   ['managed header', /<!--SEO:HEADER-->/g],
   ['managed footer', /<!--SEO:FOOT-->/g],
   ['managed main',   /<!--SEO:MAIN-->/g],
+  ['managed overlay',/<!--SEO:OVERLAY-->/g],
+  ['inquiry drawer', /<aside class="drawer"/g],
   ['<main>',         /<main[\s>]/g],
 ];
 for (const [f, html] of b) {

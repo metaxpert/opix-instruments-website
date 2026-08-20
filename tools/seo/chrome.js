@@ -49,34 +49,37 @@ function sectionIndex() {
 function footer() {
   const year = 2026;
   return `<footer class="railpad"><div class="fwrap">
-  <div><h4>${esc(SITE.name)}</h4>
+  <div><h3>${esc(SITE.name)}</h3>
     <a href="/about.html">Surgical, dental &amp; orthopedic instruments</a>
     <a href="/about.html">${esc(SITE.street)}, ${esc(SITE.locality)} ${esc(SITE.postal)}, ${esc(SITE.countryName)}</a>
     <a href="/about.html">ISO 13485 · CE · FDA registered</a></div>
-  <div><h4>Top sections</h4>
+  <div><h3>Top sections</h3>
     <a href="/catalog-ss.html">Surgical scissors</a>
     <a href="/catalog-af.html">Artery &amp; hemostatic forceps</a>
     <a href="/catalog-bs.html">Bone surgery instruments</a>
     <a href="/catalog-dn.html">Dental instruments</a>
     <a href="/catalog-or.html">Orthopedic instruments</a></div>
-  <div><h4>Buyers</h4>
+  <div><h3>Buyers</h3>
     <a href="/contact.html">Request a quotation</a>
     <a href="/downloads.html">Download PDF catalogs</a>
     <a href="/about.html#oem">OEM &amp; private label</a>
     <a href="/specialties.html">Shop by specialty</a></div>
-  <div><h4>Contact</h4>
+  <div><h3>Contact</h3>
     <a href="mailto:${esc(SITE.email)}">${esc(SITE.email)}</a>
     <a href="tel:${esc(SITE.phone.replace(/[^+\d]/g, ''))}">${esc(SITE.phone)}</a>
     <a href="https://wa.me/${SITE.whatsapp}" rel="noopener">WhatsApp Business</a></div>
 </div><div class="fbot">© ${year} ${esc(SITE.name)} — ${esc(SITE.tagline)}. All catalog numbers and specifications subject to change.</div></footer>`;
 }
 
-/* Inquiry drawer + zoom + toast — identical on every page. */
-function overlays() {
-  return `<div class="zoom" id="zoom"><div class="zin"><img id="zimg" alt=""><div class="zt" id="zt"></div><div class="zs" id="zs"></div></div></div>
-<div class="ovl" id="ovl"></div>
+/* Inquiry drawer + toast on every page; the zoom overlay only where there is a
+   product grid to zoom, so the other pages do not carry markup nothing uses. */
+function overlays(withZoom = true) {
+  const zoom = withZoom
+    ? `<div class="zoom" id="zoom"><div class="zin"><img id="zimg" alt=""><div class="zt" id="zt"></div><div class="zs" id="zs"></div></div></div>\n`
+    : '';
+  return `${zoom}<div class="ovl" id="ovl"></div>
 <aside class="drawer" id="drawer" aria-label="Inquiry cart">
-  <div class="dhead"><h3>Your Inquiry</h3><button id="cartClose" type="button" aria-label="Close">&times;</button></div>
+  <div class="dhead"><h2>Your Inquiry</h2><button id="cartClose" type="button" aria-label="Close">&times;</button></div>
   <div class="ditems" id="ditems"></div>
   <div class="dfoot">
     <button class="send email" id="sendEmail" type="button">Send RFQ by Email</button>

@@ -10,6 +10,7 @@ node tools/seo/build.js      # the SEO build alone
 node tools/seo/audit.js      # titles, descriptions, canonicals, duplicates, orphans
 node tools/seo/verify.js     # JSON-LD parses, links resolve, fragments exist, tags balance
 node tools/seo/idempotency.js # builds twice, proves the output does not drift
+node tools/seo/render.js      # every page renders: one h1, chrome wired, no artefacts
 npm i jsdom && node tools/seo/test.js   # functional tests for the catalogue JS
 ```
 

@@ -73,7 +73,9 @@ function catNav(code, items, cats, activeCat) {
       : `/catalog-${low}.html#cat-${L.slug(label)}`;
     rows.push(`<a class="cat${key === activeCat ? ' on' : ''}" href="${url}"${key === activeCat ? ' aria-current="page"' : ''}><span>${L.esc(label)}</span><span class="n">${n}</span></a>`);
   }
-  return `<aside class="side"><h3>Categories</h3><nav class="cats" aria-label="Categories">${rows.join('')}</nav></aside>`;
+  // h2, not h3: it sits directly under the page h1 with no h2 before it, and a
+  // heading level skipped is a heading level a screen reader reports as missing.
+  return `<aside class="side"><h2>Categories</h2><nav class="cats" aria-label="Categories">${rows.join('')}</nav></aside>`;
 }
 
 /* ---------- related sections ---------- */
@@ -304,7 +306,8 @@ function buildCategory(code, catKey, label) {
       aside: catNav(code, sec.items, sec.cats, catKey),
       intro,
       searchHint: `${items[0][1]}, ${items[0][0]}`,
-      resultTitle: L.esc(label),
+      resultTitle: label,          // shell() escapes it; escaping here too
+                                   // rendered "Calipers &amp; Measuring Gauges"
       count: items.length,
       grid,
       terms: relatedTerms((seo.terms || []).slice(0, 4)),

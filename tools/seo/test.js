@@ -82,11 +82,15 @@ async function load(file) {
   }
 
   console.log('\n\x1b[1mnon-catalog pages — chrome still wired\x1b[0m');
-  for (const f of ['index.html', 'about.html', 'contact.html', 'catalog.html']) {
+  for (const f of ['index.html', 'about.html', 'contact.html', 'catalog.html',
+                   'specialties.html', 'downloads.html', '404.html']) {
     const w = await load(f), d = w.document;
     ok(!!d.querySelector('.wafab'), `${f}: WhatsApp button`);
     ok(!!d.querySelector('.secindex a[href="/catalog-dn.html"]'), `${f}: links to all 28 sections`);
     ok(d.querySelectorAll('h1').length === 1, `${f}: one H1`);
+    d.getElementById('cartOpen').click();
+    ok(d.getElementById('drawer').classList.contains('open'), `${f}: inquiry drawer opens`);
+    ok(!!d.querySelector('#ditems .empty'), `${f}: drawer shows the empty state`);
   }
   {
     const w = await load('contact.html'), d = w.document;

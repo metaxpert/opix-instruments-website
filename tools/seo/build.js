@@ -55,6 +55,13 @@ function rewrite(file, { head, active, extraScripts = '', mainAppend = '' }) {
     h = h.replace(/<!--SEO:MAIN-->[\s\S]*?<!--\/SEO:MAIN-->\s*/g, '');
   }
 
+  // Overlays — marked region, or the original hand-written block. Keeping this
+  // generated means the inquiry drawer has one definition instead of seven
+  // copies drifting apart in the hand-written pages.
+  h = h.replace(
+    /<!--SEO:OVERLAY-->[\s\S]*?<!--\/SEO:OVERLAY-->|<div class="(?:zoom" id="zoom|ovl" id="ovl)"[\s\S]*?<div class="toast" id="toast"><\/div>/,
+    region('OVERLAY', C.overlays(false)));
+
   h = h.replace(/<script src="data\/products\.js"><\/script>\s*<script src="assets\/js\/site\.js"><\/script>/,
                 `<script src="/assets/js/site.js?v=3" defer></script>${extraScripts}`);
 
@@ -255,7 +262,7 @@ ${C.header('catalog')}
 </div></section>
 ${rows}
 </main>
-${C.overlays()}
+${C.overlays(false)}
 ${C.sectionIndex()}
 ${C.footer()}
 <script src="/assets/js/site.js?v=3" defer></script>

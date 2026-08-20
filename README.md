@@ -37,6 +37,7 @@ node tools/regen.js        # section grid + full SEO build
 node tools/seo/audit.js    # titles, descriptions, canonicals, duplicates, orphans
 node tools/seo/verify.js   # JSON-LD, links, in-page fragments, tag balance
 node tools/seo/idempotency.js  # builds twice, proves the output does not drift
+node tools/seo/render.js       # every page renders correctly
 ```
 
 All three exit non-zero on failure. Run them before any content deploy.
