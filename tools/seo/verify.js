@@ -39,6 +39,29 @@ for (const f of pages) {
   }
 }
 
+/* In-page anchors.
+   The footer links to /about.html#oem from every page. The link resolved (the
+   file exists) but the id did not, so the fragment silently did nothing — the
+   file-existence check above cannot see that. Verify every fragment target. */
+{
+  const ids = new Map();
+  const idsOf = f => {
+    if (!ids.has(f)) {
+      const h = fs.existsSync(path.join(ROOT, f)) ? fs.readFileSync(path.join(ROOT, f), 'utf8') : '';
+      ids.set(f, new Set([...h.matchAll(/\sid="([^"]+)"/g)].map(m => m[1])));
+    }
+    return ids.get(f);
+  };
+  for (const f of pages) {
+    const h = fs.readFileSync(path.join(ROOT, f), 'utf8');
+    for (const m of h.matchAll(/href="(\/[a-z0-9-]*\.html|)#([^"]+)"/g)) {
+      const target = m[1] ? m[1].replace(/^\//, '') : f;
+      const frag = decodeURIComponent(m[2]);
+      if (!idsOf(target).has(frag)) bad.push(`${f}: fragment #${frag} has no target in ${target}`);
+    }
+  }
+}
+
 /* Untyped @id references.
    schema.org's validator resolves {"@id": "..."} to an untyped Thing unless the
    full node is in the SAME document, and then rejects it on any property whose

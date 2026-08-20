@@ -17,18 +17,43 @@ const read = f => fs.readFileSync(path.join(ROOT, f), 'utf8');
 const write = (f, s) => fs.writeFileSync(path.join(ROOT, f), s);
 
 /* ---------------------------------------------------------------- rewrite
-   Swaps the four generated regions of a hand-written page and leaves the
-   editorial body alone. */
-function rewrite(file, { head, active, extraScripts = '' }) {
+   Swaps the generated regions of a hand-written page and leaves the editorial
+   body alone.
+
+   Every generated region is wrapped in <!--SEO:NAME--> … <!--/SEO:NAME--> and
+   REPLACED, never appended. That is not cosmetic. The first version of this
+   function did `h.replace('</main>', block + '</main>')`, which appends a fresh
+   copy on every run, and matched the section index on `<nav class="secindex"`
+   when the emitted markup is `class="secindex railpad"` — so that never matched
+   either and also re-inserted each run. Thirteen builds put thirteen copies of
+   both on the home page. Each pattern below therefore matches EITHER the marked
+   region (every run after the first) OR the original hand-written markup (the
+   first run), so the result is the same no matter how many times it runs. */
+const region = (name, body) => `<!--SEO:${name}-->${body}<!--/SEO:${name}-->`;
+
+function rewrite(file, { head, active, extraScripts = '', mainAppend = '' }) {
   let h = read(file);
 
   h = h.replace(/<head>[\s\S]*?<\/head>/, '<head>\n' + head + '\n</head>');
 
-  h = h.replace(/<a class="skip"[\s\S]*?<\/header>|<div class="rail"[\s\S]*?<\/header>/,
-                C.header(active));
+  // Header — marked region, or the original rail+header block.
+  h = h.replace(
+    /<!--SEO:HEADER-->[\s\S]*?<!--\/SEO:HEADER-->|<a class="skip"[\s\S]*?<\/header>|<div class="rail"[\s\S]*?<\/header>/,
+    region('HEADER', C.header(active)));
 
-  h = h.replace(/(?:<nav class="secindex"[\s\S]*?<\/nav>\s*)?<footer class="railpad">[\s\S]*?<\/footer>/,
-                C.sectionIndex() + '\n' + C.footer());
+  // Section index + footer — marked region, or the original bare <footer>.
+  h = h.replace(
+    /<!--SEO:FOOT-->[\s\S]*?<!--\/SEO:FOOT-->|<footer class="railpad">[\s\S]*?<\/footer>/,
+    region('FOOT', C.sectionIndex() + '\n' + C.footer()));
+
+  // Extra page content appended inside <main>. The optional group is what makes
+  // this a replace rather than an append.
+  if (mainAppend) {
+    h = h.replace(/(?:<!--SEO:MAIN-->[\s\S]*?<!--\/SEO:MAIN-->\s*)?<\/main>/,
+                  region('MAIN', '\n' + mainAppend + '\n') + '\n</main>');
+  } else {
+    h = h.replace(/<!--SEO:MAIN-->[\s\S]*?<!--\/SEO:MAIN-->\s*/g, '');
+  }
 
   h = h.replace(/<script src="data\/products\.js"><\/script>\s*<script src="assets\/js\/site\.js"><\/script>/,
                 `<script src="/assets/js/site.js?v=3" defer></script>${extraScripts}`);
@@ -49,13 +74,19 @@ function fixSectionCardImages(h) {
     (m, sku, alt, rest) => {
       if (!L.hasImage(sku)) return '';
       const [w, hh] = L.dims()[sku];
-      const keep = rest.replace(/\s*onerror="[^"]*"/g, '').replace(/\s*(?:width|height)="[^"]*"/g, '').trim();
+      // Emit a CANONICAL tag: strip every attribute this function manages and
+      // re-add it, rather than appending to whatever is already there. The
+      // first version stripped onerror/width/height but not decoding, so
+      // decoding="async" accumulated once per build.
+      const keep = rest
+        .replace(/\s*(?:onerror|width|height|decoding|loading)="[^"]*"/g, '')
+        .trim();
       // "Scissors instruments" describes nothing. Say what the photograph is.
       const a = /\binstruments$/.test(alt)
         ? `${alt.replace(/\s*instruments$/, '')} — surgical instruments manufactured by Opix Instruments, Sialkot`
         : alt;
-      return `<img src="/assets/img/products/${sku}.jpg" alt="${a}" width="${w}" height="${hh}" `
-           + `decoding="async" ${keep}>`.replace(/\s+/g, ' ').replace(/ >/, '>');
+      return `<img src="/assets/img/products/${sku}.jpg" alt="${a}" width="${w}" height="${hh}"`
+           + ` decoding="async" loading="lazy"${keep ? ' ' + keep : ''}>`;
     });
 }
 
@@ -92,6 +123,28 @@ ${FAQ.map(([q, a]) => `    <details><summary>${L.esc(q)}</summary><p>${L.esc(a)}
 }
 
 /* ---------------------------------------------------------------- pages */
+/* Extra home-page content, inserted inside <main> as a single managed region. */
+function indexSections() {
+  return `<section class="sect" id="who-we-supply"><div class="wrap">
+  <div class="eyebrow">Who we supply</div>
+  <h2>Four kinds of buyer, one manufacturing floor</h2>
+  <div class="related"><div class="rlist" style="margin-top:4px">
+    <a href="/contact.html"><b>Importers &amp; distributors</b>Container and part-container orders across the full ${TOTAL.toLocaleString()}-instrument range, quoted FOB Karachi or CIF to your port, with consolidated documentation.</a>
+    <a href="/about.html#oem"><b>OEM &amp; private label</b>Your brand laser-marked on the instrument, your artwork on the packaging, your reference numbers applied across the catalogue.</a>
+    <a href="/specialties.html"><b>Hospitals &amp; surgical centres</b>Procedure sets assembled to your own list — general surgery, ENT, orthopedic, dental and specialty trays, kitted and labelled.</a>
+    <a href="/downloads.html"><b>Medical device resellers</b>Full PDF catalogues with photography and catalogue numbers you can drop straight into your own price list.</a>
+  </div></div>
+</div></section>
+
+<section class="sect" id="quality"><div class="wrap">
+  <div class="eyebrow">Quality &amp; compliance</div>
+  <h2>What every export buyer checks first</h2>
+  <p class="sub" style="max-width:820px">Every Opix instrument is forged, milled, heat-treated, hand-assembled and passivated in Sialkot, then inspected against pattern before packing. The quality system is certified to ISO 13485:2016; the range is CE marked for placement on the European market and the facility holds a US FDA establishment registration. Certificates, technical files and material declarations are issued with first orders — and to any buyer who asks before placing one.</p>
+</div></section>
+
+${faqHTML()}`;
+}
+
 function buildIndex() {
   const url = '/';
   const head = L.buildHead({
@@ -117,7 +170,7 @@ function buildIndex() {
     ],
   });
 
-  let h = rewrite('index.html', { head, active: 'home' });
+  let h = rewrite('index.html', { head, active: 'home', mainAppend: indexSections() });
 
   // Keyword-bearing but still human H1, and a lead paragraph that names the
   // four buyer types the site sells to.
@@ -135,32 +188,14 @@ function buildIndex() {
   h = h.replace('<a class="pri" href="catalog-sl.html">Browse the Catalog</a>',
                 '<a class="pri" href="/catalog.html">Browse the full catalog</a>');
 
-  const audience = `<section class="sect" id="who-we-supply"><div class="wrap">
-  <div class="eyebrow">Who we supply</div>
-  <h2>Four kinds of buyer, one manufacturing floor</h2>
-  <div class="related"><div class="rlist" style="margin-top:4px">
-    <a href="/contact.html"><b>Importers &amp; distributors</b>Container and part-container orders across the full ${TOTAL.toLocaleString()}-instrument range, quoted FOB Karachi or CIF to your port, with consolidated documentation.</a>
-    <a href="/about.html#oem"><b>OEM &amp; private label</b>Your brand laser-marked on the instrument, your artwork on the packaging, your reference numbers applied across the catalogue.</a>
-    <a href="/specialties.html"><b>Hospitals &amp; surgical centres</b>Procedure sets assembled to your own list — general surgery, ENT, orthopedic, dental and specialty trays, kitted and labelled.</a>
-    <a href="/downloads.html"><b>Medical device resellers</b>Full PDF catalogues with photography and catalogue numbers you can drop straight into your own price list.</a>
-  </div></div>
-</div></section>
 
-<section class="sect" id="quality"><div class="wrap">
-  <div class="eyebrow">Quality &amp; compliance</div>
-  <h2>What every export buyer checks first</h2>
-  <p class="sub" style="max-width:820px">Every Opix instrument is forged, milled, heat-treated, hand-assembled and passivated in Sialkot, then inspected against pattern before packing. The quality system is certified to ISO 13485:2016; the range is CE marked for placement on the European market and the facility holds a US FDA establishment registration. Certificates, technical files and material declarations are issued with first orders — and to any buyer who asks before placing one.</p>
-</div></section>
 
-${faqHTML()}`;
-
-  h = h.replace('</main>', audience + '\n</main>');
   write('index.html', fixSectionCardImages(h));
 }
 
-function buildStatic(file, active, spec, mutate) {
+function buildStatic(file, active, spec, mutate, mainAppend) {
   const head = L.buildHead(spec);
-  let h = rewrite(file, { head, active, extraScripts: spec.extraScripts || '' });
+  let h = rewrite(file, { head, active, extraScripts: spec.extraScripts || '', mainAppend });
   if (mutate) h = mutate(h);
   write(file, fixSectionCardImages(h));
 }
@@ -352,8 +387,13 @@ function main() {
       L.orgSchema(),
       L.faqSchema(FAQ),
     ],
-  }, h => h.replace('</main>', faqHTML() + '\n</main>')
-           .replace(/<section class="sect"([^>]*)>(?=[\s\S]{0,400}?OEM)/, '<section class="sect" id="oem"$1>'));
+  }, h => h.replace(
+       // The (?![^>]*\bid=) guard is what makes this idempotent: without it the
+       // capture group swallows the id added by the previous run and a second
+       // one is prepended each time. Footers link to /about.html#oem sitewide.
+       /<h2(?![^>]*\bid=)([^>]*)>(\s*OEM\b[^<]*)<\/h2>/i,
+       '<h2 id="oem"$1>$2</h2>'),
+     faqHTML());
 
   buildStatic('contact.html', 'contact', {
     url: '/contact.html',

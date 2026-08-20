@@ -8,12 +8,26 @@ Edit the source of truth and rebuild.
 node tools/regen.js          # section grid + the full SEO build (normal path)
 node tools/seo/build.js      # the SEO build alone
 node tools/seo/audit.js      # titles, descriptions, canonicals, duplicates, orphans
-node tools/seo/verify.js     # JSON-LD parses, links resolve, tags balance
+node tools/seo/verify.js     # JSON-LD parses, links resolve, fragments exist, tags balance
+node tools/seo/idempotency.js # builds twice, proves the output does not drift
 npm i jsdom && node tools/seo/test.js   # functional tests for the catalogue JS
 ```
 
-`audit.js` and `verify.js` exit non-zero on failure — wire them into CI before
-any deploy that touches content.
+All three exit non-zero on failure — wire them into CI before any deploy that
+touches content.
+
+**Why `idempotency.js` exists.** The catalogue pages are written whole every
+build, so they can never drift. The six hand-written pages are *edited in place*,
+and the first version of that code appended instead of replaced: the home page's
+extra sections were added at `</main>` on every run, and the section index was
+re-inserted because its matcher looked for `class="secindex"` when the emitted
+markup is `class="secindex railpad"`. Thirteen builds left thirteen copies of
+both on every hand-written page, and nothing caught it. Every region the build
+writes into a hand-written page is now wrapped in `<!--SEO:NAME--> … <!--/SEO:NAME-->`
+and each pattern matches *either* the marked region or the original markup, so
+the result is the same however many times it runs. `idempotency.js` builds twice
+and diffs; it caught a fresh instance of the same mistake within a minute of
+being written.
 
 ## Where the copy lives
 

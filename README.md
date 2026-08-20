@@ -35,10 +35,11 @@ Every `<head>`, all `catalog-*.html`, both sitemap tiers, `robots.txt` and
 ```
 node tools/regen.js        # section grid + full SEO build
 node tools/seo/audit.js    # titles, descriptions, canonicals, duplicates, orphans
-node tools/seo/verify.js   # JSON-LD, links, tag balance
+node tools/seo/verify.js   # JSON-LD, links, in-page fragments, tag balance
+node tools/seo/idempotency.js  # builds twice, proves the output does not drift
 ```
 
-Both checkers exit non-zero on failure. Run them before any content deploy.
+All three exit non-zero on failure. Run them before any content deploy.
 
 ## Configure before launch
 1. `assets/js/site.js` → set `OPIX.wa` to your WhatsApp Business number
