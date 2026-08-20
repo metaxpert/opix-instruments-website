@@ -14,3 +14,13 @@ tmp/
 *.log
 
 # Keep everything else — this is a static, no-build site that deploys as-is.
+
+# Cloudflare Tunnel credentials — never commit these. The credentials JSON lets
+# anyone run a connector for this tunnel. They live in ~/.cloudflared/, outside
+# the repo; these patterns are a backstop against a stray copy landing here.
+cert.pem
+*.pem
+.cloudflared/
+
+# Local nginx runtime (the prefix lives in ~/.local/opix-nginx, not here)
+*.pid

@@ -17,9 +17,16 @@
 name: Deploy to production
 
 on:
-  push:
-    branches: [ main ]
-  workflow_dispatch: {}      # allow manual runs from the Actions tab
+  # DISABLED — the site is no longer deployed by rsync. It is served from a
+  # local nginx through a Cloudflare Tunnel; see DEPLOY.md section 3C.
+  #
+  # The push trigger was removed deliberately: SSH_HOST still points at the old
+  # rsync target, so a merge to main would have deployed to a server nobody is
+  # watching -- succeeding silently while the real site went unchanged.
+  #
+  # To re-enable rsync deploys, restore the push trigger AND re-point the
+  # SSH_HOST / SSH_USER / DEPLOY_PATH secrets at the intended server.
+  workflow_dispatch: {}      # manual runs only, from the Actions tab
 
 concurrency:
   group: production-deploy

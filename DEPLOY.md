@@ -162,7 +162,22 @@ go live on the next request instead of sitting in an edge cache.
 - `expires -1` already emits `Cache-Control: no-cache`; pairing it with an
   explicit `add_header Cache-Control` produced a duplicated header.
 
-### 3C.5 Operating it
+### 3C.5 Security
+Origin enforces CSP, HSTS, `X-Content-Type-Options`, `X-Frame-Options`,
+`Referrer-Policy`, `Cross-Origin-Opener-Policy` and `Permissions-Policy`;
+rejects non-`GET`/`HEAD` with 405; caps request bodies at 1 KB; rate-limits per
+real visitor IP; and hides `/tools/`, `.py`, `.md` and dotfiles.
+
+The CSP allows `'unsafe-inline'` for scripts because the pages carry 29 inline
+`<script>` blocks and 56 inline `onerror` handlers — so it does **not** stop
+inline-script XSS. See `docs/OPERATIONS.md` §5 for what it does still buy and
+how to close the gap.
+
+Credentials live in `~/.cloudflared/` (`0700`, keys `0600`/`0400`) and are
+git-ignored. Anyone with the credentials JSON can run a connector for this
+tunnel; to revoke, delete the tunnel and recreate it.
+
+### 3C.6 Operating it
 ```bash
 systemctl --user status  opix-tunnel opix-nginx
 systemctl --user reload  opix-nginx        # after editing nginx.conf
@@ -171,7 +186,7 @@ journalctl --user -u opix-tunnel -f
 nginx logs: `~/.local/opix-nginx/logs/`. Content updates are just `git pull` —
 nginx serves the working tree directly, so there is nothing to rebuild or copy.
 
-### 3C.6 Tradeoffs — read before relying on this
+### 3C.7 Tradeoffs — read before relying on this
 - **The site is only up while that machine is.** Sleep, reboot or an ISP outage
   takes `opixinst.com` down. The systemd units + lingering cover reboots
   (services start with nobody logged in); they cannot cover a powered-off box.

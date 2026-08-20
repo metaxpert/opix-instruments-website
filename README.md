@@ -2,12 +2,24 @@
 
 Static multi-page site. No build step, no dependencies. Deploys to any web server.
 
+## Hosting
+Live at **https://opixinst.com** (and `www`), served from a local nginx through
+a named Cloudflare Tunnel — no public IP, no inbound port.
+Setup: [`DEPLOY.md` §3C](DEPLOY.md). Day-to-day and troubleshooting:
+[`docs/OPERATIONS.md`](docs/OPERATIONS.md). Reproduce from scratch:
+`./deploy/install.sh`.
+
+Content changes need no deploy step — nginx serves the working tree, so a
+`git pull` on the host is live immediately.
+
 ## Structure
 - `index.html` `catalog-sl.html` `about.html` `contact.html` — pages
 - `data/products.js`     — ALL product data; one SECTIONS entry per catalog
 - `assets/img/products/` — product photos named `<SKU>.jpg`
 - `assets/css|js/`       — shared styles and logic (cart, catalog renderer)
 - `tools/ingest_catalog.py` — slices product photos out of a catalog PDF
+- `deploy/`              — nginx config, systemd units and install script for the live host
+- `docs/OPERATIONS.md`   — runbook: architecture, ops, security, troubleshooting
 - `sitemap.xml` `robots.txt` — SEO
 
 ## Configure before launch
