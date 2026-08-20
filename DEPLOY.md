@@ -115,6 +115,147 @@ sudo systemctl reload nginx
 
 ---
 
+## 3C. Live deployment — Cloudflare Tunnel to a local nginx (current setup)
+
+`opixinst.com` and `www.opixinst.com` are served **from a local machine** through
+a named Cloudflare Tunnel. No public IP, no inbound firewall rule, no port
+forwarding — cloudflared dials out to Cloudflare's edge and traffic arrives over
+that connection. Everything runs unprivileged; nothing needs root.
+
+```
+opixinst.com ─┐
+              ├─ CNAME → tunnel "opix-site" → cloudflared → nginx 127.0.0.1:8091 → this repo
+www.opixinst ─┘
+```
+
+### 3C.1 Reproduce it
+```bash
+./deploy/install.sh
+```
+Installs cloudflared to `~/.local/bin`, builds the nginx prefix at
+`~/.local/opix-nginx`, creates the tunnel, points DNS at it, and installs both
+systemd **user** units with lingering enabled.
+
+The one interactive step is `cloudflared tunnel login`. On a headless box it
+prints a URL — open it on any device with a browser (laptop, phone), authorize
+`opixinst.com`, and the server picks up `~/.cloudflared/cert.pem` by itself.
+
+### 3C.2 What's in `deploy/`
+| File | Purpose |
+|---|---|
+| `nginx.conf` | Static origin: gzip, cache policy, 404, blocks `/tools/` and `.py`/`.md` |
+| `security-headers.conf` | Included by every location — see the gotcha below |
+| `opix-nginx.service` | systemd user unit for the origin |
+| `opix-tunnel.service` | systemd user unit for cloudflared |
+| `install.sh` | Does all of the above end to end |
+
+### 3C.3 Cache policy
+Product photos, fonts → `1y, immutable`. PDFs → `30d`. CSS/JS → `7d`.
+**HTML and `data/products.js` → `no-cache, must-revalidate`**, so catalog edits
+go live on the next request instead of sitting in an edge cache.
+
+### 3C.4 Two nginx gotchas that bit during setup
+- `add_header` does **not** inherit into a `location` that declares its own.
+  Security headers silently vanished on every cached file type until each
+  location `include`d `security-headers.conf`. Keep that include when adding
+  locations.
+- `expires -1` already emits `Cache-Control: no-cache`; pairing it with an
+  explicit `add_header Cache-Control` produced a duplicated header.
+
+### 3C.5 Operating it
+```bash
+systemctl --user status  opix-tunnel opix-nginx
+systemctl --user reload  opix-nginx        # after editing nginx.conf
+journalctl --user -u opix-tunnel -f
+```
+nginx logs: `~/.local/opix-nginx/logs/`. Content updates are just `git pull` —
+nginx serves the working tree directly, so there is nothing to rebuild or copy.
+
+### 3C.6 Tradeoffs — read before relying on this
+- **The site is only up while that machine is.** Sleep, reboot or an ISP outage
+  takes `opixinst.com` down. The systemd units + lingering cover reboots
+  (services start with nobody logged in); they cannot cover a powered-off box.
+- **DNS rollback is not clean.** The apex/`www` CNAMEs replaced proxied A
+  records that fronted Hostinger. Going back means re-pointing at Hostinger's
+  origin IPs or redoing it from hPanel.
+- **Mail is unaffected** — the Hostinger MX and SPF records were left alone.
+- `--overwrite-dns` replaces a *single* record per hostname. If a name still has
+  multiple A/AAAA records, delete them first or it fails with code 1003.
+
+---
+
+## 3H. Deploy to Hostinger shared hosting (hPanel)
+
+The domain `opixinst.com` is registered at Hostinger and its DNS
+(`ns1/ns2.dns-parking.com`), mail (`mx1/mx2.hostinger.com`) and CDN (`hcdn`)
+all run there — so hosting the site on the same account is the least-moving-parts
+option. Requires a **Web Hosting plan** (Premium / Business / Cloud). A
+Website-Builder-only plan cannot serve these files; add hosting or a VPS first.
+
+### 3H.1 Check what you have
+hPanel → **Hosting** in the top nav.
+- A hosting plan listed → continue below.
+- Only **Websites → Website Builder** → you need to buy a Web Hosting plan and
+  point the domain at it before any of this applies.
+
+### 3H.2 Free the domain from the Website Builder
+`opixinst.com` currently serves a Hostinger Website Builder (Zyro) site. In
+hPanel → Websites → the builder site → **Domain → disconnect / point elsewhere**,
+then attach `opixinst.com` to the hosting plan as the primary domain.
+Web root becomes `~/domains/opixinst.com/public_html` (or `~/public_html` when
+it is the plan's primary domain).
+
+### 3H.3a Upload — via SSH + git (best; 187 MB never leaves the server's network)
+Get credentials from hPanel → **Advanced → SSH Access** (note the host and the
+non-standard port, usually **65002**).
+
+```bash
+ssh -p 65002 uXXXXXXXX@<ssh-host>
+cd ~/domains/opixinst.com/public_html
+rm -rf ./*                       # clear the builder's leftovers
+git clone https://github.com/metaxpert/opix-instruments-website.git .
+rm -rf .git .github tools        # optional: drop repo/tooling from the web root
+```
+
+Updating later is then just `git pull` over SSH.
+
+### 3H.3b Upload — via File Manager (no SSH)
+hPanel → **Files → File Manager**, open `public_html`, delete existing contents,
+then **Upload** and extract. The site is 187 MB / 9,724 files, so upload a zip —
+uploading loose files times out. Hostinger's per-file upload cap is 100 MB, so
+split it:
+
+```bash
+zip -rq opix-core.zip      . -x ".git/*" ".github/*" "tools/*" "downloads/*"   #  71 MB
+zip -rq opix-downloads.zip downloads                                          #  78 MB
+```
+
+Upload each, right-click → **Extract** into `public_html`, then delete the zips.
+Do **not** use plain FTP for 9,724 small files — it takes hours.
+
+### 3H.4 Server config
+Hostinger runs LiteSpeed, which reads `.htaccess`. This repo does not ship one —
+the live deployment is the Cloudflare Tunnel in §3C, whose nginx origin ignores
+`.htaccess` entirely. If you move back to Hostinger, port the gzip/cache/404
+rules from `deploy/nginx.conf` into an `.htaccess` at the web root.
+
+### 3H.5 SSL and the www/non-www decision
+- hPanel → **Security → SSL** → install the free Let's Encrypt certificate for
+  both `opixinst.com` and `www.opixinst.com`.
+- Hostinger currently **301-redirects `www` → apex**, but every page's
+  `<link rel="canonical">` and `sitemap.xml` point at `https://www.opixinst.com/`
+  — a canonical that redirects. Pick one and make them agree: either set the
+  preferred domain to `www` in hPanel, or rewrite the 33 HTML files plus the
+  sitemap to the apex domain.
+
+### 3H.6 Auto-deploy (optional)
+The workflow in §6 works against Hostinger shared hosting — set the GitHub
+secrets to `SSH_HOST` = your Hostinger SSH host, `SSH_PORT` = `65002`,
+`SSH_USER` = `uXXXXXXXX`, `DEPLOY_PATH` = `/home/uXXXXXXXX/domains/opixinst.com/public_html`,
+and add the public deploy key in hPanel → Advanced → SSH Access → **Manage SSH keys**.
+
+---
+
 ## 4. Deploy to Apache (alternative)
 
 Point a `VirtualHost` `DocumentRoot` at this folder. Recommended `.htaccess`:

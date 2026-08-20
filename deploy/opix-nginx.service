@@ -1,0 +1,18 @@
+[Unit]
+Description=Opix Instruments — nginx static origin (user-space, port 8091)
+Documentation=file:///home/metaxperts/.local/opix-nginx/nginx.conf
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=forking
+PIDFile=/home/metaxperts/.local/opix-nginx/logs/nginx.pid
+ExecStartPre=/usr/sbin/nginx -p /home/metaxperts/.local/opix-nginx -c /home/metaxperts/.local/opix-nginx/nginx.conf -t
+ExecStart=/usr/sbin/nginx -p /home/metaxperts/.local/opix-nginx -c /home/metaxperts/.local/opix-nginx/nginx.conf
+ExecReload=/usr/sbin/nginx -p /home/metaxperts/.local/opix-nginx -c /home/metaxperts/.local/opix-nginx/nginx.conf -s reload
+ExecStop=/usr/sbin/nginx -p /home/metaxperts/.local/opix-nginx -c /home/metaxperts/.local/opix-nginx/nginx.conf -s quit
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=default.target

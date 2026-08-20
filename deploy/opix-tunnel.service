@@ -1,0 +1,17 @@
+[Unit]
+Description=Opix Instruments — Cloudflare Tunnel (opix-site) to local nginx
+After=network-online.target opix-nginx.service
+Wants=network-online.target
+# The tunnel is useless without the origin; keep them together.
+Requires=opix-nginx.service
+
+[Service]
+Type=notify
+ExecStart=/home/metaxperts/.local/bin/cloudflared --no-autoupdate --config /home/metaxperts/.cloudflared/config.yml tunnel run opix-site
+Restart=always
+RestartSec=5s
+# cloudflared retries the edge itself; don't let systemd give up during an outage.
+StartLimitIntervalSec=0
+
+[Install]
+WantedBy=default.target
