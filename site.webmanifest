@@ -1,0 +1,22 @@
+{
+  "name": "Opix Instruments — Surgical Instruments",
+  "short_name": "Opix",
+  "description": "ISO 13485 manufacturer and exporter of surgical, dental and orthopedic instruments.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#F5F7F9",
+  "theme_color": "#1B8FD6",
+  "icons": [
+    {
+      "src": "/assets/img/brand/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/brand/opix-logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

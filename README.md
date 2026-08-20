@@ -13,14 +13,32 @@ Content changes need no deploy step — nginx serves the working tree, so a
 `git pull` on the host is live immediately.
 
 ## Structure
-- `index.html` `catalog-sl.html` `about.html` `contact.html` — pages
-- `data/products.js`     — ALL product data; one SECTIONS entry per catalog
+- `index.html` `catalog.html` `about.html` `contact.html` — hand-written pages
+- `catalog-<code>.html`  — 28 section pages, GENERATED, products pre-rendered
+- `catalog-<code>-<cat>.html` — 286 category landing pages, GENERATED
+- `data/products.js`     — ALL product data; one SECTIONS entry per catalog.
+  Build input only — it is no longer sent to browsers and nginx 404s `/data/`.
 - `assets/img/products/` — product photos named `<SKU>.jpg`
-- `assets/css|js/`       — shared styles and logic (cart, catalog renderer)
+- `assets/fonts/`        — self-hosted Archivo / Inter / JetBrains Mono woff2
+- `assets/css|js/`       — shared styles and logic (cart, catalog filter)
 - `tools/ingest_catalog.py` — slices product photos out of a catalog PDF
-- `deploy/`              — nginx config, systemd units and install script for the live host
+- `tools/seo/`           — the SEO build; see [`docs/SEO.md`](docs/SEO.md)
+- `deploy/`              — nginx config, systemd units and install script
 - `docs/OPERATIONS.md`   — runbook: architecture, ops, security, troubleshooting
-- `sitemap.xml` `robots.txt` — SEO
+- `sitemap*.xml` `robots.txt` `site.webmanifest` — GENERATED
+
+## Generated files — do not hand-edit
+Every `<head>`, all `catalog-*.html`, both sitemap tiers, `robots.txt` and
+`site.webmanifest` are written by `tools/seo/build.js`. Edit the source
+(`tools/seo/config.js`) and rebuild:
+
+```
+node tools/regen.js        # section grid + full SEO build
+node tools/seo/audit.js    # titles, descriptions, canonicals, duplicates, orphans
+node tools/seo/verify.js   # JSON-LD, links, tag balance
+```
+
+Both checkers exit non-zero on failure. Run them before any content deploy.
 
 ## Configure before launch
 1. `assets/js/site.js` → set `OPIX.wa` to your WhatsApp Business number
@@ -67,10 +85,13 @@ transcribed by reading the rendered pages. The reproducible pipeline:
    `python tools/ingest_catalog.py "<catalog>.pdf" --map pages/<code>/map.json --out assets/img/products`
    (for pages where band auto-detection miscounts, recover with
    `python tools/recover.py "<catalog>.pdf" pages/<code>/map.json assets/img/products <0-basedPage,...>`)
-6. **Generate the page:**
-   `python tools/make_page.py <CODE> "<Title>" "<Crumb>" "<search hint>" "<meta description>"`
-7. **Wire the hub** (regenerates the index section grid + sitemap from
-   `manifest.json` and whatever is built in products.js):  `node tools/regen.js`
+6. **Page generation is no longer a separate step** — `tools/make_page.py` is
+   deprecated. Section and category pages are emitted by the SEO build in step 7.
+7. **Wire the hub and rebuild the site** — regenerates the index section grid,
+   then pre-renders every catalogue and category page and rewrites the sitemaps:
+   `node tools/regen.js`
+   Add the new code to `SECTION_SEO` in `tools/seo/config.js` first; the build
+   fails loudly if a section has no title and description.
 
 ## Deploy on your nginx (MetaXperts pattern)
 ```

@@ -1,3 +1,17 @@
+# Opix Instruments — https://www.opixinst.com
 User-agent: *
 Allow: /
+
+# Tooling and source data are not content. They are already 404'd at the
+# origin; this keeps them out of crawl logs entirely.
+Disallow: /tools/
+Disallow: /data/
+Disallow: /deploy/
+Disallow: /docs/
+
+# Product photography is a genuine discovery surface for this catalogue —
+# it must stay crawlable for Google Images.
+User-agent: Googlebot-Image
+Allow: /assets/img/
+
 Sitemap: https://www.opixinst.com/sitemap.xml
