@@ -4,10 +4,12 @@
    tools/regen.js because it is what puts the products into the served HTML. */
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const { SITE, SECTION_SEO, SPECIALTIES, CATEGORY_MIN_ITEMS } = require('./config.js');
 const L = require('./lib.js');
 const C = require('./chrome.js');
 const catalog = require('./catalog.js');
+const { DOWNLOADS } = require('./downloads.js');
 
 const ROOT = L.ROOT;
 const { SECTIONS, built, manifest } = C;
@@ -272,16 +274,50 @@ ${C.footer()}
 }
 
 /* ---------------------------------------------------------------- sitemaps */
+/* <lastmod> that only moves when the page moved.
+
+   Google treats lastmod as a crawl-scheduling hint and discounts it on a site
+   where it is demonstrably wrong. Every build rewrites every catalogue page,
+   so stamping today's date on all 317 URLs announced a site-wide change on
+   every run — publishing one PDF claimed 9,720 products had been revised.
+
+   The emitted file is hashed instead and the date kept in lastmod.json, so a
+   URL's date moves only when that URL's bytes moved. Keep that file in git:
+   delete it and every date resets to the day of the next build. */
+const LASTMOD_CACHE = path.join(__dirname, 'lastmod.json');
+
+function lastmodStamps(pages, today) {
+  let prev = {};
+  try { prev = JSON.parse(fs.readFileSync(LASTMOD_CACHE, 'utf8')); } catch { /* first run */ }
+
+  const next = {};
+  for (const p of pages) {
+    const file = p.url === '/' ? 'index.html' : p.url.replace(/^\//, '');
+    let hash = null;
+    try {
+      hash = crypto.createHash('sha1')
+        .update(fs.readFileSync(path.join(ROOT, file))).digest('hex');
+    } catch { /* nothing on disk — stamp today rather than invent a date */ }
+    const was = prev[p.url];
+    next[p.url] = { hash, date: (hash && was && was.hash === hash) ? was.date : today };
+  }
+
+  fs.writeFileSync(LASTMOD_CACHE, JSON.stringify(next, null, 1) + '\n');
+  return url => (next[url] || {}).date || today;
+}
+
 function sitemaps(pages) {
   const today = new Date().toISOString().slice(0, 10);
+  const lastmod = lastmodStamps(pages, today);
   const chunk = (a, n) => a.reduce((r, v, i) => (i % n ? r[r.length - 1].push(v) : r.push([v]), r), []);
+  const newest = list => list.reduce((d, p) => (lastmod(p.url) > d ? lastmod(p.url) : d), '1970-01-01');
 
   const urlset = list => `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${list.map(p => {
     const imgs = (p.images || []).slice(0, 40)
       .map(i => `\n    <image:image><image:loc>${L.abs(i.loc)}</image:loc><image:title>${L.esc(i.title)}</image:title></image:image>`).join('');
-    return `  <url>\n    <loc>${L.abs(p.url)}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${p.freq}</changefreq>\n    <priority>${p.pri}</priority>${imgs}\n  </url>`;
+    return `  <url>\n    <loc>${L.abs(p.url)}</loc>\n    <lastmod>${lastmod(p.url)}</lastmod>\n    <changefreq>${p.freq}</changefreq>\n    <priority>${p.pri}</priority>${imgs}\n  </url>`;
   }).join('\n')}
 </urlset>
 `;
@@ -294,9 +330,10 @@ ${list.map(p => {
   parts.forEach((p, i) => write(`sitemap-catalog-${i + 1}.xml`, urlset(p)));
 
   const files = ['sitemap-pages.xml', ...parts.map((_, i) => `sitemap-catalog-${i + 1}.xml`)];
+  const groups = [core, ...parts];
   write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${files.map(f => `  <sitemap><loc>${L.abs('/' + f)}</loc><lastmod>${today}</lastmod></sitemap>`).join('\n')}
+${files.map((f, i) => `  <sitemap><loc>${L.abs('/' + f)}</loc><lastmod>${newest(groups[i])}</lastmod></sitemap>`).join('\n')}
 </sitemapindex>
 `);
   return { files, count: pages.length };
@@ -364,17 +401,26 @@ function main() {
     desc: 'Download the full Opix Instruments PDF catalogs — scalpels, scissors, forceps, retractors, bone surgery, cardiovascular, neurosurgery, ophthalmic and dental.',
     schema: [
       L.breadcrumbSchema([{ name: 'Home', url: '/' }, { name: 'Catalog Downloads' }]),
+      // One DigitalDocument per PDF that is actually on disk, pointing at the
+      // PDF itself. It used to point at /catalog-<code>.html while still
+      // claiming encodingFormat application/pdf — an HTML page described as a
+      // PDF — and was built from the manifest, so it would have listed a
+      // catalogue whose file had not been produced yet.
       {
         "@context": "https://schema.org", "@type": "ItemList",
         "name": "Opix Instruments PDF catalogs",
-        "numberOfItems": built.length,
-        "itemListElement": built.map((m, i) => ({
+        "numberOfItems": DOWNLOADS.length,
+        "itemListElement": DOWNLOADS.map((d, i) => ({
           "@type": "ListItem", "position": i + 1,
           "item": {
             "@type": "DigitalDocument",
-            "name": `${m.title} — Opix Instruments catalog`,
+            "name": `${d.title} — Opix Instruments catalog`,
+            "description": `${d.pages}-page PDF catalogue of the Opix ${d.title} range, with catalogue numbers, sizes and product photographs.`,
+            "url": L.abs('/' + d.file),
             "encodingFormat": "application/pdf",
-            "url": L.abs(`/catalog-${m.code.toLowerCase()}.html`),
+            "inLanguage": "en",
+            "isPartOf": L.siteRef(),
+            "about": { "@type": "Thing", "name": M[d.code] ? M[d.code].title : d.title },
             "publisher": L.orgRef()
           }
         }))
@@ -450,6 +496,12 @@ function main() {
   push('/downloads.html', '0.7', 'monthly', 'core');
   push('/about.html', '0.6', 'yearly', 'core');
   push('/contact.html', '0.7', 'yearly', 'core');
+
+  // The PDFs themselves. Google indexes PDFs and ranks them for the
+  // "<specialty> instrument catalogue pdf" queries a buyer actually types;
+  // until now the only route to 102 MB of catalogue was a single download
+  // link on one page, and nothing in any sitemap.
+  for (const d of DOWNLOADS) push('/' + d.file, '0.5', 'yearly', 'core');
 
   for (const w of written) {
     const sec = SECTIONS[w.code];

@@ -7,6 +7,7 @@ Edit the source of truth and rebuild.
 ```
 node tools/regen.js          # section grid + the full SEO build (normal path)
 node tools/seo/build.js      # the SEO build alone
+node tools/gen_downloads.js  # Downloads page from downloads/_index.json (chains the SEO build)
 node tools/seo/audit.js      # titles, descriptions, canonicals, duplicates, orphans
 node tools/seo/verify.js     # JSON-LD parses, links resolve, fragments exist, tags balance
 node tools/seo/idempotency.js # builds twice, proves the output does not drift
@@ -45,6 +46,23 @@ being written.
 Adding a catalogue section: add its `SECTION_SEO` entry, then run
 `node tools/regen.js`. Without that entry the build throws — deliberately, so a
 new section can never ship with no title and no description.
+
+Adding a catalogue PDF: drop the file in `downloads/` as
+`opix-<code>-<slug>.pdf`, add its `code`, `title`, `file`, `pages` and `mb` to
+`downloads/_index.json`, then run `node tools/gen_downloads.js`. That one file
+is the source of truth for the Downloads page, its `DigitalDocument` schema,
+the 28 PDF sitemap entries and the download link on the matching section page —
+`tools/seo/downloads.js` reads it for all four, so they cannot disagree about
+which catalogues exist.
+
+## `lastmod` is cached on purpose
+
+`tools/seo/lastmod.json` maps each URL to a hash of its emitted bytes and the
+date that hash last changed. The build rewrites all 317 pages every run, so
+stamping the current date — which is what it used to do — told Google the whole
+site changed every time anything did, and lastmod is a hint Google discounts
+once it is demonstrably wrong. **Commit that file.** Delete it and every date
+collapses to the day of the next build.
 
 ## What the build produces
 

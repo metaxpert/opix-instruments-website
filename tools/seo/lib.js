@@ -242,14 +242,14 @@ function buildHead(spec) {
   for (const f of (spec.fonts || ['archivo-700', 'inter-400']))
     L.push(`<link rel="preload" href="/assets/fonts/${f}.woff2" as="font" type="font/woff2" crossorigin>`);
   if (spec.preloadImg) L.push(`<link rel="preload" as="image" href="${spec.preloadImg}" fetchpriority="high">`);
-  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 3}">`);
+  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 4}">`);
   if (spec.extra) L.push(spec.extra);
   for (const s of (spec.schema || [])) L.push(jsonld(s));
   return L.join('\n');
 }
 
 /* ---------- product card (pre-rendered, crawlable) ---------- */
-function cardHTML(p, sectionTitle) {
+function cardHTML(p, sectionTitle, i = Infinity) {
   const [sku, name, desc, size] = p;
   const d = desc && desc !== 'N/A' ? desc : '';
   const s = size && size !== 'N/A' ? size : '';
@@ -261,8 +261,17 @@ function cardHTML(p, sectionTitle) {
   let thumb = '';
   if (hasImage(sku)) {
     const [w, h] = dims()[sku];
+    // The top of the grid is the LCP element on every catalogue page, and every
+    // card used to be loading="lazy" — which defers the largest paint behind the
+    // lazy-load pass and is exactly what Google tells you not to do to an
+    // above-the-fold image. The first four cover the widest grid the layout
+    // produces; the first also gets fetchpriority so it outranks the font and
+    // the logo in the request queue. Everything below stays lazy.
+    const load = i < 4
+      ? 'loading="eager" decoding="async"' + (i === 0 ? ' fetchpriority="high"' : '')
+      : 'loading="lazy" decoding="async"';
     thumb = `<div class="thumb"><img src="/assets/img/products/${sku}.jpg" alt="${attr(alt)}"`
-          + ` width="${w}" height="${h}" loading="lazy" decoding="async" data-z="${sku}"></div>`;
+          + ` width="${w}" height="${h}" ${load} data-z="${sku}"></div>`;
   } else {
     thumb = `<div class="thumb nophoto" aria-hidden="true"></div>`;
   }

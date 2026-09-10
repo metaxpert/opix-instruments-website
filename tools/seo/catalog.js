@@ -9,6 +9,7 @@
 const fs = require('fs');
 const path = require('path');
 const { SITE, SECTION_SEO, CAT_OPENERS, SPECIALTIES, CATEGORY_MIN_ITEMS } = require('./config.js');
+const { BY_CODE: DL_BY_CODE } = require('./downloads.js');
 const L = require('./lib.js');
 const { header, footer, sectionIndex, overlays, built, SECTIONS } = require('./chrome.js');
 
@@ -188,9 +189,20 @@ function buildSection(code) {
   const crumb = `<a href="/">Home</a> / <a href="/catalog.html">Catalog</a> / <b>${code} — ${L.esc(man.title)}</b>`;
 
   const withPhoto = items.filter(p => L.hasImage(p[0])).length;
+
+  // This section's PDF. Every catalogue PDF had exactly one inbound link on
+  // the whole site — the Downloads page — which is a poor crawl path to 102 MB
+  // of catalogue and makes a buyer already reading the section hunt for the
+  // file. Sections without a PDF on disk simply omit the line.
+  const dl = DL_BY_CODE[code];
+  const dlLink = dl
+    ? `<p class="seo-dl"><a href="/${dl.file}" download>Download the ${L.esc(man.title)} catalogue as PDF</a> — ${dl.pages} pages, ${dl.mb} MB.</p>`
+    : '';
+
   const intro = `<div class="seo-intro">
       <p>${L.esc(seo.intro)}</p>
       <p>All ${items.length.toLocaleString()} references below carry their Opix catalogue number and working length. Prices are quoted, never published — send an inquiry and our team returns a formal FOB or CIF quotation, with MOQ and lead time, within one working day.</p>
+      ${dlLink}
       ${factChips([`${items.length.toLocaleString()} CATALOGUE NUMBERS`,
                    `${Object.keys(sec.cats).length} CATEGORIES`,
                    sizes ? `SIZES ${sizes.toUpperCase()}` : null,
@@ -208,7 +220,7 @@ function buildSection(code) {
         small.map(([k, label, n]) => `<li id="cat-${L.slug(label)}">${L.esc(label)} (${n})</li>`).join('')}</ul></section>`
     : '';
 
-  const grid = items.map(p => '      ' + L.cardHTML(p, man.title)).join('\n');
+  const grid = items.map((p, i) => '      ' + L.cardHTML(p, man.title, i)).join('\n');
 
   const head = L.buildHead({
     url, title: seo.title, desc: seo.desc, ogType: 'website',
@@ -287,7 +299,7 @@ function buildCategory(code, catKey, label) {
                    `REF ${skuRange(items)}`, 'ISO 13485 · CE · FDA'])}
     </div>`;
 
-  const grid = items.map(p => '      ' + L.cardHTML(p, label)).join('\n');
+  const grid = items.map((p, i) => '      ' + L.cardHTML(p, label, i)).join('\n');
 
   const head = L.buildHead({
     url, title, desc, ogType: 'website',

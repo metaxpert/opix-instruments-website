@@ -81,3 +81,13 @@ ${cards}
 `;
 fs.writeFileSync(SITE + '/downloads.html', html);
 console.log('wrote downloads.html —', idx.length, 'catalogs,', totalMb.toFixed(1), 'MB total');
+
+// The shell above predates the SEO build and is deliberately the plain one: no
+// robots/OG/Twitter meta, no JSON-LD, no skip link, Google-hosted fonts and
+// site.css?v=2. The SEO build replaces the head and every marked chrome region
+// with the current versions -- self-hosted preloaded fonts included -- so
+// running this file ALONE silently ships a de-optimised page. It is chained
+// here for the same reason regen.js chains it: so it cannot be forgotten.
+console.log('running the SEO build...');
+require('child_process').execFileSync(process.execPath,
+  [path.join(__dirname, 'seo', 'build.js')], { stdio: 'inherit' });

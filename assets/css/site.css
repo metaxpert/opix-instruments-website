@@ -276,6 +276,10 @@ footer{border-top:1px solid var(--line);background:var(--white);margin-top:40px}
 /* Indexable intro copy above a catalog or category grid */
 .seo-intro{max-width:940px;margin:0 0 22px}
 .seo-intro p{color:var(--graphite);font-size:15px;line-height:1.65;margin-bottom:10px}
+/* The global rule is a{color:inherit;text-decoration:none}, so a link dropped
+   into body copy reads as plain text. The PDF link has to look clickable. */
+.seo-dl a{color:var(--blue);font-weight:600;text-decoration:underline;text-underline-offset:2px}
+.seo-dl a:hover{color:var(--ink)}
 .seo-intro .facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .seo-intro .facts span{font-family:'JetBrains Mono',monospace;font-size:11.5px;letter-spacing:.6px;
   color:var(--ink);background:var(--blue-soft);border:1px solid #CFE5F6;border-radius:6px;padding:5px 10px}
