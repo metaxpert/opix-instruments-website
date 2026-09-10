@@ -104,7 +104,7 @@ function fixSectionCardImages(h) {
    FAQPage structured data and as the text an AI answer engine can quote. */
 const FAQ = [
   ["Are Opix Instruments ISO 13485 certified?",
-   "Yes. Opix Instruments manufactures under an ISO 13485:2016 quality management system, carries CE marking for the European market and holds a US FDA establishment registration. Certificates are issued to buyers on request with every first order."],
+   "Yes. Opix Instruments manufactures under an ISO 13485:2016 quality management system, registration SCS/QMS/2025050101, valid to 9 May 2027. The range is CE compliant to MDR 2017/745 as Class I reusable, non-sterile devices under registration SCS/EC/2025050102, and the facility holds a US FDA establishment registration. The ISO 13485 and CE certificates can be downloaded from the Quality section of our home page; technical files and material declarations are issued on request."],
   ["What is your minimum order quantity?",
    "MOQ is set per item and per finish, and is negotiable on mixed orders. Most catalogue instruments start at 10 pieces per reference; assembled sets and private-label runs are quoted individually. Send the catalogue numbers you need and we will confirm the MOQ with the quotation."],
   ["Do you supply OEM and private-label instruments?",
@@ -132,6 +132,26 @@ ${FAQ.map(([q, a]) => `    <details><summary>${L.esc(q)}</summary><p>${L.esc(a)}
 }
 
 /* ---------------------------------------------------------------- pages */
+/* The certificates, rendered from SITE.certificates so the page and the PDF
+   in assets/certificates/ can never drift apart. Each card is a link to the
+   document itself: a compliance claim a buyer cannot open is worth nothing,
+   and "certificates available on request" is what every competitor says. */
+const SEAL_SVG = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="9" r="6"/><path d="m9 14.5-1.5 7L12 19l4.5 2.5-1.5-7"/><path d="m9.6 9 1.7 1.7L14.6 7.4"/></svg>';
+
+function certificatesHTML() {
+  const cards = (SITE.certificates || []).map(c => `    <a class="certcard" href="${c.file}" target="_blank" rel="noopener">
+      <div class="certtop">
+        <span class="certseal">${SEAL_SVG}</span>
+        <span class="certname"><b>${L.esc(c.name)}</b><span>${L.esc(c.kicker)}</span></span>
+      </div>
+      <dl class="certrows">${c.rows.map(([k, v]) =>
+        `<div><dt>${L.esc(k)}</dt><dd>${L.esc(v)}</dd></div>`).join('')}</dl>
+      <span class="certfoot"><span class="certissuer">Issued by ${L.esc(c.issuer)}</span><span class="certopen">View certificate (PDF)</span></span>
+    </a>`).join('\n');
+
+  return cards ? `<div class="certgrid">\n${cards}\n  </div>` : '';
+}
+
 /* Extra home-page content, inserted inside <main> as a single managed region. */
 function indexSections() {
   return `<section class="sect" id="who-we-supply"><div class="wrap">
@@ -148,7 +168,8 @@ function indexSections() {
 <section class="sect" id="quality"><div class="wrap">
   <div class="eyebrow">Quality &amp; compliance</div>
   <h2>What every export buyer checks first</h2>
-  <p class="sub" style="max-width:820px">Every Opix instrument is forged, milled, heat-treated, hand-assembled and passivated in Sialkot, then inspected against pattern before packing. The quality system is certified to ISO 13485:2016; the range is CE marked for placement on the European market and the facility holds a US FDA establishment registration. Certificates, technical files and material declarations are issued with first orders — and to any buyer who asks before placing one.</p>
+  <p class="sub" style="max-width:820px">Every Opix instrument is forged, milled, heat-treated, hand-assembled and passivated in Sialkot, then inspected against pattern before packing. The quality system is certified to ISO 13485:2016; the range is CE marked for placement on the European market and the facility holds a US FDA establishment registration. Read the certificates below, or ask us for the technical file and material declarations — they go out with first orders and to any buyer who asks before placing one.</p>
+  ${certificatesHTML()}
 </div></section>
 
 ${faqHTML()}`;
@@ -502,6 +523,10 @@ function main() {
   // until now the only route to 102 MB of catalogue was a single download
   // link on one page, and nothing in any sitemap.
   for (const d of DOWNLOADS) push('/' + d.file, '0.5', 'yearly', 'core');
+
+  // The certificates. "opix instruments iso 13485 certificate" is a query a
+  // due-diligence buyer actually runs, and the answer should be our document.
+  for (const c of (SITE.certificates || [])) push(c.file, '0.5', 'yearly', 'core');
 
   for (const w of written) {
     const sec = SECTIONS[w.code];

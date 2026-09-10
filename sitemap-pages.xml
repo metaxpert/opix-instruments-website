@@ -204,4 +204,16 @@
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://www.opixinst.com/assets/certificates/opix-iso-13485-2026-27.pdf</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/assets/certificates/opix-ce-mdr-2026-27.pdf</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
 </urlset>

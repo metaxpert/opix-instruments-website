@@ -98,9 +98,25 @@ function orgSchema() {
     "areaServed": { "@type": "Place", "name": "Worldwide" },
     "knowsAbout": ["Surgical instruments", "Dental instruments", "Orthopedic instruments",
                    "Medical device manufacturing", "OEM private label instruments", "ISO 13485"],
-    "hasCredential": SITE.certs.map(c => ({
-      "@type": "EducationalOccupationalCredential", "credentialCategory": "certification", "name": c
-    })),
+    // A credential a machine can follow to the document beats a bare string:
+    // where a certificate PDF exists, the entry carries its registration
+    // number, its issuing body and its URL. Certs with no document on file
+    // (the FDA registration) stay as the plain claim.
+    "hasCredential": SITE.certs.map(name => {
+      const cred = {
+        "@type": "EducationalOccupationalCredential",
+        "credentialCategory": "certification",
+        "name": name
+      };
+      const doc = (SITE.certificates || []).find(c => c.covers === name);
+      if (doc) {
+        const reg = (doc.rows.find(r => r[0] === 'Registration') || [])[1];
+        if (reg) cred.identifier = reg;
+        cred.url = abs(doc.file);
+        cred.recognizedBy = { "@type": "Organization", "name": doc.issuer };
+      }
+      return cred;
+    }),
     "naics": "339112"
   };
   if (SITE.sameAs.length) o.sameAs = SITE.sameAs;
@@ -242,7 +258,7 @@ function buildHead(spec) {
   for (const f of (spec.fonts || ['archivo-700', 'inter-400']))
     L.push(`<link rel="preload" href="/assets/fonts/${f}.woff2" as="font" type="font/woff2" crossorigin>`);
   if (spec.preloadImg) L.push(`<link rel="preload" as="image" href="${spec.preloadImg}" fetchpriority="high">`);
-  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 4}">`);
+  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 5}">`);
   if (spec.extra) L.push(spec.extra);
   for (const s of (spec.schema || [])) L.push(jsonld(s));
   return L.join('\n');

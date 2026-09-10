@@ -41,6 +41,48 @@ const SITE = {
             "Spain", "Netherlands", "Poland", "United Arab Emirates",
             "Saudi Arabia", "Australia", "Canada", "Brazil", "Turkey"],
   certs: ["ISO 13485:2016", "CE Marking", "US FDA Establishment Registration"],
+
+  /* The certificates as issued, transcribed from the PDFs in
+     assets/certificates/. A buyer's QA team opens the file and checks it
+     against the page, so registration numbers, scope wording and dates must
+     match the document exactly — quote it, do not paraphrase it.
+
+     The CE entry is deliberately titled the way the document is titled. For
+     Class I reusable, non-sterile, non-measuring devices, MDR conformity is
+     declared by the manufacturer; this is a certificate of CE compliance from
+     a certification body, not an EU Notified Body certificate, and calling it
+     one on the website is the kind of overclaim an importer's regulatory
+     affairs desk catches. Only add an FDA card when there is a document to
+     link — SITE.certs mentions the registration, which is a different claim
+     from publishing a certificate.
+
+     No US FDA entry here: no certificate was supplied for it. */
+  certificates: [
+    {
+      name: "ISO 13485:2016",
+      covers: "ISO 13485:2016",          // the SITE.certs entry this document evidences
+      kicker: "Quality management system",
+      issuer: "Standard Certifications Services",
+      file: "/assets/certificates/opix-iso-13485-2026-27.pdf",
+      rows: [
+        ["Registration", "SCS/QMS/2025050101"],
+        ["Scope", "Manufacture of non-active surgical and dental instruments"],
+        ["Valid", "10 May 2026 — 9 May 2027"],
+      ],
+    },
+    {
+      name: "CE — MDR 2017/745",
+      covers: "CE Marking",
+      kicker: "Class I medical devices",
+      issuer: "Standard Certifications Services",
+      file: "/assets/certificates/opix-ce-mdr-2026-27.pdf",
+      rows: [
+        ["Registration", "SCS/EC/2025050102"],
+        ["Devices", "Reusable, non-active, non-sterile surgical and dental instruments"],
+        ["Assessed to", "GSPR Annex I; technical file per Annex II & III"],
+      ],
+    },
+  ],
 };
 
 /* Buyer segments — used to write intro copy that speaks to all four at once

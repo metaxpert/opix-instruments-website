@@ -280,6 +280,28 @@ footer{border-top:1px solid var(--line);background:var(--white);margin-top:40px}
    into body copy reads as plain text. The PDF link has to look clickable. */
 .seo-dl a{color:var(--blue);font-weight:600;text-decoration:underline;text-underline-offset:2px}
 .seo-dl a:hover{color:var(--ink)}
+
+/* Certificate cards (home page, Quality & compliance). Same card language as
+   .dlcard — white panel, hairline border, blue lift on hover — but stacked
+   rather than inline, because each one carries a small spec table. */
+.certgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:14px;margin-top:4px}
+.certcard{display:flex;flex-direction:column;background:var(--white);border:1px solid var(--line);border-radius:11px;padding:18px 18px 14px;transition:.15s}
+.certcard:hover{border-color:var(--blue);box-shadow:0 4px 16px rgba(27,143,214,.12);transform:translateY(-1px)}
+.certtop{display:flex;align-items:center;gap:13px}
+.certseal{flex:0 0 auto;width:42px;height:42px;border-radius:10px;background:var(--blue-soft);color:var(--blue);display:flex;align-items:center;justify-content:center}
+.certseal svg{width:24px;height:24px}
+.certname{display:flex;flex-direction:column}
+.certname b{font-family:'Archivo',sans-serif;font-size:15.5px;color:var(--ink);font-weight:700;line-height:1.2}
+.certname span{font-size:12.5px;color:var(--mist);margin-top:2px}
+.certrows{margin:15px 0 0;border-top:1px solid var(--line);padding-top:12px}
+.certrows div{display:grid;grid-template-columns:92px 1fr;gap:10px;padding:3px 0}
+.certrows dt{font-family:'JetBrains Mono',monospace;font-size:10.5px;letter-spacing:.4px;color:var(--mist);text-transform:uppercase;padding-top:2px}
+.certrows dd{margin:0;font-size:13.5px;color:var(--graphite);line-height:1.45}
+.certfoot{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}
+.certissuer{font-size:12px;color:var(--mist)}
+.certopen{font-size:13px;font-weight:600;color:var(--blue)}
+.certcard:hover .certopen{text-decoration:underline;text-underline-offset:2px}
+@media(max-width:420px){.certrows div{grid-template-columns:1fr;gap:1px}.certrows dt{padding-top:4px}}
 .seo-intro .facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
 .seo-intro .facts span{font-family:'JetBrains Mono',monospace;font-size:11.5px;letter-spacing:.6px;
   color:var(--ink);background:var(--blue-soft);border:1px solid #CFE5F6;border-radius:6px;padding:5px 10px}
