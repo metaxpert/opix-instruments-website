@@ -169,6 +169,7 @@ function indexSections() {
   <div class="eyebrow">Quality &amp; compliance</div>
   <h2>What every export buyer checks first</h2>
   <p class="sub" style="max-width:820px">Every Opix instrument is forged, milled, heat-treated, hand-assembled and passivated in Sialkot, then inspected against pattern before packing. The quality system is certified to ISO 13485:2016; the range is CE marked for placement on the European market and the facility holds a US FDA establishment registration. Read the certificates below, or ask us for the technical file and material declarations — they go out with first orders and to any buyer who asks before placing one.</p>
+  ${C.marks('full')}
   ${certificatesHTML()}
 </div></section>
 

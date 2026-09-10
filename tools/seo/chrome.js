@@ -46,6 +46,39 @@ function sectionIndex() {
 </div></nav>`;
 }
 
+/* The CE mark, built the way Regulation 765/2008 Annex II builds it: two
+   letters on circles of equal diameter, each a 240° arc opening to the right,
+   the E carrying a middle bar. Drawn rather than shipped as an image so it
+   stays sharp at any size and inherits the surrounding colour. */
+// Each letter is drawn as two 120° segments through the leftmost point rather
+// than one 240° arc: a single large arc depends on the large-arc/sweep flag
+// pair, and getting that pair wrong renders a mirrored "Ɔ" that still looks
+// plausible in source. Two small arcs are unambiguous. The E's middle bar
+// starts at the circle's left edge so it joins the stroke instead of floating.
+const CE_MARK = '<svg class="cemark" viewBox="0 0 68 44" fill="none" stroke="currentColor" stroke-width="7.7" aria-hidden="true">'
+  + '<path d="M27.1 8.66A15.4 15.4 0 0 0 4 22A15.4 15.4 0 0 0 27.1 35.34"/>'
+  + '<path d="M60.1 8.66A15.4 15.4 0 0 0 37 22A15.4 15.4 0 0 0 60.1 35.34"/>'
+  + '<path d="M37 22H62"/></svg>';
+
+function markGlyph(m) {
+  // Real artwork wins as soon as there is any (see SITE.marks in config.js).
+  if (m.img) return `<img src="${m.img}" alt="${esc(m.name)}" loading="lazy" decoding="async">`;
+  if (m.glyph === 'ce') return CE_MARK;
+  return `<span class="marktype">${esc(m.glyph)}</span>`;
+}
+
+/* variant 'full' — home page, with the caption line.
+   variant 'compact' — footer, name only. */
+function marks(variant = 'full') {
+  const items = (SITE.marks || []).map(m => `<li class="mark mark-${esc(m.id)}">`
+    + `<span class="markglyph">${markGlyph(m)}</span>`
+    + `<span class="marklabel"><b>${esc(m.name)}</b>`
+    + (variant === 'full' ? `<span>${esc(m.sub)}</span>` : '')
+    + `</span></li>`).join('');
+  if (!items) return '';
+  return `<ul class="marks${variant === 'compact' ? ' compact' : ''}" aria-label="Compliance and membership">${items}</ul>`;
+}
+
 function footer() {
   const year = 2026;
   return `<footer class="railpad"><div class="fwrap">
@@ -68,7 +101,7 @@ function footer() {
     <a href="mailto:${esc(SITE.email)}">${esc(SITE.email)}</a>
     <a href="tel:${esc(SITE.phone.replace(/[^+\d]/g, ''))}">${esc(SITE.phone)}</a>
     <a href="https://wa.me/${SITE.whatsapp}" rel="noopener">WhatsApp Business</a></div>
-</div><div class="fbot">© ${year} ${esc(SITE.name)} — ${esc(SITE.tagline)}. All catalog numbers and specifications subject to change.</div></footer>`;
+</div>${marks('compact')}<div class="fbot">© ${year} ${esc(SITE.name)} — ${esc(SITE.tagline)}. All catalog numbers and specifications subject to change.</div></footer>`;
 }
 
 /* Inquiry drawer + toast on every page; the zoom overlay only where there is a
@@ -90,4 +123,4 @@ function overlays(withZoom = true) {
 <div class="toast" id="toast" role="status" aria-live="polite"></div>`;
 }
 
-module.exports = { header, footer, sectionIndex, overlays, built, manifest, SECTIONS, NAV };
+module.exports = { header, footer, marks, sectionIndex, overlays, built, manifest, SECTIONS, NAV };

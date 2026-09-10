@@ -1,26 +1,26 @@
 {
  "/": {
-  "hash": "8f1c05ccf2191adf86db9b78f365e1be4d9e1a97",
+  "hash": "7589fffdb057f6f713f1b96034f19ada5b1d6457",
   "date": "2026-09-10"
  },
  "/catalog.html": {
-  "hash": "9189a3a9850b84e64c039841d86243e029f4fc34",
+  "hash": "53e32e38a44d263ac1069ff9e9c59c39832ec5c2",
   "date": "2026-09-10"
  },
  "/specialties.html": {
-  "hash": "a72d9513bb85cae0e2e00fc25e57bd72cf946cf1",
+  "hash": "d1628ed87711b92d10e449edb92bf4c7feedba61",
   "date": "2026-09-10"
  },
  "/downloads.html": {
-  "hash": "9bba8841af24df502d9478e205199cb22afa8947",
+  "hash": "6d5b1ba6150df2c399ed74486f54440a67e6f3a7",
   "date": "2026-09-10"
  },
  "/about.html": {
-  "hash": "d44cebf1ab523df541a59daccb3b0c01f51e855e",
+  "hash": "330a11ce6b968b15bdfb9392bc0754d678b0b3a4",
   "date": "2026-09-10"
  },
  "/contact.html": {
-  "hash": "367efe0cc8c9f4b716bb2ff8fbadd51cbccf66e2",
+  "hash": "6c13212b65525654ba07bfa06bfa107a54284866",
   "date": "2026-09-10"
  },
  "/downloads/opix-sl-scalpels-knives.pdf": {
@@ -144,1247 +144,1247 @@
   "date": "2026-09-10"
  },
  "/catalog-sl.html": {
-  "hash": "858ecf1acd4ed70d23397f1e2aba9c7411b00d17",
+  "hash": "8cc81eb43ecdd8fae6123e7ffc3de972528c0988",
   "date": "2026-09-10"
  },
  "/catalog-sl-scalpel-handles.html": {
-  "hash": "b9d52c5b70a9d0efe760935e07e687ee375ab616",
+  "hash": "c27cf35a678ca7fa7aaae7d2d7a4007b20adcc84",
   "date": "2026-09-10"
  },
  "/catalog-sl-scalpel-blades.html": {
-  "hash": "86adf59f303bb3d1dc5008c7b0b4f6280b5862d3",
+  "hash": "d810e32d6f6b10a23d81d36d64299ad587abea41",
   "date": "2026-09-10"
  },
  "/catalog-sl-micro-scalpel.html": {
-  "hash": "d956dbe9503576b0031a04f379d68791f86b7176",
+  "hash": "98f871dc3d9f1d1debce56b6650bbfc3cb2822d8",
   "date": "2026-09-10"
  },
  "/catalog-sl-operating-knives.html": {
-  "hash": "737f67f55997b90c71acbed094d2308fa1b7b21b",
+  "hash": "53e3568caaac8ebb20f1bfcb24f47458826f43c7",
   "date": "2026-09-10"
  },
  "/catalog-sl-post-mortem-knives.html": {
-  "hash": "628d9bbcde0c0f2cd24eb840a5b93f9e3e6ccfdd",
+  "hash": "fcf4001e80712894ba8aac78a49dee4a09de3b5e",
   "date": "2026-09-10"
  },
  "/catalog-sl-amputation-and-resection.html": {
-  "hash": "d748162c9552e2754c46f95a63007a5e48129690",
+  "hash": "03d0172776e4a6535089af24b483bada12854a41",
   "date": "2026-09-10"
  },
  "/catalog-sl-fistula-tonsil-and-razor.html": {
-  "hash": "3760b5bee44148be5f0a66740aec9eafa76b2d42",
+  "hash": "0373a615b19704bfc031157ba7aa9ebacf6ae047",
   "date": "2026-09-10"
  },
  "/catalog-sl-dermatomes.html": {
-  "hash": "231535813c8b92b14e6160e857e662a7af391c08",
+  "hash": "3b4910d3832dede3fe15f1de5db46f75dd781922",
   "date": "2026-09-10"
  },
  "/catalog-sl-blade-holders-and-punches.html": {
-  "hash": "2eb038ccc9e52fcf858879cee1bfc2fa8f48bf01",
+  "hash": "6da7103f98435f89e44fdab9674be9830ec6a1c9",
   "date": "2026-09-10"
  },
  "/catalog-ss.html": {
-  "hash": "0abd01a9c50d2307531e6a0ec57e3af428883c9e",
+  "hash": "ad52dfe2b4104fe53bc6fe29da3ff0bc0f0bf246",
   "date": "2026-09-10"
  },
  "/catalog-ss-operating-scissors.html": {
-  "hash": "0bd76328055187e7019eec6c2cfa6779226e22c9",
+  "hash": "6d3dfa86b2a44d7937807a3dceafcc592c189ecd",
   "date": "2026-09-10"
  },
  "/catalog-ss-dissecting-scissors.html": {
-  "hash": "2b8355370862da2abee4b4aa7fbcdcf3a7b9b3d3",
+  "hash": "2047c5076ce58d3c6f5437eca153fd0593d0f6e1",
   "date": "2026-09-10"
  },
  "/catalog-ss-micro-scissors.html": {
-  "hash": "868ddde153e85042398337a4f14b50ba44b4b172",
+  "hash": "211373ada1e55a449927150b2b263f10fcad93f8",
   "date": "2026-09-10"
  },
  "/catalog-ss-vascular-scissors.html": {
-  "hash": "a4cbd694b3bd896d2ae7cb93b8341814f03af5bc",
+  "hash": "f28bb5057920da0b2a4a43bb76d0daefcef77343",
   "date": "2026-09-10"
  },
  "/catalog-ss-eye-iris-and-tenotomy.html": {
-  "hash": "1fcd9976b9e2d908b64d995bd10f48742689f667",
+  "hash": "0e80f167989bbfba62776e84aa0cbdb9efa68c2b",
   "date": "2026-09-10"
  },
  "/catalog-ss-gynecology.html": {
-  "hash": "c82cc1062738fbe25e9b66c220ee765500fab48c",
+  "hash": "e43a4244bdf8777e64ccdf33b303f1b4f8d6c978",
   "date": "2026-09-10"
  },
  "/catalog-ss-ent-gum-and-dental.html": {
-  "hash": "2501fad9d574e753a488980953fd0018f394577a",
+  "hash": "90a6740cc76d65f0dc6ffc84006d4e44ed26c42d",
   "date": "2026-09-10"
  },
  "/catalog-ss-bandage-and-utility.html": {
-  "hash": "11ea70dc4de69a2ac530849b50d3be8f9338e206",
+  "hash": "1929695473f5caf262664752dda41260234fbace",
   "date": "2026-09-10"
  },
  "/catalog-ss-special-purpose.html": {
-  "hash": "415a5e6665ba30dc5f8aad726594932f6150a0aa",
+  "hash": "04fae4cc819689ddb4c9868283ae9e9ad7048f37",
   "date": "2026-09-10"
  },
  "/catalog-fr.html": {
-  "hash": "29ac6e67dcdc69a640abc2df649a97e2408b3b9f",
+  "hash": "7ab1453ec30eeb7a07c46c6d347b12e86ab11837",
   "date": "2026-09-10"
  },
  "/catalog-fr-dissecting-forceps.html": {
-  "hash": "6fc4e47ab5662bd67f9bd3f50a59d4dfbf014d3c",
+  "hash": "17a6d028d0ed943cdedfb848af58e3e11852da10",
   "date": "2026-09-10"
  },
  "/catalog-fr-tissue-forceps.html": {
-  "hash": "9f12abcfb2dfdb25b5973eced0535f94b514f9be",
+  "hash": "df616559e90450196bfcd071a9dd94417ceda5b5",
   "date": "2026-09-10"
  },
  "/catalog-fr-jeweler-type.html": {
-  "hash": "e15b3fbc565ce5ecf063742bfc975ef5a31508cf",
+  "hash": "975b2450a5d8ceb5390fb8a1a5265721fc091369",
   "date": "2026-09-10"
  },
  "/catalog-fr-splinter-forceps.html": {
-  "hash": "74d8c56d3dc73567a60911f4fcb1f2a42670a208",
+  "hash": "994c4d3803e499c122ef8a916465976b495d53d9",
   "date": "2026-09-10"
  },
  "/catalog-fr-grasping-forceps.html": {
-  "hash": "887f2e0f5b6296b423ee26b2faa06958ea77ad7a",
+  "hash": "a655c61639f7a6b7a33250952f2df9ec1619cb1b",
   "date": "2026-09-10"
  },
  "/catalog-fr-vascular-forceps.html": {
-  "hash": "12cf4f37960133020cb204584d3d5abadba90ff6",
+  "hash": "ecb1fc9b57969e010823b9485902e74007b5e164",
   "date": "2026-09-10"
  },
  "/catalog-fr-eye-surgery-forceps.html": {
-  "hash": "d02d130099075dc896ff2326f2810d8626fd24e9",
+  "hash": "fa1cddd5abc69ea0667e7855434ef859627cd144",
   "date": "2026-09-10"
  },
  "/catalog-fr-micro-forceps.html": {
-  "hash": "a2167417d9d356f4bad791cf36a09cc0b2f66f55",
+  "hash": "bee6c0cc6f485d1a5993b2d86070bdeb9ba315ca",
   "date": "2026-09-10"
  },
  "/catalog-af.html": {
-  "hash": "36b428d9cc7c51ce7316bfac99b00e89a4544ce6",
+  "hash": "52355fb27f0ec2016ff01221e5150f0d52671c27",
   "date": "2026-09-10"
  },
  "/catalog-af-vessel-clips.html": {
-  "hash": "0d73262d0e6b8edace13581e0887851e59451519",
+  "hash": "b26f1638f69ecb9f44399b356aa69e38ba380aa7",
   "date": "2026-09-10"
  },
  "/catalog-af-mini-vessel-clips.html": {
-  "hash": "06f9ff85da03df7d078a184544c80d068b0e8447",
+  "hash": "2fef4eb1065d9137ca6010b382263de36e840507",
   "date": "2026-09-10"
  },
  "/catalog-af-bulldog-clamps.html": {
-  "hash": "6ebc27a99aa754bd62b62b9f6feb5e6e6b49f653",
+  "hash": "c8ee6702e7609880f57631ecc4d0a331133d42eb",
   "date": "2026-09-10"
  },
  "/catalog-af-haemostatic-forceps.html": {
-  "hash": "99442cc41196f03548d985f139c6a49de3c3bd5a",
+  "hash": "993428b621f8b573fbc12d9720db800f178da888",
   "date": "2026-09-10"
  },
  "/catalog-af-dissecting-and-ligature-forceps.html": {
-  "hash": "39d28739cd8924060e9415dc01f84e182c913be1",
+  "hash": "9077f9dd104d35dbe56d90ee1c755301e275d895",
   "date": "2026-09-10"
  },
  "/catalog-af-bile-duct-clamps.html": {
-  "hash": "9a2fec15d9307fe563badf4e98a29645730b59cc",
+  "hash": "fbfab59ed712ce418c9d221c5608e778cdc3ea9e",
   "date": "2026-09-10"
  },
  "/catalog-af-tangential-forceps.html": {
-  "hash": "44105f3c97304493fd3eeb51369c8136de7ea3a4",
+  "hash": "6b8340651a587384e9f6dbb545cf1cb0547ab841",
   "date": "2026-09-10"
  },
  "/catalog-af-kidney-pedicle-clamps.html": {
-  "hash": "d8e5d2b59d56e1ddb69ce986f4f872f123aae8f7",
+  "hash": "12648c70954984de73e4b1159b95e8b6208dcd2d",
   "date": "2026-09-10"
  },
  "/catalog-af-hysterectomy-forceps.html": {
-  "hash": "1f34a8b96dc4c7d760a27b81091b7e422e8a68ff",
+  "hash": "57dcfad3119e9a8311bcf5ba5bb65bcae70e2271",
   "date": "2026-09-10"
  },
  "/catalog-af-peritoneum-forceps.html": {
-  "hash": "1af6aeb5f6569c2b4196c3f619389e8a784b8310",
+  "hash": "a61803bd4b6b6e9139f7e3cfef65045720e0fdf1",
   "date": "2026-09-10"
  },
  "/catalog-af-towel-clamps.html": {
-  "hash": "0f2ee1471fa60f5a0e5e49cda775081376e31a13",
+  "hash": "6b69736363f1e3cc9e4f01fb11282b799e6ca2ba",
   "date": "2026-09-10"
  },
  "/catalog-af-tubing-clamps.html": {
-  "hash": "f4aaf9196fec058e8e68f04c70b269db902033ef",
+  "hash": "46214ddc81a1bbed264ec8437a9c7b945950a15f",
   "date": "2026-09-10"
  },
  "/catalog-cs.html": {
-  "hash": "4e6a01b23f9662ae38180417a7b5fa884f0386a8",
+  "hash": "ac914419f9adda7847353069a097cd55280e59e2",
   "date": "2026-09-10"
  },
  "/catalog-cs-dressing-forceps.html": {
-  "hash": "53030fdea3886a28882cdef632f00ce345ecf296",
+  "hash": "d2910bfa4ef467fa8089e82ba55c85ab5787f649",
   "date": "2026-09-10"
  },
  "/catalog-rt.html": {
-  "hash": "12ba7f1df2b474852b5fd3ae9cbf0a2139b8ec7b",
+  "hash": "0855e6a5598a789769f5da624e8a9a58f4be4c72",
   "date": "2026-09-10"
  },
  "/catalog-rt-micro-hooklets.html": {
-  "hash": "f3ed6764e58809fe12debbe34b711207c5dd11cf",
+  "hash": "4ccb1dbf0305ff6a77005a4ab87e8a03955c2c39",
   "date": "2026-09-10"
  },
  "/catalog-rt-skin-hooks.html": {
-  "hash": "ad085931aad235495e6c429aaa273b4ad97cc75b",
+  "hash": "16dde0860416bc612b61487303fcf64e63058814",
   "date": "2026-09-10"
  },
  "/catalog-rt-nerve-hooks.html": {
-  "hash": "84c54640cd74113bd4980adcd1a28fae53e8b2a7",
+  "hash": "04a67374cee3394fb77425569d00607619e52aaf",
   "date": "2026-09-10"
  },
  "/catalog-rt-hooklets.html": {
-  "hash": "7819934cbff826e0c501bbc04e8b537116a4ec64",
+  "hash": "92241184cd272645dce840158464cc48455ae6b7",
   "date": "2026-09-10"
  },
  "/catalog-rt-saddle-hooks.html": {
-  "hash": "ca5d4493570af861e63a12eeea2093309059979b",
+  "hash": "2bd7e3146ce8ad214d9d04e818836b71ebd4db88",
   "date": "2026-09-10"
  },
  "/catalog-rt-retractors.html": {
-  "hash": "a498870c9692999de4939825bd70b208d57aef42",
+  "hash": "a9d77d6d29962301840ae5e2d16bd25140a010bf",
   "date": "2026-09-10"
  },
  "/catalog-rt-abdominal-spatulas.html": {
-  "hash": "d440b663ea01cc6b46b53af1a6e50d14e9410b82",
+  "hash": "785b3cbbb942226b01d10255c121999d7db123dc",
   "date": "2026-09-10"
  },
  "/catalog-rt-wound-spreaders.html": {
-  "hash": "f74a281cb6223ba45d54e0a023cb147cbc252468",
+  "hash": "7535494ff8417fe07668ac6892c12e1e6450bea6",
   "date": "2026-09-10"
  },
  "/catalog-rt-abdominal-retractors.html": {
-  "hash": "f86adf2c853006e54f34ed39ed83cf9fd71c4ce6",
+  "hash": "19eff3066f912e6e1a0c6b984616fb0ea30a74a2",
   "date": "2026-09-10"
  },
  "/catalog-rt-laminectomy-retractors.html": {
-  "hash": "99b0dde14cf137d6255f01a81b2d35b27ca57994",
+  "hash": "e804fa039ba2fd436aeaaae552e73b1f0639355e",
   "date": "2026-09-10"
  },
  "/catalog-pb.html": {
-  "hash": "45beb958cfbd473ba92e37980c50f38814828651",
+  "hash": "5a4ab6ce8170046e68434cef048d8ff397295588",
   "date": "2026-09-10"
  },
  "/catalog-pb-probes.html": {
-  "hash": "a97a20101bf57316b6c59d92b49b81579437a66f",
+  "hash": "9cbdcd8b2d13d28781ba9f7e68c3a30eecf8b8ea",
   "date": "2026-09-10"
  },
  "/catalog-pb-fistula-probes.html": {
-  "hash": "2ac84a29afc6f7809eb91d01d330c94fbe68fc07",
+  "hash": "474736ba544c2a0ac5d38d0e94a746d16ab6557b",
   "date": "2026-09-10"
  },
  "/catalog-pb-varix-instruments.html": {
-  "hash": "d6e09477fa573ce3e826ee507deebf34cc1ed3da",
+  "hash": "ac9a194b9255e2aad1e7358e7413865c83400717",
   "date": "2026-09-10"
  },
  "/catalog-pb-ring-strippers.html": {
-  "hash": "f771e076b048be2f14a7d2b3bbba90f8aecb3f97",
+  "hash": "8983ce9b5c4634a4e5597f521dd2f74ea8ee15ee",
   "date": "2026-09-10"
  },
  "/catalog-pb-cotton-applicators.html": {
-  "hash": "97141338f1fa3545d52ecfb6090922e8160a154e",
+  "hash": "92b4517ea0868aa2e308a1b15ca78bf7345251d3",
   "date": "2026-09-10"
  },
  "/catalog-dg.html": {
-  "hash": "e81c8e581e2ef802c504c315575bba38461e9b3e",
+  "hash": "225bfd42bd1feb2d3009dfdb5d5d0566c57d4908",
   "date": "2026-09-10"
  },
  "/catalog-dg-percussion-hammers.html": {
-  "hash": "69c2d00a8e2497237ffb848b5821b27e7c55dfcf",
+  "hash": "3432ff15fe2727e83c76deb943891650ab1a2083",
   "date": "2026-09-10"
  },
  "/catalog-dg-diagnostic-set.html": {
-  "hash": "3d13f9d185c8972dc8522efcc7c743c6b11c3d72",
+  "hash": "3b972e8d385e3f21a162f85a7792542774af7ca1",
   "date": "2026-09-10"
  },
  "/catalog-dg-calipers.html": {
-  "hash": "16eb7a22e4386eec648f614c8ac1ef048434de36",
+  "hash": "0bf9832e2bc8c4e1b176155347aaaecde82fe220",
   "date": "2026-09-10"
  },
  "/catalog-ts.html": {
-  "hash": "de25381e97849fe32babe211d3d9c22512a58efb",
+  "hash": "e2947e9f0848b127fc0205ce08364986b6ff9814",
   "date": "2026-09-10"
  },
  "/catalog-ts-trocars.html": {
-  "hash": "7079c084eb06ea609acb819a182e53431f2aadcf",
+  "hash": "1235dc0f5529e6af96cf659eec4f2053a9127f9f",
   "date": "2026-09-10"
  },
  "/catalog-ts-suction-cannulas.html": {
-  "hash": "141d829d9cce988bd28984a16ffa2a051aa556a8",
+  "hash": "fb60f2d52a4b9aff5c4679eebce958287aea260e",
   "date": "2026-09-10"
  },
  "/catalog-ts-suction-tubes.html": {
-  "hash": "4223e144d51f0dee8841f86bfdfc09559ce05c12",
+  "hash": "12831f6c1f7f7a768bd954b72ef66e81847473f7",
   "date": "2026-09-10"
  },
  "/catalog-ts-special-needles.html": {
-  "hash": "cd5ae00b8940f0fc1b8588d2eaaeca6c0a43740a",
+  "hash": "6b74de619dc2cd7c58d2454b22ba9f707a349271",
   "date": "2026-09-10"
  },
  "/catalog-ts-vessel-irrigation-cannulas.html": {
-  "hash": "c98baa204e4415544a775e0f8ddd680c13ae1fdc",
+  "hash": "144961689ff4c2e6280db93e10cc22a26abb2b19",
   "date": "2026-09-10"
  },
  "/catalog-ts-guide-needles.html": {
-  "hash": "ba43ced8bd49fa026cd58bb9558a8b32aa810b7c",
+  "hash": "76fa8b44d5a09d2fbd4a589ce2ea8b406fa5efba",
   "date": "2026-09-10"
  },
  "/catalog-su.html": {
-  "hash": "47d7d43cc451c81eb25daf783e6d5116b7a86f42",
+  "hash": "2262f5f445f39528dd39da5276c7b249af86f825",
   "date": "2026-09-10"
  },
  "/catalog-su-needle-holders.html": {
-  "hash": "5ad82230404025c1c99318ffc7d8e1dcb9a9f0aa",
+  "hash": "16ecc68c021b5897ba3988a35c69d8ea40a09d75",
   "date": "2026-09-10"
  },
  "/catalog-su-micro-needle-holders.html": {
-  "hash": "c894030274ffdde9d6757c9b122a2b84ff6ce3c3",
+  "hash": "8847af496feae97d5d4e67db08741f222e18e5e1",
   "date": "2026-09-10"
  },
  "/catalog-su-ligature-needles.html": {
-  "hash": "d10459c91b5189ee91cae6d35e3b71347c036543",
+  "hash": "dcbb883f5e5c9cf016d89d55ddca360104c83ec9",
   "date": "2026-09-10"
  },
  "/catalog-su-ligature-conductors.html": {
-  "hash": "bee516cfe818d88cb6d5557f6161d9030facaf40",
+  "hash": "36ddde6aadaf9385fc11c86c28dbe1cc003800b3",
   "date": "2026-09-10"
  },
  "/catalog-dr.html": {
-  "hash": "5d17755cdcea71179f474621238fd2e1e34e4f95",
+  "hash": "e424fb69cf2eaa508079dfdec27f75a4809474a7",
   "date": "2026-09-10"
  },
  "/catalog-dr-plaster-shears.html": {
-  "hash": "1215893532db52c3542d1c0c807cb299e4abe5d6",
+  "hash": "661c9d1def459f9bfb3aac0f18e6cb47abf09030",
   "date": "2026-09-10"
  },
  "/catalog-dr-plaster-spreaders.html": {
-  "hash": "7fdd1a1f32a4100a8d1e13cbf635fa5bc46c1188",
+  "hash": "1ab36bba328bcc40f2a0b40ce72f5fbea921f83c",
   "date": "2026-09-10"
  },
  "/catalog-bs.html": {
-  "hash": "efc256bc92b535111ea46c62c69f62506bfad970",
+  "hash": "b962eb2a520f79541e5765548359fa1f1b75c029",
   "date": "2026-09-10"
  },
  "/catalog-bs-amputation-saws.html": {
-  "hash": "2b63ddbbc5f5e99483fbb6a94f68ac2c3b22131b",
+  "hash": "cebbf603950de7aab6a9e39679978eb7f668aaba",
   "date": "2026-09-10"
  },
  "/catalog-bs-battery-drilling-unit.html": {
-  "hash": "ad2188a12ca7ec5a112466187aace5f3fee82b85",
+  "hash": "f79d713b1e5253b0aacf2d59ed3f3a4cf455cca8",
   "date": "2026-09-10"
  },
  "/catalog-bs-hand-drills.html": {
-  "hash": "e069c9944f3d1a8f55e7dadab98afd361df011d7",
+  "hash": "95ab2db10c4e3e1fa3538bdc0f6f6d5f7af46615",
   "date": "2026-09-10"
  },
  "/catalog-bs-twist-drill.html": {
-  "hash": "0bf0057c0d4b578c8bab65394fd8639b53da2f6e",
+  "hash": "c55df876b922c92028b56d74202983354428c663",
   "date": "2026-09-10"
  },
  "/catalog-bs-wire-tightener.html": {
-  "hash": "6824e8f615a80905d93c59b912525ca901af77e2",
+  "hash": "502ddaa310b905e46187a8ea555b523dc42e21b3",
   "date": "2026-09-10"
  },
  "/catalog-bs-extension-bows.html": {
-  "hash": "f1d55cf39270fe8b8a0ce400f6e02d56b7a53346",
+  "hash": "cd5e5421efc4ac3883eb4a5b162576a58c51d8dc",
   "date": "2026-09-10"
  },
  "/catalog-bs-wire-drills.html": {
-  "hash": "94ad7788396c1c6325d3a350916d6913dc9301dd",
+  "hash": "6aa4109023550af13f7c69d5846a35867043c324",
   "date": "2026-09-10"
  },
  "/catalog-bs-wire-twisting-forceps.html": {
-  "hash": "465ca21e244d73fc8fadbe80dc19dd12eb63e0d1",
+  "hash": "b899be4a27d96c90a8ad89e67bb72496f8733051",
   "date": "2026-09-10"
  },
  "/catalog-bs-flat-nose-pliers.html": {
-  "hash": "f58d56d003cd2394c8374a0f187fae8f63e0a475",
+  "hash": "383f4f57024069cb5b34eee1ead269417fda9c8f",
   "date": "2026-09-10"
  },
  "/catalog-bs-wire-cutting-pliers.html": {
-  "hash": "88c52dd05b6e647647423161fd77c52472fa886c",
+  "hash": "24ba26ea93950cc3fe63164643fe456b4d027d23",
   "date": "2026-09-10"
  },
  "/catalog-bs-autopsy-instruments.html": {
-  "hash": "b2dc1fc9c799b6bd07ca89a955c917b3096a5ce8",
+  "hash": "54adfee9d0e8190e7222afe63f0d3487c80abb5c",
   "date": "2026-09-10"
  },
  "/catalog-bs-bone-chisels.html": {
-  "hash": "3365ad70cbf132b457ece529a4174ecdd9ff3f45",
+  "hash": "9dec121cdc99aeed5c3281c3632f5e605e64cc71",
   "date": "2026-09-10"
  },
  "/catalog-bs-osteotomes.html": {
-  "hash": "7b379192cbf24e953bfec52a3b6f7e21a132fc61",
+  "hash": "1cba773028e3a9acc420a9d1f4404843f11b0fca",
   "date": "2026-09-10"
  },
  "/catalog-bs-gouges.html": {
-  "hash": "9d3cad0cd25e1dea520aad6546a9ec0fb6933e24",
+  "hash": "516d05ebc0bc9717aee74d5f1d4a7041d26fc372",
   "date": "2026-09-10"
  },
  "/catalog-bs-bone-rasps.html": {
-  "hash": "0367d2edf01f17de42250bf0dc295070d67b502d",
+  "hash": "9f6d6f141ea91d4ae9242e0f776f3ed5e8bdf2b0",
   "date": "2026-09-10"
  },
  "/catalog-bs-tampers.html": {
-  "hash": "4b55e6a4d2aa103826709362995345982296df4a",
+  "hash": "f79949a35a8e12414b1151a8fc3eaf3036d7af72",
   "date": "2026-09-10"
  },
  "/catalog-bs-mallets.html": {
-  "hash": "cd47478f1389d986ac8f7837a9b22791104abd9a",
+  "hash": "4bda3aa7aa90f30995e12663ccf4ee3eb87995cb",
   "date": "2026-09-10"
  },
  "/catalog-bs-bone-curettes.html": {
-  "hash": "27da456b51df87ce87a9c3bad37410db7e43be9f",
+  "hash": "7536e7faa1f867b2b2eb852ddb76c27194695f0c",
   "date": "2026-09-10"
  },
  "/catalog-bs-periosteal-elevators.html": {
-  "hash": "fda6cd5e1098718f2fa73f48dd8bd991120be4c0",
+  "hash": "2eb003bce1de176227279816f4abd0ffaa2b212d",
   "date": "2026-09-10"
  },
  "/catalog-bs-bone-levers.html": {
-  "hash": "031cf5595e432b63c27708b427245e3c52a65aa7",
+  "hash": "248dbc7052e99455114a54ef39c4378dc1871912",
   "date": "2026-09-10"
  },
  "/catalog-bs-knee-retractors.html": {
-  "hash": "939d61687d520d96e793651ed0cf0bb0693c7db1",
+  "hash": "5be82915ffce97060114e9acb78d7a20ef6ebbf9",
   "date": "2026-09-10"
  },
  "/catalog-bs-meniscus-knives.html": {
-  "hash": "3d261aa3eee8e4dc8dcf08e07b326bb6f55f056c",
+  "hash": "71f91380626711353ec5d4f196db0222fb5e962f",
   "date": "2026-09-10"
  },
  "/catalog-bs-tendon-holding-forceps.html": {
-  "hash": "7e9ed2c87d1d62dbb298d9fbfd0700a4a053b5e2",
+  "hash": "1c43529e6ca41dffa216c03ddb89b2d9eee3b4b5",
   "date": "2026-09-10"
  },
  "/catalog-bs-reposition-forceps.html": {
-  "hash": "687e465629bb93e2d93dfe64a220b52830771188",
+  "hash": "b56aa9466e95f72fa2985f7bf17733034359df5c",
   "date": "2026-09-10"
  },
  "/catalog-bs-bone-holding-forceps.html": {
-  "hash": "b89a4aa731f3911712cf583f4134bebb29dad79a",
+  "hash": "2fea6f45f11370bc086b03ef0189574e9bd19a1d",
   "date": "2026-09-10"
  },
  "/catalog-bs-bone-rongeurs.html": {
-  "hash": "80c9a9184cbe7a10656f4d36a437c0a9ebd08a21",
+  "hash": "ddfe1e2a226b25e4898fb6af61dac302bdbd22bf",
   "date": "2026-09-10"
  },
  "/catalog-bs-bone-cutting-forceps.html": {
-  "hash": "1560cfe0d9bb566508c38f73fb6ea8d3e3d82ab4",
+  "hash": "92829a770d71f7f804b187f15add991870546013",
   "date": "2026-09-10"
  },
  "/catalog-bs-hand-restrainer.html": {
-  "hash": "e22b5bf3c614f43160677d5614ecddc8b9c4892d",
+  "hash": "6e9648e0ec13091955e375e16000b5b07742a209",
   "date": "2026-09-10"
  },
  "/catalog-cv.html": {
-  "hash": "43536692badcf41de56b0096974bb46a7eb71bbc",
+  "hash": "e4be62352533ad3e232a09f250ec33afa4de1e1b",
   "date": "2026-09-10"
  },
  "/catalog-cv-rib-shears.html": {
-  "hash": "b6d1ae6273129ca518e5c845045bacd6015a0021",
+  "hash": "192943b010f26bf020d054ffecf09362bd08b075",
   "date": "2026-09-10"
  },
  "/catalog-cv-rib-retractors.html": {
-  "hash": "da746c9df0c4b3894450fdee7671bfaa11d2b352",
+  "hash": "2ed1e989ee93e61fbf619886b6d2a53274258c53",
   "date": "2026-09-10"
  },
  "/catalog-cv-rib-contractors.html": {
-  "hash": "5bb86419f27065f7edb0edc9ae42de279d826742",
+  "hash": "9c5925f0f7bae9ef271d599d657f6229b1943027",
   "date": "2026-09-10"
  },
  "/catalog-cv-bulldog-clamps.html": {
-  "hash": "1c6ec1e0fcca03afad73d08335cc6a89b581ddcf",
+  "hash": "26a3c053109d10ddaa2212d9452b3e2d68938eea",
   "date": "2026-09-10"
  },
  "/catalog-cv-cardiovascular-clamps.html": {
-  "hash": "4f4a60fa028aba24a884885a2fd501ea7d76e526",
+  "hash": "8f7c7606a040db62f6b3722cd945239f936770e5",
   "date": "2026-09-10"
  },
  "/catalog-cv-vascular-dilators.html": {
-  "hash": "0ba3a6000208f1ac6dec4a5aad380dd4aec20771",
+  "hash": "e13df28945b686fab0dd86bc46dbd3486de274a8",
   "date": "2026-09-10"
  },
  "/catalog-cv-tunneling-set.html": {
-  "hash": "aff23255dc26c908e8a00f447101a7b825302f71",
+  "hash": "b47e9cfd0ced054b27b8aa19a2c0405d14382a0c",
   "date": "2026-09-10"
  },
  "/catalog-cv-intima-spatulas.html": {
-  "hash": "5ad4ad7af9a379af65050532e7adaeeaeee5599f",
+  "hash": "20f93763da7083ed341f866ada0f09d4f029aa67",
   "date": "2026-09-10"
  },
  "/catalog-ns.html": {
-  "hash": "064cec99550a640724c56748ffe255ee5efb51dd",
+  "hash": "7c4a255c22c835e9336d9967e535cc78b2a1cd81",
   "date": "2026-09-10"
  },
  "/catalog-ns-self-retaining-brain-retractor.html": {
-  "hash": "ee39302d83df81c7289518a1d2dcf7df999e04bd",
+  "hash": "3fcdfe03d21d371be8389b3ce31e65d218382c20",
   "date": "2026-09-10"
  },
  "/catalog-ns-vertebral-distractor.html": {
-  "hash": "c31920626c378460dd5e414c95a73d72efe939d5",
+  "hash": "7b97401b05db91a0abe27026786b6d064b3c2012",
   "date": "2026-09-10"
  },
  "/catalog-ns-wire-saws.html": {
-  "hash": "c92a71bf9354efa162c6bb89a1af5ebcb1ae1592",
+  "hash": "201b83695f79959280a7eb66643a0e28484a2d63",
   "date": "2026-09-10"
  },
  "/catalog-ns-skull-traction-tongs.html": {
-  "hash": "4962e6be6009cd8a5f433244f305102849aec163",
+  "hash": "076c6a15e66a22be0d1659eb65987311a6c55e56",
   "date": "2026-09-10"
  },
  "/catalog-ns-clips-and-applying-forceps.html": {
-  "hash": "274afe5c97a006670c8d759cc1d7c16775c2fd96",
+  "hash": "3c3a851eab32b692b89256a231f401a10d8bd143",
   "date": "2026-09-10"
  },
  "/catalog-ns-dura-dissectors.html": {
-  "hash": "f81e7430de6f31e6b6733b9ed182131ec24c7de4",
+  "hash": "e3000ca63e6f8f5fe0215136b6d5cc44c99301bf",
   "date": "2026-09-10"
  },
  "/catalog-ns-nerve-root-retractors.html": {
-  "hash": "a0089b377aac00fa56487eb13f9e33271927ec83",
+  "hash": "474c520577a7332420329899fc8aef2763c3ce64",
   "date": "2026-09-10"
  },
  "/catalog-ns-brain-spatulas.html": {
-  "hash": "b074b06c304a705ca2029b297c3fac80698acc3d",
+  "hash": "153cfbbc8c614d7ef8e1d19055f5c71f903b850c",
   "date": "2026-09-10"
  },
  "/catalog-ns-nerve-hooks.html": {
-  "hash": "9e5b0a2891bf7654bb60cb435bcf6274f83eb064",
+  "hash": "858ae9083c96e3e6960a0aefb3dd4363841591e7",
   "date": "2026-09-10"
  },
  "/catalog-ns-dura-knives.html": {
-  "hash": "da1dcfc3ff89ed90807759539a0685d3ed65376e",
+  "hash": "6f832e7e8cb9134ba27d11b4eb47620c8ee02d8e",
   "date": "2026-09-10"
  },
  "/catalog-ns-laminectomy-punches.html": {
-  "hash": "e567c18d38b11921efc560dbac871cc0bac08acf",
+  "hash": "a587f92588b078324d2e581d2e6fa9c9fe027624",
   "date": "2026-09-10"
  },
  "/catalog-ns-micro-neuro-instruments.html": {
-  "hash": "25fe360368534c8b4bdbc529c6393cce43626df6",
+  "hash": "a2057884ea60f21a95add13f9a651d9e8585c845",
   "date": "2026-09-10"
  },
  "/catalog-og.html": {
-  "hash": "3246e697c490e7c4e101a1f379ebe16530b751df",
+  "hash": "0f21fb37534edd8afe88fd34efb0a9e7081c57fd",
   "date": "2026-09-10"
  },
  "/catalog-og-eye-speculum.html": {
-  "hash": "f783f0f663548a6bb853b349c20490cb3d6ba69d",
+  "hash": "b2f4b59843300260cd862f68a9140cad8b4d9939",
   "date": "2026-09-10"
  },
  "/catalog-og-depressors.html": {
-  "hash": "85600635a0ac0d633494f7954a90b18cbc945bcf",
+  "hash": "c079c968cc85d5400a0f35c03fc26df5c03c9c38",
   "date": "2026-09-10"
  },
  "/catalog-og-eyelid-retractors.html": {
-  "hash": "5fffbe4867c68d00df07165167eb3db29a7e0e26",
+  "hash": "96b31f58e605309fdeaa474af64e62307da27e58",
   "date": "2026-09-10"
  },
  "/catalog-og-keratome.html": {
-  "hash": "1261d7022e52f05765e25e5a46739b498d2a8018",
+  "hash": "2a5e152e2b31223ef30b5baaf344e5842d2325f9",
   "date": "2026-09-10"
  },
  "/catalog-og-diamond-knives.html": {
-  "hash": "5adb59b6de232205605a9f51189748243dfce874",
+  "hash": "7a506b9215742c2afc4fd366156eb0f83fbd4e88",
   "date": "2026-09-10"
  },
  "/catalog-og-trephines.html": {
-  "hash": "712429890812f4411982f239c33d071de5616cf4",
+  "hash": "98f991dad7097fc34c47dc9876bf54f8b1796cc0",
   "date": "2026-09-10"
  },
  "/catalog-og-cannulas.html": {
-  "hash": "e98f444457c27d6c6d6a865b0a7ead9e697f93b3",
+  "hash": "7bd07733bdbbbdee6c49bb523ba57d1ad7050c1e",
   "date": "2026-09-10"
  },
  "/catalog-og-opthalmology-instruments.html": {
-  "hash": "7a5a41d2b43067a647dc9a3937d58a6720970b34",
+  "hash": "693cc34471333fa05e9e6bdfd1beefb6809f968b",
   "date": "2026-09-10"
  },
  "/catalog-tr.html": {
-  "hash": "75b8cc6ff7c1cca7e6b5a40c01abad0cb5009df3",
+  "hash": "4c44a9f62232d894fdaf8dd76a9a7f35acc9d5b9",
   "date": "2026-09-10"
  },
  "/catalog-tr-tracheal-dilators.html": {
-  "hash": "93ef2f749711fa3f0b80b7d1cea907949bad30d8",
+  "hash": "6529083995618d8971adae8924917a20047efe3b",
   "date": "2026-09-10"
  },
  "/catalog-tr-tracheal-hooks.html": {
-  "hash": "80950d7cc6e3155966cd96875dc0d214f576f825",
+  "hash": "c693e075c1721e974a2e1ce05072651ebf2043f3",
   "date": "2026-09-10"
  },
  "/catalog-tr-goitre-grasping-forceps.html": {
-  "hash": "c18785a18c8a061e50ac13b50b8663883948921f",
+  "hash": "4995b87c8e51ba3e89eeb3aaeafa88ad6dcb57be",
   "date": "2026-09-10"
  },
  "/catalog-dm.html": {
-  "hash": "3da4fc5bd97c38d1765b2a603caec4c69c2b8a2e",
+  "hash": "5d3c5a707468fc7e822a66f3bd5621b657e4b0fd",
   "date": "2026-09-10"
  },
  "/catalog-dm-milium-knife.html": {
-  "hash": "40e779809f8c7bbc866b1b0c10a3d35aa3bf15a9",
+  "hash": "b6cad70d7383c94d9dd8ada37932bb671ce9c0d2",
   "date": "2026-09-10"
  },
  "/catalog-dm-dermal-punches.html": {
-  "hash": "abc46b5865fe377192a1a3624fffdb73a4e45cc7",
+  "hash": "f7660878e85e2ac4ee3b3daa1c18b7e4c472b1ea",
   "date": "2026-09-10"
  },
  "/catalog-ga.html": {
-  "hash": "4be6ea2d34c61e8aff4f2ebbbf50be9d7fc860e7",
+  "hash": "d1e2d75fe49ed84d5c3d77ef425d3af04d589f02",
   "date": "2026-09-10"
  },
  "/catalog-ga-intestinal-and-tissue-grasping-forceps.html": {
-  "hash": "5cece0329d0f73c5075943458d40be097408b63e",
+  "hash": "534b5a62536caaee6b8ede1c465f5d34bcaff01d",
   "date": "2026-09-10"
  },
  "/catalog-ga-intestinal-clamps.html": {
-  "hash": "96ad9ec25001550f20e1cadf36a13e804ff52658",
+  "hash": "3ed0d806b8f981aceb84092faa06fc65754b4e4e",
   "date": "2026-09-10"
  },
  "/catalog-ga-rectal-specula.html": {
-  "hash": "f24b4c4495e0cf0012fd0d36156b35cff8fe0c17",
+  "hash": "0abe869b929cb8c11c244dacd4ee99cdcefb5b71",
   "date": "2026-09-10"
  },
  "/catalog-ga-rectal-spreaders.html": {
-  "hash": "af22bff9acadd15412e9dc0b1e7ce46d625dbc33",
+  "hash": "6a4ef610e086f40fd108abbaf5f46bafe66f033e",
   "date": "2026-09-10"
  },
  "/catalog-ga-anuscope.html": {
-  "hash": "0cc678fd3ecb0de574d0f5dc4c9662dfe33baaf4",
+  "hash": "04a0b1191a6d893aeec01c302ac4b62171f5763c",
   "date": "2026-09-10"
  },
  "/catalog-ga-proctoscopes.html": {
-  "hash": "3c33096dbe18cd243a392d5c7826f9b22e73b383",
+  "hash": "060e3a84895b21178ef103c510eddc2b1d8d5fa3",
   "date": "2026-09-10"
  },
  "/catalog-ga-sphincteroscopes.html": {
-  "hash": "2c4527c0dd353ebc17857a2098400d09b971463d",
+  "hash": "57d7b8f55370c3379d1382decaf6ec9adbcadd58",
   "date": "2026-09-10"
  },
  "/catalog-ga-hemorrhoidal-ligator.html": {
-  "hash": "c476d95f511fdd9f01d10fa9b7e64faf3cf89718",
+  "hash": "95073b58df538926f3d3658881581d1e065436c5",
   "date": "2026-09-10"
  },
  "/catalog-ga-rectal-biopsy-forceps.html": {
-  "hash": "267c5a7d1fe678cf68ce1d120da5e971882a07c7",
+  "hash": "d137c0cbab9ec508b33a54fad94c72a7aa4495b2",
   "date": "2026-09-10"
  },
  "/catalog-lg.html": {
-  "hash": "5d23451c317a022ff1c93de0a73852466d760c42",
+  "hash": "02fa00d225942fa33f065837ec6aa11e400a6a7d",
   "date": "2026-09-10"
  },
  "/catalog-lg-kidney-stone-forceps.html": {
-  "hash": "4aa3fd5f21d78d8ac504fafbc458005c1adef4e0",
+  "hash": "92e5e19a95d9a556955235413b05d18fac2d56bd",
   "date": "2026-09-10"
  },
  "/catalog-lg-gall-duct-dilators.html": {
-  "hash": "e0d17caedd622f32dc31b5c2b7fcd96f65011929",
+  "hash": "aae6500822a366743c3eb95b872f2336ff61b11c",
   "date": "2026-09-10"
  },
  "/catalog-lg-prostatic-retractors.html": {
-  "hash": "d228e672bfa6107365154ec3bc67922cbf42482a",
+  "hash": "c0efcf0d834fe1a2c978a2e591c2b8fb24b143ba",
   "date": "2026-09-10"
  },
  "/catalog-lg-urethral-sounds.html": {
-  "hash": "503e7de9b28d33818b56e21e473a2c0025ed00d6",
+  "hash": "f63aa7e3bb5e8101f61f1fc6ce9a5d92b867690c",
   "date": "2026-09-10"
  },
  "/catalog-lg-urethrotome.html": {
-  "hash": "f189a5aa201c3ee8e09248422606d93f54b801ce",
+  "hash": "f408964d5a064c703eb38b524e102a0c2886ded6",
   "date": "2026-09-10"
  },
  "/catalog-lg-circumcision-instruments.html": {
-  "hash": "bb751fe9ce6279f76a1a4b164c79d41bfce3ed61",
+  "hash": "8889e657b5dc504d2e798ee07fe60e51f843bf16",
   "date": "2026-09-10"
  },
  "/catalog-gy.html": {
-  "hash": "96cb81bdef465d616b354ecc2346d5697557602d",
+  "hash": "220e538f7fa3f4b87a2b7e92524afe3ecf9f74f0",
   "date": "2026-09-10"
  },
  "/catalog-gy-vaginal-specula.html": {
-  "hash": "3bbffd351078c1f34fb0910cc4608e08e7ce0c77",
+  "hash": "8cc32ddd0599922956c20c935a40799ed8bbb770",
   "date": "2026-09-10"
  },
  "/catalog-gy-uterine-dilators.html": {
-  "hash": "9ff6a4564fb8110572bc1dceb7674f4dae48eec4",
+  "hash": "14f07f8cf4eb9147471735d50395f39ee141d286",
   "date": "2026-09-10"
  },
  "/catalog-gy-uterine-sounds.html": {
-  "hash": "88f3d7ae0585288015dd0ee9c8539d6f6d0eccbb",
+  "hash": "ffc7ff2ef7c6ba7b00e5129ed5adddeb2c759848",
   "date": "2026-09-10"
  },
  "/catalog-gy-uterine-tenaculum-forceps.html": {
-  "hash": "f70398d35285587ef30dfba1cc04574600e01e42",
+  "hash": "a1841993edf8eb287c327a1ffbd260e3c247c659",
   "date": "2026-09-10"
  },
  "/catalog-gy-uterine-polypus-forceps.html": {
-  "hash": "0938c31251c4da2b9b769cc2ad76d5547274bc12",
+  "hash": "c35621819c69bfd9d582b240c8bce31462b1c35f",
   "date": "2026-09-10"
  },
  "/catalog-gy-fistula-hooks.html": {
-  "hash": "9b6f26b3280b07e4abcacbc7d1f48fd1890c0b64",
+  "hash": "68405d43fd78ff1cc5a989b7a5d06b00576ba60f",
   "date": "2026-09-10"
  },
  "/catalog-gy-suction-curettes.html": {
-  "hash": "e6fb4c67b6cc7d409a77a8a0ce619c30eb7ca9b9",
+  "hash": "8cc251b71d6dbe8337c0e4c832da328f5539eadc",
   "date": "2026-09-10"
  },
  "/catalog-gy-uterine-curettes.html": {
-  "hash": "79dd6fc252fe0c74a5cc99bc92f86841dd2936a3",
+  "hash": "199bad3056d1f0f8b8d7e05bba96509d1443e230",
   "date": "2026-09-10"
  },
  "/catalog-gy-uterine-biopsy-forceps.html": {
-  "hash": "c4e3e6e98ea613b22c5b8a278512b3e911e75fcf",
+  "hash": "3981e1c59cdf14c379a6b10e4534ebadd0c756fc",
   "date": "2026-09-10"
  },
  "/catalog-ob.html": {
-  "hash": "f92d992823db3050d9452bd14232279cce356f5c",
+  "hash": "5b3f7ac8b3025d36742567c189daad3b563c13c1",
   "date": "2026-09-10"
  },
  "/catalog-ob-pelvimeter.html": {
-  "hash": "6b15bf4df0e681c2ad22203d69b07d25f136122e",
+  "hash": "3ecca82963c829642f86caa8812c21cf530a31a4",
   "date": "2026-09-10"
  },
  "/catalog-ob-placenta-and-ovum-forceps.html": {
-  "hash": "666fca58de9088151d1756bddcd266d88529e091",
+  "hash": "870bb1d6e14289e27473578c814f260ca99d38c8",
   "date": "2026-09-10"
  },
  "/catalog-ob-placenta-scoops.html": {
-  "hash": "bbbaa80fe8181efa15223924df28997cc6917a0a",
+  "hash": "7d62288d8d91822a9cdd872529b8c1bdb90202fe",
   "date": "2026-09-10"
  },
  "/catalog-ot.html": {
-  "hash": "95ccbc7f0ba1a35df76a1d5da84971be33327636",
+  "hash": "933f338250f0f5e94ea5772b108b653a9e493171",
   "date": "2026-09-10"
  },
  "/catalog-ot-ear-specula.html": {
-  "hash": "42c25db87ac5110a51506a8c0e1103b439a10d6d",
+  "hash": "47cdda4e430f2020e0656213027c32bce17c98df",
   "date": "2026-09-10"
  },
  "/catalog-ot-tuning-forks.html": {
-  "hash": "730882d074054e0c94136e9b0062371227d167cf",
+  "hash": "2365fd7c7236209f4d50a543e84f2aa45a32f25f",
   "date": "2026-09-10"
  },
  "/catalog-ot-ear-catheters.html": {
-  "hash": "d6912241735f89e6073878a76d306cd6622101a7",
+  "hash": "86bc8550fa01277110f19db09d743efc9983e8a9",
   "date": "2026-09-10"
  },
  "/catalog-ot-ear-forceps.html": {
-  "hash": "b8f27f7f9ee68dc074e637837814315af67ac6fb",
+  "hash": "5a773f0ad35c373b72df0cd32a3d1c7d9ec84660",
   "date": "2026-09-10"
  },
  "/catalog-ot-micro-ear-forceps.html": {
-  "hash": "973a779e1b0f144ad6ab1a6ad8fc6c2f825fc0bd",
+  "hash": "3819ade1a241eb9658401f2c9cb53c0cfae090f4",
   "date": "2026-09-10"
  },
  "/catalog-ot-micro-ear-scissors.html": {
-  "hash": "960dc2c54099b79df9b436f8a1b70ea23c0f52d9",
+  "hash": "6cdc0205ebc2221d0e0fb22aebcef2b3b9f205d8",
   "date": "2026-09-10"
  },
  "/catalog-ot-micro-ear-knives.html": {
-  "hash": "6b920a8890a39be4e8f4c8c0ccb984deae574d6a",
+  "hash": "26084305bb3d6a87353c9c286b6240b0dc4bf12a",
   "date": "2026-09-10"
  },
  "/catalog-ot-gum-scissors.html": {
-  "hash": "c14f405e5169e10f1be65239a500cd393ad99f45",
+  "hash": "c6d87cf974a1af27f7793421f0621f20303ee746",
   "date": "2026-09-10"
  },
  "/catalog-ot-micro-ear-hooks.html": {
-  "hash": "e28416dd8071f53fc2c2be092c29b1f7dca54d88",
+  "hash": "e599e8b369420db91fa7da21c9aedb4aaa7cc10e",
   "date": "2026-09-10"
  },
  "/catalog-ot-micro-curettes.html": {
-  "hash": "f3a17307dc7dec1ff6f798fed68fb8a38dbb014f",
+  "hash": "a044bcf83d1387ea5acd85dafa60ebb90f4d7f2e",
   "date": "2026-09-10"
  },
  "/catalog-ot-micro-dissectors.html": {
-  "hash": "2c54bf0d5dc50dff12d31111151f85b12b29d706",
+  "hash": "0c048ef323b9cf42eaf5d2e8b4eab6ba636b33eb",
   "date": "2026-09-10"
  },
  "/catalog-ot-ear-curettes.html": {
-  "hash": "4bf6e0845bff5e46d661ac15f1d05366db10f3c1",
+  "hash": "b66f01bd3dc104299f32596b7dae1b641e1e094b",
   "date": "2026-09-10"
  },
  "/catalog-ot-foreign-body-instruments.html": {
-  "hash": "fb188d48c41f423117500779c6d4e8af0d5d54e2",
+  "hash": "af1318ee8268848a40491c34dcc9b2a105c2bfa9",
   "date": "2026-09-10"
  },
  "/catalog-ot-ear-hooklet.html": {
-  "hash": "ca83d161bd434d1e70aa5fdfaf47468951881916",
+  "hash": "6a05060bff3298fe4475abc3b074b8c8ede4ffdd",
   "date": "2026-09-10"
  },
  "/catalog-ot-ear-periosteal-elevators.html": {
-  "hash": "9e5e4deeb651d0523a041122d84510fa43904113",
+  "hash": "222c07bd1a65efcf71cd108ac6c8f9b8a7a4af8f",
   "date": "2026-09-10"
  },
  "/catalog-rh.html": {
-  "hash": "6d667dc360b4bbcb073571ca121576bea4f307a8",
+  "hash": "943e619167ea82edf293b77f06218b5cd88ea6b9",
   "date": "2026-09-10"
  },
  "/catalog-rh-nasal-specula.html": {
-  "hash": "fbf83aef459c442a7f4bb3f61fdcc94f94d1e534",
+  "hash": "93eefe6bdf45e2cdd716ed518c2056a83110579f",
   "date": "2026-09-10"
  },
  "/catalog-rh-nasal-tampon-forceps.html": {
-  "hash": "d25ff115ae783f0d6fb7465d32a4a4f7ceb6b21e",
+  "hash": "b0c19a6c831f6b3be0be124adb67e44831e96bd0",
   "date": "2026-09-10"
  },
  "/catalog-rh-septum-forceps.html": {
-  "hash": "3a727b9799c49a5e17393ff4d729cdcf1ea9bfcf",
+  "hash": "10614bc4fa4cf0e3e442dacd5dd0c4a0068d230d",
   "date": "2026-09-10"
  },
  "/catalog-rh-ethmoid-bone-forceps.html": {
-  "hash": "47fd44f12810a4b43ffd6dcedd39a7bcb9f888c2",
+  "hash": "a5fdf0de1cb059ed7661deae6402e18f95b6a149",
   "date": "2026-09-10"
  },
  "/catalog-rh-nasal-cutting-forceps.html": {
-  "hash": "8ca102025021ec2b2dd724edf15c7d3cf274094c",
+  "hash": "3607a32cb306abe614d4cdbc41f68ee9f9454e37",
   "date": "2026-09-10"
  },
  "/catalog-rh-sphenoid-bone-punches.html": {
-  "hash": "16418225178c8b893ac10a9c0d311b5894a8031e",
+  "hash": "984658954ee15edc304e1db19864588ce2671e58",
   "date": "2026-09-10"
  },
  "/catalog-rh-septum-knives.html": {
-  "hash": "a00e260413e00d8ffca219201c503c90a439b081",
+  "hash": "f39786da79c0b02441979b90662b6d0cf5c537d9",
   "date": "2026-09-10"
  },
  "/catalog-rh-septum-elevators.html": {
-  "hash": "47bbeee147c7e90ceab9e2b552efe9c3be42845e",
+  "hash": "ce4a01604ae191e1545f65a09f8313253cb0631e",
   "date": "2026-09-10"
  },
  "/catalog-rh-periosteal-elevators.html": {
-  "hash": "e0ff7fc02fb604fd9a06e28a2c9b1197b1b03f41",
+  "hash": "96c313edfd3d25fd60dd693b3425701b99db975b",
   "date": "2026-09-10"
  },
  "/catalog-rh-septum-chisels.html": {
-  "hash": "2b35bc6c7deb2a2ad9a4726284a96a2a018d2355",
+  "hash": "21d74da8d5da51360eee69bc2538cfb37fdada67",
   "date": "2026-09-10"
  },
  "/catalog-rh-osteotomes.html": {
-  "hash": "420a30d9448e0762ca17a2761d4213d9efdc501d",
+  "hash": "4dfd13c411ccce05416b51c46b4b369893f44b75",
   "date": "2026-09-10"
  },
  "/catalog-rh-rhinoplastic-chisels.html": {
-  "hash": "ad2201ad5da98bb6f22bc86bd1dba23477e045b2",
+  "hash": "2fcdc1ff5448c7654018baf646fa8f7e0718ee4d",
   "date": "2026-09-10"
  },
  "/catalog-rh-cartilage-crusher.html": {
-  "hash": "6546ba4b0b8eae97685752fa384bc5e07a428d1d",
+  "hash": "533947ebec50ef670dbf9be135be1509bc840f8f",
   "date": "2026-09-10"
  },
  "/catalog-rh-nasal-rasps.html": {
-  "hash": "6be61409f20545df4c52d2e03da010703b800acc",
+  "hash": "c324ac112825e3a72a8d00985a73a7969c6a3b7f",
   "date": "2026-09-10"
  },
  "/catalog-rh-alar-hooklets.html": {
-  "hash": "211bd0a4b9346b3cd9a64ec304b7e4983ade92a1",
+  "hash": "3e5609c44113fb95744a71a7e4e7ad94021707fd",
   "date": "2026-09-10"
  },
  "/catalog-rh-antrum-curettes.html": {
-  "hash": "93c5c1bf112be2b9973cd1788fe853e69426e945",
+  "hash": "2256d7ba55137e380c731675c2a0255a1f275d22",
   "date": "2026-09-10"
  },
  "/catalog-rh-adenoid-curettes.html": {
-  "hash": "ddee7f50b08f60cf02908f54c95ab66c6044b5f6",
+  "hash": "2c3768e673388008e805bab1596dffbfa4d61e28",
   "date": "2026-09-10"
  },
  "/catalog-om.html": {
-  "hash": "c5a87e38fa551b1178ce5d05db35a01a2a275ba3",
+  "hash": "dc90fa8a0dab98111e7b17667aedd9c573b9c96b",
   "date": "2026-09-10"
  },
  "/catalog-om-finger-protectors.html": {
-  "hash": "b24ea1b3d67b245e77b336c6420d6b7b260bda65",
+  "hash": "e1302b2111a945f1fd91143b4dc0000015cd4f5e",
   "date": "2026-09-10"
  },
  "/catalog-om-mouth-gag.html": {
-  "hash": "f31f6ec1fdbac32a2fc0fd64bae3e665fd5adcbe",
+  "hash": "6feaed81ea37bbda483b3ab1280133c24b542127",
   "date": "2026-09-10"
  },
  "/catalog-om-lip-and-cheek-retractors.html": {
-  "hash": "2d145092e0a6ca86bc9f8396943a66ccb6634c21",
+  "hash": "1f08c9248bc0644957c783d504af3568ab2becfc",
   "date": "2026-09-10"
  },
  "/catalog-om-tongue-depressors.html": {
-  "hash": "18e98aca6fd54db4642ce94b154f41a25a348216",
+  "hash": "da4b8622b438c2b7e2d3a1a8d1dfcc708c2db346",
   "date": "2026-09-10"
  },
  "/catalog-om-tongue-holding-forceps.html": {
-  "hash": "10afb56fa131750da2e0a500809e6278181f957b",
+  "hash": "163b71c468702b1d52662b42145cb1274f6be63f",
   "date": "2026-09-10"
  },
  "/catalog-om-oral-retractors.html": {
-  "hash": "7d330cc3986c8d94f25616dcbeeb876075c9b2c5",
+  "hash": "ea71d85a62cea8b2dcbb90b5cb2445549b3ed12a",
   "date": "2026-09-10"
  },
  "/catalog-om-soft-tissue-retractors.html": {
-  "hash": "e2a98032b4a23b19a55658adc46aee075c0acbd6",
+  "hash": "c38fb659f06d8b4afdcdb2df0ac193bed39d2051",
   "date": "2026-09-10"
  },
  "/catalog-om-periosteal-elevator.html": {
-  "hash": "5257dac031cc461519cf05d6f9b6b2f2c7c49648",
+  "hash": "247b38845fdcf9c2a75f93421f176b26a6a88c0e",
   "date": "2026-09-10"
  },
  "/catalog-om-sinus-lift-curettes.html": {
-  "hash": "f160cfaf72d3a27392e02f778313544aae7b1064",
+  "hash": "f56d38f19ebe5f4911d591417b61d31eef13b6bb",
   "date": "2026-09-10"
  },
  "/catalog-om-retractors.html": {
-  "hash": "0e316460fec96d425f21d32e72a785389657c979",
+  "hash": "4bbb0a2385b052fe2f15a7311bef829bb06a8f42",
   "date": "2026-09-10"
  },
  "/catalog-tn.html": {
-  "hash": "2e1a67b9fba94356428c2d8ff6ec2ab086fc8ae9",
+  "hash": "eaa72b19f6ee96bd883136f83b9b8934d1497589",
   "date": "2026-09-10"
  },
  "/catalog-tn-tonsil-elevator-retractors.html": {
-  "hash": "11f80a263015443a007608f163518c9461780a7f",
+  "hash": "d82afc8ebfbc1ac6d98364ab7af7ce06a1e41f8a",
   "date": "2026-09-10"
  },
  "/catalog-tn-tonsil-instruments.html": {
-  "hash": "c2af81dc356c3e631a1fcd90ad2dcdeeb8e71369",
+  "hash": "135cd7990363f682f26939cd3946c6b4d7c23c67",
   "date": "2026-09-10"
  },
  "/catalog-pd.html": {
-  "hash": "87e4426b6a608bd749fff0c15563702b6e790ccc",
+  "hash": "efb49204aa6bca6acc8c33de1902ee78bb1f56f4",
   "date": "2026-09-10"
  },
  "/catalog-pd-nail-nippers-and-nail-cutters.html": {
-  "hash": "0ecf6e8929b3f8f83b7509cee3c9f96896f18f9f",
+  "hash": "25cef2a2671193246e2391b1766cc2de3c93ca9c",
   "date": "2026-09-10"
  },
  "/catalog-pd-nail-instruments.html": {
-  "hash": "01ae0b99532da5757b5a0350836aabaf5a79245e",
+  "hash": "ba631cfdc004d02ec7a2ce733fc970602c9ab0ea",
   "date": "2026-09-10"
  },
  "/catalog-dn.html": {
-  "hash": "a79000f176ee15e2bc9b4e5ef48c14e406e44d31",
+  "hash": "b82b6bef79717fe9ac7dda3e16a02eac1f6c4149",
   "date": "2026-09-10"
  },
  "/catalog-dn-extracting-forceps.html": {
-  "hash": "4272017e4552e4775b9a710a1988c3071c9d2de2",
+  "hash": "dd7356f76f92d56130107a7efb4c663aa49aadc3",
   "date": "2026-09-10"
  },
  "/catalog-dn-tooth-extracting-forceps.html": {
-  "hash": "1d9eee598dd0a2299ba8ade841f3141b72ceee54",
+  "hash": "1d293775c71cbbbc5dede29e014f4c3e1db2140a",
   "date": "2026-09-10"
  },
  "/catalog-dn-roots-splinter-forceps.html": {
-  "hash": "e163c47a4d7b78a6fcb2c962c9b19e84ddd28ce8",
+  "hash": "c4f395008f65aa1a16a2c5a19185cdb02e94c897",
   "date": "2026-09-10"
  },
  "/catalog-dn-bone-rongeurs.html": {
-  "hash": "94e66a6b3db4ca338717bddc5d25097210e61f28",
+  "hash": "b0f7c9db5ed390405c1d0a69dee7fe38512cf971",
   "date": "2026-09-10"
  },
  "/catalog-dn-root-elevators.html": {
-  "hash": "55bade09367618bd4d637eba8880128a04fcec6f",
+  "hash": "148bcf5c207429050693647f9ebf9be94206404c",
   "date": "2026-09-10"
  },
  "/catalog-dn-pliers-for-orthodontics-and-prosthetics.html": {
-  "hash": "2b8947d2bad95768ad16979fcb67344fdc90bd40",
+  "hash": "939a4f194171b3991a92658d3ce7bbd5a7396def",
   "date": "2026-09-10"
  },
  "/catalog-dn-orthodontics-instruments.html": {
-  "hash": "dd1e05af521986887083c7923ffc623ba125409d",
+  "hash": "69a1c5f47c40476c3f4ae3f36f3f4bc367f08ed9",
   "date": "2026-09-10"
  },
  "/catalog-dn-gum-scissors.html": {
-  "hash": "983fa2d5f30488b67d9c9f1234b607e0874d58f6",
+  "hash": "83b5eecf46f9ec50a6912e2f15d8d0070dbf2681",
   "date": "2026-09-10"
  },
  "/catalog-dn-surgical-scissors.html": {
-  "hash": "0e3c089a862823a3a1a6a6e522e8d74d99772b8c",
+  "hash": "71b5b7ed13e20402578213b4f1b0218d5b91f8ca",
   "date": "2026-09-10"
  },
  "/catalog-dn-haemostatic-forceps.html": {
-  "hash": "881c272bce8afea305739e46789ac70ab67359c1",
+  "hash": "58ec8673724ea41b1a006685572d08c083ec32d7",
   "date": "2026-09-10"
  },
  "/catalog-dn-sponge-and-dressing-forceps.html": {
-  "hash": "0632e4820c3ba3b8e1f2d7562c2efdfac0e42faf",
+  "hash": "220c9a49d137c279d50add604bf1751d17b870df",
   "date": "2026-09-10"
  },
  "/catalog-dn-needle-holders.html": {
-  "hash": "422b68ba119453964ee3b3684b264f0ef71a9c0f",
+  "hash": "42ef3855ec80bba0cee8e345fe21c7ade133928b",
   "date": "2026-09-10"
  },
  "/catalog-dn-towel-clamps-sterilizing-forceps-for-sterile-instruments.html": {
-  "hash": "e70a075f48cc2201ecfb5975b5f1662ebd811ca8",
+  "hash": "9527849abfa96d7443f8b51c65ee79a1a6037fea",
   "date": "2026-09-10"
  },
  "/catalog-dn-skin-hook-and-retractors.html": {
-  "hash": "b60105487ec4f29468beb51a7ccf3cb9326923d4",
+  "hash": "80bc486752325f2b3923f43ed6afea17b836c406",
   "date": "2026-09-10"
  },
  "/catalog-dn-retractors.html": {
-  "hash": "406b0aa1ea60562912a327b2a409ec4cdd66b89a",
+  "hash": "75f11e4ef209dcc8dbd6218f0cf03f0a892811aa",
   "date": "2026-09-10"
  },
  "/catalog-dn-cheek-retractors.html": {
-  "hash": "57fce9077b228f97ee1ffc4fbae45847b3647af7",
+  "hash": "9b6d3356e8199317e7de8c90534ccc281831a034",
   "date": "2026-09-10"
  },
  "/catalog-dn-elevators.html": {
-  "hash": "e0f0135c59a05533ea6023353558ddc583212bb4",
+  "hash": "cba29184040cd28b6aaac4e44e387daf0945ddfb",
   "date": "2026-09-10"
  },
  "/catalog-dn-raspatories.html": {
-  "hash": "2aee10602d488a8584f781817f5a65a306f939b0",
+  "hash": "29a0ce50785a4fe681f86d403b23d614d97aa70a",
   "date": "2026-09-10"
  },
  "/catalog-dn-chisels-and-gouges.html": {
-  "hash": "8c851d105946f22f16593e2dc5e32599b53852f8",
+  "hash": "6a9d4128121e8112aba97f85d072703f473a1d76",
   "date": "2026-09-10"
  },
  "/catalog-dn-rubber-dam-instruments.html": {
-  "hash": "dc3b8d3ef2e1028161f2db7ae9fdbc0a429cc1d1",
+  "hash": "ce7e8e9bdcd52f9e6445d5f7df94c73d194b21e4",
   "date": "2026-09-10"
  },
  "/catalog-dn-tissue-pliers.html": {
-  "hash": "d0009b2d8c033a5af896309832485e344656162b",
+  "hash": "717f63761a69711592e3888d84c10755710c392c",
   "date": "2026-09-10"
  },
  "/catalog-dn-cotton-and-dressing-pliers.html": {
-  "hash": "99a0a9da1ab96cd23611f5bbc1cfcd1359d0daa2",
+  "hash": "c95b13a47085e4138676c2ff2cc713f59ef6df8d",
   "date": "2026-09-10"
  },
  "/catalog-dn-mouth-mirrors.html": {
-  "hash": "9a13304452329a2613a130b1ec7e8f8bca0fcfac",
+  "hash": "45a0914e96b8a0d46e55869030a66affc637cbdf",
   "date": "2026-09-10"
  },
  "/catalog-dn-scalpel-handles.html": {
-  "hash": "dc2eb394d48ffc4a9f03dca07836d55eec100414",
+  "hash": "aad9d015a893ea7739f542c75276d65aa0f18637",
   "date": "2026-09-10"
  },
  "/catalog-dn-explorers.html": {
-  "hash": "077aa842a5d6f713cb42afbe93be2972e7b21ab8",
+  "hash": "be743262021424108ebafa0e3d7cd0e18b40ac4a",
   "date": "2026-09-10"
  },
  "/catalog-dn-periodontal-pocket-probes.html": {
-  "hash": "092d7e5b4d4a03151ae1eb9c93c90a87b3851f59",
+  "hash": "cdd598e735e8080675c2e930fb2a8555a206fe41",
   "date": "2026-09-10"
  },
  "/catalog-dn-filling-instruments.html": {
-  "hash": "24d3dba7d73003da392f47a4a3c71961707817a3",
+  "hash": "f7245a8296e19e2e0571372d4d152e5b971c5027",
   "date": "2026-09-10"
  },
  "/catalog-dn-plastic-filling-instruments.html": {
-  "hash": "3782aca4f6392434f0de3fdc3b33dffc6fc72a51",
+  "hash": "1b05eedb05540a743e1ac3dc40b062f7c215de8a",
   "date": "2026-09-10"
  },
  "/catalog-dn-amalgam-carvers.html": {
-  "hash": "9261482bac8198e41a2bbfa159eee3190ace9941",
+  "hash": "5e00a81143d5544cfa7d35c42a3416d22c2fe159",
   "date": "2026-09-10"
  },
  "/catalog-dn-cavity-preparation-instruments.html": {
-  "hash": "0ae906dec0ec9195a046f4ee6b858ed9b7bbdc40",
+  "hash": "f66b2b59c1ebf9d916264bc082e7ecc4321accc7",
   "date": "2026-09-10"
  },
  "/catalog-dn-excavators.html": {
-  "hash": "666b58ef7c1ea731c5a6b2626a24f2d594f80e56",
+  "hash": "7625873e91d574027545da1df6bb4301bc374494",
   "date": "2026-09-10"
  },
  "/catalog-dn-periodontia-instruments.html": {
-  "hash": "cbd17475b3bab29e785a899309012c53cff009e8",
+  "hash": "0a9c4d37baa7b1621e1f9e57b655578ff0ff6eda",
   "date": "2026-09-10"
  },
  "/catalog-dn-bone-files.html": {
-  "hash": "ea453e301e010f3b2ddc16dbed5858c00de93b42",
+  "hash": "1dcc8056bd815371179e4a32bdd79116c4472576",
   "date": "2026-09-10"
  },
  "/catalog-dn-bone-curettes.html": {
-  "hash": "d293395fdab5d359e47aec95a049af7b460b2ce8",
+  "hash": "b5c4fbf1ae5360eae9ff324389dce908802a7fd9",
   "date": "2026-09-10"
  },
  "/catalog-dn-cement-spatulas.html": {
-  "hash": "f48d38dde1bbf7dd1f5d64aaba5843cf9e109910",
+  "hash": "e825ec57f46469f0b22438e49a07252da1820028",
   "date": "2026-09-10"
  },
  "/catalog-dn-wax-and-modelling-carvers.html": {
-  "hash": "5bdb34008bf30c0c72696966e8e1cb7bbb891471",
+  "hash": "ec688813c06f9a0ef398f62859bdea1d4284b88c",
   "date": "2026-09-10"
  },
  "/catalog-dn-spatulas-for-plaster-and-alginate.html": {
-  "hash": "937256aba50fedd5552867fb051f70db472f0781",
+  "hash": "a06a0c37464b881c84433220dd84b0fd64fa0ee1",
   "date": "2026-09-10"
  },
  "/catalog-dn-chip-blowers.html": {
-  "hash": "63c53e414cc2295f0d3bbc33c4d932cf4d3f499c",
+  "hash": "7b423aa9b59e1e4ce1f8dc50d4be1adfeaa1c4b0",
   "date": "2026-09-10"
  },
  "/catalog-dn-matrix-retainers.html": {
-  "hash": "6f2ef527d3f562f17b5fa6450ccd59331ac28558",
+  "hash": "234427097b8a2cd43d015fa44d8d4ae233fc502a",
   "date": "2026-09-10"
  },
  "/catalog-dn-crown-instruments.html": {
-  "hash": "d9cc626801ef7c391525afc3d5e7a8e6991fc4de",
+  "hash": "751f0036414709d112d7480ada19335c581b7d2b",
   "date": "2026-09-10"
  },
  "/catalog-dn-stainless-steel-impression-trays.html": {
-  "hash": "81b2c35770498648cefcae078c33831a6c1b941b",
+  "hash": "d05edef39b2757e8b2176323eb0198ae6e9da41a",
   "date": "2026-09-10"
  },
  "/catalog-dn-stainless-steel-instrument-trays.html": {
-  "hash": "6cc7f4cd413a3704107093ad56c3380f3956b5be",
+  "hash": "bdc2f67e745fc824e051801b65b57afbdc1c3740",
   "date": "2026-09-10"
  },
  "/catalog-dn-rubber-dam-clamps.html": {
-  "hash": "043838c24295273551f99563bb8cae6decc86370",
+  "hash": "942c6bf4a8cd8e40eb22a2be1cb5d2f754299fd0",
   "date": "2026-09-10"
  },
  "/catalog-dn-orthodontic-pliers.html": {
-  "hash": "606ceb374d01c1ab6e6508c235c073019dc330ab",
+  "hash": "5132bd8e7f0683b24942b5f4418f05885bd1e6a8",
   "date": "2026-09-10"
  },
  "/catalog-dn-articulators.html": {
-  "hash": "b7ae4ec877589b68a5da73df77204d7ed7d7b871",
+  "hash": "32c47d634610f75e99fb8da818219493f712e086",
   "date": "2026-09-10"
  },
  "/catalog-dn-mallets-plaster-shears-saws-and-blades.html": {
-  "hash": "83efb97d21912399200099c6ab3d5e7415c95dea",
+  "hash": "449d8d221f529643cfee32e71353b88fee320e51",
   "date": "2026-09-10"
  },
  "/catalog-dn-tongue-holding-forceps.html": {
-  "hash": "6fa9d7fc4c1e25c5a955a9a7a31a87709e0ae30d",
+  "hash": "a814b8ad41130aec46432e3768014e4dc0d60f90",
   "date": "2026-09-10"
  },
  "/catalog-dn-miscellaneous-products.html": {
-  "hash": "675222fa3407c112d235c80994b643f80f4e597d",
+  "hash": "a6def012d5ebb787c96700be9c8925242b08f214",
   "date": "2026-09-10"
  },
  "/catalog-dn-calipers-and-measuring-gauges.html": {
-  "hash": "2ead237a3ce0122818b559a41452831d7aae7959",
+  "hash": "0291dfc47492ef57af6dbf58e8ee187d94a2219c",
   "date": "2026-09-10"
  },
  "/catalog-dn-implantology.html": {
-  "hash": "d7c2221fac82d24806ec0f29bd779d7e07e76d5e",
+  "hash": "ff65cb090bf5c7a1e0afa2fd4b97cbedc047ea32",
   "date": "2026-09-10"
  },
  "/catalog-dn-sterile-wash-tray-system.html": {
-  "hash": "b01dd3942d759988739cb83fec9cebd18cbf3f47",
+  "hash": "d74947ce9a1f932cf75b4d5ac5e548c0c1636b15",
   "date": "2026-09-10"
  },
  "/catalog-dn-key-rings.html": {
-  "hash": "0ea26c4965c65857094e315fa1057955d3da61b5",
+  "hash": "92518341b9250f954bac67aa58a27c6886cd7bda",
   "date": "2026-09-10"
  },
  "/catalog-or.html": {
-  "hash": "10bae0274193171486c10685775f6c52f7d112d8",
+  "hash": "f128da88c8f9d6dc99f15fa37c0969342ed53bef",
   "date": "2026-09-10"
  },
  "/catalog-or-orthopedic-dressing-plaster-instruments.html": {
-  "hash": "7618df8f96a033b60b810bb51ff944d1b9bd2589",
+  "hash": "fa24739d352549c3894519910b8d0f9aaa6dcb07",
   "date": "2026-09-10"
  },
  "/catalog-or-amputation-saw-gigli-saw.html": {
-  "hash": "d81f40bbb9928aa6537b784730ccfc4025da64a2",
+  "hash": "08570f4a1cf621ccbb415e0a58563f84c5327cc1",
   "date": "2026-09-10"
  },
  "/catalog-or-reamers.html": {
-  "hash": "c915f63127569cf1059a86d8cd7f3c556c1591d3",
+  "hash": "b58513bebdec2ee513f23a6d9d2e4cbe235be3f0",
   "date": "2026-09-10"
  },
  "/catalog-or-orthopedic-hand-bone-drills-acc.html": {
-  "hash": "5fc7e5edc764fca7b286ea32ef7b9cb52a064e15",
+  "hash": "39af91dbc6ef2a72ecec9414abf4ef4cb54ad52b",
   "date": "2026-09-10"
  },
  "/catalog-or-orthopedic-drill-bits-burs.html": {
-  "hash": "4f4633efb7803bb0de78d769ae6785477e2de2f1",
+  "hash": "5a0a497ff0c869d7fd9b29b6697acc6955fe50f6",
   "date": "2026-09-10"
  },
  "/catalog-or-vise-grips-nose-pliers-slap-hammers-all-made-of-stainless.html": {
-  "hash": "536033d64d9960be559cccbe9af8e17b83691b85",
+  "hash": "cb9086ee8e13c73da084699155f78db4631f87a0",
   "date": "2026-09-10"
  },
  "/catalog-or-nose-pliers-pulling-forceps-wire-cutters.html": {
-  "hash": "1507ba68fa5b5a56e01ee7a6378855309394a3b8",
+  "hash": "6a7bf26fa74a06fdce243218bd744b3c81bc501f",
   "date": "2026-09-10"
  },
  "/catalog-or-pliers-benders-rod-insruments.html": {
-  "hash": "0dea65ebcba4c42b4b69a14398333823ce3357fa",
+  "hash": "23d2e1ae1f80a0f3bf48ebc8324d41f0763e881f",
   "date": "2026-09-10"
  },
  "/catalog-or-wire-instruments-extension-bows.html": {
-  "hash": "59674104727d6d91bbb3e0494a62bf4cd0cc6002",
+  "hash": "16dfc0a7e56e5bc637c8b4e7e687e35332b7412f",
   "date": "2026-09-10"
  },
  "/catalog-or-ring-cutters-lead-hands-biopsy-tools.html": {
-  "hash": "39773228d329af444c1c327a3b51da19e119dd72",
+  "hash": "a70523bdb0986e4ca1f2990af1ba9676ae069175",
   "date": "2026-09-10"
  },
  "/catalog-or-bone-tampers-impactors.html": {
-  "hash": "3d35a56eff4275d00528ba6aac1bb8219a6fdc0e",
+  "hash": "4d6ee59aca6fefcd750ea15031f11150ad4eb070",
   "date": "2026-09-10"
  },
  "/catalog-or-bone-rasps.html": {
-  "hash": "86a4bd1ffaef192c7bce2f967e2898e074f7ba04",
+  "hash": "82c95f02ca4aa7256d7dcb0e9af83fe6a18fad8c",
   "date": "2026-09-10"
  },
  "/catalog-or-bone-levers.html": {
-  "hash": "1539a6c55bf41d292dc7353d9f296b4306ffa226",
+  "hash": "3d3e1fbaa54db1688acd2909ee3d2dae8cce5e99",
   "date": "2026-09-10"
  },
  "/catalog-or-chisels.html": {
-  "hash": "3dade38b928c9c63fe2441230710e81c6d69baab",
+  "hash": "844df7c3e2a4c239226d07897b44a3132e424e70",
   "date": "2026-09-10"
  },
  "/catalog-or-bone-curettes.html": {
-  "hash": "af3aecaeb66e04fb8b1238dc2ef8821611c08626",
+  "hash": "d726b10fef8897e010bc23d56a519b107847dd30",
   "date": "2026-09-10"
  },
  "/catalog-or-periosteal-elevators.html": {
-  "hash": "e914661405a37671817e37aeb781f5decbe9dffb",
+  "hash": "93787633a5cd4f3949a947e5eb574f3e2bc30f56",
   "date": "2026-09-10"
  },
  "/catalog-or-elevators-spinal-s.html": {
-  "hash": "a147b76197139435a9d377f265e9804000bffc28",
+  "hash": "713bceb870a305cd63a8d3711ea08e9eee1a4266",
   "date": "2026-09-10"
  },
  "/catalog-or-orthopedic-mallets-s.html": {
-  "hash": "2dde5af2085190ac713eeb2855376eb4f5c5e9f7",
+  "hash": "59abca7fd6450b70c75c04047bb8439ff2b33509",
   "date": "2026-09-10"
  },
  "/catalog-or-meniscus-tendon-cartilage-instruments.html": {
-  "hash": "613bb7599408a80bb417a65ad9b8669cc23a0d36",
+  "hash": "8f5884a2b4e8ee884111cd4019a95dc64cfbf1bb",
   "date": "2026-09-10"
  },
  "/catalog-or-tendon-instruments.html": {
-  "hash": "cd17a5b4fa51b2f2bb8cf35c9a3383d1917f2744",
+  "hash": "f7650bd6bba635c73b054a5c56199561ffe38168",
   "date": "2026-09-10"
  },
  "/catalog-or-bone-holding-forceps.html": {
-  "hash": "bbdcc813bac46b3bdfe4e31111059316d3ec2b8e",
+  "hash": "f65d75afe8561b586c45dce93b312f332e0d1b1d",
   "date": "2026-09-10"
  },
  "/catalog-or-bone-cutting-forceps.html": {
-  "hash": "20f826d5e65c6662a0c9baf0a37f9fc8ef97df18",
+  "hash": "9fcc607c2f1d0ea6c94c86a29f643328ff6f85e3",
   "date": "2026-09-10"
  },
  "/catalog-or-bone-rongeurs.html": {
-  "hash": "d850e56804a79609edbf0b51ab9096ca2deac882",
+  "hash": "c9ad817bb0e29db3fe4a7e72edc964a3ac0f239d",
   "date": "2026-09-10"
  },
  "/catalog-or-rib-shears.html": {
-  "hash": "83ad0e0ff85bcbe6ad0e569cfdca6b3bf6b8f8a7",
+  "hash": "cd638d2565e89534a2b9be6173c28bfe36412c9a",
   "date": "2026-09-10"
  },
  "/catalog-or-compressors.html": {
-  "hash": "7c6a8f2c1c231605f9123517460d1a02c3155568",
+  "hash": "d9b02f78464134ce4b348b8e164a3de34c289663",
   "date": "2026-09-10"
  },
  "/catalog-or-carbide-inserted-wire-pin-cutting-pliers.html": {
-  "hash": "9ef594694ccf58050c4db289ee89bc2fa40ef75d",
+  "hash": "ec436ec9834418ecd5382898d8f7ceb2f81e0cc2",
   "date": "2026-09-10"
  },
  "/catalog-or-carbide-inserted-surgical-scissors.html": {
-  "hash": "8edb0b7bf32ee04a1106f5de3630b3a24a9fad97",
+  "hash": "b04faf05b0b76a0aa32158065fc02fdb5912b8a7",
   "date": "2026-09-10"
  },
  "/catalog-or-instruments-for-traumatology.html": {
-  "hash": "79b8b11b9a83d92f576a2204c05733211f74cf9f",
+  "hash": "c3f4d041f9b16a589a51387f3e0ffeefee3344be",
   "date": "2026-09-10"
  }
 }

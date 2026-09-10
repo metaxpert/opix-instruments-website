@@ -14,10 +14,15 @@ idx.sort((a, b) => (order[a.code] ?? 99) - (order[b.code] ?? 99));
 const totalMb = idx.reduce((a, x) => a + x.mb, 0);
 const totalPages = idx.reduce((a, x) => a + x.pages, 0);
 
-const cards = idx.map(x => `      <a class="dlcard" href="${x.file}" download>
+// The card opens the PDF in a new tab instead of forcing a save. A buyer
+// deciding whether a 13 MB catalogue is the one they want should be able to
+// look at it first; the browser's own viewer still has a save button, so
+// nothing is taken away. nginx sends no Content-Disposition, so dropping the
+// download attribute is all it takes.
+const cards = idx.map(x => `      <a class="dlcard" href="${x.file}" target="_blank" rel="noopener">
         <span class="dlicon">${iconSvg(x.code)}</span>
         <span class="dltext"><b>${esc(x.title)}</b><span class="dlmeta">${x.pages} pages · ${x.mb} MB · PDF</span></span>
-        <span class="dlbtn">Download<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v12"/><path d="M7 11l5 5 5-5"/><path d="M5 21h14"/></svg></span>
+        <span class="dlbtn">View PDF<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 4h6v6"/><path d="M20 4 11 13"/><path d="M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5"/></svg></span>
       </a>`).join('\n');
 
 const html = `<!DOCTYPE html>
@@ -52,7 +57,7 @@ const html = `<!DOCTYPE html>
 <section class="sect"><div class="wrap">
   <div class="eyebrow">PDF Catalogs · ${idx.length} files</div>
   <h2>Download our catalogs</h2>
-  <p class="sub">Web-optimized PDF editions of the full Opix Instruments range — ${totalPages.toLocaleString()} catalog pages across ${idx.length} downloadable catalogs. For high-resolution print masters or a combined catalog, <a href="contact.html">contact our team</a>.</p>
+  <p class="sub">Web-optimized PDF editions of the full Opix Instruments range — ${totalPages.toLocaleString()} catalog pages across ${idx.length} downloadable catalogs. Each one opens in your browser, so you can read it before saving. For high-resolution print masters or a combined catalog, <a href="contact.html">contact our team</a>.</p>
   <div class="dlgrid">
 ${cards}
   </div>

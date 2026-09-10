@@ -196,7 +196,7 @@ function buildSection(code) {
   // file. Sections without a PDF on disk simply omit the line.
   const dl = DL_BY_CODE[code];
   const dlLink = dl
-    ? `<p class="seo-dl"><a href="/${dl.file}" download>Download the ${L.esc(man.title)} catalogue as PDF</a> — ${dl.pages} pages, ${dl.mb} MB.</p>`
+    ? `<p class="seo-dl"><a href="/${dl.file}" target="_blank" rel="noopener">View the ${L.esc(man.title)} catalogue as PDF</a> — ${dl.pages} pages, ${dl.mb} MB, opens in your browser.</p>`
     : '';
 
   const intro = `<div class="seo-intro">

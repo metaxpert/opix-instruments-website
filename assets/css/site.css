@@ -281,6 +281,25 @@ footer{border-top:1px solid var(--line);background:var(--white);margin-top:40px}
 .seo-dl a{color:var(--blue);font-weight:600;text-decoration:underline;text-underline-offset:2px}
 .seo-dl a:hover{color:var(--ink)}
 
+/* Compliance mark tiles. The CE glyph is inline SVG so it inherits colour and
+   stays sharp; the others are typographic until real artwork is supplied. */
+.marks{list-style:none;display:grid;grid-template-columns:repeat(auto-fit,minmax(208px,1fr));gap:12px;margin:0 0 16px;padding:0}
+.mark{display:flex;align-items:center;gap:12px;background:var(--white);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.markglyph{flex:0 0 auto;width:52px;height:38px;border-radius:8px;background:var(--blue-soft);color:var(--ink);display:flex;align-items:center;justify-content:center}
+.markglyph img{max-width:44px;max-height:30px}
+.cemark{width:37px;height:24px}
+.marktype{font-family:'Archivo',sans-serif;font-weight:800;font-size:13px;color:var(--ink)}
+.marklabel{display:flex;flex-direction:column;min-width:0}
+.marklabel b{font-family:'Archivo',sans-serif;font-size:13.5px;color:var(--ink);font-weight:700;line-height:1.2}
+.marklabel span{font-size:11.5px;color:var(--mist);margin-top:2px;line-height:1.35}
+/* Footer variant: same tiles, stripped back so they read as a quiet trust row. */
+.marks.compact{display:flex;flex-wrap:wrap;justify-content:center;gap:6px;max-width:1180px;margin:0 auto;padding:0 24px 20px}
+.marks.compact .mark{background:transparent;border:0;padding:6px 10px;gap:9px}
+.marks.compact .markglyph{width:40px;height:27px;border-radius:6px}
+.marks.compact .cemark{width:29px;height:19px}
+.marks.compact .marktype{font-size:11.5px}
+.marks.compact .marklabel b{font-size:12px;color:var(--mist);font-weight:600}
+
 /* Certificate cards (home page, Quality & compliance). Same card language as
    .dlcard — white panel, hairline border, blue lift on hover — but stacked
    rather than inline, because each one carries a small spec table. */

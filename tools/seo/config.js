@@ -83,6 +83,32 @@ const SITE = {
       ],
     },
   ],
+
+  /* Compliance and membership marks — the trust strip in the home page's
+     Quality section and in the footer.
+
+     Only CE is drawn as its actual symbol. That is a deliberate limit:
+
+       CE    — a conformity mark the manufacturer affixes itself. Ours to use,
+               and drawn to the Regulation 765/2008 Annex II construction.
+       ISO   — ISO prohibits certified organisations from using the ISO logo.
+               A certified company states the standard, as this does, or uses
+               its certification body's mark. Never ISO's own.
+       FDA   — the FDA logo is for FDA use only; a private firm displaying it
+               implies an endorsement FDA does not give. Registration is also
+               not approval, so the wording stays "registered" throughout.
+       SIMAP — a membership mark, usable with the association's own artwork,
+               which we do not hold.
+
+     Set `img` on an entry to a file under assets/img/brand/ and that artwork
+     renders in place of the typographic tile — that is the route for the
+     SIMAP mark, or for the certification body's ISO mark, once supplied. */
+  marks: [
+    { id: "ce",    glyph: "ce",    name: "CE marked",      sub: "MDR 2017/745 · Class I" },
+    { id: "iso",   glyph: "13485", name: "ISO 13485:2016", sub: "Certified quality system" },
+    { id: "fda",   glyph: "FDA",   name: "FDA registered", sub: "US establishment registration" },
+    { id: "simap", glyph: "SIMAP", name: "SIMAP member",   sub: "Pakistan manufacturers association" },
+  ],
 };
 
 /* Buyer segments — used to write intro copy that speaks to all four at once
