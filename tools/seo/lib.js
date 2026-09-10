@@ -258,7 +258,7 @@ function buildHead(spec) {
   for (const f of (spec.fonts || ['archivo-700', 'inter-400']))
     L.push(`<link rel="preload" href="/assets/fonts/${f}.woff2" as="font" type="font/woff2" crossorigin>`);
   if (spec.preloadImg) L.push(`<link rel="preload" as="image" href="${spec.preloadImg}" fetchpriority="high">`);
-  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 6}">`);
+  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 7}">`);
   if (spec.extra) L.push(spec.extra);
   for (const s of (spec.schema || [])) L.push(jsonld(s));
   return L.join('\n');

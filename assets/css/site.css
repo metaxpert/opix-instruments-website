@@ -281,6 +281,18 @@ footer{border-top:1px solid var(--line);background:var(--white);margin-top:40px}
 .seo-dl a{color:var(--blue);font-weight:600;text-decoration:underline;text-underline-offset:2px}
 .seo-dl a:hover{color:var(--ink)}
 
+/* Certification & membership logos (about page). A fixed-height art box keeps
+   logos of different aspect ratios sitting on the same baseline. */
+.certlogos{list-style:none;display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:14px;margin:18px 0 0;padding:0}
+.certlogos li{display:flex;flex-direction:column;background:var(--white);border:1px solid var(--line);border-radius:11px;padding:16px}
+.cl-art{height:58px;display:flex;align-items:center;margin-bottom:11px;color:var(--ink)}
+.cl-art img{max-height:52px;max-width:100%;width:auto;object-fit:contain}
+.cl-art .cemark{width:56px;height:36px}
+.certlogos b{font-family:'Archivo',sans-serif;font-size:14.5px;color:var(--ink);font-weight:700;line-height:1.25}
+.certlogos li>span:not(.cl-art){font-size:13px;color:var(--graphite);line-height:1.5;margin-top:5px}
+.certlogos a{margin-top:auto;padding-top:11px;font-size:13px;font-weight:600;color:var(--blue)}
+.certlogos a:hover{text-decoration:underline;text-underline-offset:2px}
+
 /* Compliance mark tiles. The CE glyph is inline SVG so it inherits colour and
    stays sharp; the others are typographic until real artwork is supplied. */
 .marks{list-style:none;display:grid;grid-template-columns:repeat(auto-fit,minmax(208px,1fr));gap:12px;margin:0 0 16px;padding:0}
