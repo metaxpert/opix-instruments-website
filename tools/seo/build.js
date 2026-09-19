@@ -11,6 +11,7 @@ const C = require('./chrome.js');
 const catalog = require('./catalog.js');
 const { DOWNLOADS } = require('./downloads.js');
 const sets = require('./sets.js');
+const distributors = require('./distributors.js');
 
 const ROOT = L.ROOT;
 const { SECTIONS, built, manifest } = C;
@@ -425,6 +426,7 @@ function main() {
 
   buildIndex();
   buildCatalogHub();
+  distributors.generate(write);
 
   buildStatic('specialties.html', 'specialties', {
     url: '/specialties.html',
@@ -542,6 +544,7 @@ function main() {
   push('/downloads.html', '0.7', 'monthly', 'core');
   push('/about.html', '0.6', 'yearly', 'core');
   push('/contact.html', '0.7', 'yearly', 'core');
+  push('/distributors.html', '0.8', 'yearly', 'core');
 
   // The PDFs themselves. Google indexes PDFs and ranks them for the
   // "<specialty> instrument catalogue pdf" queries a buyer actually types;
@@ -576,7 +579,7 @@ function main() {
   ${sections} section pages   (${TOTAL.toLocaleString()} products pre-rendered into HTML)
   ${cats} category pages
   ${setPages.length - 1} procedure-set pages + index
-  6 core pages + 404
+  7 core pages + 404
   ${sm.count} URLs across ${sm.files.length} sitemap files`);
 }
 

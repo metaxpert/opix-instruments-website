@@ -15,6 +15,7 @@ const NAV = [
   ['catalog-sl.html', 'Catalog',         'catalog'],
   ['specialties.html','Specialties',     'specialties'],
   ['downloads.html',  'Downloads',       'downloads'],
+  ['distributors.html','Distributors',   'distributors'],
   ['about.html',      'About &amp; Quality', 'about'],
   ['contact.html',    'Contact / RFQ',   'contact'],
 ];
@@ -96,6 +97,7 @@ function footer() {
   <div><h3>Buyers</h3>
     <a href="/contact.html">Request a quotation</a>
     <a href="/downloads.html">Download PDF catalogs</a>
+    <a href="/distributors.html">Become a distributor</a>
     <a href="/about.html#oem">OEM &amp; private label</a>
     <a href="/specialties.html">Shop by specialty</a></div>
   <div><h3>Contact</h3>

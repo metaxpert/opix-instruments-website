@@ -456,3 +456,18 @@ footer{border-top:1px solid var(--line);background:var(--white);margin-top:40px}
 .searchpage .hit b{color:var(--ink)}
 .searchpage .hit .sec{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--blue)}
 /*/SEO:COMPONENTS*/
+
+/* Distributor appointment steps. Numbered because it is a real sequence —
+   the Letter of Authorisation cannot issue before the agreement is signed. */
+.steps{list-style:none;margin:18px 0 0;padding:0;display:flex;flex-direction:column;gap:0;max-width:78ch}
+.steps li{display:grid;grid-template-columns:52px 1fr;gap:18px;padding:16px 0;border-top:1px solid var(--line)}
+.steps li:last-child{border-bottom:1px solid var(--line)}
+.stepn{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--blue);font-weight:600;padding-top:2px}
+.stept{display:flex;flex-direction:column;gap:4px}
+.stept b{font-family:'Archivo',sans-serif;font-size:15px;color:var(--ink);font-weight:700}
+.stept span{font-size:14px;color:var(--graphite);line-height:1.55}
+.settable .mkt{white-space:nowrap;vertical-align:top}
+.settable .mkt b{font-family:'Archivo',sans-serif;font-size:14.5px;color:var(--ink);display:block}
+.settable .mkt span{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--mist);letter-spacing:.3px}
+.settable td{vertical-align:top}
+@media(max-width:520px){.steps li{grid-template-columns:1fr;gap:6px}}
