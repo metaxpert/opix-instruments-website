@@ -115,6 +115,16 @@ function fixSectionCardImages(h) {
 const FAQ = [
   ["Are Opix Instruments ISO 13485 certified?",
    "Yes. Opix Instruments manufactures under an ISO 13485:2016 quality management system, registration SCS/QMS/2025050101, valid to 9 May 2027. The range is CE compliant to MDR 2017/745 as Class I reusable, non-sterile devices under registration SCS/EC/2025050102, and the facility holds a US FDA establishment registration. The ISO 13485 and CE certificates can be downloaded from the Quality section of our home page; technical files and material declarations are issued on request."],
+  /* The two questions an EU or US buyer asks before anything else. Both are
+     written to the documents we can actually produce, and both say what a
+     registration is NOT: the FDA treats "approved" or "cleared" on a Class I
+     establishment registration as misbranding, and we hold a certificate of
+     CE compliance rather than a notified-body certificate. Regulatory buyers
+     read the difference as competence, not as a hedge. */
+  ["What documentation do you provide for the EU market?",
+   "Opix supplies the documentation an EU importer or distributor needs for its own obligations under MDR 2017/745: the ISO 13485:2016 certificate, the CE Declaration of Conformity, technical documentation compiled to Annex II and III, EN 10204 3.1 material certificates for the stainless steel, reprocessing instructions for use, and certificates of origin and free sale. A summary pack goes out with the first quotation; the complete technical file is released under NDA once a supply agreement is in place. Tell us which market you are registering in and we will confirm exactly which documents your authorised representative or competent authority will ask for."],
+  ["What documentation do you provide for the US market?",
+   "For the United States we provide our FDA establishment registration details, the ISO 13485:2016 certificate, device specifications and catalogue numbers for your device listing, EN 10204 3.1 material certificates, reprocessing instructions for use, and certificates of origin and free sale. Most hand-held instruments in this range are Class I and 510(k)-exempt. An establishment registration is a registration, not an FDA approval or clearance, and we state it that way deliberately. The full documentation pack is released under NDA once a supply agreement is in place."],
   ["What is your minimum order quantity?",
    "MOQ is set per item and per finish, and is negotiable on mixed orders. Most catalogue instruments start at 10 pieces per reference; assembled sets and private-label runs are quoted individually. Send the catalogue numbers you need and we will confirm the MOQ with the quotation."],
   ["Do you supply OEM and private-label instruments?",
