@@ -337,6 +337,9 @@ footer{border-top:1px solid var(--line);background:var(--white);margin-top:40px}
 .cl-art{height:58px;display:flex;align-items:center;margin-bottom:11px;color:var(--ink)}
 .cl-art img{max-height:52px;max-width:100%;width:auto;object-fit:contain}
 .cl-art .cemark{width:56px;height:36px}
+/* Typographic stand-in where there is no usable mark: the FDA logo may not be
+   displayed by a private firm, and SCCI supplied none. */
+.cl-type{font-family:'Archivo',sans-serif;font-weight:800;font-size:19px;letter-spacing:.5px;color:var(--ink)}
 .certlogos b{font-family:'Archivo',sans-serif;font-size:14.5px;color:var(--ink);font-weight:700;line-height:1.25}
 .certlogos li>span:not(.cl-art){font-size:13px;color:var(--graphite);line-height:1.5;margin-top:5px}
 .certlogos a{margin-top:auto;padding-top:11px;font-size:13px;font-weight:600;color:var(--blue)}
