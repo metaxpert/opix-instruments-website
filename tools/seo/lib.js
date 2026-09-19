@@ -138,6 +138,22 @@ function orgSchema() {
     "naics": "339112"
   };
   if (SITE.sameAs.length) o.sameAs = SITE.sameAs;
+  // Sites beyond the registered address. `address` holds one PostalAddress, so
+  // the production unit is published as a Place in `location` rather than
+  // being crammed into the head office's address or quietly dropped.
+  const extra = (SITE.locations || []).slice(1);
+  if (extra.length) o.location = extra.map(l => ({
+    "@type": "Place",
+    "name": l.label,
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": l.street,
+      "addressLocality": l.locality || SITE.locality,
+      "addressRegion": SITE.region,
+      ...(l.postal ? { "postalCode": l.postal } : {}),
+      "addressCountry": SITE.country
+    }
+  }));
   return o;
 }
 

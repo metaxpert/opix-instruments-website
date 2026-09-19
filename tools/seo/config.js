@@ -25,7 +25,23 @@ const SITE = {
     { label: "Landline, Sialkot",  number: "+92-52-3570076" },
     { label: "UAE",                number: "+971 55 712 9906" },
   ],
-  street:      "Ugoki Road",
+
+  /* Both Sialkot addresses. The head office is first and is the one that goes
+     into `street` above and into the Organization's postal address — an
+     Organization has exactly one of those. The production unit is published as
+     a second Place on the Organization instead, which is what schema.org has
+     for "another site this company operates from". */
+  locations: [
+    { label: "Head office",
+      street: "263-G Model Town, Ugoki", locality: "Sialkot", postal: "51310" },
+    { label: "Production unit",
+      street: "Main Wazirabad Road, opposite Forward Sports", locality: "Sialkot" },
+  ],
+  // The registered address exactly as it is printed on the ISO 13485 and CE
+  // certificates. It used to read "Ugoki Road", which is the same place said
+  // more vaguely — and a buyer's QA desk comparing the certificate against the
+  // website is comparing precisely this line.
+  street:      "263-G Model Town, Ugoki",
   locality:    "Sialkot",
   region:      "Punjab",
   postal:      "51310",
