@@ -32,14 +32,22 @@ const SITE = {
   // any rebuild and covers every subdomain).
   gscToken:    "",
   bingToken:   "",                       // <meta name="msvalidate.01" content="...">
+  // Yandex Webmaster. Russia is the one named target market where Google is not
+  // the default engine, and Yandex reports nothing until the site is verified
+  // there. <meta name="yandex-verification" content="TOKEN">
+  yandexToken: "",
   sameAs: [                              // fill in as profiles go live — these
     // "https://www.linkedin.com/company/opix-instruments",
     // "https://www.facebook.com/opixinstruments",
   ],
-  // Markets the copy is written for (drives the geo/market phrasing below).
-  markets: ["United States", "Germany", "United Kingdom", "France", "Italy",
-            "Spain", "Netherlands", "Poland", "United Arab Emirates",
-            "Saudi Arabia", "Australia", "Canada", "Brazil", "Turkey"],
+  // Markets the copy is written for. Drives the geo/market phrasing below, the
+  // areaServed of the Organization and sales ContactPoint, and the export FAQ
+  // answer — that answer is generated from this list, so the two can no longer
+  // disagree the way they did when the sentence was typed out by hand.
+  markets: ["United States", "Canada", "Germany", "United Kingdom", "France",
+            "Italy", "Spain", "Netherlands", "Poland", "Russia", "Japan",
+            "Australia", "United Arab Emirates", "Saudi Arabia", "Brazil",
+            "Turkey"],
   certs: ["ISO 13485:2016", "CE Marking", "US FDA Establishment Registration"],
 
   /* The certificates as issued, transcribed from the PDFs in

@@ -18,6 +18,15 @@ const TOTAL = Object.values(SECTIONS).reduce((a, s) => a + s.items.length, 0);
 const read = f => fs.readFileSync(path.join(ROOT, f), 'utf8');
 const write = (f, s) => fs.writeFileSync(path.join(ROOT, f), s);
 
+/* SITE.markets as an English sentence fragment, so the export answer and the
+   areaServed schema are the same list. A handful of country names take "the";
+   the rest read wrong with it. */
+const THE = new Set(['United States', 'United Kingdom', 'Netherlands', 'United Arab Emirates']);
+function marketList() {
+  const names = SITE.markets.map(m => (THE.has(m) ? 'the ' : '') + m);
+  return names.slice(0, -1).join(', ') + ' and ' + names[names.length - 1];
+}
+
 /* ---------------------------------------------------------------- rewrite
    Swaps the generated regions of a hand-written page and leaves the editorial
    body alone.
@@ -110,7 +119,7 @@ const FAQ = [
   ["Do you supply OEM and private-label instruments?",
    "Yes. Opix runs private-label programmes for distributors and resellers — your brand name, logo and reference numbers laser-marked on the instrument, your artwork on the packaging, and your catalogue structure applied to the range. Tooling for custom patterns is quoted separately."],
   ["Which countries do you export to?",
-   "Opix ships worldwide from Sialkot, Pakistan. Regular export markets include the United States, Germany, the United Kingdom, France, Italy, Spain, the Netherlands, Poland, the UAE, Saudi Arabia, Australia, Canada, Brazil and Turkey. Quotations are given on FOB or CIF terms."],
+   `Opix ships worldwide from Sialkot, Pakistan. Regular export markets include ${marketList()}. Quotations are given on FOB or CIF terms, and we supply the ISO 13485 certificate, the CE declaration of conformity and the technical file an importer needs for its own registration.`],
   ["What are your lead times?",
    "Stocked catalogue references typically ship in 2 to 4 weeks. Larger orders, assembled sets and private-label runs generally take 6 to 10 weeks depending on quantity and finish. Confirmed lead time is stated on every quotation."],
   ["Why are no prices shown on the website?",

@@ -229,6 +229,7 @@ function buildHead(spec) {
   L.push(`<meta name="geo.position" content="${SITE.lat};${SITE.lon}">`);
   if (SITE.gscToken)  L.push(`<meta name="google-site-verification" content="${attr(SITE.gscToken)}">`);
   if (SITE.bingToken) L.push(`<meta name="msvalidate.01" content="${attr(SITE.bingToken)}">`);
+  if (SITE.yandexToken) L.push(`<meta name="yandex-verification" content="${attr(SITE.yandexToken)}">`);
   L.push('');
   L.push('<link rel="icon" type="image/png" href="/assets/img/brand/favicon.png">');
   L.push('<link rel="apple-touch-icon" href="/assets/img/brand/opix-mark.png">');
