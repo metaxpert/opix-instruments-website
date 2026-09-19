@@ -205,6 +205,91 @@ systemctl --user is-enabled opix-nginx opix-tunnel
 
 ---
 
+## 6a. Country blocking (Pakistan)
+
+The origin can refuse a whole country. It is wired up but **off** — the switch
+is one line. Everything keys on `CF-IPCountry`, which Cloudflare stamps on
+every request it forwards; a request that never went through Cloudflare has no
+such header, so `127.0.0.1:8091` keeps working no matter what is blocked.
+
+### Check the current state
+
+```bash
+grep -A3 'map $http_cf_ipcountry' ~/.local/opix-nginx/nginx.conf
+```
+
+`"PK"    1;` means blocking is armed, `"PK"    0;` means it is off. To see what
+the *running* server does, without waiting for a real visitor:
+
+```bash
+curl -s -o /dev/null -w '%{http_code}\n' -H 'CF-IPCountry: PK' http://127.0.0.1:8091/   # 403 = blocking
+curl -s -o /dev/null -w '%{http_code}\n' -H 'CF-IPCountry: US' http://127.0.0.1:8091/   # 200 always
+```
+
+### Turn it ON
+
+The office is in Pakistan. Put its public IPv4 in the allowlist first, or the
+office loses the public site along with everyone else:
+
+```bash
+curl -s https://ifconfig.me          # the office's public IP, run from the office
+```
+
+In `deploy/nginx.conf`, uncomment and set the line in `geo $geo_allowlisted`:
+
+```nginx
+geo $geo_allowlisted {
+  default 0;
+  203.0.113.45/32  1;        # <- the address from above
+}
+```
+
+Then apply:
+
+```bash
+cp deploy/nginx.conf deploy/security-headers.conf ~/.local/opix-nginx/
+nginx -p ~/.local/opix-nginx -c ~/.local/opix-nginx/nginx.conf -t   # ALWAYS test first
+systemctl --user reload opix-nginx
+```
+
+### Turn it OFF — the revert
+
+Change the one line in `deploy/nginx.conf` from `1` to `0`:
+
+```nginx
+map $http_cf_ipcountry $geo_country_blocked {
+  default 0;
+  "PK"    0;                 # was 1
+}
+```
+
+then the same three commands as above. Nothing else needs touching, and the
+allowlist can stay where it is. Confirm with the `CF-IPCountry: PK` curl — it
+should answer 200 again.
+
+### Locked out with no shell
+
+Reverting needs a shell on this machine, and the block never applies to
+`127.0.0.1`, so a local terminal always works. If the block is instead in
+Cloudflare's WAF, disable the custom rule in the dashboard — that needs no
+access to this machine at all, which is one reason to prefer it.
+
+### Doing it at Cloudflare instead
+
+Better: the request is dropped at the edge rather than carried down the tunnel
+to a machine in Sialkot. *Security → WAF → Custom rules*, expression
+
+```
+(ip.src.country eq "PK" and not cf.client.bot)
+```
+
+action Block. `not cf.client.bot` keeps verified crawlers out of the rule.
+Reverting is the toggle next to the rule. Keep the nginx rule as the backstop
+for anything that reaches the origin another way.
+
+Blocking a country is **not** a robots directive. Googlebot, Bingbot and
+YandexBot crawl from outside PK, so nothing changes in search.
+
 ## 7. Changing DNS / rolling back
 
 `cloudflared tunnel route dns --overwrite-dns` replaces **one** record per
