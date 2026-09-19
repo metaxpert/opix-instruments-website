@@ -91,7 +91,8 @@ function footer() {
     <a href="/catalog-af.html">Artery &amp; hemostatic forceps</a>
     <a href="/catalog-bs.html">Bone surgery instruments</a>
     <a href="/catalog-dn.html">Dental instruments</a>
-    <a href="/catalog-or.html">Orthopedic instruments</a></div>
+    <a href="/catalog-or.html">Orthopedic instruments</a>
+    <a href="/sets/">Procedure sets</a></div>
   <div><h3>Buyers</h3>
     <a href="/contact.html">Request a quotation</a>
     <a href="/downloads.html">Download PDF catalogs</a>

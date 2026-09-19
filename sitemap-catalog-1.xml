@@ -1,8 +1,134 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
+    <loc>https://www.opixinst.com/sets/</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-gs-001-major-surgery-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-gs-002-basic-laparotomy-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-gs-010-minor-surgery-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-lg-001-cholecystectomy-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-ga-001-bowel-resection-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-ob-001-caesarean-section-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-gy-001-abdominal-hysterectomy-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-gy-010-d-c-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-tn-001-tonsillectomy-adenoidectomy-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-rh-001-ent-smr-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-tr-001-tracheostomy-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-or-001-basic-orthopedic-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-bs-001-amputation-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-cv-001-thoracotomy-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-cv-010-vascular-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-ns-001-laminectomy-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-og-001-cataract-eye-micro-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-dn-001-dental-extraction-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-su-001-suture-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/sets/set-dr-001-dressing-set.html</loc>
+    <lastmod>2026-09-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.opixinst.com/catalog-sl.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -20,7 +146,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-sl-scalpel-handles.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -38,7 +164,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-sl-scalpel-blades.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -56,7 +182,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-sl-micro-scalpel.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -74,7 +200,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-sl-operating-knives.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -92,7 +218,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-sl-post-mortem-knives.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -110,7 +236,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-sl-amputation-and-resection.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -128,7 +254,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-sl-fistula-tonsil-and-razor.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -146,7 +272,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-sl-dermatomes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -164,7 +290,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-sl-blade-holders-and-punches.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SL-6010.jpg</image:loc><image:title>Scalpel Handle # 3, Solid — SL-6010</image:title></image:image>
@@ -182,7 +308,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -200,7 +326,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss-operating-scissors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -218,7 +344,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss-dissecting-scissors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -236,7 +362,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss-micro-scissors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -254,7 +380,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss-vascular-scissors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -272,7 +398,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss-eye-iris-and-tenotomy.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -290,7 +416,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss-gynecology.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -308,7 +434,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss-ent-gum-and-dental.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -326,7 +452,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss-bandage-and-utility.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -344,7 +470,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ss-special-purpose.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SS-400-1.jpg</image:loc><image:title>Operating Scissor, Operating Scissor, Straight, Blunt/Blunt — SS-400-1</image:title></image:image>
@@ -362,7 +488,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-fr.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/FR-200-1.jpg</image:loc><image:title>Standard Pattern Dressing Forcep, Straight, Serrated — FR-200-1</image:title></image:image>
@@ -380,7 +506,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-fr-dissecting-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/FR-200-1.jpg</image:loc><image:title>Standard Pattern Dressing Forcep, Straight, Serrated — FR-200-1</image:title></image:image>
@@ -398,7 +524,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-fr-tissue-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/FR-200-1.jpg</image:loc><image:title>Standard Pattern Dressing Forcep, Straight, Serrated — FR-200-1</image:title></image:image>
@@ -416,7 +542,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-fr-jeweler-type.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/FR-200-1.jpg</image:loc><image:title>Standard Pattern Dressing Forcep, Straight, Serrated — FR-200-1</image:title></image:image>
@@ -434,7 +560,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-fr-splinter-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/FR-200-1.jpg</image:loc><image:title>Standard Pattern Dressing Forcep, Straight, Serrated — FR-200-1</image:title></image:image>
@@ -452,7 +578,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-fr-grasping-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/FR-200-1.jpg</image:loc><image:title>Standard Pattern Dressing Forcep, Straight, Serrated — FR-200-1</image:title></image:image>
@@ -470,7 +596,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-fr-vascular-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/FR-200-1.jpg</image:loc><image:title>Standard Pattern Dressing Forcep, Straight, Serrated — FR-200-1</image:title></image:image>
@@ -488,7 +614,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-fr-eye-surgery-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/FR-200-1.jpg</image:loc><image:title>Standard Pattern Dressing Forcep, Straight, Serrated — FR-200-1</image:title></image:image>
@@ -506,7 +632,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-fr-micro-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/FR-200-1.jpg</image:loc><image:title>Standard Pattern Dressing Forcep, Straight, Serrated — FR-200-1</image:title></image:image>
@@ -524,7 +650,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -542,7 +668,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-vessel-clips.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -560,7 +686,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-mini-vessel-clips.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -578,7 +704,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-bulldog-clamps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -596,7 +722,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-haemostatic-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -614,7 +740,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-dissecting-and-ligature-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -632,7 +758,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-bile-duct-clamps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -650,7 +776,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-tangential-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -668,7 +794,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-kidney-pedicle-clamps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -686,7 +812,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-hysterectomy-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -704,7 +830,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-peritoneum-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -722,7 +848,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-towel-clamps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -740,7 +866,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-af-tubing-clamps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/AF-0101.jpg</image:loc><image:title>Biemer Clip Applying Forcep, Without Lock — AF-0101</image:title></image:image>
@@ -758,7 +884,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cs.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SF-1-100.jpg</image:loc><image:title>Ulrich Dressing Forcep, Straight — SF-1-100</image:title></image:image>
@@ -776,7 +902,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cs-dressing-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SF-1-100.jpg</image:loc><image:title>Ulrich Dressing Forcep, Straight — SF-1-100</image:title></image:image>
@@ -794,7 +920,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -812,7 +938,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-micro-hooklets.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -830,7 +956,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-skin-hooks.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -848,7 +974,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-nerve-hooks.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -866,7 +992,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-hooklets.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -884,7 +1010,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-saddle-hooks.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -902,7 +1028,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-retractors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -920,7 +1046,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-abdominal-spatulas.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -938,7 +1064,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-wound-spreaders.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -956,7 +1082,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-abdominal-retractors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -974,7 +1100,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-rt-laminectomy-retractors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/RT-02-001.jpg</image:loc><image:title>Gillies Skin Hook — RT-02-001</image:title></image:image>
@@ -992,7 +1118,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-pb.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/PR-03-100.jpg</image:loc><image:title>Probe — PR-03-100</image:title></image:image>
@@ -1010,7 +1136,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-pb-probes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/PR-03-100.jpg</image:loc><image:title>Probe — PR-03-100</image:title></image:image>
@@ -1028,7 +1154,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-pb-fistula-probes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/PR-03-100.jpg</image:loc><image:title>Probe — PR-03-100</image:title></image:image>
@@ -1046,7 +1172,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-pb-varix-instruments.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/PR-03-100.jpg</image:loc><image:title>Probe — PR-03-100</image:title></image:image>
@@ -1064,7 +1190,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-pb-ring-strippers.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/PR-03-100.jpg</image:loc><image:title>Probe — PR-03-100</image:title></image:image>
@@ -1082,7 +1208,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-pb-cotton-applicators.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/PR-03-100.jpg</image:loc><image:title>Probe — PR-03-100</image:title></image:image>
@@ -1100,7 +1226,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dg.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DI-04-100.jpg</image:loc><image:title>Buck Percussion Hammer, With Needle and Brush — DI-04-100</image:title></image:image>
@@ -1118,7 +1244,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dg-percussion-hammers.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DI-04-100.jpg</image:loc><image:title>Buck Percussion Hammer, With Needle and Brush — DI-04-100</image:title></image:image>
@@ -1136,7 +1262,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dg-diagnostic-set.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DI-04-100.jpg</image:loc><image:title>Buck Percussion Hammer, With Needle and Brush — DI-04-100</image:title></image:image>
@@ -1154,7 +1280,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dg-calipers.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DI-04-100.jpg</image:loc><image:title>Buck Percussion Hammer, With Needle and Brush — DI-04-100</image:title></image:image>
@@ -1172,7 +1298,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ts.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TR-05-100.jpg</image:loc><image:title>Universal Trocar, With 4 Trocar Tips Diameter 1.7 mm, 3.0 mm, 4.5 mm and 6.0 mm — TR-05-100</image:title></image:image>
@@ -1190,7 +1316,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ts-trocars.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TR-05-100.jpg</image:loc><image:title>Universal Trocar, With 4 Trocar Tips Diameter 1.7 mm, 3.0 mm, 4.5 mm and 6.0 mm — TR-05-100</image:title></image:image>
@@ -1208,7 +1334,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ts-suction-cannulas.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TR-05-100.jpg</image:loc><image:title>Universal Trocar, With 4 Trocar Tips Diameter 1.7 mm, 3.0 mm, 4.5 mm and 6.0 mm — TR-05-100</image:title></image:image>
@@ -1226,7 +1352,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ts-suction-tubes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TR-05-100.jpg</image:loc><image:title>Universal Trocar, With 4 Trocar Tips Diameter 1.7 mm, 3.0 mm, 4.5 mm and 6.0 mm — TR-05-100</image:title></image:image>
@@ -1244,7 +1370,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ts-special-needles.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TR-05-100.jpg</image:loc><image:title>Universal Trocar, With 4 Trocar Tips Diameter 1.7 mm, 3.0 mm, 4.5 mm and 6.0 mm — TR-05-100</image:title></image:image>
@@ -1262,7 +1388,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ts-vessel-irrigation-cannulas.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TR-05-100.jpg</image:loc><image:title>Universal Trocar, With 4 Trocar Tips Diameter 1.7 mm, 3.0 mm, 4.5 mm and 6.0 mm — TR-05-100</image:title></image:image>
@@ -1280,7 +1406,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ts-guide-needles.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TR-05-100.jpg</image:loc><image:title>Universal Trocar, With 4 Trocar Tips Diameter 1.7 mm, 3.0 mm, 4.5 mm and 6.0 mm — TR-05-100</image:title></image:image>
@@ -1298,7 +1424,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-su.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SU-06-100.jpg</image:loc><image:title>Derf Needle Holder, One Fenestrated Jaw — SU-06-100</image:title></image:image>
@@ -1316,7 +1442,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-su-needle-holders.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SU-06-100.jpg</image:loc><image:title>Derf Needle Holder, One Fenestrated Jaw — SU-06-100</image:title></image:image>
@@ -1334,7 +1460,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-su-micro-needle-holders.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SU-06-100.jpg</image:loc><image:title>Derf Needle Holder, One Fenestrated Jaw — SU-06-100</image:title></image:image>
@@ -1352,7 +1478,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-su-ligature-needles.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SU-06-100.jpg</image:loc><image:title>Derf Needle Holder, One Fenestrated Jaw — SU-06-100</image:title></image:image>
@@ -1370,7 +1496,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-su-ligature-conductors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SU-06-100.jpg</image:loc><image:title>Derf Needle Holder, One Fenestrated Jaw — SU-06-100</image:title></image:image>
@@ -1388,7 +1514,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dr.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DR-07-100.jpg</image:loc><image:title>Stille Plaster of Paris Shear — DR-07-100</image:title></image:image>
@@ -1406,7 +1532,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dr-plaster-shears.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DR-07-100.jpg</image:loc><image:title>Stille Plaster of Paris Shear — DR-07-100</image:title></image:image>
@@ -1424,7 +1550,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dr-plaster-spreaders.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DR-07-100.jpg</image:loc><image:title>Stille Plaster of Paris Shear — DR-07-100</image:title></image:image>
@@ -1442,7 +1568,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1460,7 +1586,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-amputation-saws.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1478,7 +1604,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-battery-drilling-unit.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1496,7 +1622,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-hand-drills.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1514,7 +1640,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-twist-drill.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1532,7 +1658,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-wire-tightener.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1550,7 +1676,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-extension-bows.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1568,7 +1694,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-wire-drills.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1586,7 +1712,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-wire-twisting-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1604,7 +1730,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-flat-nose-pliers.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1622,7 +1748,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-wire-cutting-pliers.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1640,7 +1766,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-autopsy-instruments.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1658,7 +1784,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-bone-chisels.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1676,7 +1802,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-osteotomes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1694,7 +1820,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-gouges.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1712,7 +1838,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-bone-rasps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1730,7 +1856,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-tampers.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1748,7 +1874,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-mallets.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1766,7 +1892,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-bone-curettes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1784,7 +1910,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-periosteal-elevators.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1802,7 +1928,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-bone-levers.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1820,7 +1946,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-knee-retractors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1838,7 +1964,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-meniscus-knives.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1856,7 +1982,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-tendon-holding-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1874,7 +2000,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-reposition-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1892,7 +2018,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-bone-holding-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1910,7 +2036,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-bone-rongeurs.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1928,7 +2054,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-bone-cutting-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1946,7 +2072,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-bs-hand-restrainer.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OR-07-200.jpg</image:loc><image:title>Cherriere Amputation Saw Complete, With Saw Blade Ref: OR-010-92 — OR-07-200</image:title></image:image>
@@ -1964,7 +2090,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cv.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/CV-09-100.jpg</image:loc><image:title>Bone Shear — CV-09-100</image:title></image:image>
@@ -1982,7 +2108,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cv-rib-shears.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/CV-09-100.jpg</image:loc><image:title>Bone Shear — CV-09-100</image:title></image:image>
@@ -2000,7 +2126,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cv-rib-retractors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/CV-09-100.jpg</image:loc><image:title>Bone Shear — CV-09-100</image:title></image:image>
@@ -2018,7 +2144,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cv-rib-contractors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/CV-09-100.jpg</image:loc><image:title>Bone Shear — CV-09-100</image:title></image:image>
@@ -2036,7 +2162,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cv-bulldog-clamps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/CV-09-100.jpg</image:loc><image:title>Bone Shear — CV-09-100</image:title></image:image>
@@ -2054,7 +2180,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cv-cardiovascular-clamps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/CV-09-100.jpg</image:loc><image:title>Bone Shear — CV-09-100</image:title></image:image>
@@ -2072,7 +2198,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cv-vascular-dilators.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/CV-09-100.jpg</image:loc><image:title>Bone Shear — CV-09-100</image:title></image:image>
@@ -2090,7 +2216,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cv-tunneling-set.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/CV-09-100.jpg</image:loc><image:title>Bone Shear — CV-09-100</image:title></image:image>
@@ -2108,7 +2234,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-cv-intima-spatulas.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/CV-09-100.jpg</image:loc><image:title>Bone Shear — CV-09-100</image:title></image:image>
@@ -2126,7 +2252,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2144,7 +2270,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-self-retaining-brain-retractor.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2162,7 +2288,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-vertebral-distractor.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2180,7 +2306,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-wire-saws.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2198,7 +2324,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-skull-traction-tongs.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2216,7 +2342,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-clips-and-applying-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2234,7 +2360,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-dura-dissectors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2252,7 +2378,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-nerve-root-retractors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2270,7 +2396,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-brain-spatulas.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2288,7 +2414,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-nerve-hooks.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2306,7 +2432,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-dura-knives.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2324,7 +2450,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-laminectomy-punches.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2342,7 +2468,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ns-micro-neuro-instruments.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/NS-10-100.jpg</image:loc><image:title>Yasargil (Leyla) Brain Retractor Single Arm Complete — NS-10-100</image:title></image:image>
@@ -2360,7 +2486,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-og.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OP-11-100.jpg</image:loc><image:title>Barraquer Wire Speculum, Standard Wire — OP-11-100</image:title></image:image>
@@ -2378,7 +2504,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-og-eye-speculum.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OP-11-100.jpg</image:loc><image:title>Barraquer Wire Speculum, Standard Wire — OP-11-100</image:title></image:image>
@@ -2396,7 +2522,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-og-depressors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OP-11-100.jpg</image:loc><image:title>Barraquer Wire Speculum, Standard Wire — OP-11-100</image:title></image:image>
@@ -2414,7 +2540,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-og-eyelid-retractors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OP-11-100.jpg</image:loc><image:title>Barraquer Wire Speculum, Standard Wire — OP-11-100</image:title></image:image>
@@ -2432,7 +2558,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-og-keratome.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OP-11-100.jpg</image:loc><image:title>Barraquer Wire Speculum, Standard Wire — OP-11-100</image:title></image:image>
@@ -2450,7 +2576,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-og-diamond-knives.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OP-11-100.jpg</image:loc><image:title>Barraquer Wire Speculum, Standard Wire — OP-11-100</image:title></image:image>
@@ -2468,7 +2594,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-og-trephines.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OP-11-100.jpg</image:loc><image:title>Barraquer Wire Speculum, Standard Wire — OP-11-100</image:title></image:image>
@@ -2486,7 +2612,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-og-cannulas.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OP-11-100.jpg</image:loc><image:title>Barraquer Wire Speculum, Standard Wire — OP-11-100</image:title></image:image>
@@ -2504,7 +2630,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-og-opthalmology-instruments.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OP-11-100.jpg</image:loc><image:title>Barraquer Wire Speculum, Standard Wire — OP-11-100</image:title></image:image>
@@ -2522,7 +2648,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-tr.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TM-12-100.jpg</image:loc><image:title>Uckermann Tracheotomy Trocar — TM-12-100</image:title></image:image>
@@ -2540,7 +2666,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-tr-tracheal-dilators.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TM-12-100.jpg</image:loc><image:title>Uckermann Tracheotomy Trocar — TM-12-100</image:title></image:image>
@@ -2558,7 +2684,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-tr-tracheal-hooks.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TM-12-100.jpg</image:loc><image:title>Uckermann Tracheotomy Trocar — TM-12-100</image:title></image:image>
@@ -2576,7 +2702,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-tr-goitre-grasping-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/TM-12-100.jpg</image:loc><image:title>Uckermann Tracheotomy Trocar — TM-12-100</image:title></image:image>
@@ -2594,7 +2720,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dm.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DM-13-100.jpg</image:loc><image:title>Monocorps Milium Knife — DM-13-100</image:title></image:image>
@@ -2612,7 +2738,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dm-milium-knife.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DM-13-100.jpg</image:loc><image:title>Monocorps Milium Knife — DM-13-100</image:title></image:image>
@@ -2630,7 +2756,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-dm-dermal-punches.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/DM-13-100.jpg</image:loc><image:title>Monocorps Milium Knife — DM-13-100</image:title></image:image>
@@ -2648,7 +2774,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2666,7 +2792,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga-intestinal-and-tissue-grasping-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2684,7 +2810,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga-intestinal-clamps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2702,7 +2828,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga-rectal-specula.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2720,7 +2846,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga-rectal-spreaders.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2738,7 +2864,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga-anuscope.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2756,7 +2882,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga-proctoscopes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2774,7 +2900,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga-sphincteroscopes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2792,7 +2918,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga-hemorrhoidal-ligator.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2810,7 +2936,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ga-rectal-biopsy-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/SI-14-100.jpg</image:loc><image:title>Allis-Baby Intestinal and Tissue Grasping Forcep, 4 x 5 Teeth — SI-14-100</image:title></image:image>
@@ -2828,7 +2954,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-lg.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/UR-15-100.jpg</image:loc><image:title>Vasectomy Dissecting Forcep — UR-15-100</image:title></image:image>
@@ -2846,7 +2972,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-lg-kidney-stone-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/UR-15-100.jpg</image:loc><image:title>Vasectomy Dissecting Forcep — UR-15-100</image:title></image:image>
@@ -2864,7 +2990,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-lg-gall-duct-dilators.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/UR-15-100.jpg</image:loc><image:title>Vasectomy Dissecting Forcep — UR-15-100</image:title></image:image>
@@ -2882,7 +3008,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-lg-prostatic-retractors.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/UR-15-100.jpg</image:loc><image:title>Vasectomy Dissecting Forcep — UR-15-100</image:title></image:image>
@@ -2900,7 +3026,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-lg-urethral-sounds.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/UR-15-100.jpg</image:loc><image:title>Vasectomy Dissecting Forcep — UR-15-100</image:title></image:image>
@@ -2918,7 +3044,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-lg-urethrotome.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/UR-15-100.jpg</image:loc><image:title>Vasectomy Dissecting Forcep — UR-15-100</image:title></image:image>
@@ -2936,7 +3062,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-lg-circumcision-instruments.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/UR-15-100.jpg</image:loc><image:title>Vasectomy Dissecting Forcep — UR-15-100</image:title></image:image>
@@ -2954,7 +3080,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -2972,7 +3098,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy-vaginal-specula.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -2990,7 +3116,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy-uterine-dilators.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -3008,7 +3134,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy-uterine-sounds.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -3026,7 +3152,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy-uterine-tenaculum-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -3044,7 +3170,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy-uterine-polypus-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -3062,7 +3188,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy-fistula-hooks.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -3080,7 +3206,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy-suction-curettes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -3098,7 +3224,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy-uterine-curettes.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -3116,7 +3242,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-gy-uterine-biopsy-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/GY-16-100.jpg</image:loc><image:title>Cusco Vaginal Speculum — GY-16-100</image:title></image:image>
@@ -3134,7 +3260,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ob.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OB-17-100.jpg</image:loc><image:title>DeLee Pelvimeter, For Internal Measurements — OB-17-100</image:title></image:image>
@@ -3152,7 +3278,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ob-pelvimeter.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OB-17-100.jpg</image:loc><image:title>DeLee Pelvimeter, For Internal Measurements — OB-17-100</image:title></image:image>
@@ -3170,7 +3296,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ob-placenta-and-ovum-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OB-17-100.jpg</image:loc><image:title>DeLee Pelvimeter, For Internal Measurements — OB-17-100</image:title></image:image>
@@ -3188,7 +3314,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ob-placenta-scoops.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OB-17-100.jpg</image:loc><image:title>DeLee Pelvimeter, For Internal Measurements — OB-17-100</image:title></image:image>
@@ -3206,7 +3332,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/catalog-ot.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
@@ -3221,383 +3347,5 @@
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
     <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-ear-specula.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-tuning-forks.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-ear-catheters.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-ear-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-micro-ear-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-micro-ear-scissors.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-micro-ear-knives.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-gum-scissors.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-micro-ear-hooks.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-micro-curettes.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-micro-dissectors.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-ear-curettes.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-foreign-body-instruments.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-ear-hooklet.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-ot-ear-periosteal-elevators.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-100.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-101.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-102.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-103.jpg</image:loc><image:title>Hartmann Ear Specula, Set of 3 — OT-18-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-104.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-105.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-106.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-107.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-108.jpg</image:loc><image:title>Hartmann Ear Speculum — OT-18-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-109.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 3 — OT-18-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-110.jpg</image:loc><image:title>Toynbee Ear Specula, Set of 4 — OT-18-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/OT-18-111.jpg</image:loc><image:title>Toynbee Ear Speculum, For Adults — OT-18-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-rh.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-100.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-101.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 4 — RH-19-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-102.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-103.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 7 — RH-19-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-104.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-105.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-106.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-107.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-108.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-109.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-110.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-111.jpg</image:loc><image:title>Voltolini Nasal Speculum — RH-19-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-rh-nasal-specula.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-100.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-101.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 4 — RH-19-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-102.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-103.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 7 — RH-19-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-104.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-105.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-106.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-107.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-108.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-109.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-110.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-111.jpg</image:loc><image:title>Voltolini Nasal Speculum — RH-19-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-rh-nasal-tampon-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-100.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-101.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 4 — RH-19-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-102.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-103.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 7 — RH-19-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-104.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-105.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-106.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-107.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-108.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-109.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-110.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-111.jpg</image:loc><image:title>Voltolini Nasal Speculum — RH-19-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-rh-septum-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-100.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-101.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 4 — RH-19-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-102.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-103.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 7 — RH-19-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-104.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-105.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-106.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-107.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-108.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-109.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-110.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-111.jpg</image:loc><image:title>Voltolini Nasal Speculum — RH-19-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-rh-ethmoid-bone-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-100.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-101.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 4 — RH-19-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-102.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-103.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 7 — RH-19-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-104.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-105.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-106.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-107.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-108.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-109.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-110.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-111.jpg</image:loc><image:title>Voltolini Nasal Speculum — RH-19-111</image:title></image:image>
-  </url>
-  <url>
-    <loc>https://www.opixinst.com/catalog-rh-nasal-cutting-forceps.html</loc>
-    <lastmod>2026-09-10</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-100.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-100</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-101.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 4 — RH-19-101</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-102.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 3 — RH-19-102</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-103.jpg</image:loc><image:title>Thudichum Nasal Specula, Set of 7 — RH-19-103</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-104.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-104</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-105.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-105</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-106.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-106</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-107.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-107</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-108.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-108</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-109.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-109</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-110.jpg</image:loc><image:title>Thudichum Nasal Speculum — RH-19-110</image:title></image:image>
-    <image:image><image:loc>https://www.opixinst.com/assets/img/products/RH-19-111.jpg</image:loc><image:title>Voltolini Nasal Speculum — RH-19-111</image:title></image:image>
   </url>
 </urlset>

@@ -46,6 +46,21 @@ function dims() {
 }
 function hasImage(sku) { return Object.prototype.hasOwnProperty.call(dims(), sku); }
 
+/* Every generated page: the root, plus the /sets/ subtree.
+
+   The audit, verify, render and idempotency tools each read the root directory
+   flat. When the procedure-set pages landed in sets/ that made 21 pages
+   invisible to precisely the checks that guard the rest of the site — they
+   reported "318 pages, no issues" while 21 unchecked pages sat next to them.
+   One lister, used by all four, so a new subdirectory cannot go unwatched. */
+function listPages() {
+  const out = fs.readdirSync(ROOT).filter(f => f.endsWith('.html'));
+  const sub = path.join(ROOT, 'sets');
+  if (fs.existsSync(sub))
+    for (const f of fs.readdirSync(sub)) if (f.endsWith('.html')) out.push('sets/' + f);
+  return out.sort();
+}
+
 /* ---------- JSON-LD ---------- */
 const jsonld = obj =>
   `<script type="application/ld+json">${JSON.stringify(obj).replace(/</g, '\\u003c')}</script>`;
@@ -259,7 +274,7 @@ function buildHead(spec) {
   for (const f of (spec.fonts || ['archivo-700', 'inter-400']))
     L.push(`<link rel="preload" href="/assets/fonts/${f}.woff2" as="font" type="font/woff2" crossorigin>`);
   if (spec.preloadImg) L.push(`<link rel="preload" as="image" href="${spec.preloadImg}" fetchpriority="high">`);
-  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 7}">`);
+  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 8}">`);
   if (spec.extra) L.push(spec.extra);
   for (const s of (spec.schema || [])) L.push(jsonld(s));
   return L.join('\n');
@@ -318,7 +333,7 @@ function hasRegion(html, name) {
 
 module.exports = {
   orgRef, siteRef,
-  ROOT, esc, attr, slug, abs, clampDesc, dims, hasImage,
+  ROOT, esc, attr, slug, abs, clampDesc, dims, hasImage, listPages,
   jsonld, ORG_ID, SITE_ID, orgSchema, websiteSchema, breadcrumbSchema,
   collectionSchema, productListSchema, faqSchema,
   buildHead, cardHTML, replaceRegion, hasRegion,

@@ -281,6 +281,46 @@ footer{border-top:1px solid var(--line);background:var(--white);margin-top:40px}
 .seo-dl a{color:var(--blue);font-weight:600;text-decoration:underline;text-underline-offset:2px}
 .seo-dl a:hover{color:var(--ink)}
 
+/* ---- procedure set pages (/sets/) ---- */
+.setmain{max-width:940px}
+.setkicker{font-family:'JetBrains Mono',monospace;font-size:11.5px;letter-spacing:1.6px;text-transform:uppercase;color:var(--blue);margin-bottom:10px}
+.setintro{color:var(--graphite);font-size:15.5px;line-height:1.65;max-width:70ch}
+.setstats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:12px;margin:22px 0}
+.setstats div{background:var(--white);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.setstats b{display:block;font-family:'Archivo',sans-serif;font-size:24px;font-weight:800;color:var(--ink);line-height:1.1}
+.setstats span{font-size:12px;color:var(--mist);margin-top:3px;display:block}
+.setspec{display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:0 26px;margin:0 0 22px;background:var(--white);border:1px solid var(--line);border-radius:11px;padding:6px 20px}
+.setspec div{display:grid;grid-template-columns:130px 1fr;gap:12px;padding:11px 0;border-bottom:1px solid var(--line)}
+.setspec dt{font-family:'JetBrains Mono',monospace;font-size:10.5px;letter-spacing:.4px;text-transform:uppercase;color:var(--mist);padding-top:2px}
+.setspec dd{margin:0;font-size:13.5px;color:var(--graphite);line-height:1.45}
+.setcta{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 34px}
+.setcta a{padding:11px 20px;border-radius:8px;font-weight:600;font-size:14px;border:1px solid var(--blue)}
+.setcta .pri{background:var(--blue);color:#fff}
+.setcta .pri:hover{background:var(--ink);border-color:var(--ink)}
+.setcta .sec{color:var(--blue);background:var(--white)}
+.setcta .sec:hover{background:var(--blue-soft)}
+.setgroup{margin-top:26px}
+.setgroup h3{font-family:'Archivo',sans-serif;font-size:16px;color:var(--ink);font-weight:700;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.setgroup .pcs{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:.5px;color:var(--mist);font-weight:500}
+.setgroup .from{font-size:12.5px;color:var(--mist);margin:4px 0 10px}
+.setgroup .from a{color:var(--blue);text-decoration:underline;text-underline-offset:2px}
+.settable{overflow-x:auto;border:1px solid var(--line);border-radius:10px;background:var(--white)}
+.settable table{border-collapse:collapse;width:100%;min-width:560px;font-size:13.5px}
+.settable th{text-align:left;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:.8px;text-transform:uppercase;color:var(--mist);font-weight:500;padding:11px 14px;border-bottom:1px solid var(--line);background:var(--steel)}
+.settable td{padding:11px 14px;border-bottom:1px solid var(--line);color:var(--graphite);line-height:1.4}
+.settable tr:last-child td{border-bottom:0}
+.settable .cat{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--ink);white-space:nowrap}
+.settable .size{white-space:nowrap;color:var(--mist)}
+.settable .qty{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+.setgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:14px;margin-top:20px}
+.setcard{display:flex;flex-direction:column;background:var(--white);border:1px solid var(--line);border-radius:11px;padding:17px 18px;transition:.15s}
+.setcard:hover{border-color:var(--blue);box-shadow:0 4px 16px rgba(27,143,214,.12);transform:translateY(-1px)}
+.setcode{font-family:'JetBrains Mono',monospace;font-size:10.5px;letter-spacing:1px;color:var(--blue);margin-bottom:7px}
+.setcard b{font-family:'Archivo',sans-serif;font-size:15px;color:var(--ink);font-weight:700;line-height:1.25}
+.setproc{font-size:12.5px;color:var(--graphite);margin-top:3px}
+.setmeta{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--mist);margin-top:9px;letter-spacing:.3px}
+@media(max-width:430px){.setspec div{grid-template-columns:1fr;gap:2px}}
+
 /* Certification & membership logos (about page). A fixed-height art box keeps
    logos of different aspect ratios sitting on the same baseline. */
 .certlogos{list-style:none;display:grid;grid-template-columns:repeat(auto-fit,minmax(215px,1fr));gap:14px;margin:18px 0 0;padding:0}

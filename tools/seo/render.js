@@ -7,7 +7,7 @@
    Run: npm install jsdom && node tools/seo/render.js                        */
 const fs = require('fs'), path = require('path');
 const ROOT = path.resolve(__dirname, '..', '..');
-const pages = fs.readdirSync(ROOT).filter(f => f.endsWith('.html')).sort();
+const pages = require('./lib.js').listPages();
 const bad = [];
 const note = (f, m) => bad.push(`${f}: ${m}`);
 

@@ -2,7 +2,7 @@
    resolves, every referenced asset exists. Run after tools/seo/build.js. */
 const fs = require('fs'), path = require('path');
 const ROOT = path.resolve(__dirname, '..', '..');
-const pages = fs.readdirSync(ROOT).filter(f => f.endsWith('.html'));
+const pages = require('./lib.js').listPages();
 const bad = [];
 let blocks = 0, links = 0, assets = 0;
 

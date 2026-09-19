@@ -1,0 +1,6316 @@
+[
+ {
+  "code": "SET-GS-001",
+  "name": "Major Surgery Set",
+  "procedure": "General Laparotomy",
+  "total": 112,
+  "intro": "A complete open-abdomen tray for laparotomy, exploratory surgery, bowel resection and general procedures. Every instrument is German pattern, forged from AISI 410/420 martensitic stainless steel, hand-finished, passivated and inspected against master pattern before packing. The set is delivered kitted in a perforated sterilization container with silicone mat, contents card and laser-marked set identification.",
+  "specs": [
+   [
+    "Set number",
+    "SET-GS-001"
+   ],
+   [
+    "Instruments",
+    "112 pieces in 8 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 580 × 280 × 100 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "9.5 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {
+   "instruments": 112,
+   "groups": 8,
+   "references": 51,
+   "sections": 11
+  },
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS"
+    ],
+    "label": "Cutting & dissecting",
+    "pcs": 10,
+    "rows": [
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3, for blades 10–15",
+      "size": "12.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4, for blades 20–24",
+      "size": "13.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SS-05-170",
+      "name": "Mayo dissecting scissors, straight",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved, delicate",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-230",
+      "name": "Metzenbaum scissors, curved",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-01-145",
+      "name": "Operating scissors, straight, sharp/blunt",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-03-140",
+      "name": "Suture / ligature scissors, straight",
+      "size": "14 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "FR"
+    ],
+    "label": "Tissue & dissecting forceps",
+    "pcs": 11,
+    "rows": [
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-01-200",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-02-200",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-14-200",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-05-120",
+      "name": "Adson tissue forceps, 1 × 2 teeth",
+      "size": "12 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-11-200",
+      "name": "Russian tissue forceps",
+      "size": "20 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic, grasping & holding",
+    "pcs": 59,
+    "rows": [
+     {
+      "cat": "AF-01-125",
+      "name": "Halsted mosquito forceps, straight",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-140",
+      "name": "Crile artery forceps, straight",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-06-181",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "18 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-08-140",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "14 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-08-181",
+      "name": "Kocher forceps, curved, 1 × 2 teeth",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-12-180",
+      "name": "Mixter right-angle forceps",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-12-230",
+      "name": "Mixter right-angle forceps",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-16-160",
+      "name": "Babcock tissue forceps",
+      "size": "16 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 8
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight, serrated",
+      "size": "25 cm",
+      "qty": 4
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT"
+    ],
+    "label": "Retractors",
+    "pcs": 14,
+    "rows": [
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-03-S/M/L",
+      "name": "Richardson retractor, small / medium / large (1 each)",
+      "size": "24 cm",
+      "qty": 3
+     },
+     {
+      "cat": "RT-05-300",
+      "name": "Deaver retractor, 25 mm",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-05-305",
+      "name": "Deaver retractor, 50 mm",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-08-300",
+      "name": "Doyen abdominal retractor, 65 × 45 mm",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-20-180",
+      "name": "Balfour abdominal retractor with centre blade",
+      "size": "18 cm spread",
+      "qty": 1
+     },
+     {
+      "cat": "RT-12-160",
+      "name": "Senn-Mueller retractor, sharp / blunt (1 each)",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-30-330",
+      "name": "Malleable ribbon retractor, 25 mm & 40 mm (1 each)",
+      "size": "33 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-14-165",
+      "name": "Volkmann retractor, 4-prong, blunt",
+      "size": "16.5 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "GA"
+    ],
+    "label": "Intestinal clamps",
+    "pcs": 5,
+    "rows": [
+     {
+      "cat": "GA-01-230",
+      "name": "Doyen intestinal clamp, straight, atraumatic",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GA-01-231",
+      "name": "Doyen intestinal clamp, curved, atraumatic",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GA-04-210",
+      "name": "Payr crushing clamp",
+      "size": "21 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SU"
+    ],
+    "label": "Needle holders",
+    "pcs": 4,
+    "rows": [
+     {
+      "cat": "SU-01-160",
+      "name": "Mayo-Hegar needle holder",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-01-200",
+      "name": "Mayo-Hegar needle holder",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-03-150",
+      "name": "Crile-Wood needle holder",
+      "size": "15 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "TS",
+     "PB"
+    ],
+    "label": "Suction & probes",
+    "pcs": 4,
+    "rows": [
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube with finger cut-off, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-12-230",
+      "name": "Poole abdominal suction tube with shield",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "PB-01-145",
+      "name": "Probe, double-ended",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "PB-03-145",
+      "name": "Grooved director with tongue tie",
+      "size": "14.5 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DR"
+    ],
+    "label": "Bowls, tray & container",
+    "pcs": 5,
+    "rows": [
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 2
+     },
+     {
+      "cat": "DR-06-250",
+      "name": "Kidney tray, stainless steel",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-580",
+      "name": "Perforated sterilization tray with lid",
+      "size": "580 × 280 × 100 mm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-11-580",
+      "name": "Silicone instrument mat, fits DR-10-580",
+      "size": "560 × 260 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-gs-001-major-surgery-set"
+ },
+ {
+  "code": "SET-GS-002",
+  "name": "Basic Laparotomy Set",
+  "procedure": "Abdominal Surgery",
+  "total": 71,
+  "intro": "A compact abdominal tray for routine laparotomy, appendicectomy and hernia repair. It carries the core cutting, haemostasis and retraction of the Major Surgery Set without the bowel clamps and deep-pelvis instruments, making it the standard second tray for a general theatre. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-GS-002"
+   ],
+   [
+    "Instruments",
+    "71 pieces in 6 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 480 × 250 × 80 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "6.2 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS"
+    ],
+    "label": "Cutting & dissecting",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-230",
+      "name": "Metzenbaum scissors, curved",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-01-145",
+      "name": "Operating scissors, straight, sharp/blunt",
+      "size": "14.5 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "FR"
+    ],
+    "label": "Tissue & dissecting forceps",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-01-200",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-14-200",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-05-120",
+      "name": "Adson tissue forceps, 1 × 2 teeth",
+      "size": "12 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic, grasping & holding",
+    "pcs": 42,
+    "rows": [
+     {
+      "cat": "AF-01-125",
+      "name": "Halsted mosquito forceps, straight",
+      "size": "12.5 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-04-140",
+      "name": "Crile artery forceps, straight",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-08-140",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "14 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 6
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight, serrated",
+      "size": "25 cm",
+      "qty": 3
+     },
+     {
+      "cat": "AF-06-181",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-12-180",
+      "name": "Mixter right-angle forceps",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-16-160",
+      "name": "Babcock tissue forceps",
+      "size": "16 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT"
+    ],
+    "label": "Retractors",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-03-240",
+      "name": "Richardson retractor, medium",
+      "size": "24 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-05-300",
+      "name": "Deaver retractor, 25 mm",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-12-160",
+      "name": "Senn-Mueller retractor, sharp / blunt (1 each)",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-30-330",
+      "name": "Malleable ribbon retractor, 25 mm",
+      "size": "33 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-25-165",
+      "name": "Weitlaner self-retaining retractor, 3 × 4 prongs, blunt",
+      "size": "16.5 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SU"
+    ],
+    "label": "Needle holders",
+    "pcs": 3,
+    "rows": [
+     {
+      "cat": "SU-01-160",
+      "name": "Mayo-Hegar needle holder",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-01-200",
+      "name": "Mayo-Hegar needle holder",
+      "size": "20 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "TS",
+     "PB",
+     "DR"
+    ],
+    "label": "Suction, probes & bowls",
+    "pcs": 5,
+    "rows": [
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube with finger cut-off, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "PB-01-145",
+      "name": "Probe, double-ended",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-06-250",
+      "name": "Kidney tray, stainless steel",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-480",
+      "name": "Perforated sterilization tray with lid",
+      "size": "480 × 250 × 80 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-gs-002-basic-laparotomy-set"
+ },
+ {
+  "code": "SET-GS-010",
+  "name": "Minor Surgery Set",
+  "procedure": "Minor Procedures & Day Surgery",
+  "total": 32,
+  "intro": "A compact tray for excisions, biopsies, abscess drainage, lipoma and cyst removal and wound care in day-surgery, emergency and outpatient settings. Every instrument is German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern, supplied kitted in a lidded perforated tray with silicone mat.",
+  "specs": [
+   [
+    "Set number",
+    "SET-GS-010"
+   ],
+   [
+    "Instruments",
+    "32 pieces in 5 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 300 × 200 × 60 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "1.6 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS"
+    ],
+    "label": "Cutting",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-01-145",
+      "name": "Operating scissors, straight, sharp/blunt",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-01-146",
+      "name": "Operating scissors, curved, sharp/blunt",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-08-115",
+      "name": "Iris scissors, straight",
+      "size": "11.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-145",
+      "name": "Metzenbaum scissors, curved",
+      "size": "14.5 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "FR"
+    ],
+    "label": "Forceps",
+    "pcs": 5,
+    "rows": [
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-05-120",
+      "name": "Adson tissue forceps, 1 × 2 teeth",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-05-121",
+      "name": "Adson dressing forceps, serrated",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-20-115",
+      "name": "Splinter forceps, fine pointed",
+      "size": "11.5 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic & holding",
+    "pcs": 12,
+    "rows": [
+     {
+      "cat": "AF-01-125",
+      "name": "Halsted mosquito forceps, straight",
+      "size": "12.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 1
+     },
+     {
+      "cat": "AF-20-110",
+      "name": "Backhaus towel clamp",
+      "size": "11 cm",
+      "qty": 4
+     },
+     {
+      "cat": "CS-01-200",
+      "name": "Foerster sponge-holding forceps, straight",
+      "size": "20 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT",
+     "PB",
+     "SU"
+    ],
+    "label": "Retraction, probes & suture",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "RT-12-160",
+      "name": "Senn-Mueller retractor, sharp / blunt (1 each)",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-13-160",
+      "name": "Skin hook, single, sharp",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "PB-01-145",
+      "name": "Probe, double-ended",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-01-140",
+      "name": "Mayo-Hegar needle holder",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-05-130",
+      "name": "Halsey needle holder, serrated",
+      "size": "13 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DR"
+    ],
+    "label": "Bowls & container",
+    "pcs": 3,
+    "rows": [
+     {
+      "cat": "DR-05-60",
+      "name": "Gallipot, stainless steel",
+      "size": "60 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-06-200",
+      "name": "Kidney tray, stainless steel",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-300",
+      "name": "Perforated sterilization tray with lid",
+      "size": "300 × 200 × 60 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-gs-010-minor-surgery-set"
+ },
+ {
+  "code": "SET-LG-001",
+  "name": "Cholecystectomy Set",
+  "procedure": "Open Biliary Surgery",
+  "total": 92,
+  "intro": "An open cholecystectomy and biliary tray combining a basic laparotomy core with the gallbladder-specific instruments: long right-angle and gallstone forceps, Desjardins and Mixter patterns, common-duct probes and dilators, and deep retraction for the right upper quadrant. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-LG-001"
+   ],
+   [
+    "Instruments",
+    "92 pieces in 7 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 580 × 280 × 100 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "7.4 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS"
+    ],
+    "label": "Cutting & dissecting",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-230",
+      "name": "Metzenbaum scissors, curved",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-03-140",
+      "name": "Suture scissors, straight",
+      "size": "14 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "FR"
+    ],
+    "label": "Tissue & dissecting forceps",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-01-200",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-14-200",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-14-240",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "24 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic, grasping & holding",
+    "pcs": 52,
+    "rows": [
+     {
+      "cat": "AF-01-125",
+      "name": "Halsted mosquito forceps, straight",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-140",
+      "name": "Crile artery forceps, straight",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-08-140",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "14 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 8
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight, serrated",
+      "size": "25 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-06-181",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "18 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-12-180",
+      "name": "Mixter right-angle forceps",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-12-230",
+      "name": "Mixter right-angle forceps",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-16-200",
+      "name": "Babcock tissue forceps",
+      "size": "20 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "LG"
+    ],
+    "label": "Gallbladder & biliary",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "LG-01-220",
+      "name": "Desjardins gallstone forceps, curved",
+      "size": "22 cm",
+      "qty": 2
+     },
+     {
+      "cat": "LG-02-SET",
+      "name": "",
+      "size": "Gallstone scoop, double-ended, set of 3                                                               3 sizes",
+      "qty": 1
+     },
+     {
+      "cat": "LG-03-SET",
+      "name": "",
+      "size": "Bakes common-duct dilators, 3–10 mm, set of 8                                                         8 pieces",
+      "qty": 1
+     },
+     {
+      "cat": "LG-04-230",
+      "name": "Randall kidney-stone forceps, ¼ curve",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "LG-05-210",
+      "name": "Gray cystic-duct forceps",
+      "size": "21 cm",
+      "qty": 2
+     },
+     {
+      "cat": "LG-06-220",
+      "name": "Mayo common-duct probe, malleable",
+      "size": "22 cm",
+      "qty": 1
+     },
+     {
+      "cat": "LG-07-130",
+      "name": "Ochsner gallbladder trocar with cannula",
+      "size": "13 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT"
+    ],
+    "label": "Retractors",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-03-M/L",
+      "name": "Richardson retractor, medium / large (1 each)",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-05-300",
+      "name": "Deaver retractor, 25 mm / 50 mm (1 each)",
+      "size": "30 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-07-300",
+      "name": "Harrington (sweetheart) retractor",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-20-180",
+      "name": "Balfour abdominal retractor with centre blade",
+      "size": "18 cm spread",
+      "qty": 1
+     },
+     {
+      "cat": "RT-30-330",
+      "name": "Malleable ribbon retractor, 40 mm",
+      "size": "33 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SU",
+     "TS"
+    ],
+    "label": "Needle holders & suction",
+    "pcs": 5,
+    "rows": [
+     {
+      "cat": "SU-01-160",
+      "name": "Mayo-Hegar needle holder",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-01-200",
+      "name": "Mayo-Hegar needle holder",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-12-230",
+      "name": "Poole abdominal suction tube with shield",
+      "size": "23 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DR"
+    ],
+    "label": "Bowls & container",
+    "pcs": 4,
+    "rows": [
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 2
+     },
+     {
+      "cat": "DR-06-250",
+      "name": "Kidney tray, stainless steel",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-580",
+      "name": "Perforated sterilization tray with lid",
+      "size": "580 × 280 × 100 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-lg-001-cholecystectomy-set"
+ },
+ {
+  "code": "SET-GA-001",
+  "name": "Bowel Resection Set",
+  "procedure": "Intestinal & Colorectal Surgery",
+  "total": 108,
+  "intro": "An intestinal tray for small-bowel and colonic resection, anastomosis and stoma formation. It adds a full range of atraumatic and crushing intestinal clamps, long Babcock and Allis forceps and long needle holders to a laparotomy core. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-GA-001"
+   ],
+   [
+    "Instruments",
+    "108 pieces in 7 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 580 × 280 × 100 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "8.1 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS"
+    ],
+    "label": "Cutting & dissecting",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-230",
+      "name": "Metzenbaum scissors, curved",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-280",
+      "name": "Metzenbaum scissors, curved",
+      "size": "28 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "FR"
+    ],
+    "label": "Tissue & dissecting forceps",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "FR-01-200",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-02-200",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-14-200",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-14-240",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-11-200",
+      "name": "Russian tissue forceps",
+      "size": "20 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic, grasping & holding",
+    "pcs": 62,
+    "rows": [
+     {
+      "cat": "AF-01-125",
+      "name": "Halsted mosquito forceps, straight",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-140",
+      "name": "Crile artery forceps, straight",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-08-140",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "14 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 8
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight, serrated",
+      "size": "25 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-06-181",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "18 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-12-230",
+      "name": "Mixter right-angle forceps",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-15-190",
+      "name": "Allis tissue forceps, 5 × 6 teeth",
+      "size": "19 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-16-160",
+      "name": "Babcock tissue forceps",
+      "size": "16 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-16-200",
+      "name": "Babcock tissue forceps",
+      "size": "20 cm",
+      "qty": 4
+     }
+    ]
+   },
+   {
+    "codes": [
+     "GA"
+    ],
+    "label": "Intestinal clamps",
+    "pcs": 13,
+    "rows": [
+     {
+      "cat": "GA-01-230",
+      "name": "Doyen intestinal clamp, straight, atraumatic",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GA-01-231",
+      "name": "Doyen intestinal clamp, curved, atraumatic",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GA-02-230",
+      "name": "Kocher intestinal clamp, straight, 1 × 2 teeth",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GA-03-290",
+      "name": "Lane intestinal clamp, twin, atraumatic",
+      "size": "29 cm",
+      "qty": 1
+     },
+     {
+      "cat": "GA-04-210",
+      "name": "Payr crushing clamp",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "GA-04-350",
+      "name": "Payr crushing clamp",
+      "size": "35 cm",
+      "qty": 1
+     },
+     {
+      "cat": "GA-05-240",
+      "name": "Allen intestinal clamp, curved",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GA-06-260",
+      "name": "Dennis anastomosis clamp, curved",
+      "size": "26 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT"
+    ],
+    "label": "Retractors",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-05-300",
+      "name": "Deaver retractor, 25 mm / 50 mm (1 each)",
+      "size": "30 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-08-300",
+      "name": "Doyen abdominal retractor, 65 × 45 mm",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-20-180",
+      "name": "Balfour abdominal retractor with centre blade",
+      "size": "18 cm spread",
+      "qty": 1
+     },
+     {
+      "cat": "RT-30-330",
+      "name": "Malleable ribbon retractor, 25 mm / 40 mm (1 each)",
+      "size": "33 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-21-280",
+      "name": "Kirschner abdominal frame retractor",
+      "size": "28 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SU",
+     "TS"
+    ],
+    "label": "Needle holders & suction",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "SU-01-160",
+      "name": "Mayo-Hegar needle holder",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-01-200",
+      "name": "Mayo-Hegar needle holder",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-01-260",
+      "name": "Mayo-Hegar needle holder",
+      "size": "26 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-12-230",
+      "name": "Poole abdominal suction tube with shield",
+      "size": "23 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DR"
+    ],
+    "label": "Bowls & container",
+    "pcs": 4,
+    "rows": [
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 2
+     },
+     {
+      "cat": "DR-06-250",
+      "name": "Kidney tray, stainless steel",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-580",
+      "name": "Perforated sterilization tray with lid",
+      "size": "580 × 280 × 100 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-ga-001-bowel-resection-set"
+ },
+ {
+  "code": "SET-OB-001",
+  "name": "Caesarean Section Set",
+  "procedure": "Obstetric Surgery",
+  "total": 62,
+  "intro": "A dedicated caesarean tray built around fast access, uterine haemostasis and closure: Green-Armytage forceps, Doyen retractor, heavy needle holders and a cord clamp, on a laparotomy core. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern, kitted in a lidded perforated tray.",
+  "specs": [
+   [
+    "Set number",
+    "SET-OB-001"
+   ],
+   [
+    "Instruments",
+    "62 pieces in 5 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 480 × 250 × 80 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "5.8 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS"
+    ],
+    "label": "Cutting",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-05-170",
+      "name": "Mayo dissecting scissors, straight",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-01-145",
+      "name": "Operating scissors, straight, blunt/blunt",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-12-105",
+      "name": "Umbilical cord scissors, angled",
+      "size": "10.5 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "FR"
+    ],
+    "label": "Forceps",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-01-200",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-02-200",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "20 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "OB",
+     "CS"
+    ],
+    "label": "Haemostatic & obstetric",
+    "pcs": 37,
+    "rows": [
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-06-181",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "18 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-08-140",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "14 cm",
+      "qty": 2
+     },
+     {
+      "cat": "OB-01-210",
+      "name": "Green-Armytage haemostatic forceps",
+      "size": "21 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 6
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight",
+      "size": "25 cm",
+      "qty": 4
+     },
+     {
+      "cat": "OB-03-140",
+      "name": "Umbilical cord clamp, stainless steel",
+      "size": "14 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT"
+    ],
+    "label": "Retractors",
+    "pcs": 5,
+    "rows": [
+     {
+      "cat": "RT-08-300",
+      "name": "Doyen abdominal retractor, 65 × 45 mm",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-03-240",
+      "name": "Richardson retractor, medium",
+      "size": "24 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-30-330",
+      "name": "Malleable ribbon retractor, 40 mm",
+      "size": "33 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SU",
+     "TS",
+     "DR"
+    ],
+    "label": "Suture, suction & bowls",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "SU-01-180",
+      "name": "Mayo-Hegar needle holder",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-01-200",
+      "name": "Mayo-Hegar needle holder",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-06-250",
+      "name": "Kidney tray, stainless steel",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-480",
+      "name": "Perforated sterilization tray with lid",
+      "size": "480 × 250 × 80 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-ob-001-caesarean-section-set"
+ },
+ {
+  "code": "SET-GY-001",
+  "name": "Abdominal Hysterectomy Set",
+  "procedure": "Major Gynaecological Surgery",
+  "total": 101,
+  "intro": "A pelvic surgery tray for total abdominal hysterectomy, oophorectomy and myomectomy, with heavy hysterectomy clamps, long dissecting instruments, a self-retaining abdominal ring retractor and deep pelvic retraction on a laparotomy core. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-GY-001"
+   ],
+   [
+    "Instruments",
+    "101 pieces in 6 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 580 × 280 × 100 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "8.6 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS"
+    ],
+    "label": "Cutting & dissecting",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-230",
+      "name": "Metzenbaum scissors, curved",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-280",
+      "name": "Metzenbaum scissors, curved",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-03-140",
+      "name": "Suture scissors, straight",
+      "size": "14 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "FR"
+    ],
+    "label": "Tissue & dissecting forceps",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-01-250",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-02-250",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-14-240",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-11-250",
+      "name": "Russian tissue forceps",
+      "size": "25 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "GY",
+     "CS"
+    ],
+    "label": "Haemostatic & hysterectomy clamps",
+    "pcs": 67,
+    "rows": [
+     {
+      "cat": "AF-01-125",
+      "name": "Halsted mosquito forceps, straight",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-140",
+      "name": "Crile artery forceps, straight",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-08-140",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "14 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 8
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight, serrated",
+      "size": "25 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-06-181",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "18 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-06-240",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GY-01-210",
+      "name": "Heaney hysterectomy forceps, curved",
+      "size": "21 cm",
+      "qty": 4
+     },
+     {
+      "cat": "GY-02-210",
+      "name": "Heaney-Ballantine hysterectomy forceps, curved",
+      "size": "21 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GY-03-250",
+      "name": "Maier uterine forceps, straight",
+      "size": "25 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GY-04-220",
+      "name": "Wertheim vaginal clamp, curved",
+      "size": "22 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GY-05-230",
+      "name": "Kelly (Zeppelin) hysterectomy forceps, straight",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "GY-06-240",
+      "name": "Somer uterine elevating forceps",
+      "size": "24 cm",
+      "qty": 1
+     },
+     {
+      "cat": "GY-07-240",
+      "name": "Teale vulsellum forceps, 2 × 2 teeth",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-12-230",
+      "name": "Mixter right-angle forceps",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-16-200",
+      "name": "Babcock tissue forceps",
+      "size": "20 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT"
+    ],
+    "label": "Retractors",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-05-300",
+      "name": "Deaver retractor, 25 mm / 50 mm (1 each)",
+      "size": "30 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-08-300",
+      "name": "Doyen abdominal retractor, 65 × 45 mm",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-22-200",
+      "name": "O'Connor-O'Sullivan self-retaining retractor, 3 blades",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-20-180",
+      "name": "Balfour abdominal retractor with centre blade",
+      "size": "18 cm spread",
+      "qty": 1
+     },
+     {
+      "cat": "RT-30-330",
+      "name": "Malleable ribbon retractor, 40 mm",
+      "size": "33 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SU",
+     "TS"
+    ],
+    "label": "Needle holders & suction",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "SU-01-180",
+      "name": "Mayo-Hegar needle holder",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-01-200",
+      "name": "Mayo-Hegar needle holder",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-06-210",
+      "name": "Heaney needle holder, curved",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-12-230",
+      "name": "Poole abdominal suction tube with shield",
+      "size": "23 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DR"
+    ],
+    "label": "Bowls & container",
+    "pcs": 4,
+    "rows": [
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 2
+     },
+     {
+      "cat": "DR-06-250",
+      "name": "Kidney tray, stainless steel",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-580",
+      "name": "Perforated sterilization tray with lid",
+      "size": "580 × 280 × 100 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-gy-001-abdominal-hysterectomy-set"
+ },
+ {
+  "code": "SET-GY-010",
+  "name": "D&C Set",
+  "procedure": "Dilatation & Curettage",
+  "total": 24,
+  "intro": "A gynaecological tray for dilatation and curettage, endometrial sampling and evacuation, with graduated Hegar dilators, sharp and blunt Sims curettes, a Sims speculum pair and a uterine sound. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern, kitted in a lidded perforated tray.",
+  "specs": [
+   [
+    "Set number",
+    "SET-GY-010"
+   ],
+   [
+    "Instruments",
+    "24 pieces in 3 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 300 × 200 × 60 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "2.4 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "GY"
+    ],
+    "label": "Specula & holding",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "GY-10-010",
+      "name": "Sims vaginal speculum, double-ended, medium",
+      "size": "medium",
+      "qty": 1
+     },
+     {
+      "cat": "GY-10-020",
+      "name": "Sims vaginal speculum, double-ended, large",
+      "size": "large",
+      "qty": 1
+     },
+     {
+      "cat": "GY-11-010",
+      "name": "Auvard weighted vaginal speculum",
+      "size": "1.1 kg",
+      "qty": 1
+     },
+     {
+      "cat": "GY-12-250",
+      "name": "Pozzi tenaculum forceps, 1 × 1 teeth",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "GY-07-240",
+      "name": "Teale vulsellum forceps, 2 × 2 teeth",
+      "size": "24 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight",
+      "size": "25 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "GY"
+    ],
+    "label": "Dilators, sound & curettes",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "GY-13-SET",
+      "name": "",
+      "size": "Hegar uterine dilators, 3–18 mm, set of 8, double-ended                                             8 pieces",
+      "qty": 1
+     },
+     {
+      "cat": "GY-14-320",
+      "name": "Sims uterine sound, graduated, malleable",
+      "size": "32 cm",
+      "qty": 1
+     },
+     {
+      "cat": "GY-15-SET",
+      "name": "",
+      "size": "Sims uterine curette, sharp, sizes 1 / 2 / 3 (1 each)                                               3 sizes",
+      "qty": 3
+     },
+     {
+      "cat": "GY-15-020",
+      "name": "Sims uterine curette, blunt, size 2",
+      "size": "size 2",
+      "qty": 1
+     },
+     {
+      "cat": "GY-16-300",
+      "name": "Recamier uterine curette, sharp, 8 mm",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "GY-17-250",
+      "name": "Ovum (polypus) forceps, straight",
+      "size": "25 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "DR"
+    ],
+    "label": "Haemostatic & bowls",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 4
+     },
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-06-250",
+      "name": "Kidney tray, stainless steel",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-300",
+      "name": "Perforated sterilization tray with lid",
+      "size": "300 × 200 × 60 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-gy-010-d-c-set"
+ },
+ {
+  "code": "SET-TN-001",
+  "name": "Tonsillectomy & Adenoidectomy Set",
+  "procedure": "ENT Surgery",
+  "total": 38,
+  "intro": "A complete tonsil and adenoid tray: Boyle-Davis gag with tongue blades, tonsil dissectors and snare, Negus and Birkett artery forceps, adenoid curettes and the long, angled instruments the procedure demands. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-TN-001"
+   ],
+   [
+    "Instruments",
+    "38 pieces in 4 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 480 × 250 × 80 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "3.9 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {
+   "instruments": 38,
+   "groups": 4,
+   "references": 26,
+   "sections": 7
+  },
+  "groups": [
+   {
+    "codes": [
+     "TN"
+    ],
+    "label": "Gag, dissection & snare",
+    "pcs": 13,
+    "rows": [
+     {
+      "cat": "TN-01-010",
+      "name": "Boyle-Davis mouth gag, frame",
+      "size": "frame",
+      "qty": 1
+     },
+     {
+      "cat": "TN-02-SET",
+      "name": "",
+      "size": "Boyle-Davis tongue blades, sizes 1 / 2 / 3 / 4 (1 each)                                             4 sizes",
+      "qty": 4
+     },
+     {
+      "cat": "TN-03-010",
+      "name": "Draffin bipod stand with rods",
+      "size": "pair",
+      "qty": 1
+     },
+     {
+      "cat": "TN-04-210",
+      "name": "Tonsil dissector and pillar retractor, Hurd",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TN-05-220",
+      "name": "Gwynne-Evans tonsil dissector",
+      "size": "22 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TN-06-290",
+      "name": "Eves tonsil snare with wire",
+      "size": "29 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TN-07-12",
+      "name": "Tonsil snare wire, spare, pack of 12",
+      "size": "pack",
+      "qty": 1
+     },
+     {
+      "cat": "TN-08-210",
+      "name": "Denis-Browne tonsil holding forceps",
+      "size": "21 cm",
+      "qty": 2
+     },
+     {
+      "cat": "TN-09-220",
+      "name": "Tonsil guillotine, Sluder-Ballenger, medium",
+      "size": "22 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "TN",
+     "AF"
+    ],
+    "label": "Haemostatic & holding",
+    "pcs": 13,
+    "rows": [
+     {
+      "cat": "TN-10-190",
+      "name": "Negus tonsil artery forceps, curved",
+      "size": "19 cm",
+      "qty": 2
+     },
+     {
+      "cat": "TN-11-190",
+      "name": "Birkett tonsil artery forceps, curved",
+      "size": "19 cm",
+      "qty": 2
+     },
+     {
+      "cat": "TN-12-200",
+      "name": "Wilson tonsil artery forceps, angled",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-110",
+      "name": "Backhaus towel clamp",
+      "size": "11 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CS-02-240",
+      "name": "Tonsil swab-holding forceps, curved",
+      "size": "24 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "TN",
+     "SS"
+    ],
+    "label": "Adenoid & cutting",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "TN-13-SET",
+      "name": "",
+      "size": "St. Clair Thomson adenoid curette, with cage, sizes 1 / 2 / 3 (1 each)                              3 sizes",
+      "qty": 3
+     },
+     {
+      "cat": "TN-14-020",
+      "name": "Beckmann adenoid curette, size 2",
+      "size": "size 2",
+      "qty": 1
+     },
+     {
+      "cat": "TN-15-210",
+      "name": "Yankauer tonsil scissors, curved",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TN-16-200",
+      "name": "Waugh tonsil dissecting forceps, 1 × 2 teeth",
+      "size": "20 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SU",
+     "TS",
+     "DR"
+    ],
+    "label": "Suture, suction & bowls",
+    "pcs": 5,
+    "rows": [
+     {
+      "cat": "SU-07-250",
+      "name": "Tonsil needle holder, Boettcher, angled",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-14-250",
+      "name": "Tonsil suction tube, Lothrop",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-480",
+      "name": "Perforated sterilization tray with lid",
+      "size": "480 × 250 × 80 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-tn-001-tonsillectomy-adenoidectomy-set"
+ },
+ {
+  "code": "SET-RH-001",
+  "name": "ENT / SMR Set",
+  "procedure": "Septoplasty & Nasal Surgery",
+  "total": 44,
+  "intro": "A nasal surgery tray for septoplasty, submucous resection and turbinate work, with Killian and Cottle specula, Freer and Cottle elevators, Ballenger swivel knife, Jansen-Middleton and Luc forceps, chisels and nasal scissors, plus basic ear instruments for the ENT list. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-RH-001"
+   ],
+   [
+    "Instruments",
+    "44 pieces in 4 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 480 × 250 × 80 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "3.4 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "RH"
+    ],
+    "label": "Specula & elevators",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "RH-01-130",
+      "name": "Killian nasal speculum, blade 50 mm / 75 mm (1 each)",
+      "size": "13 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RH-02-135",
+      "name": "Cottle nasal speculum, medium",
+      "size": "13.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-03-130",
+      "name": "Vienna (Hartmann) nasal speculum, medium",
+      "size": "13 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-04-200",
+      "name": "Freer elevator, double-ended, sharp/blunt",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RH-05-210",
+      "name": "Cottle elevator, double-ended",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-06-210",
+      "name": "Howarth nasal raspatory",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-07-220",
+      "name": "Cottle-McKenty elevator",
+      "size": "22 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RH",
+     "SL"
+    ],
+    "label": "Knives, chisels & forceps",
+    "pcs": 16,
+    "rows": [
+     {
+      "cat": "RH-08-200",
+      "name": "Ballenger swivel knife, 4 mm",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-09-160",
+      "name": "Cottle nasal knife, angled",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-160",
+      "name": "Scalpel handle No. 7",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-10-180",
+      "name": "Cottle nasal chisel, 7 mm / 10 mm (1 each)",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RH-11-180",
+      "name": "Killian septum gouge, 6 mm",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-12-180",
+      "name": "Jansen-Middleton septum forceps, through-cut",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-13-180",
+      "name": "Luc nasal forceps, small / large (1 each)",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RH-14-120",
+      "name": "Blakesley nasal forceps, straight, size 1",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-15-210",
+      "name": "Walsham septum forceps, right / left (1 each)",
+      "size": "21 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RH-16-140",
+      "name": "Lucae bayonet dressing forceps",
+      "size": "14 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RH-17-160",
+      "name": "Tilley nasal dressing forceps, angled",
+      "size": "16 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SS",
+     "OT"
+    ],
+    "label": "Scissors, snare & ear",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "RH-18-180",
+      "name": "Heymann nasal scissors, angled",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-19-130",
+      "name": "Fomon lower-lateral scissors, curved",
+      "size": "13 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-08-115",
+      "name": "Iris scissors, curved",
+      "size": "11.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RH-20-210",
+      "name": "Krause nasal snare with wire",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OT-01-SET",
+      "name": "",
+      "size": "Hartmann ear speculum, set of 4                                                     4 sizes",
+      "qty": 1
+     },
+     {
+      "cat": "OT-02-080",
+      "name": "",
+      "size": "Hartmann aural forceps, serrated                                                    8 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OT-03-160",
+      "name": "Aural probe / hook, double-ended",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OT-04-170",
+      "name": "Jobson-Horne probe and ring curette",
+      "size": "17 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "SU",
+     "TS",
+     "DR"
+    ],
+    "label": "Haemostatic, suture, suction & bowls",
+    "pcs": 11,
+    "rows": [
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-110",
+      "name": "Backhaus towel clamp",
+      "size": "11 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-01-140",
+      "name": "Mayo-Hegar needle holder",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-08-180",
+      "name": "Bayonet needle holder, Jacobson",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-15-180",
+      "name": "Frazier suction tube, 8 Fr / 10 Fr (1 each)",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-60",
+      "name": "Gallipot, stainless steel",
+      "size": "60 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-480",
+      "name": "Perforated sterilization tray with lid",
+      "size": "480 × 250 × 80 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-rh-001-ent-smr-set"
+ },
+ {
+  "code": "SET-TR-001",
+  "name": "Tracheostomy Set",
+  "procedure": "Airway Surgery",
+  "total": 44,
+  "intro": "An airway tray for elective and emergency tracheostomy, with tracheal dilators and hooks, cricoid hook, retraction for the strap muscles and the fine haemostasis the neck requires. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern, kitted in a lidded perforated tray.",
+  "specs": [
+   [
+    "Set number",
+    "SET-TR-001                                                                 reprocessing"
+   ],
+   [
+    "Instruments",
+    "44 pieces in 4 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 300 × 200 × 60 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "2.1 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "TR"
+    ],
+    "label": "Tracheal instruments",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "TR-01-140",
+      "name": "Trousseau tracheal dilator, 3-blade",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TR-02-130",
+      "name": "Laborde tracheal dilator",
+      "size": "13 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TR-03-160",
+      "name": "Tracheal hook, sharp, single",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "TR-04-160",
+      "name": "Cricoid hook, blunt",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TR-05-150",
+      "name": "Bose tracheal retractor, 3-prong, blunt",
+      "size": "15 cm",
+      "qty": 2
+     },
+     {
+      "cat": "TR-06-180",
+      "name": "Tracheal punch, Kerrison-type, 4 mm",
+      "size": "18 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SL",
+     "SS",
+     "FR"
+    ],
+    "label": "Cutting & forceps",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-145",
+      "name": "Metzenbaum scissors, curved",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-01-145",
+      "name": "Operating scissors, straight, sharp/blunt",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-05-150",
+      "name": "Mayo dissecting scissors, straight",
+      "size": "15 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-05-120",
+      "name": "Adson tissue forceps, 1 × 2 teeth",
+      "size": "12 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic & holding",
+    "pcs": 19,
+    "rows": [
+     {
+      "cat": "AF-01-125",
+      "name": "Halsted mosquito forceps, straight",
+      "size": "12.5 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-110",
+      "name": "Backhaus towel clamp",
+      "size": "11 cm",
+      "qty": 4
+     },
+     {
+      "cat": "CS-01-200",
+      "name": "Foerster sponge-holding forceps, straight",
+      "size": "20 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT",
+     "SU",
+     "TS",
+     "DR"
+    ],
+    "label": "Retraction, suture, suction & bowls",
+    "pcs": 10,
+    "rows": [
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 30 × 8 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-12-160",
+      "name": "Senn-Mueller retractor, blunt",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-25-130",
+      "name": "Weitlaner self-retaining retractor, 3 × 4 prongs, blunt",
+      "size": "13 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-01-140",
+      "name": "Mayo-Hegar needle holder",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-15-180",
+      "name": "Frazier suction tube, 10 Fr",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-60",
+      "name": "Gallipot, stainless steel",
+      "size": "60 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-300",
+      "name": "Perforated sterilization tray with lid",
+      "size": "300 × 200 × 60 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-tr-001-tracheostomy-set"
+ },
+ {
+  "code": "SET-OR-001",
+  "name": "Basic Orthopedic Set",
+  "procedure": "Bone & Trauma Surgery",
+  "total": 77,
+  "intro": "A general bone tray for open reduction, bone grafting, soft-tissue release and minor trauma: osteotomes and chisels in graded widths, bone-holding forceps, rongeurs, periosteal elevators, curettes, mallet and a bone lever set, on a soft-tissue core. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-OR-001"
+   ],
+   [
+    "Instruments",
+    "77 pieces in 6 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 580 × 280 × 100 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "9.8 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS",
+     "FR"
+    ],
+    "label": "Soft-tissue core",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-01-145",
+      "name": "Operating scissors, straight, sharp/blunt",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-05-120",
+      "name": "Adson tissue forceps, 1 × 2 teeth",
+      "size": "12 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic & holding",
+    "pcs": 20,
+    "rows": [
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-08-140",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "14 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 6
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight",
+      "size": "25 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "OR"
+    ],
+    "label": "Osteotomes, chisels & gouges",
+    "pcs": 13,
+    "rows": [
+     {
+      "cat": "OR-01-SET",
+      "name": "Lambotte osteotome, straight, 6 / 10 / 15 / 20 mm (1 each)",
+      "size": "24 cm",
+      "qty": 4
+     },
+     {
+      "cat": "OR-02-SET",
+      "name": "Lambotte osteotome, curved, 10 / 15 mm (1 each)",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "OR-03-SET",
+      "name": "Stille bone chisel, 10 / 15 mm (1 each)",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "OR-04-SET",
+      "name": "Stille bone gouge, 8 / 12 mm (1 each)",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "OR-05-220",
+      "name": "Mallet, stainless steel, 300 g",
+      "size": "22 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-06-230",
+      "name": "Bone file, double-ended",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-07-260",
+      "name": "Bone rasp, Putti, double-ended",
+      "size": "26 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "OR",
+     "BS"
+    ],
+    "label": "Rongeurs, cutters & holding",
+    "pcs": 14,
+    "rows": [
+     {
+      "cat": "BS-01-170",
+      "name": "Luer bone rongeur, curved, 5 mm",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-02-230",
+      "name": "Stille-Luer bone rongeur, curved, 8 mm",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-03-220",
+      "name": "Liston bone-cutting forceps, straight",
+      "size": "22 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-03-221",
+      "name": "Liston bone-cutting forceps, angled",
+      "size": "22 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-08-330",
+      "name": "Lane bone-holding forceps, with ratchet",
+      "size": "33 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-09-180",
+      "name": "Lowman bone clamp, 3 × 1 prong",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "OR-10-250",
+      "name": "Verbrugge bone-holding forceps",
+      "size": "25 cm",
+      "qty": 2
+     },
+     {
+      "cat": "OR-11-190",
+      "name": "Reduction forceps, pointed, with ratchet",
+      "size": "19 cm",
+      "qty": 2
+     },
+     {
+      "cat": "OR-12-SET",
+      "name": "Bone lever, Hohmann, 18 mm / 24 mm / 43 mm (1 each)",
+      "size": "24 cm",
+      "qty": 3
+     }
+    ]
+   },
+   {
+    "codes": [
+     "OR",
+     "BS"
+    ],
+    "label": "Elevators, curettes & drivers",
+    "pcs": 11,
+    "rows": [
+     {
+      "cat": "OR-13-190",
+      "name": "Periosteal elevator, Langenbeck, 12 mm",
+      "size": "19 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-14-150",
+      "name": "Periosteal elevator, Farabeuf, 15 mm",
+      "size": "15 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-05-SET",
+      "name": "Volkmann bone curette, sizes 0 / 2 / 4 (1 each)",
+      "size": "17 cm",
+      "qty": 3
+     },
+     {
+      "cat": "BS-06-220",
+      "name": "Brun bone curette, sharp, oval, 6 mm",
+      "size": "22 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-15-200",
+      "name": "Bone awl, Cushing",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-16-180",
+      "name": "Wire cutter, TC, for wire up to 2 mm",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-17-180",
+      "name": "Wire-twisting forceps, TC",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-18-200",
+      "name": "Screwdriver, hexagonal 3.5 mm",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-19-010",
+      "name": "Depth gauge, for small fragment screws",
+      "size": "to 60 mm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT",
+     "SU",
+     "TS",
+     "DR"
+    ],
+    "label": "Retraction, suture, suction & container",
+    "pcs": 10,
+    "rows": [
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-25-165",
+      "name": "Weitlaner self-retaining retractor, 3 × 4 prongs, sharp",
+      "size": "16.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-14-165",
+      "name": "Volkmann retractor, 4-prong, sharp",
+      "size": "16.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-01-160",
+      "name": "Mayo-Hegar needle holder",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-580",
+      "name": "Perforated sterilization tray with lid",
+      "size": "580 × 280 × 100 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-or-001-basic-orthopedic-set"
+ },
+ {
+  "code": "SET-BS-001",
+  "name": "Amputation Set",
+  "procedure": "Limb Surgery",
+  "total": 66,
+  "intro": "A limb amputation tray for above- and below-knee, trans-tibial and upper-limb procedures: amputation knives, Gigli saw with handles, Satterlee bone saw, heavy bone cutters, rongeurs, bone file and rasp, periosteal elevators and soft-tissue haemostasis. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-BS-001"
+   ],
+   [
+    "Instruments",
+    "66 pieces in 5 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 580 × 280 × 100 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "6.9 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "BS"
+    ],
+    "label": "Knives & saws",
+    "pcs": 10,
+    "rows": [
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SL-05-300",
+      "name": "Amputation knife, Liston, 15 cm blade",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-05-340",
+      "name": "Amputation knife, Liston, 20 cm blade",
+      "size": "34 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-06-300",
+      "name": "Catlin amputation knife, double-edged",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-10-50",
+      "name": "Gigli wire saw, 50 cm, pack of 3",
+      "size": "pack",
+      "qty": 1
+     },
+     {
+      "cat": "BS-11-130",
+      "name": "Gigli saw handles, pair",
+      "size": "pair",
+      "qty": 1
+     },
+     {
+      "cat": "BS-12-420",
+      "name": "Satterlee bone saw, with spare blade",
+      "size": "42 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-13-010",
+      "name": "Charriere bone saw, 25 cm blade",
+      "size": "25 cm blade",
+      "qty": 1
+     },
+     {
+      "cat": "BS-14-3",
+      "name": "Bone saw blade, spare, pack of 3",
+      "size": "pack",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "BS"
+    ],
+    "label": "Cutters, rongeurs & files",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "BS-03-270",
+      "name": "Liston bone-cutting forceps, straight",
+      "size": "27 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-15-270",
+      "name": "Stille bone-cutting forceps, double-action, angled",
+      "size": "27 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-02-230",
+      "name": "Stille-Luer bone rongeur, curved, 8 mm",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-16-190",
+      "name": "Ruskin bone rongeur, double-action, curved",
+      "size": "19 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-17-260",
+      "name": "Bone file, Putti, double-ended",
+      "size": "26 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-18-260",
+      "name": "Bone rasp, straight, 14 mm",
+      "size": "26 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-19-140",
+      "name": "Bone nibbler, Friedmann",
+      "size": "14 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "OR",
+     "FR",
+     "SS"
+    ],
+    "label": "Elevators, forceps & scissors",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "OR-13-190",
+      "name": "Periosteal elevator, Langenbeck, 12 mm",
+      "size": "19 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-14-150",
+      "name": "Periosteal elevator, Farabeuf, 15 mm",
+      "size": "15 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-01-200",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-02-200",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-230",
+      "name": "Metzenbaum scissors, curved",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-01-145",
+      "name": "Operating scissors, straight, sharp/blunt",
+      "size": "14.5 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic & holding",
+    "pcs": 30,
+    "rows": [
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-06-181",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "18 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-08-180",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "18 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-21-210",
+      "name": "Aneurysm needle, Deschamps, right / left (1 each)",
+      "size": "21 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 6
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight",
+      "size": "25 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT",
+     "SU",
+     "TS",
+     "DR"
+    ],
+    "label": "Retraction, suture, suction & container",
+    "pcs": 10,
+    "rows": [
+     {
+      "cat": "RT-31-010",
+      "name": "Amputation retractor, 3-tail",
+      "size": "cloth",
+      "qty": 1
+     },
+     {
+      "cat": "RT-14-165",
+      "name": "Volkmann retractor, 4-prong, sharp",
+      "size": "16.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-01-180",
+      "name": "Mayo-Hegar needle holder",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-580",
+      "name": "Perforated sterilization tray with lid",
+      "size": "580 × 280 × 100 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-bs-001-amputation-set"
+ },
+ {
+  "code": "SET-CV-001",
+  "name": "Thoracotomy Set",
+  "procedure": "Thoracic Surgery",
+  "total": 109,
+  "intro": "An open-chest tray for posterolateral thoracotomy, lobectomy and pleural procedures: Finochietto rib spreader, rib shears and raspatories, lung-grasping forceps, bronchus and vascular clamps, long dissecting and suture instruments, and deep retraction, on a laparotomy core. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-CV-001"
+   ],
+   [
+    "Instruments",
+    "109 pieces in 7 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 580 × 280 × 100 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "10.4 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS"
+    ],
+    "label": "Cutting & dissecting",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "SL-01-210",
+      "name": "Scalpel handle No. 3, long",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-230",
+      "name": "Metzenbaum scissors, curved",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-280",
+      "name": "Metzenbaum scissors, curved",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-09-280",
+      "name": "Nelson (Metzenbaum-Nelson) scissors, curved",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-03-140",
+      "name": "Suture scissors, straight",
+      "size": "14 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "FR"
+    ],
+    "label": "Tissue & dissecting forceps",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "FR-01-200",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-02-200",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-14-200",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-14-240",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-14-300",
+      "name": "DeBakey atraumatic tissue forceps, 2.8 mm",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-11-250",
+      "name": "Russian tissue forceps",
+      "size": "25 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic & holding",
+    "pcs": 58,
+    "rows": [
+     {
+      "cat": "AF-01-125",
+      "name": "Halsted mosquito forceps, straight",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-140",
+      "name": "Crile artery forceps, straight",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-08-140",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "14 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 10
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight, serrated",
+      "size": "25 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-06-181",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "18 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-06-240",
+      "name": "Rochester-Pean forceps, curved",
+      "size": "24 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-12-230",
+      "name": "Mixter right-angle forceps",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-12-280",
+      "name": "Mixter right-angle forceps",
+      "size": "28 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-15-190",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "19 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-16-200",
+      "name": "Babcock tissue forceps",
+      "size": "20 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "CV"
+    ],
+    "label": "Thoracic instruments",
+    "pcs": 16,
+    "rows": [
+     {
+      "cat": "CV-01-010",
+      "name": "Finochietto rib spreader, adult, with 2 blade sets",
+      "size": "adult",
+      "qty": 1
+     },
+     {
+      "cat": "CV-02-350",
+      "name": "Bethune rib shears",
+      "size": "35 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-03-300",
+      "name": "Sauerbruch rib shears, double-action",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-04-170",
+      "name": "Doyen rib raspatory, right / left (1 each)",
+      "size": "17 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-05-210",
+      "name": "Alexander rib raspatory",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-06-230",
+      "name": "Duval lung-grasping forceps",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-07-200",
+      "name": "Lovelace lung-grasping forceps",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-08-260",
+      "name": "Sarot bronchus clamp, angled",
+      "size": "26 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-09-260",
+      "name": "Satinsky vascular clamp, medium",
+      "size": "26 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-10-200",
+      "name": "DeBakey peripheral vascular clamp, angled 60°",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-11-220",
+      "name": "Bailey rib contractor",
+      "size": "22 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-12-230",
+      "name": "Semb ligature-carrying forceps",
+      "size": "23 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT"
+    ],
+    "label": "Retractors",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "RT-05-300",
+      "name": "Deaver retractor, 25 mm / 50 mm (1 each)",
+      "size": "30 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-07-300",
+      "name": "Harrington (sweetheart) retractor",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-30-330",
+      "name": "Malleable ribbon retractor, 40 mm / 50 mm (1 each)",
+      "size": "33 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-13-300",
+      "name": "Allison lung retractor",
+      "size": "30 cm",
+      "qty": 1
+     },
+     {
+      "cat": "RT-03-240",
+      "name": "Richardson retractor, large",
+      "size": "24 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SU",
+     "TS"
+    ],
+    "label": "Needle holders & suction",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "SU-01-200",
+      "name": "Mayo-Hegar needle holder",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-01-260",
+      "name": "Mayo-Hegar needle holder",
+      "size": "26 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-09-240",
+      "name": "DeBakey needle holder, TC",
+      "size": "24 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-12-230",
+      "name": "Poole abdominal suction tube with shield",
+      "size": "23 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DR"
+    ],
+    "label": "Bowls & container",
+    "pcs": 4,
+    "rows": [
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 2
+     },
+     {
+      "cat": "DR-06-250",
+      "name": "Kidney tray, stainless steel",
+      "size": "25 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-580",
+      "name": "Perforated sterilization tray with lid",
+      "size": "580 × 280 × 100 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-cv-001-thoracotomy-set"
+ },
+ {
+  "code": "SET-CV-010",
+  "name": "Vascular Set",
+  "procedure": "Peripheral Vascular Surgery",
+  "total": 75,
+  "intro": "A peripheral vascular tray for femoral, carotid and bypass work: DeBakey and Cooley clamps in graded angles, Satinsky partial- occlusion clamp, bulldog clamps, Potts and Diethrich scissors, fine DeBakey forceps, vessel dilators and tungsten-carbide needle holders for 5-0 to 7-0 suture. German pattern, AISI 410/420 stainless steel with TC inserts where noted, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-CV-010"
+   ],
+   [
+    "Instruments",
+    "75 pieces in 5 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 480 × 250 × 80 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "5.3 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {
+   "instruments": 75,
+   "groups": 5,
+   "references": 42,
+   "sections": 10
+  },
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS"
+    ],
+    "label": "Cutting",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-160",
+      "name": "Scalpel handle No. 7",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved, delicate",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-230",
+      "name": "Metzenbaum scissors, curved",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-20-190",
+      "name": "Potts-Smith vascular scissors, angled 45°",
+      "size": "19 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-20-191",
+      "name": "Potts-Smith vascular scissors, angled 60°",
+      "size": "19 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-21-180",
+      "name": "Diethrich coronary scissors, angled 125°",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-03-140",
+      "name": "Suture scissors, straight",
+      "size": "14 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "FR"
+    ],
+    "label": "Forceps",
+    "pcs": 9,
+    "rows": [
+     {
+      "cat": "FR-14-150",
+      "name": "DeBakey atraumatic tissue forceps, 1.5 mm",
+      "size": "15 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-14-200",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-14-240",
+      "name": "DeBakey atraumatic tissue forceps, 2.0 mm",
+      "size": "24 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-15-180",
+      "name": "Gerald dressing forceps, serrated, 1 mm",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-05-120",
+      "name": "Adson tissue forceps, 1 × 2 teeth",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "CV"
+    ],
+    "label": "Vascular clamps",
+    "pcs": 24,
+    "rows": [
+     {
+      "cat": "CV-10-160",
+      "name": "DeBakey peripheral vascular clamp, angled 45°",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-10-200",
+      "name": "DeBakey peripheral vascular clamp, angled 60°",
+      "size": "20 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-22-260",
+      "name": "DeBakey aortic aneurysm clamp, straight",
+      "size": "26 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-23-170",
+      "name": "Cooley vascular clamp, curved",
+      "size": "17 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-09-210",
+      "name": "Satinsky vascular clamp, small",
+      "size": "21 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-09-260",
+      "name": "Satinsky vascular clamp, medium",
+      "size": "26 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-24-010",
+      "name": "",
+      "size": "DeBakey bulldog clamp, straight, 4 cm                                              4 cm",
+      "qty": 4
+     },
+     {
+      "cat": "CV-24-020",
+      "name": "",
+      "size": "DeBakey bulldog clamp, curved, 4 cm                                                4 cm",
+      "qty": 4
+     },
+     {
+      "cat": "CV-25-010",
+      "name": "",
+      "size": "Glover bulldog clamp, angled                                                       5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-26-180",
+      "name": "Henle (Mixter) ligature forceps, 90°",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "CV-27-230",
+      "name": "Gemini (Mixter) dissecting forceps, 90°",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CV-28-SET",
+      "name": "",
+      "size": "Vessel dilators, Garrett, 1.0–5.0 mm, set of 9                                                        9 pieces",
+      "qty": 1
+     },
+     {
+      "cat": "CV-29-010",
+      "name": "Vascular tunneller, Kelly-Wick, 6 mm",
+      "size": "30 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic & holding",
+    "pcs": 20,
+    "rows": [
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 6
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight",
+      "size": "25 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "RT",
+     "SU",
+     "TS",
+     "DR"
+    ],
+    "label": "Retraction, suture, suction & container",
+    "pcs": 14,
+    "rows": [
+     {
+      "cat": "RT-25-165",
+      "name": "Weitlaner self-retaining retractor, 3 × 4 prongs, blunt",
+      "size": "16.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 30 × 8 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-12-160",
+      "name": "Senn-Mueller retractor, blunt",
+      "size": "16 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-09-180",
+      "name": "DeBakey needle holder, TC",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-10-180",
+      "name": "Castroviejo needle holder, TC, curved",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-03-150",
+      "name": "Crile-Wood needle holder, TC",
+      "size": "15 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-15-180",
+      "name": "Frazier suction tube, 10 Fr",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 2
+     },
+     {
+      "cat": "DR-10-480",
+      "name": "Perforated sterilization tray with lid",
+      "size": "480 × 250 × 80 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-cv-010-vascular-set"
+ },
+ {
+  "code": "SET-NS-001",
+  "name": "Laminectomy Set",
+  "procedure": "Spinal Surgery",
+  "total": 95,
+  "intro": "A posterior spine tray for lumbar and cervical laminectomy and discectomy: Kerrison punches in graded bites, Leksell and pituitary rongeurs, Cobb and Penfield elevators, nerve-root retractors, Cushing and Hibbs retractors, dural instruments and bipolar-ready fine forceps. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-NS-001"
+   ],
+   [
+    "Instruments",
+    "95 pieces in 6 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 580 × 280 × 100 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "9.1 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SL",
+     "SS",
+     "FR"
+    ],
+    "label": "Soft-tissue core",
+    "pcs": 13,
+    "rows": [
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-135",
+      "name": "Scalpel handle No. 4",
+      "size": "13.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-160",
+      "name": "Scalpel handle No. 7",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-05-171",
+      "name": "Mayo dissecting scissors, curved",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-180",
+      "name": "Metzenbaum scissors, curved",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-07-230",
+      "name": "Metzenbaum scissors, curved",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-05-120",
+      "name": "Adson tissue forceps, 1 × 2 teeth",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "NS-01-180",
+      "name": "Cushing dressing forceps, bayonet, serrated",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "NS-01-181",
+      "name": "Cushing tissue forceps, bayonet, 1 × 2 teeth",
+      "size": "18 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "AF",
+     "CS"
+    ],
+    "label": "Haemostatic & holding",
+    "pcs": 28,
+    "rows": [
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-04-141",
+      "name": "Crile artery forceps, curved",
+      "size": "14 cm",
+      "qty": 6
+     },
+     {
+      "cat": "AF-08-140",
+      "name": "Kocher forceps, straight, 1 × 2 teeth",
+      "size": "14 cm",
+      "qty": 4
+     },
+     {
+      "cat": "AF-15-150",
+      "name": "Allis tissue forceps, 4 × 5 teeth",
+      "size": "15 cm",
+      "qty": 2
+     },
+     {
+      "cat": "AF-20-130",
+      "name": "Backhaus towel clamp",
+      "size": "13 cm",
+      "qty": 8
+     },
+     {
+      "cat": "CS-01-250",
+      "name": "Foerster sponge-holding forceps, straight",
+      "size": "25 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "NS"
+    ],
+    "label": "Punches & rongeurs",
+    "pcs": 11,
+    "rows": [
+     {
+      "cat": "NS-02-SET",
+      "name": "Kerrison rongeur, up-cut 40°, 2 mm / 3 mm / 4 mm / 5 mm (1 each)",
+      "size": "20 cm",
+      "qty": 4
+     },
+     {
+      "cat": "NS-03-200",
+      "name": "Kerrison rongeur, down-cut, 3 mm",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "NS-04-240",
+      "name": "Leksell laminectomy rongeur, curved, 5 mm",
+      "size": "24 cm",
+      "qty": 1
+     },
+     {
+      "cat": "NS-05-180",
+      "name": "Spurling pituitary rongeur, straight / up (1 each)",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "NS-06-180",
+      "name": "Cushing pituitary rongeur, straight, 2 mm",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "BS-01-170",
+      "name": "Luer bone rongeur, curved, 5 mm",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "NS-07-250",
+      "name": "Cloward laminectomy punch, 4 mm",
+      "size": "25 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "NS",
+     "OR"
+    ],
+    "label": "Elevators, curettes & probes",
+    "pcs": 19,
+    "rows": [
+     {
+      "cat": "NS-08-280",
+      "name": "Cobb spinal elevator, 13 mm / 19 mm (1 each)",
+      "size": "28 cm",
+      "qty": 2
+     },
+     {
+      "cat": "NS-09-SET",
+      "name": "",
+      "size": "Penfield dissector, sizes 1 / 2 / 3 / 4 (1 each)                                                   4 sizes",
+      "qty": 4
+     },
+     {
+      "cat": "NS-10-200",
+      "name": "Freer elevator, double-ended",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "NS-11-190",
+      "name": "Woodson dural elevator, double-ended",
+      "size": "19 cm",
+      "qty": 1
+     },
+     {
+      "cat": "NS-12-SET",
+      "name": "",
+      "size": "Spinal curette, Cone ring, angled, sizes 0 / 2 / 4 (1 each)                                        3 sizes",
+      "qty": 3
+     },
+     {
+      "cat": "NS-13-220",
+      "name": "Nerve hook, Dandy, blunt",
+      "size": "22 cm",
+      "qty": 2
+     },
+     {
+      "cat": "NS-14-220",
+      "name": "Ball-tip probe, 90° / straight (1 each)",
+      "size": "22 cm",
+      "qty": 2
+     },
+     {
+      "cat": "OR-15-200",
+      "name": "Bone awl, Cushing",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-05-220",
+      "name": "Mallet, stainless steel, 300 g",
+      "size": "22 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OR-01-SET",
+      "name": "Lambotte osteotome, straight, 6 / 10 mm (1 each)",
+      "size": "24 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "NS",
+     "RT"
+    ],
+    "label": "Retractors",
+    "pcs": 14,
+    "rows": [
+     {
+      "cat": "NS-15-240",
+      "name": "Scoville nerve-root retractor, angled, 8 mm / 11 mm (1 each)",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "NS-16-230",
+      "name": "Love nerve-root retractor, 9 mm",
+      "size": "23 cm",
+      "qty": 1
+     },
+     {
+      "cat": "NS-17-240",
+      "name": "Hibbs laminectomy retractor, 25 mm",
+      "size": "24 cm",
+      "qty": 2
+     },
+     {
+      "cat": "NS-18-230",
+      "name": "Cushing hand retractor, 18 mm",
+      "size": "23 cm",
+      "qty": 2
+     },
+     {
+      "cat": "NS-19-310",
+      "name": "Beckman-Adson self-retaining retractor, 4 × 4 prongs",
+      "size": "31 cm",
+      "qty": 1
+     },
+     {
+      "cat": "NS-20-180",
+      "name": "Gelpi self-retaining retractor, sharp",
+      "size": "18 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-25-165",
+      "name": "Weitlaner self-retaining retractor, 3 × 4 prongs, sharp",
+      "size": "16.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "RT-01-215",
+      "name": "Langenbeck retractor, 40 × 11 mm",
+      "size": "21.5 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "SU",
+     "TS",
+     "DR"
+    ],
+    "label": "Suture, suction & container",
+    "pcs": 10,
+    "rows": [
+     {
+      "cat": "SU-01-160",
+      "name": "Mayo-Hegar needle holder",
+      "size": "16 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-01-200",
+      "name": "Mayo-Hegar needle holder",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-08-180",
+      "name": "Bayonet needle holder, Jacobson",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "TS-15-180",
+      "name": "Frazier suction tube, 8 Fr / 10 Fr / 12 Fr (1 each)",
+      "size": "18 cm",
+      "qty": 3
+     },
+     {
+      "cat": "TS-10-280",
+      "name": "Yankauer suction tube, complete",
+      "size": "28 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-100",
+      "name": "Gallipot, stainless steel",
+      "size": "100 ml",
+      "qty": 2
+     },
+     {
+      "cat": "DR-10-580",
+      "name": "Perforated sterilization tray with lid",
+      "size": "580 × 280 × 100 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-ns-001-laminectomy-set"
+ },
+ {
+  "code": "SET-OG-001",
+  "name": "Cataract / Eye Micro Set",
+  "procedure": "Ophthalmic Microsurgery",
+  "total": 39,
+  "intro": "A micro-ophthalmic tray for extracapsular and manual small- incision cataract surgery: speculum, Castroviejo calipers and needle holders, capsulorhexis and tying forceps, Vannas and Westcott scissors, lens loop and vectis, iris and Sinskey hooks and irrigation cannulas, in a silicone-lined micro-instrument case. German pattern, AISI 420/440 and titanium where noted, passivated and inspected under magnification.",
+  "specs": [
+   [
+    "Set number",
+    "SET-OG-001"
+   ],
+   [
+    "Instruments",
+    "39 pieces in 5 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Instrument case 250 × 150 × 40 mm, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "0.7 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {
+   "instruments": 39,
+   "groups": 5,
+   "references": 35,
+   "sections": 3
+  },
+  "groups": [
+   {
+    "codes": [
+     "OG"
+    ],
+    "label": "Specula, fixation & measurement",
+    "pcs": 7,
+    "rows": [
+     {
+      "cat": "OG-01-010",
+      "name": "Barraquer wire eye speculum, adult",
+      "size": "adult",
+      "qty": 1
+     },
+     {
+      "cat": "OG-02-010",
+      "name": "Lieberman eye speculum, adjustable",
+      "size": "adult",
+      "qty": 1
+     },
+     {
+      "cat": "OG-03-080",
+      "name": "",
+      "size": "Castroviejo caliper, 0–20 mm                                                                8 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-04-100",
+      "name": "Fixation forceps, Castroviejo, 0.5 mm, 1 × 2 teeth",
+      "size": "10 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-05-100",
+      "name": "Superior-rectus forceps, Elschnig, 1 × 2 teeth",
+      "size": "10 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-06-035",
+      "name": "Serrefine clamp, straight",
+      "size": "3.5 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "OG",
+     "SL"
+    ],
+    "label": "Knives & scissors",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "OG-07-120",
+      "name": "Crescent (tunnel) knife handle, reusable",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-08-120",
+      "name": "Keratome handle, reusable",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-08-120",
+      "name": "Beaver-type micro blade handle, round, knurled",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-09-080",
+      "name": "",
+      "size": "Vannas capsulotomy scissors, straight                                                       8 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-09-081",
+      "name": "",
+      "size": "Vannas capsulotomy scissors, curved                                                         8 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-10-115",
+      "name": "Westcott tenotomy scissors, curved, blunt",
+      "size": "11.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-11-100",
+      "name": "Corneal section scissors, Castroviejo, right / left (1 each)",
+      "size": "10 cm",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "OG"
+    ],
+    "label": "Forceps",
+    "pcs": 10,
+    "rows": [
+     {
+      "cat": "OG-12-100",
+      "name": "Capsulorhexis forceps, Utrata",
+      "size": "10 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-13-100",
+      "name": "Tying forceps, Castroviejo, straight, 0.3 mm",
+      "size": "10 cm",
+      "qty": 2
+     },
+     {
+      "cat": "OG-13-101",
+      "name": "Tying forceps, Castroviejo, curved, 0.3 mm",
+      "size": "10 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-14-075",
+      "name": "Colibri corneal forceps, 0.12 mm, 1 × 2 teeth",
+      "size": "7.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-15-070",
+      "name": "",
+      "size": "Bonn corneal forceps, 0.12 mm, 1 × 2 teeth                                                  7 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-16-100",
+      "name": "McPherson tying forceps, angled",
+      "size": "10 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-17-100",
+      "name": "Kelman-McPherson IOL forceps, angled",
+      "size": "10 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-18-085",
+      "name": "Iris forceps, Bishop-Harmon, 1 × 2 teeth",
+      "size": "8.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-19-100",
+      "name": "Conjunctival forceps, Moorfields, serrated",
+      "size": "10 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "OG"
+    ],
+    "label": "Hooks, cannulas & lens handling",
+    "pcs": 11,
+    "rows": [
+     {
+      "cat": "OG-20-120",
+      "name": "Sinskey lens hook, angled",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-21-120",
+      "name": "Kuglen iris hook and lens manipulator",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-22-130",
+      "name": "Iris repositor, double-ended",
+      "size": "13 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-23-130",
+      "name": "Lens loop (vectis), Snellen, 8 mm",
+      "size": "13 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-24-120",
+      "name": "Irrigating vectis, 25 G",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-25-010",
+      "name": "Simcoe irrigation-aspiration cannula, 23 G, with tubing",
+      "size": "23 G",
+      "qty": 1
+     },
+     {
+      "cat": "OG-26-010",
+      "name": "Hydrodissection cannula, 27 G, flat",
+      "size": "27 G",
+      "qty": 1
+     },
+     {
+      "cat": "OG-27-010",
+      "name": "Anterior-chamber cannula, Rycroft, 30 G",
+      "size": "30 G",
+      "qty": 2
+     },
+     {
+      "cat": "OG-28-120",
+      "name": "Cystitome (bent needle) holder",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-29-120",
+      "name": "Chopper, Nagahara",
+      "size": "12 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "OG",
+     "SU"
+    ],
+    "label": "Needle holders & case",
+    "pcs": 3,
+    "rows": [
+     {
+      "cat": "SU-10-140",
+      "name": "Castroviejo needle holder, curved, without lock",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-10-120",
+      "name": "Barraquer needle holder, curved, delicate",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "OG-30-250",
+      "name": "Micro-instrument case, silicone-lined, with lid",
+      "size": "250 × 150 × 40 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-og-001-cataract-eye-micro-set"
+ },
+ {
+  "code": "SET-DN-001",
+  "name": "Dental Extraction Set",
+  "procedure": "Oral Surgery & Exodontia",
+  "total": 44,
+  "intro": "A general extraction tray for adult exodontia: upper and lower extraction forceps by tooth group, root forceps, straight and Cryer elevators, luxators, periosteal elevator, bone rongeur, surgical curettes, mouth mirror, probe and cheek retractor. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern, kitted in a lidded perforated tray.",
+  "specs": [
+   [
+    "Set number",
+    "SET-DN-001"
+   ],
+   [
+    "Instruments",
+    "44 pieces in 5 groups"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Perforated tray 300 × 200 × 60 mm, lid, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "2.8 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "DN"
+    ],
+    "label": "Extraction forceps, upper",
+    "pcs": 6,
+    "rows": [
+     {
+      "cat": "DN-01-010",
+      "name": "Upper incisor & canine forceps, Fig. 1",
+      "size": "Fig. 1",
+      "qty": 1
+     },
+     {
+      "cat": "DN-01-070",
+      "name": "Upper premolar forceps, Fig. 7",
+      "size": "Fig. 7",
+      "qty": 1
+     },
+     {
+      "cat": "DN-01-170",
+      "name": "Upper molar forceps, right, Fig. 17",
+      "size": "Fig. 17",
+      "qty": 1
+     },
+     {
+      "cat": "DN-01-180",
+      "name": "Upper molar forceps, left, Fig. 18",
+      "size": "Fig. 18",
+      "qty": 1
+     },
+     {
+      "cat": "DN-01-510",
+      "name": "Upper root forceps, bayonet, Fig. 51",
+      "size": "Fig. 51",
+      "qty": 1
+     },
+     {
+      "cat": "DN-01-670",
+      "name": "Upper third-molar forceps, bayonet, Fig. 67",
+      "size": "Fig. 67",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DN"
+    ],
+    "label": "Extraction forceps, lower",
+    "pcs": 5,
+    "rows": [
+     {
+      "cat": "DN-02-130",
+      "name": "Lower incisor & premolar forceps, Fig. 13",
+      "size": "Fig. 13",
+      "qty": 1
+     },
+     {
+      "cat": "DN-02-230",
+      "name": "Lower molar forceps, cowhorn, Fig. 23",
+      "size": "Fig. 23",
+      "qty": 1
+     },
+     {
+      "cat": "DN-02-220",
+      "name": "Lower molar forceps, Fig. 22",
+      "size": "Fig. 22",
+      "qty": 1
+     },
+     {
+      "cat": "DN-02-330",
+      "name": "Lower root forceps, Fig. 33",
+      "size": "Fig. 33",
+      "qty": 1
+     },
+     {
+      "cat": "DN-02-790",
+      "name": "Lower third-molar forceps, Fig. 79",
+      "size": "Fig. 79",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DN"
+    ],
+    "label": "Elevators & luxators",
+    "pcs": 14,
+    "rows": [
+     {
+      "cat": "DN-03-SET",
+      "name": "",
+      "size": "Straight elevator, Coupland, sizes 1 / 2 / 3 (1 each)                                       3 sizes",
+      "qty": 3
+     },
+     {
+      "cat": "DN-04-PAIR",
+      "name": "Cryer elevator, right / left (1 each)",
+      "size": "pair",
+      "qty": 2
+     },
+     {
+      "cat": "DN-05-SET",
+      "name": "",
+      "size": "Warwick-James elevator, straight / right / left (1 each)                                    3 pieces",
+      "qty": 3
+     },
+     {
+      "cat": "DN-06-SET",
+      "name": "",
+      "size": "Luxator, 3 mm straight / 5 mm straight / 3 mm curved (1 each)                               3 pieces",
+      "qty": 3
+     },
+     {
+      "cat": "DN-07-180",
+      "name": "Periosteal elevator, Molt No. 9, double-ended",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DN-08-PAIR",
+      "name": "Apical root-tip pick, right / left (1 each)",
+      "size": "pair",
+      "qty": 2
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DN",
+     "BS",
+     "SS"
+    ],
+    "label": "Bone, curettes & cutting",
+    "pcs": 8,
+    "rows": [
+     {
+      "cat": "BS-01-170",
+      "name": "Luer bone rongeur, curved, 5 mm",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DN-09-170",
+      "name": "Surgical curette, Lucas, double-ended, 2.5 mm / 3.5 mm (1 each)",
+      "size": "17 cm",
+      "qty": 2
+     },
+     {
+      "cat": "DN-10-170",
+      "name": "Bone file, Miller-Colburn, double-ended",
+      "size": "17 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-08-115",
+      "name": "Iris scissors, curved",
+      "size": "11.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-13-130",
+      "name": "Goldman-Fox gum scissors, curved",
+      "size": "13 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DN-11-170",
+      "name": "Chisel, Ochsenbein No. 1",
+      "size": "17 cm",
+      "qty": 1
+     }
+    ]
+   },
+   {
+    "codes": [
+     "DN",
+     "AF",
+     "SU"
+    ],
+    "label": "Examination, haemostatic & suture",
+    "pcs": 11,
+    "rows": [
+     {
+      "cat": "DN-12-010",
+      "name": "Mouth mirror handle with No. 5 mirror",
+      "size": "No. 5",
+      "qty": 1
+     },
+     {
+      "cat": "DN-13-010",
+      "name": "Dental explorer / probe, double-ended, No. 23",
+      "size": "No. 23",
+      "qty": 1
+     },
+     {
+      "cat": "DN-14-150",
+      "name": "College tweezers, serrated, angled",
+      "size": "15 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DN-15-010",
+      "name": "Minnesota cheek and tongue retractor",
+      "size": "standard",
+      "qty": 1
+     },
+     {
+      "cat": "DN-16-010",
+      "name": "Bite block, silicone, adult",
+      "size": "adult",
+      "qty": 1
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "SU-01-140",
+      "name": "Mayo-Hegar needle holder",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DN-17-150",
+      "name": "Suction tip, surgical, stainless steel, 3 mm",
+      "size": "15 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-60",
+      "name": "Gallipot, stainless steel",
+      "size": "60 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-10-300",
+      "name": "Perforated sterilization tray with lid",
+      "size": "300 × 200 × 60 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-dn-001-dental-extraction-set"
+ },
+ {
+  "code": "SET-SU-001",
+  "name": "Suture Set",
+  "procedure": "Skin Closure & Laceration Repair",
+  "total": 13,
+  "intro": "A compact laceration-repair and skin-closure tray for emergency, ward and outpatient use, with needle holder, toothed and plain forceps, suture and iris scissors, mosquito forceps and a probe, in a slimline instrument case. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-SU-001                                                                 reprocessing"
+   ],
+   [
+    "Instruments",
+    "13 pieces in 1 group"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Instrument case 250 × 150 × 40 mm, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "0.5 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "SU",
+     "SS",
+     "FR",
+     "AF"
+    ],
+    "label": "Suture set contents",
+    "pcs": 13,
+    "rows": [
+     {
+      "cat": "SU-01-140",
+      "name": "Mayo-Hegar needle holder",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SU-05-130",
+      "name": "Halsey needle holder, serrated",
+      "size": "13 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-03-140",
+      "name": "Suture scissors, straight",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-08-115",
+      "name": "Iris scissors, straight",
+      "size": "11.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-05-120",
+      "name": "Adson tissue forceps, 1 × 2 teeth",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-05-121",
+      "name": "Adson dressing forceps, serrated",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "FR-01-145",
+      "name": "Dissecting forceps, standard, serrated",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "AF-01-126",
+      "name": "Halsted mosquito forceps, curved",
+      "size": "12.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "PB-01-145",
+      "name": "Probe, double-ended",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SL-01-125",
+      "name": "Scalpel handle No. 3",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-60",
+      "name": "Gallipot, stainless steel",
+      "size": "60 ml",
+      "qty": 1
+     },
+     {
+      "cat": "DR-12-250",
+      "name": "Instrument case, perforated, with lid",
+      "size": "250 × 150 × 40 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-su-001-suture-set"
+ },
+ {
+  "code": "SET-DR-001",
+  "name": "Dressing Set",
+  "procedure": "Wound Care & Dressing Change",
+  "total": 13,
+  "intro": "A ward and clinic dressing tray for wound cleaning, dressing change, suture and clip removal, with dressing forceps, sponge- holder, dressing scissors, stitch scissors, clip remover and a probe, in a slimline instrument case. German pattern, AISI 410/420 stainless steel, passivated and inspected against master pattern.",
+  "specs": [
+   [
+    "Set number",
+    "SET-DR-001"
+   ],
+   [
+    "Instruments",
+    "13 pieces in 1 group"
+   ],
+   [
+    "Material",
+    "AISI 410/420 martensitic stainless steel, German pattern"
+   ],
+   [
+    "Finish",
+    "Satin (standard) · mirror polish or tungsten-carbide on request"
+   ],
+   [
+    "Container",
+    "Instrument case 250 × 150 × 40 mm, silicone mat"
+   ],
+   [
+    "Approx. weight",
+    "0.4 kg, kitted"
+   ],
+   [
+    "Reprocessing",
+    "Fully reusable · steam autoclave 134 °C · ultrasonic cleaning compatible"
+   ],
+   [
+    "Compliance",
+    "ISO 13485:2016 · CE marked, MDR 2017/745 Class I"
+   ],
+   [
+    "Lead time",
+    "6 – 10 weeks, confirmed on quotation"
+   ],
+   [
+    "Marking",
+    "Opix laser marking, or private label to your specification"
+   ],
+   [
+    "Warranty",
+    "Against defects in material and workmanship, per Opix export terms"
+   ]
+  ],
+  "stats": {},
+  "groups": [
+   {
+    "codes": [
+     "DR",
+     "CS",
+     "FR",
+     "SS"
+    ],
+    "label": "Dressing set contents",
+    "pcs": 13,
+    "rows": [
+     {
+      "cat": "FR-03-145",
+      "name": "Dressing forceps, serrated, straight",
+      "size": "14.5 cm",
+      "qty": 2
+     },
+     {
+      "cat": "FR-02-145",
+      "name": "Tissue forceps, 1 × 2 teeth",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "CS-01-200",
+      "name": "Foerster sponge-holding forceps, straight",
+      "size": "20 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-14-180",
+      "name": "Lister bandage scissors, angled",
+      "size": "18 cm",
+      "qty": 1
+     },
+     {
+      "cat": "SS-15-140",
+      "name": "Stitch (Littauer) scissors, straight",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-01-120",
+      "name": "Michel clip-removing forceps",
+      "size": "12 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-02-140",
+      "name": "Michel clip-applying forceps",
+      "size": "14 cm",
+      "qty": 1
+     },
+     {
+      "cat": "PB-01-145",
+      "name": "Probe, double-ended",
+      "size": "14.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "AF-01-125",
+      "name": "Halsted mosquito forceps, straight",
+      "size": "12.5 cm",
+      "qty": 1
+     },
+     {
+      "cat": "DR-05-60",
+      "name": "Gallipot, stainless steel",
+      "size": "60 ml",
+      "qty": 2
+     },
+     {
+      "cat": "DR-12-250",
+      "name": "Instrument case, perforated, with lid",
+      "size": "250 × 150 × 40 mm",
+      "qty": 1
+     }
+    ]
+   }
+  ],
+  "slug": "set-dr-001-dressing-set"
+ }
+]

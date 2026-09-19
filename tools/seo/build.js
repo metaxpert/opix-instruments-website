@@ -10,6 +10,7 @@ const L = require('./lib.js');
 const C = require('./chrome.js');
 const catalog = require('./catalog.js');
 const { DOWNLOADS } = require('./downloads.js');
+const sets = require('./sets.js');
 
 const ROOT = L.ROOT;
 const { SECTIONS, built, manifest } = C;
@@ -520,6 +521,10 @@ function main() {
   // Catalogue + category pages (this is what pre-renders the 9,720 products).
   const written = catalog.generate();
 
+  // Procedure-set pages. The Procedure Sets PDF links to every one of these by
+  // name, so they have to exist before the catalogue reaches another buyer.
+  const setPages = sets.generate();
+
   /* ---- sitemap entries ---- */
   push('/', '1.0', 'weekly', 'core');
   push('/catalog.html', '0.9', 'weekly', 'core');
@@ -537,6 +542,8 @@ function main() {
   // The certificates. "opix instruments iso 13485 certificate" is a query a
   // due-diligence buyer actually runs, and the answer should be our document.
   for (const c of (SITE.certificates || [])) push(c.file, '0.5', 'yearly', 'core');
+
+  for (const p of setPages) push(p.url, p.kind === 'index' ? '0.8' : '0.7', 'monthly', 'catalog');
 
   for (const w of written) {
     const sec = SECTIONS[w.code];
@@ -558,6 +565,7 @@ function main() {
   console.log(`SEO build complete
   ${sections} section pages   (${TOTAL.toLocaleString()} products pre-rendered into HTML)
   ${cats} category pages
+  ${setPages.length - 1} procedure-set pages + index
   6 core pages + 404
   ${sm.count} URLs across ${sm.files.length} sitemap files`);
 }

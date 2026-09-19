@@ -17,6 +17,10 @@ const snapshot = () => {
   for (const f of fs.readdirSync(ROOT))
     if (/\.(html|xml|txt|webmanifest)$/.test(f))
       m.set(f, fs.readFileSync(path.join(ROOT, f), 'utf8'));
+  const sub = path.join(ROOT, 'sets');
+  if (fs.existsSync(sub))
+    for (const f of fs.readdirSync(sub))
+      if (f.endsWith('.html')) m.set('sets/' + f, fs.readFileSync(path.join(sub, f), 'utf8'));
   return m;
 };
 

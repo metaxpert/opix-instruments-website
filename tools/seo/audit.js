@@ -4,7 +4,7 @@ const fs = require('fs'), path = require('path');
 const L = require('./lib.js');
 const ROOT = L.ROOT;
 
-const pages = fs.readdirSync(ROOT).filter(f => f.endsWith('.html')).sort();
+const pages = L.listPages();
 const titles = new Map(), descs = new Map(), canons = new Map();
 const problems = [];
 let noindexed = 0, totalIn = 0;
@@ -55,7 +55,9 @@ for (const [d, fl] of descs) if (fl.length > 1) problems.push(`duplicate descrip
 const linked = new Set();
 for (const f of pages) {
   const h = fs.readFileSync(path.join(ROOT, f), 'utf8');
-  for (const m of h.matchAll(/href="\/?([a-z0-9][a-z0-9-]*\.html)(?:#[^"]*)?"/g)) linked.add(m[1]);
+  for (const m of h.matchAll(/href="\/?((?:sets\/)?[a-z0-9][a-z0-9-]*\.html)(?:#[^"]*)?"/g)) linked.add(m[1]);
+  // A directory link is a link to its index page.
+  for (const m of h.matchAll(/href="\/(sets)\/"/g)) linked.add(m[1] + '/index.html');
 }
 const orphans = pages.filter(p => !linked.has(p) && p !== 'index.html' && p !== '404.html');
 if (orphans.length) problems.push(`${orphans.length} orphan pages: ${orphans.slice(0, 6).join(', ')}`);
@@ -66,6 +68,8 @@ const inMap = new Set();
 for (const f of smFiles)
   for (const m of fs.readFileSync(path.join(ROOT, f), 'utf8').matchAll(/<loc>([^<]+)<\/loc>/g))
     inMap.add(m[1].replace(/^https:\/\/www\.opixinst\.com\//, '') || 'index.html');
+// A sitemap <loc> of /sets/ covers the page written as sets/index.html.
+for (const d of [...inMap]) if (d.endsWith('/')) inMap.add(d + 'index.html');
 const missing = pages.filter(p => p !== '404.html' && !inMap.has(p) && !(p === 'index.html' && inMap.has('index.html')));
 if (missing.length) problems.push(`${missing.length} pages absent from sitemap: ${missing.slice(0, 5).join(', ')}`);
 
