@@ -65,9 +65,14 @@ function contents(set) {
 }
 
 function setSchema(set, url) {
-  const props = set.specs
-    .filter(([k]) => ['Material', 'Finish', 'Container', 'Approx. weight', 'Reprocessing'].includes(k))
-    .map(([k, v]) => ({ "@type": "PropertyValue", "name": k, "value": v }));
+  // The procedure rides in additionalProperty, not isRelatedTo. isRelatedTo
+  // expects a Product or Service, and a MedicalProcedure is neither — it is a
+  // MedicalEntity, so the value was out of range for the property even though
+  // it parsed perfectly well.
+  const props = [{ "@type": "PropertyValue", "name": "Procedure", "value": set.procedure }].concat(
+    set.specs
+      .filter(([k]) => ['Material', 'Finish', 'Container', 'Approx. weight', 'Reprocessing'].includes(k))
+      .map(([k, v]) => ({ "@type": "PropertyValue", "name": k, "value": v })));
   return {
     "@context": "https://schema.org",
     "@type": "Product",
@@ -79,7 +84,6 @@ function setSchema(set, url) {
     "brand": { "@type": "Brand", "name": SITE.name },
     "manufacturer": L.orgRef(),
     "url": L.abs(url),
-    "isRelatedTo": { "@type": "MedicalProcedure", "name": set.procedure },
     ...(props.length ? { "additionalProperty": props } : {}),
   };
 }
