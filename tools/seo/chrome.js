@@ -100,7 +100,9 @@ function footer() {
     <a href="/specialties.html">Shop by specialty</a></div>
   <div><h3>Contact</h3>
     <a href="mailto:${esc(SITE.email)}">${esc(SITE.email)}</a>
-    <a href="tel:${esc(SITE.phone.replace(/[^+\d]/g, ''))}">${esc(SITE.phone)}</a>
+${(SITE.phones || [{ label: '', number: SITE.phone }]).map(p =>
+    `    <a href="tel:${esc(p.number.replace(/[^+\d]/g, ''))}">${esc(p.number)}`
+    + (p.label ? ` <span class="ftel">${esc(p.label)}</span>` : '') + `</a>`).join('\n')}
     <a href="https://wa.me/${SITE.whatsapp}" rel="noopener">WhatsApp Business</a></div>
 </div>${marks('compact')}<div class="fbot">© ${year} ${esc(SITE.name)} — ${esc(SITE.tagline)}. All catalog numbers and specifications subject to change.</div></footer>`;
 }

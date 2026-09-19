@@ -102,14 +102,17 @@ function orgSchema() {
       "postalCode": SITE.postal,
       "addressCountry": SITE.country
     },
-    "contactPoint": [{
+    // One sales contact point per published number. areaServed sits on the
+    // first only — repeating all 16 countries three times would trip the page
+    // weight of every page carrying this block for no extra meaning.
+    "contactPoint": (SITE.phones || [{ number: SITE.phone }]).map((p, i) => ({
       "@type": "ContactPoint",
       "contactType": "sales",
       "email": SITE.email,
-      "telephone": SITE.phone,
+      "telephone": p.number,
       "availableLanguage": ["English", "Urdu"],
-      "areaServed": SITE.markets.map(m => ({ "@type": "Country", "name": m }))
-    }],
+      ...(i === 0 ? { "areaServed": SITE.markets.map(m => ({ "@type": "Country", "name": m })) } : {})
+    })),
     "areaServed": { "@type": "Place", "name": "Worldwide" },
     "knowsAbout": ["Surgical instruments", "Dental instruments", "Orthopedic instruments",
                    "Medical device manufacturing", "OEM private label instruments", "ISO 13485"],
@@ -274,7 +277,7 @@ function buildHead(spec) {
   for (const f of (spec.fonts || ['archivo-700', 'inter-400']))
     L.push(`<link rel="preload" href="/assets/fonts/${f}.woff2" as="font" type="font/woff2" crossorigin>`);
   if (spec.preloadImg) L.push(`<link rel="preload" as="image" href="${spec.preloadImg}" fetchpriority="high">`);
-  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 8}">`);
+  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 9}">`);
   if (spec.extra) L.push(spec.extra);
   for (const s of (spec.schema || [])) L.push(jsonld(s));
   return L.join('\n');

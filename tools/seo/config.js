@@ -9,8 +9,22 @@ const SITE = {
   legalName:   "Opix Instruments",
   tagline:     "Crafted with Precision",
   email:       "info@opixinst.com",
-  phone:       "+92-331-6189184",
+  phone:       "+92-331-6189184",   // primary — the one in Organization/LocalBusiness schema
   whatsapp:    "923316189184",
+  /* Every number we publish, primary first. Rendered in the footer of every
+     page and on the contact page; the extras also become sales ContactPoints.
+     Numbers are stored exactly as given — a phone number is not the place to
+     tidy up punctuation.
+
+     Labels are read off the numbering plan, not off any claim about offices:
+     331 is a Pakistani mobile and matches the WhatsApp number, 52 is Sialkot's
+     landline area code, +971 55 is a UAE mobile. If the UAE number is a sales
+     office rather than a mobile, relabel it here. */
+  phones: [
+    { label: "Mobile / WhatsApp",  number: "+92-331-6189184" },
+    { label: "Landline, Sialkot",  number: "+92-52-3570076" },
+    { label: "UAE",                number: "+971 55 712 9906" },
+  ],
   street:      "Ugoki Road",
   locality:    "Sialkot",
   region:      "Punjab",
