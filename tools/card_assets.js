@@ -55,6 +55,8 @@ const ICONS = {
   liver: '<path d="M3.5 9c4.5-3 13-3 17 0 1 4.2-2.2 8-8.5 8-4.2 0-7.3-3-8.5-5Z"/><path d="M9 14v2.5"/>',
   bandage: '<rect x="3.5" y="3.5" width="17" height="17" rx="8.5"/><rect x="8.5" y="8.5" width="7" height="7" rx="1.4"/>',
   syringe: '<path d="M14 4l6 6M17.5 6.5 8 16l-4 1 1-4 9.5-9.5M6.5 15.5 8.5 17.5"/>',
+  // Perforated sterilization tray, for the cross-cutting procedure-sets catalogue.
+  tray: '<path d="M3 8.5h18V18a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2Z"/><path d="M6.5 8.5V6a2 2 0 0 1 2-2h7a2 2 0 0 1 2 2v2.5"/><path d="M7 12.5h10"/><path d="M7 16h6"/>',
 };
 const ICON_FOR = {
   SL: 'scalpel', SS: 'scissors', FR: 'tweezers', AF: 'clamp', CS: 'tweezers',
@@ -62,7 +64,7 @@ const ICON_FOR = {
   TS: 'syringe', BS: 'bone', CV: 'heart', NS: 'brain', OG: 'eye', TR: 'airway',
   DM: 'droplet', GA: 'stomach', LG: 'liver', GY: 'speculum', OB: 'baby',
   OT: 'ear', RH: 'nose', OM: 'tooth', TN: 'throat', PD: 'foot', DN: 'tooth',
-  OR: 'bone',
+  OR: 'bone', ST: 'tray',
 };
 function iconSvg(code) {
   const inner = ICONS[ICON_FOR[code]] || ICONS.probe;

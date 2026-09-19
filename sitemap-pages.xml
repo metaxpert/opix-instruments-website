@@ -20,7 +20,7 @@
   </url>
   <url>
     <loc>https://www.opixinst.com/downloads.html</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -201,6 +201,12 @@
   <url>
     <loc>https://www.opixinst.com/downloads/opix-or-orthopedic-instrument-sets.pdf</loc>
     <lastmod>2026-09-10</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://www.opixinst.com/downloads/opix-procedure-sets-catalogue.pdf</loc>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>

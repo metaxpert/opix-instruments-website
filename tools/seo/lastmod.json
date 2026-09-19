@@ -12,8 +12,8 @@
   "date": "2026-09-10"
  },
  "/downloads.html": {
-  "hash": "57658cbe42db7ec56d6966098d1eef8ce092d854",
-  "date": "2026-09-10"
+  "hash": "a431db4fcf8706fc09e8a3ff682f272d64372398",
+  "date": "2026-09-19"
  },
  "/about.html": {
   "hash": "7dcf85fa3a63f5d120f64d7553efdc959ebb0772",
@@ -134,6 +134,10 @@
  "/downloads/opix-or-orthopedic-instrument-sets.pdf": {
   "hash": "e623e23c11858f49ae49806750221ab614da8a93",
   "date": "2026-09-10"
+ },
+ "/downloads/opix-procedure-sets-catalogue.pdf": {
+  "hash": "306c2966772b8e0a475bd2dd8b422f4ca0bf8c99",
+  "date": "2026-09-19"
  },
  "/assets/certificates/opix-iso-13485-2026-27.pdf": {
   "hash": "e0b7960c13349f662b3f571c3857db95c76da342",

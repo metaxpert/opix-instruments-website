@@ -194,5 +194,12 @@
   "file": "downloads/opix-or-orthopedic-instrument-sets.pdf",
   "pages": 37,
   "mb": 6.4
+ },
+ {
+  "code": "ST",
+  "title": "Procedure Sets",
+  "file": "downloads/opix-procedure-sets-catalogue.pdf",
+  "pages": 72,
+  "mb": 3.2
  }
 ]
