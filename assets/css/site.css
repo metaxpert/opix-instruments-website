@@ -103,15 +103,42 @@ nav.main a.on{color:var(--blue);font-weight:600}
 .cartbtn{position:relative;display:flex;align-items:center;gap:8px;padding:9px 15px;background:var(--ink);color:#fff;border-radius:8px;font-weight:600;font-size:13.5px;transition:background .15s}
 .cartbtn:hover{background:var(--blue)}
 .cartbtn .count{background:var(--gold);color:#fff;font-family:'JetBrains Mono',monospace;font-size:12px;min-width:20px;height:20px;border-radius:10px;display:flex;align-items:center;justify-content:center;padding:0 5px}
-.mobmenu{display:none;font-size:22px;color:var(--ink)}
-/* Scan link: lives in the phone menu (where labels get scanned); the desktop
-   header has no room for a ninth item, so there it is in the footer only. */
-nav.main .navscan{display:none}
-@media(max-width:760px){
-  nav.main{display:none;position:absolute;top:100%;left:0;right:0;background:var(--white);flex-direction:column;padding:10px;border-bottom:1px solid var(--line)}
+.mobmenu{display:none;font-size:22px;color:var(--ink);line-height:1;padding:4px}
+nav.main a{white-space:nowrap}
+/* Scan product: opens the label scanner (/udi/scan). Text on wide screens,
+   icon-only where space is tight, and always visible — it is most useful on
+   a phone, standing next to the product. */
+.scanbtn{display:flex;align-items:center;gap:7px;padding:8px 13px;border:1.5px solid var(--ink);border-radius:8px;color:var(--ink);font-weight:600;font-size:13.5px;white-space:nowrap;transition:background .15s,color .15s,border-color .15s}
+.scanbtn:hover{background:var(--blue-soft);border-color:var(--blue);color:var(--blue)}
+.scanbtn svg{width:18px;height:18px;flex:0 0 auto}
+/* The header holds logo + 7 links + 2 buttons in 1180px, so the links are
+   set a little tighter than before; the Scan label shows from 1360px. Below 1100px fold the links into the ☰ menu (previously that only happened
+   at 760px, so 761–1180px wrapped the links onto three lines and pushed the
+   Inquiry button off-screen). */
+@media(min-width:1101px){
+  .hwrap{gap:16px}
+  nav.main{gap:0}
+  nav.main a{padding:8px 10px;font-size:13.5px}
+}
+@media(max-width:1359px){
+  .scanbtn{padding:8px 9px}
+  .scanbtn span{display:none}
+}
+@media(max-width:1100px){
+  nav.main{display:none;position:absolute;top:100%;left:0;right:0;background:var(--white);flex-direction:column;padding:10px;border-bottom:1px solid var(--line);z-index:30}
   nav.main.open{display:flex}
-  .mobmenu{display:block}
-  nav.main .navscan{display:block;margin-top:6px;border-top:1px solid var(--line);padding-top:12px;color:var(--blue);font-weight:600}
+  nav.main a{padding:11px 14px}
+  .mobmenu{display:block;order:3}
+  .scanbtn{margin-left:auto;order:1}
+  .cartbtn{order:2}
+}
+/* 861–1100px: the millimetre rail is still on screen, so the dropped-down
+   menu starts to the right of it rather than underneath it. */
+@media(min-width:861px) and (max-width:1100px){nav.main{left:34px}}
+@media(max-width:480px){
+  .hwrap{gap:10px;padding:12px 16px}
+  .brand span{display:none}
+  .cartbtn{padding:9px 12px}
 }
 
 /* hero */
