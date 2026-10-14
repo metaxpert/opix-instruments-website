@@ -104,10 +104,14 @@ nav.main a.on{color:var(--blue);font-weight:600}
 .cartbtn:hover{background:var(--blue)}
 .cartbtn .count{background:var(--gold);color:#fff;font-family:'JetBrains Mono',monospace;font-size:12px;min-width:20px;height:20px;border-radius:10px;display:flex;align-items:center;justify-content:center;padding:0 5px}
 .mobmenu{display:none;font-size:22px;color:var(--ink)}
+/* Scan link: lives in the phone menu (where labels get scanned); the desktop
+   header has no room for a ninth item, so there it is in the footer only. */
+nav.main .navscan{display:none}
 @media(max-width:760px){
   nav.main{display:none;position:absolute;top:100%;left:0;right:0;background:var(--white);flex-direction:column;padding:10px;border-bottom:1px solid var(--line)}
   nav.main.open{display:flex}
   .mobmenu{display:block}
+  nav.main .navscan{display:block;margin-top:6px;border-top:1px solid var(--line);padding-top:12px;color:var(--blue);font-weight:600}
 }
 
 /* hero */

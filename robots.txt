@@ -15,3 +15,4 @@ User-agent: Googlebot-Image
 Allow: /assets/img/
 
 Sitemap: https://www.opixinst.com/sitemap.xml
+Sitemap: https://www.opixinst.com/udi/sitemap.xml

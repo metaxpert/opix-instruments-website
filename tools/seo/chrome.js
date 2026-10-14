@@ -28,7 +28,7 @@ function header(active) {
 <header class="railpad"><div class="hwrap">
   <a class="brand" href="/" aria-label="${attr(SITE.name)} — home"><img class="bmark" src="/assets/img/brand/opix-mark.png" alt="${attr(SITE.name)} logo" width="34" height="30"><b>OPIX</b><span>INSTRUMENTS</span></a>
   <button class="mobmenu" id="mobmenu" aria-label="Menu" aria-expanded="false">&#9776;</button>
-  <nav class="main" aria-label="Main">${links}</nav>
+  <nav class="main" aria-label="Main">${links}<a class="navscan" href="/udi/scan">Scan / verify a product</a></nav>
   <button class="cartbtn" id="cartOpen" type="button">Inquiry <span class="count" id="cartCount">0</span></button>
 </div></header>`;
 }
@@ -99,7 +99,9 @@ function footer() {
     <a href="/downloads.html">Download PDF catalogs</a>
     <a href="/distributors.html">Become a distributor</a>
     <a href="/about.html#oem">OEM &amp; private label</a>
-    <a href="/specialties.html">Shop by specialty</a></div>
+    <a href="/specialties.html">Shop by specialty</a>
+    <a href="/udi/scan">Scan / verify a product</a>
+    <a href="/udi/products">UDI product register</a></div>
   <div><h3>Contact</h3>
     <a href="mailto:${esc(SITE.email)}">${esc(SITE.email)}</a>
 ${(SITE.phones || [{ label: '', number: SITE.phone }]).map(p =>

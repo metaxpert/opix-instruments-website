@@ -24,6 +24,7 @@ for (const f of pages) {
     if (/^(https?:|mailto:|tel:|data:)/.test(u)) continue;
     const rel = u.replace(/^\//, '');
     if (rel === '' ) continue;                       // "/" -> index.html
+    if (rel.startsWith('udi/')) continue;            // served by the UDI Master backend, not a file
     (/\.(html|xml|txt|webmanifest)$/.test(rel) ? links++ : assets++);
     if (!exists(rel)) bad.push(`${f}: broken → ${u}`);
   }

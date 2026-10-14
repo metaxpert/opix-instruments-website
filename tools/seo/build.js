@@ -400,6 +400,7 @@ User-agent: Googlebot-Image
 Allow: /assets/img/
 
 Sitemap: ${SITE.origin}/sitemap.xml
+Sitemap: ${SITE.origin}/udi/sitemap.xml
 `);
 }
 
