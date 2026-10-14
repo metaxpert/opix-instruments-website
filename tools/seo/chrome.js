@@ -29,7 +29,7 @@ function header(active) {
   <a class="brand" href="/" aria-label="${attr(SITE.name)} — home"><img class="bmark" src="/assets/img/brand/opix-mark.png" alt="${attr(SITE.name)} logo" width="34" height="30"><b>OPIX</b><span>INSTRUMENTS</span></a>
   <button class="mobmenu" id="mobmenu" aria-label="Menu" aria-expanded="false">&#9776;</button>
   <nav class="main" aria-label="Main">${links}</nav>
-  <a class="scanbtn" href="/udi/scan" title="Scan a product label (QR, DataMatrix or barcode)" aria-label="Scan product"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M3 7V5a2 2 0 0 1 2-2h2M17 3h2a2 2 0 0 1 2 2v2M21 17v2a2 2 0 0 1-2 2h-2M7 21H5a2 2 0 0 1-2-2v-2M7 8v8M10.5 8v8M14 8v8M17 8v8"/></svg><span>Scan</span></a>
+  <a class="scanbtn" href="/udi/scan" title="Scan a product label (QR, DataMatrix or barcode)" aria-label="Scan product"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M3 7V5a2 2 0 0 1 2-2h2M17 3h2a2 2 0 0 1 2 2v2M21 17v2a2 2 0 0 1-2 2h-2M7 21H5a2 2 0 0 1-2-2v-2M7 8v8M10.5 8v8M14 8v8M17 8v8"/></svg><span>Scan product</span></a>
   <button class="cartbtn" id="cartOpen" type="button">Inquiry <span class="count" id="cartCount">0</span></button>
 </div></header>`;
 }

@@ -112,15 +112,16 @@ nav.main a{white-space:nowrap}
 .scanbtn:hover{background:var(--blue-soft);border-color:var(--blue);color:var(--blue)}
 .scanbtn svg{width:18px;height:18px;flex:0 0 auto}
 /* The header holds logo + 7 links + 2 buttons in 1180px, so the links are
-   set a little tighter than before; the Scan label shows from 1360px. Below 1100px fold the links into the ☰ menu (previously that only happened
+   set a little tighter than before; the "Scan product" label shows from 1280px. Below 1100px fold the links into the ☰ menu (previously that only happened
    at 760px, so 761–1180px wrapped the links onto three lines and pushed the
    Inquiry button off-screen). */
 @media(min-width:1101px){
-  .hwrap{gap:16px}
+  .hwrap{gap:14px}
   nav.main{gap:0}
-  nav.main a{padding:8px 10px;font-size:13.5px}
+  nav.main a{padding:8px 8px;font-size:13.5px}
+  .scanbtn{padding:8px 12px;gap:6px}
 }
-@media(max-width:1359px){
+@media(max-width:1279px){
   .scanbtn{padding:8px 9px}
   .scanbtn span{display:none}
 }
