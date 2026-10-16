@@ -174,3 +174,21 @@ mobile 4G, 11 page types.
 - Left: /assets/catalog-index/*.json has no Cache-Control header (served
   fresh each time); adding one needs an nginx change, which this audit
   does not touch. Impact is small (gzip, ~1 MB only on the viewer).
+
+### 9 · UDI pages, scanner, catalogue viewer, search — done
+End-to-end tests (live site, headless Chromium), all passing:
+- id.opixinst.com: /01/<GTIN> and /01/…/10/<lot>/21/<serial>?17= → 307 to
+  the product page with path and query intact; /gtin/ alias; / → scanner.
+- All 25 UDI product pages 200; unknown GTIN and bad check digit → friendly
+  404; ?linkType=all → GS1 linkset JSON; register, scanner, sitemap 200;
+  admin requires login (303 → login; API 401).
+- Scanner: a photo of a GS1 DataMatrix (generated with the label
+  generator's own encoder) opens /udi/01/05065028735001/10/L42/21/SN7?11=…;
+  typed GTIN opens its page; wrong check digit rejected with a message.
+- Viewer: SKU search across all catalogues highlights the product;
+  next/previous page; name search within a catalogue; empty-result message;
+  Downloads search box opens the viewer with the highlight.
+- Catalogue pages: live search filters cards; Add to Inquiry updates the
+  counter and the drawer; "View in catalogue" buttons on every located
+  product (1,546 on the dental page).
+No defects found.
