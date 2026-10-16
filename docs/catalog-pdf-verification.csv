@@ -14,7 +14,6 @@ NAME DIFFERS,PB,PR-03-189,Varady Varix Instrument,"18 cm (7"")",9,"18 cm (7"")",
 NAME DIFFERS,RT,RT-02-044,Kilner Alar Hook,8 cm (3 ¼”),6,"8cm(31/4"")",Sharp,1/3 name words in PDF heading,https://www.opixinst.com/catalog-viewer.html?q=RT-02-044&c=rt&p=6
 NAME DIFFERS,SS,SS-565-1,Diethrich-Potts Vascular Scissor,"18 cm (7"")",36,"18 cm (7"") Angled 125",Standard Blade,0/4 name words in PDF heading,https://www.opixinst.com/catalog-viewer.html?q=SS-565-1&c=ss&p=36
 NAME DIFFERS,SS,SS-566-5,Diethrich-Potts Vascular Scissor,"18 cm (7"")",37,"18 cm (7"") Angled 125",Delicate Blade,0/4 name words in PDF heading,https://www.opixinst.com/catalog-viewer.html?q=SS-566-5&c=ss&p=37
-NAME DIFFERS,SS,SS-573-1,SSS SSS,"14.5 cm (5 ¾"")",39,"14.5 cm (53½/"")",Vascular Scissor / One Blade Probe,0/2 name words in PDF heading,https://www.opixinst.com/catalog-viewer.html?q=SS-573-1&c=ss&p=39
 NAME DIFFERS,SS,SS-801-5,Micro Scissor,"16.5 cm (6 ½"")",87,"16.5 cm (61½/"") Angled 125","Fine Blades, One Blade with Probe Tip",0/2 name words in PDF heading,https://www.opixinst.com/catalog-viewer.html?q=SS-801-5&c=ss&p=87
 NAME DIFFERS,SS,SS-802-5,Micro Scissor,"16.5 cm (6 ½"")",88,"16.5 cm (6 1½/2"") Angled 125",Delicate Blades,0/2 name words in PDF heading,https://www.opixinst.com/catalog-viewer.html?q=SS-802-5&c=ss&p=88
 NAME DIFFERS,SS,SS-808-5,Micro Scissor,"16.5 cm (6 ½"")",90,"16.5 cm (6 1½/2"") Angled 125","Fine Blades, Round Handle",0/2 name words in PDF heading,https://www.opixinst.com/catalog-viewer.html?q=SS-808-5&c=ss&p=90
@@ -851,7 +850,7 @@ NOT IN PDF,RH,RH-19-110,Thudichum Nasal Speculum,"N/A , Fig. 7",,,,"catalogue nu
 NOT IN PDF,RH,RH-19-351,Bone File,"19 cm (7 ½"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,RH,RH-19-383,Cottle Alar Retractor,16 cm (6 ¼”),,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,RT,RT-02-482,Harvey-Jackson Self Retaining Retractor,"28 cm (11"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SS,SS-447-2,Sims-Siebold Gynecological Scissor a,"24.5 cm (9 ¾"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
+NOT IN PDF,SS,SS-447-2,Sims-Siebold Gynecological Scissor,"24.5 cm (9 ¾"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,SS,SS-493-2,Gorney Face-Lift Scissor,"19.5 cm (7 ¾"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,SS,SS-541-2,Jameson Dissecting Scissor,"15.5 cm (6"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,SS,SS-547-2,Vascular Scissor,"19 cm (7 ½"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
@@ -862,232 +861,15 @@ NOT IN PDF,SS,SS-718-2,Noyes Iris Scissor,"12.5 cm (5"")",,,,"catalogue number n
 NOT IN PDF,SS,SS-734-2,Troutman-Castroviejo Corneoscleral Scissor,"10.5 cm (4 ¼"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,SS,SS-739-2,Katzin Corneal Transplant Scissor,"11 cm (4 ¼"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,SS,SS-910-1C,TC Iris Scissor,"11.5 cm (4 ½"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,TN,TL-21-147,Bruenings Interchangeable Tube,"20 cm (8"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,TR,TM-12-109,Schoenborn Tracheal Retractor,"21 cm (8 ¼"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-"IN PDF, NOT ON WEBSITE",AF,AF-0585,,,64,AF-0585,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=AF-0585&c=af&p=64
-"IN PDF, NOT ON WEBSITE",AF,AF-0586,,,64,AF-0586,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=AF-0586&c=af&p=64
-"IN PDF, NOT ON WEBSITE",AF,AF-0587,,,64,AF-0587,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=AF-0587&c=af&p=64
-"IN PDF, NOT ON WEBSITE",AF,AF-0588,,,64,AF-0588,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=AF-0588&c=af&p=64
-"IN PDF, NOT ON WEBSITE",AF,AF-0589,,,64,AF-0589,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=AF-0589&c=af&p=64
 "IN PDF, NOT ON WEBSITE",BS,OR-07-165,,,78,OR-07-165,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-07-165&c=bs&p=78
 "IN PDF, NOT ON WEBSITE",BS,OR-07-166,,,78,OR-07-166,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-07-166&c=bs&p=78
 "IN PDF, NOT ON WEBSITE",BS,OR-07-177,,,79,OR-07-177,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-07-177&c=bs&p=79
 "IN PDF, NOT ON WEBSITE",BS,OR-07-178,,,79,OR-07-178,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-07-178&c=bs&p=79
 "IN PDF, NOT ON WEBSITE",BS,OR-07-179,,,79,OR-07-179,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-07-179&c=bs&p=79
 "IN PDF, NOT ON WEBSITE",BS,OR-07-180,,,79,OR-07-180,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-07-180&c=bs&p=79
-"IN PDF, NOT ON WEBSITE",BS,OR-08-422,,,115,OR-08-422,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-08-422&c=bs&p=115
-"IN PDF, NOT ON WEBSITE",BS,OR-08-423,,,115,OR-08-423,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-08-423&c=bs&p=115
-"IN PDF, NOT ON WEBSITE",CS,SF-1-145,,,8,SF-1-145,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SF-1-145&c=cs&p=8
-"IN PDF, NOT ON WEBSITE",CS,SF-1-146,,,8,SF-1-146,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SF-1-146&c=cs&p=8
-"IN PDF, NOT ON WEBSITE",CS,SF-1-147,,,8,SF-1-147,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SF-1-147&c=cs&p=8
-"IN PDF, NOT ON WEBSITE",CV,CV-09-463,,,61,CV-09-463,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=CV-09-463&c=cv&p=61
-"IN PDF, NOT ON WEBSITE",CV,CV-09-464,,,61,CV-09-464,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=CV-09-464&c=cv&p=61
-"IN PDF, NOT ON WEBSITE",CV,CV-09-465,,,61,CV-09-465,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=CV-09-465&c=cv&p=61
-"IN PDF, NOT ON WEBSITE",CV,CV-09-466,,,61,CV-09-466,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=CV-09-466&c=cv&p=61
-"IN PDF, NOT ON WEBSITE",CV,CV-09-467,,,61,CV-09-467,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=CV-09-467&c=cv&p=61
-"IN PDF, NOT ON WEBSITE",CV,CV-09-468,,,61,CV-09-468,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=CV-09-468&c=cv&p=61
-"IN PDF, NOT ON WEBSITE",DG,DI-04-145,,,11,DI-04-145,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DI-04-145&c=dg&p=11
-"IN PDF, NOT ON WEBSITE",DG,DI-04-146,,,11,DI-04-146,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DI-04-146&c=dg&p=11
-"IN PDF, NOT ON WEBSITE",DG,DI-04-147,,,11,DI-04-147,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DI-04-147&c=dg&p=11
-"IN PDF, NOT ON WEBSITE",DG,DI-04-148,,,11,DI-04-148,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DI-04-148&c=dg&p=11
-"IN PDF, NOT ON WEBSITE",DG,DI-04-149,,,11,DI-04-149,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DI-04-149&c=dg&p=11
-"IN PDF, NOT ON WEBSITE",DG,DI-04-150,,,11,DI-04-150,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DI-04-150&c=dg&p=11
-"IN PDF, NOT ON WEBSITE",DG,DI-04-151,,,11,DI-04-151,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DI-04-151&c=dg&p=11
-"IN PDF, NOT ON WEBSITE",DG,DI-04-153,,,11,DI-04-153,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DI-04-153&c=dg&p=11
-"IN PDF, NOT ON WEBSITE",DM,DM-13-134,,,5,DM-13-134,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DM-13-134&c=dm&p=5
-"IN PDF, NOT ON WEBSITE",DN,786-1497,,,145,786-1497,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=786-1497&c=dn&p=145
-"IN PDF, NOT ON WEBSITE",DN,786-1498,,,145,786-1498,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=786-1498&c=dn&p=145
-"IN PDF, NOT ON WEBSITE",DN,786-1499,,,145,786-1499,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=786-1499&c=dn&p=145
-"IN PDF, NOT ON WEBSITE",DN,786-1500,,,145,786-1500,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=786-1500&c=dn&p=145
-"IN PDF, NOT ON WEBSITE",DN,786-1501,,,145,786-1501,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=786-1501&c=dn&p=145
-"IN PDF, NOT ON WEBSITE",DN,786-1502,,,145,786-1502,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=786-1502&c=dn&p=145
-"IN PDF, NOT ON WEBSITE",DN,786-527,,,46,786-527 25 x 26 mm,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=786-527&c=dn&p=46
 "IN PDF, NOT ON WEBSITE",DN,786-5616,,,49,786-5616 mm,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=786-5616&c=dn&p=49
-"IN PDF, NOT ON WEBSITE",DR,DR-07-122,,,5,DR-07-122,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DR-07-122&c=dr&p=5
-"IN PDF, NOT ON WEBSITE",DR,DR-07-123,,,5,DR-07-123,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=DR-07-123&c=dr&p=5
-"IN PDF, NOT ON WEBSITE",FR,FR-049-1,,,75,FR-049-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=FR-049-1&c=fr&p=75
-"IN PDF, NOT ON WEBSITE",FR,FR-049-2,,,75,FR-049-2,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=FR-049-2&c=fr&p=75
-"IN PDF, NOT ON WEBSITE",FR,FR-049-3,,,75,FR-049-3,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=FR-049-3&c=fr&p=75
-"IN PDF, NOT ON WEBSITE",GA,SI-14-303,,,30,SI-14-303,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SI-14-303&c=ga&p=30
-"IN PDF, NOT ON WEBSITE",GY,GY-16-377,,,35,GY-16-377,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=GY-16-377&c=gy&p=35
-"IN PDF, NOT ON WEBSITE",GY,GY-16-378,,,35,GY-16-378,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=GY-16-378&c=gy&p=35
-"IN PDF, NOT ON WEBSITE",GY,GY-16-379,,,35,GY-16-379,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=GY-16-379&c=gy&p=35
-"IN PDF, NOT ON WEBSITE",GY,GY-16-380,,,35,GY-16-380,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=GY-16-380&c=gy&p=35
-"IN PDF, NOT ON WEBSITE",GY,GY-16-381,,,35,GY-16-381,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=GY-16-381&c=gy&p=35
-"IN PDF, NOT ON WEBSITE",GY,GY-16-382,,,35,GY-16-382,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=GY-16-382&c=gy&p=35
-"IN PDF, NOT ON WEBSITE",LG,UR-15-208,,,13,UR-15-208,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=UR-15-208&c=lg&p=13
-"IN PDF, NOT ON WEBSITE",LG,UR-15-209,,,13,UR-15-209,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=UR-15-209&c=lg&p=13
-"IN PDF, NOT ON WEBSITE",LG,UR-15-210,,,13,UR-15-210,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=UR-15-210&c=lg&p=13
-"IN PDF, NOT ON WEBSITE",NS,NS-10-527,,,46,NS-10-527,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=NS-10-527&c=ns&p=46
-"IN PDF, NOT ON WEBSITE",OB,OB-17-125,,,6,OB-17-125,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OB-17-125&c=ob&p=6
-"IN PDF, NOT ON WEBSITE",OB,OB-17-126,,,6,OB-17-126,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OB-17-126&c=ob&p=6
-"IN PDF, NOT ON WEBSITE",OB,OB-17-127,,,6,OB-17-127,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OB-17-127&c=ob&p=6
-"IN PDF, NOT ON WEBSITE",OB,OB-17-128,,,6,OB-17-128,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OB-17-128&c=ob&p=6
-"IN PDF, NOT ON WEBSITE",OB,OB-17-129,,,6,OB-17-129,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OB-17-129&c=ob&p=6
-"IN PDF, NOT ON WEBSITE",OG,OP-11-526,,,62,OP-11-526,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OP-11-526&c=og&p=62
-"IN PDF, NOT ON WEBSITE",OG,OP-11-527,,,62,OP-11-527,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OP-11-527&c=og&p=62
-"IN PDF, NOT ON WEBSITE",OG,OP-11-528,,,62,OP-11-528,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OP-11-528&c=og&p=62
-"IN PDF, NOT ON WEBSITE",OG,OP-11-529,,,62,OP-11-529,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OP-11-529&c=og&p=62
-"IN PDF, NOT ON WEBSITE",OG,OP-11-530,,,62,OP-11-530,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OP-11-530&c=og&p=62
-"IN PDF, NOT ON WEBSITE",OG,OP-11-531,,,62,OP-11-531,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OP-11-531&c=og&p=62
-"IN PDF, NOT ON WEBSITE",OG,OP-11-532,,,62,OP-11-532,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OP-11-532&c=og&p=62
-"IN PDF, NOT ON WEBSITE",OG,OP-11-533,,,62,OP-11-533,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OP-11-533&c=og&p=62
-"IN PDF, NOT ON WEBSITE",OM,OM-20-256,,,23,OM-20-256,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-256&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OM,OM-20-257,,,23,OM-20-257,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-257&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OM,OM-20-258,,,23,OM-20-258,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-258&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OM,OM-20-259,,,23,OM-20-259,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-259&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OM,OM-20-260,,,23,OM-20-260,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-260&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OM,OM-20-261,,,23,OM-20-261,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-261&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OM,OM-20-262,,,23,OM-20-262,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-262&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OM,OM-20-263,,,23,OM-20-263,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-263&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OM,OM-20-264,,,23,OM-20-264,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-264&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OM,OM-20-265,,,23,OM-20-265,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OM-20-265&c=om&p=23
-"IN PDF, NOT ON WEBSITE",OT,OT-18-445,,,42,OT-18-445,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OT-18-445&c=ot&p=42
-"IN PDF, NOT ON WEBSITE",OT,OT-18-446,,,42,OT-18-446,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OT-18-446&c=ot&p=42
-"IN PDF, NOT ON WEBSITE",PB,PR-03-190,,,10,PR-03-190,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=PR-03-190&c=pb&p=10
-"IN PDF, NOT ON WEBSITE",PB,PR-03-191,,,10,PR-03-191,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=PR-03-191&c=pb&p=10
-"IN PDF, NOT ON WEBSITE",PB,PR-03-192,,,10,PR-03-192,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=PR-03-192&c=pb&p=10
-"IN PDF, NOT ON WEBSITE",PD,PD-22-131,,,8,PD-22-131,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=PD-22-131&c=pd&p=8
-"IN PDF, NOT ON WEBSITE",PD,PD-22-132,,,8,PD-22-132,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=PD-22-132&c=pd&p=8
-"IN PDF, NOT ON WEBSITE",PD,PD-22-133,,,8,PD-22-133,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=PD-22-133&c=pd&p=8
-"IN PDF, NOT ON WEBSITE",PD,PD-22-134,,,8,PD-22-134,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=PD-22-134&c=pd&p=8
 "IN PDF, NOT ON WEBSITE",RH,RH-10-110,,,2,RH-10-110,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=RH-10-110&c=rh&p=2
-"IN PDF, NOT ON WEBSITE",RH,RH-19-434,,,41,RH-19-434,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=RH-19-434&c=rh&p=41
-"IN PDF, NOT ON WEBSITE",RH,RH-19-435,,,41,RH-19-435,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=RH-19-435&c=rh&p=41
-"IN PDF, NOT ON WEBSITE",RH,RH-19-436,,,41,RH-19-436,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=RH-19-436&c=rh&p=41
-"IN PDF, NOT ON WEBSITE",RT,RT-02-655,,,74,RT-02-655,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=RT-02-655&c=rt&p=74
-"IN PDF, NOT ON WEBSITE",RT,RT-02-656,,,74,RT-02-656,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=RT-02-656&c=rt&p=74
-"IN PDF, NOT ON WEBSITE",RT,RT-02-657,,,74,RT-02-657,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=RT-02-657&c=rt&p=74
-"IN PDF, NOT ON WEBSITE",SS,SS-447-1,,,13,SS-447-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-447-1&c=ss&p=13
-"IN PDF, NOT ON WEBSITE",SS,SS-493-1,,,22,SS-493-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-493-1&c=ss&p=22
-"IN PDF, NOT ON WEBSITE",SS,SS-541-1,,,32,SS-541-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-541-1&c=ss&p=32
-"IN PDF, NOT ON WEBSITE",SS,SS-547-1,,,33,SS-547-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-547-1&c=ss&p=33
-"IN PDF, NOT ON WEBSITE",SS,SS-548-1,,,34,SS-548-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-548-1&c=ss&p=34
-"IN PDF, NOT ON WEBSITE",SS,SS-554-1,,,35,SS-554-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-554-1&c=ss&p=35
-"IN PDF, NOT ON WEBSITE",SS,SS-660-1,,,56,SS-660-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-660-1&c=ss&p=56
-"IN PDF, NOT ON WEBSITE",SS,SS-710-1,,,67,SS-710-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-710-1&c=ss&p=67
-"IN PDF, NOT ON WEBSITE",SS,SS-718-1,,,69,SS-718-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-718-1&c=ss&p=69
-"IN PDF, NOT ON WEBSITE",SS,SS-734-1,,,72,SS-734-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-734-1&c=ss&p=72
-"IN PDF, NOT ON WEBSITE",SS,SS-739-1,,,73,SS-739-1,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SS-739-1&c=ss&p=73
-"IN PDF, NOT ON WEBSITE",SU,SU-06-274,,,29,SU-06-274,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-274&c=su&p=29
-"IN PDF, NOT ON WEBSITE",SU,SU-06-275,,,29,SU-06-275,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-275&c=su&p=29
-"IN PDF, NOT ON WEBSITE",SU,SU-06-276,,,29,SU-06-276,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-276&c=su&p=29
-"IN PDF, NOT ON WEBSITE",SU,SU-06-277,,,29,SU-06-277,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-277&c=su&p=29
-"IN PDF, NOT ON WEBSITE",SU,SU-06-278,,,29,SU-06-278,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-278&c=su&p=29
-"IN PDF, NOT ON WEBSITE",SU,SU-06-279,,,30,SU-06-279,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-279&c=su&p=30
-"IN PDF, NOT ON WEBSITE",SU,SU-06-280,,,30,SU-06-280,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-280&c=su&p=30
-"IN PDF, NOT ON WEBSITE",SU,SU-06-281,,,30,SU-06-281,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-281&c=su&p=30
-"IN PDF, NOT ON WEBSITE",SU,SU-06-282,,,30,SU-06-282,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-282&c=su&p=30
-"IN PDF, NOT ON WEBSITE",SU,SU-06-283,,,30,SU-06-283,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-283&c=su&p=30
-"IN PDF, NOT ON WEBSITE",SU,SU-06-284,,,31,SU-06-284,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-284&c=su&p=31
-"IN PDF, NOT ON WEBSITE",SU,SU-06-285,,,31,SU-06-285,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-285&c=su&p=31
-"IN PDF, NOT ON WEBSITE",SU,SU-06-286,,,31,SU-06-286,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-286&c=su&p=31
-"IN PDF, NOT ON WEBSITE",SU,SU-06-287,,,31,SU-06-287,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-287&c=su&p=31
-"IN PDF, NOT ON WEBSITE",SU,SU-06-288,,,31,SU-06-288,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-288&c=su&p=31
-"IN PDF, NOT ON WEBSITE",SU,SU-06-289,,,31,SU-06-289,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-289&c=su&p=31
-"IN PDF, NOT ON WEBSITE",SU,SU-06-290,,,31,SU-06-290,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-290&c=su&p=31
-"IN PDF, NOT ON WEBSITE",SU,SU-06-291,,,31,SU-06-291,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-291&c=su&p=31
-"IN PDF, NOT ON WEBSITE",SU,SU-06-292,,,31,SU-06-292,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-292&c=su&p=31
-"IN PDF, NOT ON WEBSITE",SU,SU-06-293,,,32,SU-06-293,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-293&c=su&p=32
-"IN PDF, NOT ON WEBSITE",SU,SU-06-294,,,32,SU-06-294,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-294&c=su&p=32
-"IN PDF, NOT ON WEBSITE",SU,SU-06-295,,,32,SU-06-295,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-295&c=su&p=32
-"IN PDF, NOT ON WEBSITE",SU,SU-06-296,,,32,SU-06-296,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-296&c=su&p=32
-"IN PDF, NOT ON WEBSITE",SU,SU-06-297,,,32,SU-06-297,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-297&c=su&p=32
-"IN PDF, NOT ON WEBSITE",SU,SU-06-298,,,33,SU-06-298,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-298&c=su&p=33
-"IN PDF, NOT ON WEBSITE",SU,SU-06-299,,,33,SU-06-299,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-299&c=su&p=33
-"IN PDF, NOT ON WEBSITE",SU,SU-06-300,,,33,SU-06-300,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-300&c=su&p=33
-"IN PDF, NOT ON WEBSITE",SU,SU-06-301,,,33,SU-06-301,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-301&c=su&p=33
-"IN PDF, NOT ON WEBSITE",SU,SU-06-302,,,33,SU-06-302,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-302&c=su&p=33
-"IN PDF, NOT ON WEBSITE",SU,SU-06-303,,,33,SU-06-303,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-303&c=su&p=33
-"IN PDF, NOT ON WEBSITE",SU,SU-06-304,,,34,SU-06-304,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-304&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-305,,,34,SU-06-305,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-305&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-306,,,34,SU-06-306,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-306&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-307,,,34,SU-06-307,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-307&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-308,,,34,SU-06-308,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-308&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-309,,,34,SU-06-309,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-309&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-310,,,34,SU-06-310,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-310&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-311,,,34,SU-06-311,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-311&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-312,,,34,SU-06-312,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-312&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-313,,,34,SU-06-313,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-313&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-314,,,34,SU-06-314,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-314&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-315,,,34,SU-06-315,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-315&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-316,,,34,SU-06-316,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-316&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-317,,,34,SU-06-317,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-317&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-318,,,34,SU-06-318,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-318&c=su&p=34
-"IN PDF, NOT ON WEBSITE",SU,SU-06-319,,,35,SU-06-319,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-319&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-320,,,35,SU-06-320,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-320&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-321,,,35,SU-06-321,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-321&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-322,,,35,SU-06-322,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-322&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-323,,,35,SU-06-323,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-323&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-324,,,35,SU-06-324,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-324&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-325,,,35,SU-06-325,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-325&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-326,,,35,SU-06-326,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-326&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-327,,,35,SU-06-327,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-327&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-328,,,35,SU-06-328,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-328&c=su&p=35
-"IN PDF, NOT ON WEBSITE",SU,SU-06-329,,,36,SU-06-329,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-329&c=su&p=36
-"IN PDF, NOT ON WEBSITE",SU,SU-06-330,,,36,SU-06-330,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-330&c=su&p=36
-"IN PDF, NOT ON WEBSITE",SU,SU-06-331,,,36,SU-06-331,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-331&c=su&p=36
-"IN PDF, NOT ON WEBSITE",SU,SU-06-332,,,36,SU-06-332,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-332&c=su&p=36
-"IN PDF, NOT ON WEBSITE",SU,SU-06-333,,,36,SU-06-333,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-333&c=su&p=36
-"IN PDF, NOT ON WEBSITE",SU,SU-06-334,,,36,SU-06-334,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-334&c=su&p=36
-"IN PDF, NOT ON WEBSITE",SU,SU-06-335,,,36,SU-06-335,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-335&c=su&p=36
-"IN PDF, NOT ON WEBSITE",SU,SU-06-336,,,36,SU-06-336,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-336&c=su&p=36
-"IN PDF, NOT ON WEBSITE",SU,SU-06-337,,,36,SU-06-337,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-337&c=su&p=36
-"IN PDF, NOT ON WEBSITE",SU,SU-06-338,,,37,SU-06-338,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-338&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-339,,,37,SU-06-339,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-339&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-340,,,37,SU-06-340,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-340&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-341,,,37,SU-06-341,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-341&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-342,,,37,SU-06-342,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-342&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-343,,,37,SU-06-343,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-343&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-344,,,37,SU-06-344,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-344&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-345,,,37,SU-06-345,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-345&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-346,,,37,SU-06-346,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-346&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-347,,,37,SU-06-347,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-347&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-348,,,37,SU-06-348,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-348&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-349,,,37,SU-06-349,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-349&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-350,,,37,SU-06-350,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-350&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-351,,,37,SU-06-351,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-351&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-352,,,37,SU-06-352,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-352&c=su&p=37
-"IN PDF, NOT ON WEBSITE",SU,SU-06-472,,,57,SU-06-472,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-472&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-473,,,57,SU-06-473,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-473&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-474,,,57,SU-06-474,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-474&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-475,,,57,SU-06-475,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-475&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-476,,,57,SU-06-476,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-476&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-477,,,57,SU-06-477,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-477&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-478,,,57,SU-06-478,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-478&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-479,,,57,SU-06-479,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-479&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-480,,,57,SU-06-480,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-480&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-481,,,57,SU-06-481,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-481&c=su&p=57
-"IN PDF, NOT ON WEBSITE",SU,SU-06-482,,,57,SU-06-482,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=SU-06-482&c=su&p=57
-"IN PDF, NOT ON WEBSITE",TN,TL-21-234,,,16,TL-21-234,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-234&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-235,,,16,TL-21-235,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-235&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-236,,,16,TL-21-236,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-236&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-237,,,16,TL-21-237,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-237&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-238,,,16,TL-21-238,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-238&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-239,,,16,TL-21-239,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-239&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-240,,,16,TL-21-240,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-240&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-241,,,16,TL-21-241,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-241&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-242,,,16,TL-21-242,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-242&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-243,,,16,TL-21-243,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-243&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-244,,,16,TL-21-244,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-244&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-245,,,16,TL-21-245,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-245&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-246,,,16,TL-21-246,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-246&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-247,,,9,TL-21-247,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-247&c=tn&p=9
-"IN PDF, NOT ON WEBSITE",TN,TL-21-248,,,16,TL-21-248,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-248&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-249,,,16,TL-21-249,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-249&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TN,TL-21-250,,,16,TL-21-250,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TL-21-250&c=tn&p=16
-"IN PDF, NOT ON WEBSITE",TR,TM-12-139,,,6,TM-12-139,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TM-12-139&c=tr&p=6
-"IN PDF, NOT ON WEBSITE",TR,TM-12-140,,,6,TM-12-140,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TM-12-140&c=tr&p=6
-"IN PDF, NOT ON WEBSITE",TR,TM-12-141,,,6,TM-12-141,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TM-12-141&c=tr&p=6
-"IN PDF, NOT ON WEBSITE",TR,TM-12-142,,,6,TM-12-142,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TM-12-142&c=tr&p=6
-"IN PDF, NOT ON WEBSITE",TR,TM-12-143,,,6,TM-12-143,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TM-12-143&c=tr&p=6
-"IN PDF, NOT ON WEBSITE",TR,TM-12-144,,,6,TM-12-144,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TM-12-144&c=tr&p=6
-"IN PDF, NOT ON WEBSITE",TS,TR-05-287,,,19,TR-05-287,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TR-05-287&c=ts&p=19
-"IN PDF, NOT ON WEBSITE",TS,TR-05-288,,,19,TR-05-288,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TR-05-288&c=ts&p=19
-"IN PDF, NOT ON WEBSITE",TS,TR-05-289,,,19,TR-05-289,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TR-05-289&c=ts&p=19
-"IN PDF, NOT ON WEBSITE",TS,TR-05-290,,,19,TR-05-290,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TR-05-290&c=ts&p=19
-"IN PDF, NOT ON WEBSITE",TS,TR-05-291,,,19,TR-05-291,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TR-05-291&c=ts&p=19
-"IN PDF, NOT ON WEBSITE",TS,TR-05-292,,,19,TR-05-292,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=TR-05-292&c=ts&p=19
 OK,AF,AF-0101,Biemer Clip Applying Forcep,"14.5 cm (5 ¾"")",2,"14.5cm (53/4"")",Pinze per applicazione clips vascolari / Biemer Clip Applying Forcep / Without Lock,,https://www.opixinst.com/catalog-viewer.html?q=AF-0101&c=af&p=2
 OK,AF,AF-0102,Biemer Clip Applying Forcep,"14.5 cm (5 ¾"")",2,"14.5 cm(53/4"")",Biemer Clip Applying Forcep / With Lock,,https://www.opixinst.com/catalog-viewer.html?q=AF-0102&c=af&p=2
 OK,AF,AF-0103,Biemer Vessel Clip,"14 mm, 4 mm, 4 mm",2,"14mm, 4mm, 4mm",Biemer Vessel Clip,,https://www.opixinst.com/catalog-viewer.html?q=AF-0103&c=af&p=2
@@ -1546,6 +1328,11 @@ OK,AF,AF-0581,Hoffmann Tubing Clamp,20 mm,63,20mm,Hoffman Tubing Camp,,https://w
 OK,AF,AF-0582,Hoffmann Tubing Clamp,25 mm,63,25 mm,Hoffman Tubing Camp,,https://www.opixinst.com/catalog-viewer.html?q=AF-0582&c=af&p=63
 OK,AF,AF-0583,Hoffmann Tubing Clamp,30 mm,63,30 mm,Hoffman Tubing Camp,,https://www.opixinst.com/catalog-viewer.html?q=AF-0583&c=af&p=63
 OK,AF,AF-0584,Hoffmann Tubing Clamp,40 mm,63,40 mm,Hoffman Tubing Camp,,https://www.opixinst.com/catalog-viewer.html?q=AF-0584&c=af&p=63
+OK,AF,AF-0585,Mohr Pinchcock,40 mm,64,40 mm,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=AF-0585&c=af&p=64
+OK,AF,AF-0586,Mohr Pinchcock,50 mm,64,50 mm,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=AF-0586&c=af&p=64
+OK,AF,AF-0587,Mohr Pinchcock,60 mm,64,60 mm,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=AF-0587&c=af&p=64
+OK,AF,AF-0588,Mohr Pinchcock,70 mm,64,70 mm,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=AF-0588&c=af&p=64
+OK,AF,AF-0589,Mohr Pinchcock,80 mm,64,80 mm,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=AF-0589&c=af&p=64
 OK,BS,OR-07-01,Bone Mallet,"24 cm (9 ½""), Ø 37.0 mm, 370 Grams",56,"24 cm (9 ½/2""),  37.0 mm, 370 Grams",Bone Mallet / With Interchangeable Plastic Discs,,https://www.opixinst.com/catalog-viewer.html?q=OR-07-01&c=bs&p=56
 OK,BS,OR-07-02,Mallet Spare Plastic Discs,N/A,56,N/A,"Mallet Spare Plastic Discs / Pair, Plastic",,https://www.opixinst.com/catalog-viewer.html?q=OR-07-02&c=bs&p=56
 OK,BS,OR-07-200,Cherriere Amputation Saw Complete,"35 cm (13 ¾"")",2,"35 cm (133/4"")",Seghe per amputazione / Cherriere Amputation Saw Complete / With Saw Blade Ref: OR-o1o-92,,https://www.opixinst.com/catalog-viewer.html?q=OR-07-200&c=bs&p=2
@@ -2502,8 +2289,8 @@ OK,BS,OR-08-265,Bunnell Tendon Stripper,"15 cm (6""), Fig. 5",91,"15 cm (6""), F
 OK,BS,OR-08-266,Tendon Stripper,"23 cm (9"")",91,"23 cm (9"")",Tendon Stripper / Flexible Shaft,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-266&c=bs&p=91
 OK,BS,OR-08-267,Tendon Stripper,"23 cm (9"")",91,"23 cm (9"")",Tendon Stripper / Flexible Shaft,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-267&c=bs&p=91
 OK,BS,OR-08-268,Tendon Stripper,"23 cm (9"")",91,"23 cm (9"")",Tendon Stripper / Flexible Shaft,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-268&c=bs&p=91
-OK,BS,OR-08-269,Tendon Passsing Instruments,"33.5 cm (13 ¼"")",92,"33.5 cm (131/4"")",a ecorcher les tendons / Scollatendini / Tendon Passsing,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-269&c=bs&p=92
-OK,BS,OR-08-270,Screw Only for Tendon Passsing Instruments,"31 cm (12 ¼"")",92,"31 cm (121/"")",Screw Only for Tendon Passsing,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-270&c=bs&p=92
+OK,BS,OR-08-269,Tendon Passing Instruments,"33.5 cm (13 ¼"")",92,"33.5 cm (131/4"")",a ecorcher les tendons / Scollatendini / Tendon Passsing,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-269&c=bs&p=92
+OK,BS,OR-08-270,Screw Only for Tendon Passing Instruments,"31 cm (12 ¼"")",92,"31 cm (121/"")",Screw Only for Tendon Passsing,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-270&c=bs&p=92
 OK,BS,OR-08-271,Fischer Tendon Stripper,"28.5 cm (11 ¼"")",92,"28.5 cm (111/4"")",Fischer Tendon Stripper / Blunt,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-271&c=bs&p=92
 OK,BS,OR-08-272,Tendon Stripper,"23 cm (9"")",92,"23 cm (9"")",Tendon Stripper,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-272&c=bs&p=92
 OK,BS,OR-08-273,Bunnell Tendon Passer,"16 cm (6 ¼"")",92,"16 cm (61/4"")",Bunnell Tendon Passer / Malleable,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-273&c=bs&p=92
@@ -2655,6 +2442,8 @@ OK,BS,OR-08-418,Walton Finger Ring Saw,"16 cm (6 ¼"")",114,"16 cm (61/4"")",Wal
 OK,BS,OR-08-419,Spare Saw Blade,N/A,114,N/A,Spare Saw Blade,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-419&c=bs&p=114
 OK,BS,OR-08-420,Finger Ring Saw,17 cm (6 ¾),114,17 cm (6 3/4),Finger Ring Saw,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-420&c=bs&p=114
 OK,BS,OR-08-421,Spare Saw Blade,N/A,114,N/A,Spare Saw Blade,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-421&c=bs&p=114
+OK,BS,OR-08-422,Anvil Nail Extracting Forcep,"12.5 cm (5"")",115,"12.5 cm (5"")",Anvil Nail Extracting Forcep,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-422&c=bs&p=115
+OK,BS,OR-08-423,Radolf Nail Extracting Forcep,"14 cm (5 ½"")",115,"14 cm (51½/2"")",Radolf Nail Extracting Forcep,,https://www.opixinst.com/catalog-viewer.html?q=OR-08-423&c=bs&p=115
 OK,CS,SF-1-100,Ulrich Dressing Forcep,"22.5 cm (8 ¾"")",2,"22.5 cm (83/4"")",Pinze per tamponi / Ulrich Dressing Forcep / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SF-1-100&c=cs&p=2
 OK,CS,SF-1-101,Ulrich Dressing Forcep,"26.5 cm (10 ½"")",2,"26.5 cm (10 1/2"")",Pinze per tamponi / Ulrich Dressing Forcep / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SF-1-101&c=cs&p=2
 OK,CS,SF-1-102,Ulrich Dressing Forcep,"22.5 cm (8 ¾"")",2,"22.5 cm (8 3/4"")",Ulrich Dressing Forcep / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SF-1-102&c=cs&p=2
@@ -2700,6 +2489,9 @@ OK,CS,SF-1-141,Foerster Sponge Holding Forcep,"17.5 cm (7"")",7,"17.5 cm (7"")",
 OK,CS,SF-1-142,Foerster Sponge Holding Forcep,"20 cm (8"")",7,"20 cm (8"")",Foerster Sponge Holding Forcep / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SF-1-142&c=cs&p=7
 OK,CS,SF-1-143,Foerster Sponge Holding Forcep,"24.5 cm (9 ¾"")",7,"24.5cm(93/4"")",Foerster Sponge Holding Forcep / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SF-1-143&c=cs&p=7
 OK,CS,SF-1-144,Foerster Sponge Holding Forcep,"25 cm (9 ¾"")",7,"25 cm (93/4"")",Foerster Sponge Holding Forcep / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SF-1-144&c=cs&p=7
+OK,CS,SF-1-145,Foerster Sponge Holding Forcep,"24.5 cm (9 ¾"")",8,"24.5 cm (93/4"")",Pinze per tamponi / Foerster Sponge Holding Forcep / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SF-1-145&c=cs&p=8
+OK,CS,SF-1-146,Rampley Sponge Holding Forcep,"18.5 cm (7 ¼"")",8,18.5 cm (71/4),Rampley Sponge Holding Forcep / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SF-1-146&c=cs&p=8
+OK,CS,SF-1-147,Rampley Sponge Holding Forcep,"24.5 cm (9 ¾"")",8,"24.5 cm (g3/4"")",Rampley Sponge Holding Forcep / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SF-1-147&c=cs&p=8
 OK,CV,CV-09-100,Bone Shear,"23 cm (9"")",2,"23 cm (9"")",Costotomes / Costotomi / Bone Shear,,https://www.opixinst.com/catalog-viewer.html?q=CV-09-100&c=cv&p=2
 OK,CV,CV-09-101,Rib Shear,"23 cm (9"")",2,"23 cm (9"")",Rib Shear,,https://www.opixinst.com/catalog-viewer.html?q=CV-09-101&c=cv&p=2
 OK,CV,CV-09-102,Gluck Rib Shear,"21 cm (8 ¼"")",2,"21 cm (81/4"")",Gluck Rib Shear / Drawing Cut,,https://www.opixinst.com/catalog-viewer.html?q=CV-09-102&c=cv&p=2
@@ -3054,6 +2846,12 @@ OK,CV,CV-09-459,Robb Vascular Dissector,"24 cm (9 ½""), 5 mm, Ø 2.5 mm, Fig. 1
 OK,CV,CV-09-460,Robb Vascular Dissector,"24 cm (9 ½""), 4 mm, Ø 2.0 mm, Fig. 2",60,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=CV-09-460&c=cv&p=60
 OK,CV,CV-09-461,Robb Vascular Dissector,"24 cm (9 ½""), 3 mm, Ø 1.5 mm, Fig. 3",60,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=CV-09-461&c=cv&p=60
 OK,CV,CV-09-462,Robb Vascular Dissector,"24 cm (9 ½""), 2 mm, Ø 1.0 mm, Fig. 4",60,"24 cm (g ½/2""), 2 mm, 01.0 mm, Fig. 4",Robb Vascular Dissector,,https://www.opixinst.com/catalog-viewer.html?q=CV-09-462&c=cv&p=60
+OK,CV,CV-09-463,Ligature Catcher,"26 cm (10 ¼""), 1.5 mm",61,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=CV-09-463&c=cv&p=61
+OK,CV,CV-09-464,Ligature Catcher,"26 cm (10 ¼""), 2.0 mm",61,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=CV-09-464&c=cv&p=61
+OK,CV,CV-09-465,Ligature Catcher,"26 cm (10 ¼""), 2.5 mm",61,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=CV-09-465&c=cv&p=61
+OK,CV,CV-09-466,Ligature Catcher,"26 cm (10 ¼""), 3.0 mm",61,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=CV-09-466&c=cv&p=61
+OK,CV,CV-09-467,Rumel-Belmont Tourniquet,"27 cm (10 ¾""), Ø 3.2 mm",61,"27 cm (10 3/4""),0 3.2 mm",Rumel-Belmont Tourniquet,,https://www.opixinst.com/catalog-viewer.html?q=CV-09-467&c=cv&p=61
+OK,CV,CV-09-468,Rumel-Belmont Tourniquet,"30.5 cm (12""), Ø 6.4 mm",61,"30.5 cm (12""),0 6.4 mm",Rumel-Belmont Tourniquet,,https://www.opixinst.com/catalog-viewer.html?q=CV-09-468&c=cv&p=61
 OK,DG,DI-04-100,Buck Percussion Hammer,"18.5 cm (7 ¼"")",2,"18.5 cm (71½/4"")",Martelli percussori / Buck Percussion Hammer / With Needle and Brush,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-100&c=dg&p=2
 OK,DG,DI-04-101,Dejerine Percussion Hammer,"20 cm (8"")",2,"20 cm (8"")",Dejerine Percussion Hammer,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-101&c=dg&p=2
 OK,DG,DI-04-102,Dejerine Percussion Hammer,"21 cm (8 ¼"")",2,"21 cm (81/4"")",Dejerine Percussion Hammer / With Needle,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-102&c=dg&p=2
@@ -3099,6 +2897,14 @@ OK,DG,DI-04-141,Caliper,"N/A, 100 mm",10,"N/A, 100 mm",Caliper,,https://www.opix
 OK,DG,DI-04-142,Castroviejo Caliper,"8 cm (3""), 15 mm",10,"8cm (3""), 15mm",Castroviejo Caliper / Straight,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-142&c=dg&p=10
 OK,DG,DI-04-143,Castroviejo Caliper,"8 cm (3""), 20 mm",10,"8 cm (3""), 20 mm",Castroviejo Caliper / Straight,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-143&c=dg&p=10
 OK,DG,DI-04-144,Castroviejo-Epker Caliper,"8 cm (3""), 20 mm",10,"8cm (3""), 20 mm",Castroviejo-Epker Caliper,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-144&c=dg&p=10
+OK,DG,DI-04-145,Castroviejo Caliper,"9 cm (3 ½""), 40 mm",11,"9 cm (33½/2""), 40 mm",Castroviejo Caliper / Curved,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-145&c=dg&p=11
+OK,DG,DI-04-146,Castroviejo Caliper,"18 cm (7""), 40 mm",11,"18 cm (7""), 40 mm",Castroviejo Caliper / Curved,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-146&c=dg&p=11
+OK,DG,DI-04-147,Iwanson Caliper,"10 cm (4""), 10 mm",11,"10 cm (4""), 10 mm",Iwanson Caliper,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-147&c=dg&p=11
+OK,DG,DI-04-148,Ruler,"10 cm (4""), 150 mm",11,"10 cm (4""), 150 mm",Ruler / Graduated in mm and inches,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-148&c=dg&p=11
+OK,DG,DI-04-149,Ruler,"22 cm (8 ¾""), 200 mm",11,"22 cm (8 3/4""), 200mm OPIX",Ruler / Graduated in mm and inches,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-149&c=dg&p=11
+OK,DG,DI-04-150,Ruler,"31.5 cm (12 ½""), 300 mm",11,"31.5 cm (121/2""), 300 mm",Ruler / Graduated in mm and inches,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-150&c=dg&p=11
+OK,DG,DI-04-151,Ruler,"52.5 cm (20 ¾""), 500 mm",11,"52.5 cm (20 3/4""), 500 mm",Ruler / Graduated in mm and inches,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-151&c=dg&p=11
+OK,DG,DI-04-153,Measuring Tape,"150 cm (59"")",11,"150 cm (59"")",Measuring Tape / Graduated in cm and inches,,https://www.opixinst.com/catalog-viewer.html?q=DI-04-153&c=dg&p=11
 OK,DM,DM-13-100,Monocorps Milium Knife,"14 cm (5 ½"")",2,14 cm(51/s),"Couteau pour milium,  pour les lupus / Bisturi per milie, Strumenti per lupus / Monocorps Milium Knife",,https://www.opixinst.com/catalog-viewer.html?q=DM-13-100&c=dm&p=2
 OK,DM,DM-13-101,Vidal Lupus Scraper,"13 cm (5"")",2,"13 cm (5"")",Vidal Lupus Scraper,,https://www.opixinst.com/catalog-viewer.html?q=DM-13-101&c=dm&p=2
 OK,DM,DM-13-102,Fox Lupus Curette,"14 cm (5 ½""), Fig. 1",2,"14 cm (5 ½/2""), Fig. 1",Fox Lupus Curette,,https://www.opixinst.com/catalog-viewer.html?q=DM-13-102&c=dm&p=2
@@ -3133,6 +2939,7 @@ OK,DM,DM-13-130,Saalfeld Comedone Extractor,"11 cm (4 ½"")",4,11 cm(41/2{),Saal
 OK,DM,DM-13-131,Saalfeld Comedone Extractor,"14.5 cm (5 ¾"")",4,"14.5cm(53/4"")",Saalfeld Comedone Extractor,,https://www.opixinst.com/catalog-viewer.html?q=DM-13-131&c=dm&p=4
 OK,DM,DM-13-132,Schamberg Comedone Extractor,"9.5 cm (3 ¾"")",4,"9.5 cm (33/4"")",Schamberg Comedone Extractor,,https://www.opixinst.com/catalog-viewer.html?q=DM-13-132&c=dm&p=4
 OK,DM,DM-13-133,Katsch Comedone Extractor,"16 cm (6 ¼"")",4,"16 cm (61/4"")",Katsch Comedone Extractor,,https://www.opixinst.com/catalog-viewer.html?q=DM-13-133&c=dm&p=4
+OK,DM,DM-13-134,Unna-Vidal Comedone Extractor,"11.5 cm (4 ½"")",5,11.5cm(41/2^),Unna-Vidal Comedone Extractor,,https://www.opixinst.com/catalog-viewer.html?q=DM-13-134&c=dm&p=5
 OK,DN,786-001,Orthodontic Pliers,N/A,106,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-001&c=dn&p=106
 OK,DN,786-002,Orthodontic Pliers,N/A,106,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-002&c=dn&p=106
 OK,DN,786-003,Orthodontic Pliers,N/A,106,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-003&c=dn&p=106
@@ -3669,7 +3476,13 @@ OK,DN,786-1493,Implant Periosteals,N/A,144,,,no table heading found,https://www.
 OK,DN,786-1494,Implant Periosteals,N/A,144,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1494&c=dn&p=144
 OK,DN,786-1495,Implant Periosteals,N/A,144,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1495&c=dn&p=144
 OK,DN,786-1496,Implant Periosteals,N/A,144,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1496&c=dn&p=144
+OK,DN,786-1497,Implant Chisels,N/A,145,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1497&c=dn&p=145
+OK,DN,786-1498,Implant Chisels,N/A,145,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1498&c=dn&p=145
+OK,DN,786-1499,Implant Chisels,N/A,145,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1499&c=dn&p=145
 OK,DN,786-150,Extracting Forceps,N/A,8,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-150&c=dn&p=8
+OK,DN,786-1500,Implant Chisels,N/A,145,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1500&c=dn&p=145
+OK,DN,786-1501,Implant Chisels,N/A,145,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1501&c=dn&p=145
+OK,DN,786-1502,Implant Chisels,N/A,145,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1502&c=dn&p=145
 OK,DN,786-1503,Bone Scoops,N/A,146,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1503&c=dn&p=146
 OK,DN,786-1504,Bone Scoops,N/A,146,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1504&c=dn&p=146
 OK,DN,786-1505,Bone Scoops,N/A,146,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-1505&c=dn&p=146
@@ -4201,6 +4014,7 @@ OK,DN,786-523,Retractors,N/A,46,,,no table heading found,https://www.opixinst.co
 OK,DN,786-524,Retractors,N/A,46,45 mm,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-524&c=dn&p=46
 OK,DN,786-525,Retractors,N/A,46,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-525&c=dn&p=46
 OK,DN,786-526,Retractors,N/A,46,29 mm,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-526&c=dn&p=46
+OK,DN,786-527,Retractors,N/A,46,25 x 26 mm,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-527&c=dn&p=46
 OK,DN,786-528,Retractors,N/A,46,22 mm,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-528&c=dn&p=46
 OK,DN,786-529,Retractors,N/A,46,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-529&c=dn&p=46
 OK,DN,786-530,Retractors,N/A,46,,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=786-530&c=dn&p=46
@@ -4694,6 +4508,8 @@ OK,DR,DR-07-118,Round Saw Blade,Ø 65 mm,4,0 65 mm,Round Saw Blade,,https://www.
 OK,DR,DR-07-119,Round Saw Blade,Ø 80 mm,4,080 mm,Round Saw Blade,,https://www.opixinst.com/catalog-viewer.html?q=DR-07-119&c=dr&p=4
 OK,DR,DR-07-120,Segment Saw Blade,Ø 65 mm,4,065mm,Segment SawBlade,,https://www.opixinst.com/catalog-viewer.html?q=DR-07-120&c=dr&p=4
 OK,DR,DR-07-121,Waisted Saw Blade,Ø 65 mm,4,0 65 mm,Waisted Saw Blade,,https://www.opixinst.com/catalog-viewer.html?q=DR-07-121&c=dr&p=4
+OK,DR,DR-07-122,Deep Saw Blade,Ø 70 mm,5,0 70 mm,Deep Saw Blade,,https://www.opixinst.com/catalog-viewer.html?q=DR-07-122&c=dr&p=5
+OK,DR,DR-07-123,Deep Saw Blade for Aspiration,Ø 80 mm,5,80 mm,Deep Saw Blade for Aspiration,,https://www.opixinst.com/catalog-viewer.html?q=DR-07-123&c=dr&p=5
 OK,FR,FR-010-1,Bechert Lens Holding Forcep,"12.5 cm (5"")",66,"12.5 cm (5"")",Bechert Lens Holding Forcep / Very Delicate Flat Jaws,,https://www.opixinst.com/catalog-viewer.html?q=FR-010-1&c=fr&p=66
 OK,FR,FR-011-1,Kratz Lens Holding Forcep,"12.5 cm (5"")",67,"12.5cm (5"")",Kratz Lens Holding Forcep / Very Delicate Narrow Jaws,,https://www.opixinst.com/catalog-viewer.html?q=FR-011-1&c=fr&p=67
 OK,FR,FR-012-1,Blaydes Lens Holding Forcep,"11.5 cm (4 ½"")",67,11.5 cm (41/2),"Blaydes Lens Holding Forcep / Very Delicate Narrow Jaws, Angled 45",,https://www.opixinst.com/catalog-viewer.html?q=FR-012-1&c=fr&p=67
@@ -4750,6 +4566,9 @@ OK,FR,FR-047-2,TC Wangensteen Dressing Forcep,"23 cm (9"")",74,"23 cm (9"")",TC 
 OK,FR,FR-048-1,TC Micro-DeBakey Atrauma Forcep,"16 cm (6 ¼""), 1.6 mm",74,"16 cm (61/""), 1.6 mm",TC Micro-DeBakey Atrauma Forcep,,https://www.opixinst.com/catalog-viewer.html?q=FR-048-1&c=fr&p=74
 OK,FR,FR-048-2,TC Micro-DeBakey Atrauma Forcep,"20 cm (8""), 1.6 mm",74,"20 cm (8""), 1.6 mm",TC Micro-DeBakey Atrauma Forcep,,https://www.opixinst.com/catalog-viewer.html?q=FR-048-2&c=fr&p=74
 OK,FR,FR-048-3,TC Micro-DeBakey Atrauma Forcep,"24.5 cm (9 ¾""), 1.6 mm",74,"24.5 cm (9 3/4""), 1.6 mm",TC Micro-DeBakey Atrauma Forcep,,https://www.opixinst.com/catalog-viewer.html?q=FR-048-3&c=fr&p=74
+OK,FR,FR-049-1,TC DeBakey Atrauma Forcep,"16 cm (6 ¼""), 2.0 mm",75,"16 cm (61/4""), 2.0 mm",TC DeBakey Atrauma Forcep,,https://www.opixinst.com/catalog-viewer.html?q=FR-049-1&c=fr&p=75
+OK,FR,FR-049-2,TC DeBakey Atrauma Forcep,"20 cm (8""), 2.0 mm",75,"20 cm (8""), 2.0 mm",TC DeBakey Atrauma Forcep,,https://www.opixinst.com/catalog-viewer.html?q=FR-049-2&c=fr&p=75
+OK,FR,FR-049-3,TC DeBakey Atrauma Forcep,"24.5 cm (9 ¾""), 2.0 mm",75,"24.5 cm (9 3/4""), 2.0 mm",TC DeBakey Atrauma Forcep,,https://www.opixinst.com/catalog-viewer.html?q=FR-049-3&c=fr&p=75
 OK,FR,FR-101-1,Littauer Cilia Forcep,"8.5 cm (3 ¼"")",47,"8.5cm(31/4"")",Littauer Cilia Forcep / Smooth Jaws,,https://www.opixinst.com/catalog-viewer.html?q=FR-101-1&c=fr&p=47
 OK,FR,FR-102-1,Bergh Cilia Forcep,"8.5 cm (3 ¼"")",47,"8.5cm(31/4"")",Bergh Cilia Forcep / Serrated Jaws,,https://www.opixinst.com/catalog-viewer.html?q=FR-102-1&c=fr&p=47
 OK,FR,FR-103-1,Douglas Cilia Forcep,"9 cm (3 ½"")",47,"9 cm (3½/2"")",Douglas Cilia Forcep / Narrow Tip,,https://www.opixinst.com/catalog-viewer.html?q=FR-103-1&c=fr&p=47
@@ -5479,9 +5298,10 @@ OK,GA,SI-14-295,Yeoman (Turrell) Rectal Biopsy Forcep Without Handle,"42 cm (16 
 OK,GA,SI-14-296,Yeoman (Turrell) Rectal Biopsy Forcep Without Handle,"42 cm (16 ½"")",28,42 cm (161/2),Yeoman (Turrell) Rectal Biopsy Forcep Without Handle / Rotatable,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-296&c=ga&p=28
 OK,GA,SI-14-297,Yeoman (Turrell) Rectal Biopsy Forcep Without Handle,"42 cm (16 ½"")",29,"42 cm (161/2"")",Yeoman (Turrell) Rectal Biopsy Forcep Without Handle / Rotatable,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-297&c=ga&p=29
 OK,GA,SI-14-298,Handle Only,N/A,29,N/A,Handle Only,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-298&c=ga&p=29
-OK,GA,SI-14-299,Yeoman (Turrell) Tectal Biopsy Forcep Complete,"42 cm (16 ½"")",29,"42 cm (161/2"")",Yeoman (Turrell)Tectal Biopsy Forcep Complete,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-299&c=ga&p=29
-OK,GA,SI-14-300,Yeoman (Turrell) Tectal Biopsy Forcep Complete,"42 cm (16 ½"")",29,"42 cm (161/2"")",Yeoman (Turrell)Tectal Biopsy Forcep Complete,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-300&c=ga&p=29
-OK,GA,SI-14-301,Yeoman (Turrell) Tectal Biopsy Forcep Complete,"42 cm (16 ½"")",29,"42 cm (161/2"")",Yeoman (Turrell)Tectal Biopsy Forcep Complete,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-301&c=ga&p=29
+OK,GA,SI-14-299,Yeoman (Turrell) Rectal Biopsy Forcep Complete,"42 cm (16 ½"")",29,"42 cm (161/2"")",Yeoman (Turrell)Tectal Biopsy Forcep Complete,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-299&c=ga&p=29
+OK,GA,SI-14-300,Yeoman (Turrell) Rectal Biopsy Forcep Complete,"42 cm (16 ½"")",29,"42 cm (161/2"")",Yeoman (Turrell)Tectal Biopsy Forcep Complete,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-300&c=ga&p=29
+OK,GA,SI-14-301,Yeoman (Turrell) Rectal Biopsy Forcep Complete,"42 cm (16 ½"")",29,"42 cm (161/2"")",Yeoman (Turrell)Tectal Biopsy Forcep Complete,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-301&c=ga&p=29
+OK,GA,SI-14-303,Yeoman (Turrell) Rectal Biopsy Forcep Complete,"42 cm (16 ½"")",30,"42 cm (161/2"")",Yeoman (Turrell)Tectal Biopsy Forcep Complete,,https://www.opixinst.com/catalog-viewer.html?q=SI-14-303&c=ga&p=30
 OK,GY,GY-16-001,Hegar Uterine Dilator,"18.5cm (7 ¼""), Ø 1.0 mm",14,"18.5cm (7 ½/4""),1.0 mm",Dilatatori uterini / Hegar Uterine Dilator / Single Ended,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-001&c=gy&p=14
 OK,GY,GY-16-002,Hegar Uterine Dilator,"18.5cm (7 ¼""), Ø 2.0 mm",14,"18.5cm (71½/4""), 2.0 mm",Dilatatori uterini / Hegar Uterine Dilator / Single Ended,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-002&c=gy&p=14
 OK,GY,GY-16-003,Hegar Uterine Dilator,"18.5cm (7 ¼""), Ø 3.0 mm",14,"18.5cm (714""),0 3.0 mm",Dilatatori uterini / Hegar Uterine Dilator / Single Ended,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-003&c=gy&p=14
@@ -5813,6 +5633,12 @@ OK,GY,GY-16-373,Tischler Biopsy Forcep Tip Only,"25.5 cm (10"")",34,"25.5 cm(10"
 OK,GY,GY-16-374,Kevorkian Biopsy Forcep Tip Only,"25.5 cm (10"")",34,"25.5 cm (10"")",Kevorkian Biopsy Forcep Tip Only,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-374&c=gy&p=34
 OK,GY,GY-16-375,Eppendorf Biopsy Forcep Tip Only,"25.5 cm (10"")",34,"25.5 cm (10"")",Eppendorf Biopsy Forcep Tip Only,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-375&c=gy&p=34
 OK,GY,GY-16-376,Mini-Townsend Biopsy Forcep Tip Only,"25.5 cm (10"")",34,"25.5 cm (10"")",Mini-Townsend Biopsy Forcep Tip Only,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-376&c=gy&p=34
+OK,GY,GY-16-377,IUD Grasping Forcep,"22.5 cm (8 ¾""), 3.0 mm Ø",35,"22.5 cm (8 3/4""), 3.0 mm Ø",IUD Grasping Forcep / Flexible Shaft for Grasping Intra Utrine Pessary,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-377&c=gy&p=35
+OK,GY,GY-16-378,IUD Grasping Forcep,"27 cm (10 ¾""), 3.0 mm Ø",35,"27 cm (103/4""), 3.0 mm Ø",IUD Grasping Forcep / Flexible Shaft for Grasping Intra Utrine Pessary,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-378&c=gy&p=35
+OK,GY,GY-16-379,IUD Removal Hook,"31 cm (12 ¼"")",35,"31 cm (1214"")",IUD Removal Hook,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-379&c=gy&p=35
+OK,GY,GY-16-380,Cohen Uterine Cannula,N/A,35,N/A,,no table heading found,https://www.opixinst.com/catalog-viewer.html?q=GY-16-380&c=gy&p=35
+OK,GY,GY-16-381,Cohen Cone Only,"N/A, 19 mm",35,"N/A, 19 mm",Cohen Cone Only,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-381&c=gy&p=35
+OK,GY,GY-16-382,Cohen Cone Only,"N/A, 25 mm",35,"N/A, 25 mm",Cohen Cone Only,,https://www.opixinst.com/catalog-viewer.html?q=GY-16-382&c=gy&p=35
 OK,LG,UR-15-100,Vasectomy Dissecting Forcep,N/A,2,N/A,Pinces pour les calculs du bassinet / Pinze per calcoli renali / Vasectomy Dissecting Forcep,,https://www.opixinst.com/catalog-viewer.html?q=UR-15-100&c=lg&p=2
 OK,LG,UR-15-101,Vasectomy Fixation Clamp,N/A,2,N/A,Vasectomy Fixation Clamp,,https://www.opixinst.com/catalog-viewer.html?q=UR-15-101&c=lg&p=2
 OK,LG,UR-15-102,Randall Kidney Stone Forcep,"23 cm (9"")",2,"23 cm (9"")",Randall Kidney Stone Forcep / Fig.1,,https://www.opixinst.com/catalog-viewer.html?q=UR-15-102&c=lg&p=2
@@ -5921,6 +5747,9 @@ OK,LG,UR-15-204,Mogen Circumcision Clamp,"7.5 cm (3"")",12,"7.5 cm (3"")",Mogen 
 OK,LG,UR-15-205,Mathieu Foreign Body Forcep,"20 cm (8"")",12,"20 cm (8"")",Mathieu Foreign Body Forcep,,https://www.opixinst.com/catalog-viewer.html?q=UR-15-205&c=lg&p=12
 OK,LG,UR-15-206,Mathieu Foreign Body Forcep,"28 cm (11"")",12,"28 cm (11"")",Mathieu Foreign Body Forcep,,https://www.opixinst.com/catalog-viewer.html?q=UR-15-206&c=lg&p=12
 OK,LG,UR-15-207,Sachse Meatotome,N/A,12,N/A,Sachse Meatotome,,https://www.opixinst.com/catalog-viewer.html?q=UR-15-207&c=lg&p=12
+OK,LG,UR-15-208,Stockman Penis Clamp,"8 cm (3 ¼"")",13,"8 cm(3 1/4"")",Stockman Penis Clamp,,https://www.opixinst.com/catalog-viewer.html?q=UR-15-208&c=lg&p=13
+OK,LG,UR-15-209,Strauss Penis Clamp,"11 cm (4 ½"")",13,"11 cm (41½/2"")",Strauss Penis Clamp,,https://www.opixinst.com/catalog-viewer.html?q=UR-15-209&c=lg&p=13
+OK,LG,UR-15-210,Coolingwood-Stewart Hernia Ring Forcep,"13 cm (5"")",13,"13 cm (5"")",Coolingwood-Stewart Hernia Ring Forcep,,https://www.opixinst.com/catalog-viewer.html?q=UR-15-210&c=lg&p=13
 OK,NS,NS-10-100,Yasargil (Leyla) Brain Retractor Single Arm Complete,N/A,2,N/A,Retracteur cérebrale autostatique / Rettratore celebrale autostatico / Yasargil (Leyla) Brain Retractor Single Arm Complete,,https://www.opixinst.com/catalog-viewer.html?q=NS-10-100&c=ns&p=2
 OK,NS,NS-10-101,Yasargil (Leyla) Brain Double Retractor Arm Complete,N/A,2,N/A,Yasargil (Leyla) Brain Double Retractor Arm Complete,,https://www.opixinst.com/catalog-viewer.html?q=NS-10-101&c=ns&p=2
 OK,NS,NS-10-102,Yasargil (Leyla) Flexible Arm,N/A,2,N/A,Yasargil (Leyla) Flexible Arm,,https://www.opixinst.com/catalog-viewer.html?q=NS-10-102&c=ns&p=2
@@ -6346,6 +6175,7 @@ OK,NS,NS-10-523,Mirror,Ø 6.0 mm,45,0 6.0 mm,Mirror,,https://www.opixinst.com/ca
 OK,NS,NS-10-524,Mirror,Ø 8.0 mm,45,08.0 mm,Mirror,,https://www.opixinst.com/catalog-viewer.html?q=NS-10-524&c=ns&p=45
 OK,NS,NS-10-525,Mirror,Ø 10.0 mm,45,0 10.0 mm,Mirror,,https://www.opixinst.com/catalog-viewer.html?q=NS-10-525&c=ns&p=45
 OK,NS,NS-10-526,Mirror,Ø 12.0 mm,45,Ø 12.0 mm,Mirror,,https://www.opixinst.com/catalog-viewer.html?q=NS-10-526&c=ns&p=45
+OK,NS,NS-10-527,Mirror Handle,"15 cm (6"")",46,"15 cm (6"")",Micro Neuro Strumenti / Mirror Handle / Bayonet Shaped,,https://www.opixinst.com/catalog-viewer.html?q=NS-10-527&c=ns&p=46
 OK,OB,OB-17-100,DeLee Pelvimeter,"20 cm (8"")",2,"20 cm (8"")","Pelvimetri, Forcipi obstetrici / DeLee Pelvimeter / For Internal",,https://www.opixinst.com/catalog-viewer.html?q=OB-17-100&c=ob&p=2
 OK,OB,OB-17-101,Martin Pelvimeter,"34 cm (13 ½"")",2,"34 cm (131½/2"")",Martin Pelvimeter / cm and inch Scale,,https://www.opixinst.com/catalog-viewer.html?q=OB-17-101&c=ob&p=2
 OK,OB,OB-17-102,Naegele Obstetrical Forcep,"35 cm (13 ¾"")",2,"35 cm (13 3/4"")",Nagele Obstetrical Forcep,,https://www.opixinst.com/catalog-viewer.html?q=OB-17-102&c=ob&p=2
@@ -6371,6 +6201,11 @@ OK,OB,OB-17-121,Pestalozza Placenta Scoop,"30 cm (11 ¾"")",5,30 cm (1134),Pesta
 OK,OB,OB-17-122,Naegele Perforator,"25.5 cm (10"")",5,"25.5 cm (10"")",Naegele Perforator,,https://www.opixinst.com/catalog-viewer.html?q=OB-17-122&c=ob&p=5
 OK,OB,OB-17-123,Smellie Perforator,"25.5 cm (10"")",5,"25.5 cm (10"")",Smellie Perforator,,https://www.opixinst.com/catalog-viewer.html?q=OB-17-123&c=ob&p=5
 OK,OB,OB-17-124,Braun Decapitating Hook,"30 cm (11 ¾"")",5,"30 cm (11 3/4"")",Braun Decapitating Hook,,https://www.opixinst.com/catalog-viewer.html?q=OB-17-124&c=ob&p=5
+OK,OB,OB-17-125,Smellie Decapitating Hook,"30 cm (11 ¾"")",6,"30 cm (113/4"")","Basiotribe, Cranioclaste, Clamps ombilicaux / Basiotribo, Cranioclaste, Clamps ombelicali / Smellie Decapitating Hook",,https://www.opixinst.com/catalog-viewer.html?q=OB-17-125&c=ob&p=6
+OK,OB,OB-17-126,Tranier Basiotribe,"46 cm (18"")",6,"46 cm (18"")",Tranier Basiotribe,,https://www.opixinst.com/catalog-viewer.html?q=OB-17-126&c=ob&p=6
+OK,OB,OB-17-127,Braun Cranioclast,"42 cm (16 ½"")",6,"42 cm (161/2"")",Braun Cranioclast,,https://www.opixinst.com/catalog-viewer.html?q=OB-17-127&c=ob&p=6
+OK,OB,OB-17-128,Kane Umbilical Cord Clamp,"8.5 cm (3 ¼"")",6,"8.5 cm (31/4"")",Kane Umbilical Cord Clamp,,https://www.opixinst.com/catalog-viewer.html?q=OB-17-128&c=ob&p=6
+OK,OB,OB-17-129,Colin Umbilical Cord Clamp,"8.5 cm (3 ¼"")",6,"8.5 cm (31/4"")",Colin Umbilical Cord Clamp,,https://www.opixinst.com/catalog-viewer.html?q=OB-17-129&c=ob&p=6
 OK,OG,OP-11-100,Barraquer Wire Speculum,10 mm,2,10 mm,Blefarostati / Barraquer Wire Speculum / Standard Wire,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-100&c=og&p=2
 OK,OG,OP-11-101,Barraquer Wire Speculum,15 mm,2,15mm,Blefarostati / Barraquer Wire Speculum / Standard Wire,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-101&c=og&p=2
 OK,OG,OP-11-102,Barraquer Wire Speculum,15 mm,2,15 mm,Barraquer Wire Speculum / Heavy Wire,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-102&c=og&p=2
@@ -6797,6 +6632,14 @@ OK,OG,OP-11-522,Fechtner Trabeculectomy Marker,"9 cm (3 ½"")",61,"9 cm (3 1/2""
 OK,OG,OP-11-523,Helveston Scleral Ruler,"12 cm (4 ¾"")",61,12 cm (43/4),Helveston Scleral Ruler / 15 mm Long in Notches in 5 mm,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-523&c=og&p=61
 OK,OG,OP-11-524,Stahl Corneal Caliper,N/A,61,N/A,Stahl Corneal Caliper,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-524&c=og&p=61
 OK,OG,OP-11-525,Stahl Corneal Caliper,N/A,61,N/A,Stahl Corneal Caliper,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-525&c=og&p=61
+OK,OG,OP-11-526,Harms Trabeculotomy Probe,"5 cm (2""), Right",62,"5 cm (2""), Right",Ophtalmologie  / Oftalmologia Strumenti / Harms Trabeculotomy Probe,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-526&c=og&p=62
+OK,OG,OP-11-527,Harms Trabeculotomy Probe,"5 cm (2""), Left",62,"5 cm(2""), Left",Ophtalmologie  / Oftalmologia Strumenti / Harms Trabeculotomy Probe,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-527&c=og&p=62
+OK,OG,OP-11-528,Infant Lacrimal Dilator,"8 cm (3"")",62,"8 cm (3"")",Infant Lacrimal Dilator / Very Fine Blunt Tip,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-528&c=og&p=62
+OK,OG,OP-11-529,Muldoon Lacrimal Dilator,"10 cm (4"")",62,"10 cm (4"")",Muldoon Lacrimal Dilator,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-529&c=og&p=62
+OK,OG,OP-11-530,Wilder Lacrimal Dilator,"10.5 cm (4 ¼""), Fine Taper, Size 1",62,"10.5 cm (4 14""), Fine Taper, Size 1",Wilder Lacrimal Dilator,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-530&c=og&p=62
+OK,OG,OP-11-531,Wilder Lacrimal Dilator,"10.5 cm (4 ¼""), Medium Taper, Size 2",62,"10.5 cm (4 1/4""), Medium Taper, Size 2",Wilder Lacrimal Dilator,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-531&c=og&p=62
+OK,OG,OP-11-532,Wilder Lacrimal Dilator,"10.5 cm (4 ¼""), Heavy Taper, Size 3",62,"10.5 cm (4 1/4""), Heavy Taper, Size3",Wilder Lacrimal Dilator,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-532&c=og&p=62
+OK,OG,OP-11-533,Castroviejo Lacrimal Dilator,"14 cm (5 ½"")",62,"14cm(51½/2"")",Castroviejo Lacrimal Dilator / Double Ended Fine and Medium Taper,,https://www.opixinst.com/catalog-viewer.html?q=OP-11-533&c=og&p=62
 OK,OM,OM-20-100,Adams Napkin Holder,N/A,2,N/A,"Protezioni Finger, Bocca Bavaglio / Adams Napkin Holder / Consisting of Chain and Two Crocodile Forceps",,https://www.opixinst.com/catalog-viewer.html?q=OM-20-100&c=om&p=2
 OK,OM,OM-20-101,Langenbeck Finger Protector,Ø 18.0 mm,2,0 18.0 mm,Langenbeck Finger Protector,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-101&c=om&p=2
 OK,OM,OM-20-102,Langenbeck Finger Protector,Ø 21.0 mm,2,Ø 21.0 mm,Langenbeck Finger Protector,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-102&c=om&p=2
@@ -6952,6 +6795,16 @@ OK,OM,OM-20-252,Terry Septal Osteotome,"19 cm (7 ½"")",22,"19 cm(71½/2"")",Ter
 OK,OM,OM-20-253,Obwegeser Septonasal Osteotome,"18.5 cm (7 ¼""), 4 mm",22,"18.5 cm (71/4""), 4 mm",Obwegeser Septonasal Osteotome / Graduated,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-253&c=om&p=22
 OK,OM,OM-20-254,Obwegeser Septonasal Osteotome,"18.5 cm (7 ¼""), 6 mm",22,"18.5 cm (71/4""), 6 mm",Obwegeser Septonasal Osteotome / Graduated,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-254&c=om&p=22
 OK,OM,OM-20-255,Obwegeser Septonasal Osteotome,"18.5 cm (7 ¼""), 8 mm",22,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=OM-20-255&c=om&p=22
+OK,OM,OM-20-256,Obwegeser Wedge Osteotome,"22 cm (8 ¾""), 8 mm",23,"22 cm (8 ½/4""), 8 mm",Obwegeser Wedge Osteotome,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-256&c=om&p=23
+OK,OM,OM-20-257,Obwegeser Wedge Osteotome,"22 cm (8 ¾""), 12 mm",23,"22 cm (8 3/4""), 12 mm",Obwegeser Wedge Osteotome,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-257&c=om&p=23
+OK,OM,OM-20-258,Obwegeser Wedge Osteotome,"22 cm (8 ¾""), 16 mm",23,"22 cm (8 ½4""), 16 mm",Obwegeser Wedge Osteotome,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-258&c=om&p=23
+OK,OM,OM-20-259,Obwegeser Split Osteotome,"22 cm (8 ¾""), 8 mm",23,"22 cm (83/4""), 8 mm",Obwegeser Split Osteotome,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-259&c=om&p=23
+OK,OM,OM-20-260,Obwegeser Split Osteotome,"22 cm (8 ¾""), 12 mm",23,"22 cm (8 3/4""), 12 mm",Obwegeser Split Osteotome,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-260&c=om&p=23
+OK,OM,OM-20-261,Obwegeser Split Osteotome,"22 cm (8 ¾""), 16 mm",23,"22 cm (8 3/4""), 16 mm",Obwegeser Split Osteotome,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-261&c=om&p=23
+OK,OM,OM-20-262,Obwegeser Split Osteotome,"22 cm (8 ¾""), 20 mm",23,"22 cm (8 3/4""), 20mm",Obwegeser Split Osteotome,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-262&c=om&p=23
+OK,OM,OM-20-263,Obwegeser Osteotome,"15 cm (6""), 3 mm",23,"15 cm (6""), 3 mm",Obwegeser Osteotome / For Alveolar Process,,https://www.opixinst.com/catalog-viewer.html?q=OM-20-263&c=om&p=23
+OK,OM,OM-20-264,Obwegeser Osteotome,"15 cm (6""), 4 mm",23,,Obwegeser Osteotome / For Alveolar Process,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=OM-20-264&c=om&p=23
+OK,OM,OM-20-265,Obwegeser Osteotome,"15 cm (6""), 6 mm",23,TRUMENTS,Obwegeser Osteotome / For Alveolar Process,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=OM-20-265&c=om&p=23
 OK,OT,OT-18-100,Hartmann Ear Specula,N/A,2,N/A,Specoli auricolari / Hartmann Ear Specula / Set of 3,,https://www.opixinst.com/catalog-viewer.html?q=OT-18-100&c=ot&p=2
 OK,OT,OT-18-101,Hartmann Ear Specula,N/A,2,N/A,Hartmann Ear Specula / Set of 3,,https://www.opixinst.com/catalog-viewer.html?q=OT-18-101&c=ot&p=2
 OK,OT,OT-18-102,Hartmann Ear Specula,N/A,2,N/A,Hartmann Ear Specula / Set of 3,,https://www.opixinst.com/catalog-viewer.html?q=OT-18-102&c=ot&p=2
@@ -7297,6 +7150,8 @@ OK,OT,OT-18-441,Citelli Mastoid Rongeur,"17 cm (6 ¾""), 2 mm",41,,,size not rea
 OK,OT,OT-18-442,Citelli Mastoid Rongeur,"17 cm (6 ¾""), 3 mm",41,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=OT-18-442&c=ot&p=41
 OK,OT,OT-18-443,Beyer Mastoid Rongeur,"19 cm (7 ½""), 2 mm",41,"19 cm (71½/""), 2 mm",BeyerMastoidRongeurNSTRUMEN,,https://www.opixinst.com/catalog-viewer.html?q=OT-18-443&c=ot&p=41
 OK,OT,OT-18-444,Beyer Mastoid Rongeur,"14 cm (5 ½""), 1 mm",41,"14 cm (51½/2""), 1 mm",Beyer Mastoid Rongeur,,https://www.opixinst.com/catalog-viewer.html?q=OT-18-444&c=ot&p=41
+OK,OT,OT-18-445,Ear Syringe Complete,50 ml,42,50 ml,Siringhe auricolari / Ear Syringe Complete / With Protection Disk and  Tips,,https://www.opixinst.com/catalog-viewer.html?q=OT-18-445&c=ot&p=42
+OK,OT,OT-18-446,Ear Syringe Complete,100 ml,42,100 ml,Ear Syringe Complete / With Protection Disk and 2 Tips,,https://www.opixinst.com/catalog-viewer.html?q=OT-18-446&c=ot&p=42
 OK,PB,PR-03-100,Probe,"11.5 cm (4 ½""), Ø 1 mm",2,"11.5 cm (4½2""), 1 mm",Sondes boutonnees / Sonde a bottone / Probe,,https://www.opixinst.com/catalog-viewer.html?q=PR-03-100&c=pb&p=2
 OK,PB,PR-03-101,Probe,"13 cm (5""), Ø 1 mm",2,"13 cm (5""),01mm",Sondes boutonnees / Sonde a bottone / Probe,,https://www.opixinst.com/catalog-viewer.html?q=PR-03-101&c=pb&p=2
 OK,PB,PR-03-102,Probe,"14.5 cm (5 ¾""), Ø 1 mm",2,"14.5 cm (53/4""), 0 1 mm",Sondes boutonnees / Sonde a bottone / Probe,,https://www.opixinst.com/catalog-viewer.html?q=PR-03-102&c=pb&p=2
@@ -7386,6 +7241,9 @@ OK,PB,PR-03-185,Cotton Application,"18 cm (7""), Ø 1.8 mm",9,"18 cm (7""),01.8 
 OK,PB,PR-03-186,Hartmann Cotton Application,"22 cm (8 ½""), Ø 2.3 mm",9,"22 cm (8 1/2""), Ø 2.3 mm",Hartmann Cotton Application / Round Spiral End End,,https://www.opixinst.com/catalog-viewer.html?q=PR-03-186&c=pb&p=9
 OK,PB,PR-03-187,Varady Varix Instrument,"18 cm (7"")",9,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=PR-03-187&c=pb&p=9
 OK,PB,PR-03-188,Varady Varix Instrument,"18 cm (7"")",9,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=PR-03-188&c=pb&p=9
+OK,PB,PR-03-190,Varady Varix Instrument,"17.5 cm (7"")",10,"17.5 cm (7"")",Strumenti per varici / Vanady Varix Instrument / Micro Dissector,,https://www.opixinst.com/catalog-viewer.html?q=PR-03-190&c=pb&p=10
+OK,PB,PR-03-191,Varady Varix Instrument,"18 cm (7"")",10,"18 cm (7"")",Vanady Varix Instrument / Micro Phlebodissector,,https://www.opixinst.com/catalog-viewer.html?q=PR-03-191&c=pb&p=10
+OK,PB,PR-03-192,Varady Varix Instrument,"18 cm (7"")",10,"18 cm (7"")",Vanady Varix Instrument / Mini Phlebodissector,,https://www.opixinst.com/catalog-viewer.html?q=PR-03-192&c=pb&p=10
 OK,PD,PD-22-100,Nail Cutter,"13 cm (5"")",2,"13 cm (5"")",Pinces a ongles et Coupe ongles / Tronchesi unghie e Unghie Frese / Nail Cutter,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-100&c=pd&p=2
 OK,PD,PD-22-101,Nail Cutter,"13 cm (5"")",2,"13 cm(5"")",Nail Cutter,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-101&c=pd&p=2
 OK,PD,PD-22-102,Cuticle Cutter,"10 cm (4"")",2,"10 cm (4"")",Cuticle Cutter,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-102&c=pd&p=2
@@ -7415,8 +7273,12 @@ OK,PD,PD-22-125,Nail Elevator,"16 cm (6 ¼"")",6,"16 cm (61/4"")",Nail Elevator,
 OK,PD,PD-22-126,Fickling Nail Elevator,"14 cm (5 ½"")",7,"14 cm(53½/2"")",Fickling Nail Elevator / Wilde Tip,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-126&c=pd&p=7
 OK,PD,PD-22-127,Fickling Nail Elevator,"11.5 cm (4 ½"")",7,"11.5 cm (4 1/2"")",Fickling Nail Elevator / Narrow Tip,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-127&c=pd&p=7
 OK,PD,PD-22-128,MacKay Nail Elevator,"16.5 cm (6 ½"")",7,"16.5 cm (61½/"")",MacKay Nail Elevator,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-128&c=pd&p=7
-OK,PD,PD-22-129,Nail Spatual,"11.5 cm (4 ½"")",7,"11.5 cm (41½/2"")",Nail Spatual,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-129&c=pd&p=7
-OK,PD,PD-22-130,Nail Spatual / Probe,"16 cm (6 ¼"")",7,"16 cm (61/4"")",Nail Spatual / Probe,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-130&c=pd&p=7
+OK,PD,PD-22-129,Nail Spatula,"11.5 cm (4 ½"")",7,"11.5 cm (41½/2"")",Nail Spatual,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-129&c=pd&p=7
+OK,PD,PD-22-130,Nail Spatula / Probe,"16 cm (6 ¼"")",7,"16 cm (61/4"")",Nail Spatual / Probe,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-130&c=pd&p=7
+OK,PD,PD-22-131,Nail Probe,"14 cm (5 ½"")",8,"14 cm (51½/2"")",Unghie Strumenti / Nail Probe / Angled,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-131&c=pd&p=8
+OK,PD,PD-22-132,Nail Probe,"14 cm (5 ½"")",8,"14 cm (51/2"")",Nail Probe / Swan Neck,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-132&c=pd&p=8
+OK,PD,PD-22-133,Gauze Application,Small,8,Small,Guaze Application,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-133&c=pd&p=8
+OK,PD,PD-22-134,Gauze Application,Large,8,Large,Guaze Application,,https://www.opixinst.com/catalog-viewer.html?q=PD-22-134&c=pd&p=8
 OK,RH,RH-19-100,Thudichum Nasal Specula,N/A,2,N/A,Specoli nasali / Thudichum Nasal Specula / Set of 3,,https://www.opixinst.com/catalog-viewer.html?q=RH-19-100&c=rh&p=2
 OK,RH,RH-19-101,Thudichum Nasal Specula,N/A,2,N/A,Thudichum Nasal Specula / Set of 4,,https://www.opixinst.com/catalog-viewer.html?q=RH-19-101&c=rh&p=2
 OK,RH,RH-19-102,Thudichum Nasal Specula,N/A,2,N/A,Thudichum Nasal Specula / Set of 3,,https://www.opixinst.com/catalog-viewer.html?q=RH-19-102&c=rh&p=2
@@ -7748,6 +7610,9 @@ OK,RH,RH-19-430,LaForce Blade,N/A,40,N/A,LaForce Blade / Perforated,,https://www
 OK,RH,RH-19-431,LaForce Blade,N/A,40,N/A,LaForce Blade / Perforated,,https://www.opixinst.com/catalog-viewer.html?q=RH-19-431&c=rh&p=40
 OK,RH,RH-19-432,LaForce Blade,N/A,40,N/A,LaForce Blade / Perforated,,https://www.opixinst.com/catalog-viewer.html?q=RH-19-432&c=rh&p=40
 OK,RH,RH-19-433,Eicken-Killian Irrigation,"14 cm (5 ½”), Ø 3.0 mm",40,"14 cm (5 ½/""), Ø 3.0 mm",Eicken-Killian Irrigation,,https://www.opixinst.com/catalog-viewer.html?q=RH-19-433&c=rh&p=40
+OK,RH,RH-19-434,Ritter-Halle Frontal Sinus Dilator,"14.5 cm (5 ¾""), Ø 2.5 mm",41,"14.5 cm (5 3/4""),  2.5 mm",Ritter-Halle Frontal Sinus Dilator,,https://www.opixinst.com/catalog-viewer.html?q=RH-19-434&c=rh&p=41
+OK,RH,RH-19-435,Ritter-Halle Frontal Sinus Dilator,"14.5 cm (5 ¾""), Ø 3.0 mm",41,"14.5cm (53/4""),03.0 mm",Ritter-Halle Frontal Sinus Dilator,,https://www.opixinst.com/catalog-viewer.html?q=RH-19-435&c=rh&p=41
+OK,RH,RH-19-436,Ritter-Halle Frontal Sinus Dilator,"14.5 cm (5 ¾""), Ø 4.0 mm",41,"14.5cm (53/4""),0 4.0 mm",Ritter-Halle Frontal Sinus Dilator,,https://www.opixinst.com/catalog-viewer.html?q=RH-19-436&c=rh&p=41
 OK,RT,RT-02-001,Gillies Skin Hook,"18 cm (7”), Fig. 1",2,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=RT-02-001&c=rt&p=2
 OK,RT,RT-02-002,Gillies Skin Hook,"18 cm (7”), Fig. 2",2,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=RT-02-002&c=rt&p=2
 OK,RT,RT-02-003,Kilner Skin Hook,14.5 cm (5 ¾”),2,"14.5cm(53/4"")",Kilner Skin Hook / Sharp,,https://www.opixinst.com/catalog-viewer.html?q=RT-02-003&c=rt&p=2
@@ -8400,6 +8265,9 @@ OK,RT,RT-02-651,Casper Lateral Blade,57 x 37 mm,73,57× 37 mm,Casper Lateral Bla
 OK,RT,RT-02-652,Casper Lateral Blade,62 x 37 mm,73,62 × 37 mm,Casper Lateral Blade / Blade With 4 Prongs,,https://www.opixinst.com/catalog-viewer.html?q=RT-02-652&c=rt&p=73
 OK,RT,RT-02-653,Casper Lateral Blade,67 x 37 mm,73,67× 37 mm,Casper Lateral Blade / Blade With 4 Prongs,,https://www.opixinst.com/catalog-viewer.html?q=RT-02-653&c=rt&p=73
 OK,RT,RT-02-654,Cloward Lamina Spreader,"16 cm (6 ¼"")",73,"16 cm (61½/4"")",Cloward Lamina Spreader,,https://www.opixinst.com/catalog-viewer.html?q=RT-02-654&c=rt&p=73
+OK,RT,RT-02-655,Cloward Lamina Spreader,"13.5 cm (5 ¼"")",74,"13.5 cm (51/4"")",Ecarteurs pour laminectomie / Divaricatori per laminectomia / Cloward Lamina Spreader,,https://www.opixinst.com/catalog-viewer.html?q=RT-02-655&c=rt&p=74
+OK,RT,RT-02-656,Inge Lamina Spreader,"16 cm (6 ¼"")",74,"16 cm (61/4"")",Inge Lamina Spreader,,https://www.opixinst.com/catalog-viewer.html?q=RT-02-656&c=rt&p=74
+OK,RT,RT-02-657,Inge Lamina Spreader,"25.5 cm (10"")",74,"25.5 cm (10"")",Inge Lamina Spreader,,https://www.opixinst.com/catalog-viewer.html?q=RT-02-657&c=rt&p=74
 OK,SL,SL-6010,Scalpel Handle # 3,"12 cm (4 ¾"")",2,"12 cm (43/4"")",Manici per bisturi / Scalpel Handle # 3 / Solid,,https://www.opixinst.com/catalog-viewer.html?q=SL-6010&c=sl&p=2
 OK,SL,SL-6011,Scalpel Handle # 4,"13.5 cm (5 ¼"")",2,"13.5 cm (51/4"")",Scalpel Handle # 4 / Solid,,https://www.opixinst.com/catalog-viewer.html?q=SL-6011&c=sl&p=2
 OK,SL,SL-6012,Scalpel Handle # 3 & 4,"16 cm (6 ¼"")",2,"16 cm (61/4"")","Scalpel Handle # 3 & 4 / Solid, Double Ended",,https://www.opixinst.com/catalog-viewer.html?q=SL-6012&c=sl&p=2
@@ -8554,8 +8422,8 @@ OK,SS,SS-404-3,Operating Scissor,"14.5 cm (5 ¾"")",3,"14.5cm (53/4"") OPIX","Op
 OK,SS,SS-404-4,Operating Scissor,"16.5 cm (6 ½"")",3,"16.5 cm (6 ½/2"") OPIX","Operating Scissors / Curvd, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-404-4&c=ss&p=3
 OK,SS,SS-404-5,Operating Scissor,"18.5 cm (7 ¼"")",3,"18.5cm(71½4"")","Operating Scissors / Curvd, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-404-5&c=ss&p=3
 OK,SS,SS-404-6,Operating Scissor,"20.5 cm (8"")",3,"20.5 cm (8"")","Operating Scissors / Curvd, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-404-6&c=ss&p=3
-OK,SS,SS-405-1,Operating Scissor aan,"13 cm (5"")",3,"13 cm (5"")","Operating Scissors / Curved, Sharp/Blunt, / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-405-1&c=ss&p=3
-OK,SS,SS-405-2,Operating Scissor aan,"14.5 cm (5 ¾"")",3,"14.5 cm (53/4"")","Operating Scissors / Curved, Sharp/Blunt, / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-405-2&c=ss&p=3
+OK,SS,SS-405-1,Operating Scissor,"13 cm (5"")",3,"13 cm (5"")","Operating Scissors / Curved, Sharp/Blunt, / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-405-1&c=ss&p=3
+OK,SS,SS-405-2,Operating Scissor,"14.5 cm (5 ¾"")",3,"14.5 cm (53/4"")","Operating Scissors / Curved, Sharp/Blunt, / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-405-2&c=ss&p=3
 OK,SS,SS-406-1,Operating Scissor,"12 cm (4 ¾"")",4,"12 cm (43/4"")","Forbici per chirurgia / Operating Scissors / Straight, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-406-1&c=ss&p=4
 OK,SS,SS-406-2,Operating Scissor,"13 cm (5"")",4,"13 cm (5"")","Forbici per chirurgia / Operating Scissors / Straight, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-406-2&c=ss&p=4
 OK,SS,SS-406-3,Operating Scissor,"14.5 cm (5 ¾"")",4,"14.5cm(53/"")","Forbici per chirurgia / Operating Scissors / Straight, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-406-3&c=ss&p=4
@@ -8573,7 +8441,7 @@ OK,SS,SS-409-1,Operating Scissor,"14.5 cm (5 ¾"")",4,"14.5cm (53/4"")","Operati
 OK,SS,SS-410-1,Operating Scissor,"14.5 cm (5 ¾"")",5,"14.5 cm(53/4"")","Operating Scissors / Straight, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-410-1&c=ss&p=5
 OK,SS,SS-411-1,Operating Scissor,"14.5 cm (5 ¾"")",5,"14.5 cm (53/4"")","Operating Scissors / Curved, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-411-1&c=ss&p=5
 OK,SS,SS-412-1,Operating Scissor,"14.5 cm (5 ¾"")",5,,"Operating Scissors / Straight, Sharp/Sharp",size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=SS-412-1&c=ss&p=5
-OK,SS,SS-413-1,Operating Scissor a,"14.5 cm (5 ¾"")",5,"14.5 cm (53/4"")","Operating Scissors / Curved, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-413-1&c=ss&p=5
+OK,SS,SS-413-1,Operating Scissor,"14.5 cm (5 ¾"")",5,"14.5 cm (53/4"")","Operating Scissors / Curved, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-413-1&c=ss&p=5
 OK,SS,SS-414-1,Operating Scissor,"13 cm (5"")",6,"13 cm (5"")",Forbici per chirurgia / Incision Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-414-1&c=ss&p=6
 OK,SS,SS-414-2,Operating Scissor,"14.5 cm (5 ¾"")",6,"14.5cm(53/4"")",Forbici per chirurgia / Incision Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-414-2&c=ss&p=6
 OK,SS,SS-414-3,Operating Scissor,"16.5 cm (6 ½"")",6,"26.5 cm (6 1½/2"")",Forbici per chirurgia / Incision Scissor / Straight,"checked by eye: OCR misread — PDF prints 16.5 cm (6 ½"")",https://www.opixinst.com/catalog-viewer.html?q=SS-414-3&c=ss&p=6
@@ -8599,10 +8467,10 @@ OK,SS,SS-422-2,Dissecting Scissor,"21.5 cm (8 ½"")",8,"21.5 cm (81½/2"")","For
 OK,SS,SS-423-1,Mayo Dissecting Scissor,"19 cm (7 ½"")",8,"19 cm (71/2"")","Mayo DissectingScissor / Curved, With Chamfered Blades",,https://www.opixinst.com/catalog-viewer.html?q=SS-423-1&c=ss&p=8
 OK,SS,SS-423-2,Mayo Dissecting Scissor,"21.5 cm (8 ½"")",8,"21.5 cm (8 ½/2"")","Mayo DissectingScissor / Curved, With Chamfered Blades",,https://www.opixinst.com/catalog-viewer.html?q=SS-423-2&c=ss&p=8
 OK,SS,SS-424-1,Mayo-Harrington Dissecting Scissor,"23 cm (9"")",8,"23 cm (9"")",Mayo-Harrington Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-424-1&c=ss&p=8
-OK,SS,SS-425-1,Mayo-Harrington Dissecting Scissor e,"23 cm (9"")",8,"23 cm (9"")",Mayo-Harrington Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-425-1&c=ss&p=8
+OK,SS,SS-425-1,Mayo-Harrington Dissecting Scissor,"23 cm (9"")",8,"23 cm (9"")",Mayo-Harrington Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-425-1&c=ss&p=8
 OK,SS,SS-426-1,Mayo-Harrington Dissecting Scissor,"22.5 cm (8 ¾"")",8,"22.5 cm (9"")",Mayo-Harrington Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-426-1&c=ss&p=8
 OK,SS,SS-426-2,Mayo-Harrington Dissecting Scissor,"28 cm (11"")",8,"28cm (11"")",Mayo-Harrington Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-426-2&c=ss&p=8
-OK,SS,SS-427-1,Mayo-Harrington Dissecting Scissor a,"22.5 cm (8 ¾"")",9,"22.5 cm (9"")",Mayo-Harrington Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-427-1&c=ss&p=9
+OK,SS,SS-427-1,Mayo-Harrington Dissecting Scissor,"22.5 cm (8 ¾"")",9,"22.5 cm (9"")",Mayo-Harrington Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-427-1&c=ss&p=9
 OK,SS,SS-428-1,Mayo-Stille Dissecting Scissor,"15 cm (6"")",9,"15 cm (6"")",Mayo-Stille Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-428-1&c=ss&p=9
 OK,SS,SS-428-2,Mayo-Stille Dissecting Scissor,"17 cm (6 ¾"")",9,"17 cm (6 3/4'"")",Mayo-Stille Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-428-2&c=ss&p=9
 OK,SS,SS-428-3,Mayo-Stille Dissecting Scissor,"19.5 cm (7 ¾"")",9,"19.5 cm (734"")",Mayo-Stille Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-428-3&c=ss&p=9
@@ -8636,25 +8504,26 @@ OK,SS,SS-443-1,Doyen Gynecological Scissor,"18.5 cm (7 ¼"")",12,"18.5cm (71/4""
 OK,SS,SS-444-1,Sims-Siebold Gynecological Scissor,"24.5 cm (9 ¾"")",12,24.5 cm (9 3/4),Sims-Siebold Gynecological Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-444-1&c=ss&p=12
 OK,SS,SS-445-1,Sims-Siebold Gynecological Scissor,"24.5 cm (9 ¾"")",12,"24.5 cm (9 3/4"")",Sims-Siebold Gynecological Scissor / Straight / Sruiprel INSTRUM,,https://www.opixinst.com/catalog-viewer.html?q=SS-445-1&c=ss&p=12
 OK,SS,SS-446-1,Sims-Siebold Gynecological Scissor,"24.5 cm (9 ¾"")",12,"24.5 cm (93/4"")",Sims-Siebold Gynecological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-446-1&c=ss&p=12
+OK,SS,SS-447-1,Sims-Siebold Gynecological Scissor,"24.5 cm (9 ¾"")",13,"24.5 cm (9 3/4"")",Sims-Siebold Gynecological Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-447-1&c=ss&p=13
 OK,SS,SS-448-1,Sims Gynecological Scissor,"20 cm (7 ¾"")",13,"20 cm (8"")","Sims Gynecological Scissor / Straight, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-448-1&c=ss&p=13
-OK,SS,SS-449-1,Sims Gynecological Scissor A,"21 cm (8 ¼"")",13,"21 cm (814"")","Sims Gynecological Scissor / Curved, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-449-1&c=ss&p=13
-OK,SS,SS-450-1,Wertheim Gynecological Scissor an,"20 cm (7 ¾"")",13,"20 cm (8"")",Wertheim Gynecological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-450-1&c=ss&p=13
-OK,SS,SS-450-2,Wertheim Gynecological Scissor an,"23 cm (9"")",13,"23 cm (9"")",Wertheim Gynecological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-450-2&c=ss&p=13
+OK,SS,SS-449-1,Sims Gynecological Scissor,"21 cm (8 ¼"")",13,"21 cm (814"")","Sims Gynecological Scissor / Curved, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-449-1&c=ss&p=13
+OK,SS,SS-450-1,Wertheim Gynecological Scissor,"20 cm (7 ¾"")",13,"20 cm (8"")",Wertheim Gynecological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-450-1&c=ss&p=13
+OK,SS,SS-450-2,Wertheim Gynecological Scissor,"23 cm (9"")",13,"23 cm (9"")",Wertheim Gynecological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-450-2&c=ss&p=13
 OK,SS,SS-451-1,Bozemann Gynecological Scissor,"22 cm (8 ¾"")",13,"22 cm (8 3/4"")",Bozemann Gynecological Scissor / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SS-451-1&c=ss&p=13
 OK,SS,SS-452-1,"Gynecological Scissor, Dissecting Scissor","24 cm (9 ½"")",14,"24cm (9 1/2"")","Forbici per ginecologia, Forbici per dissezione / Kieback Parametrium Scissor / Angled go",,https://www.opixinst.com/catalog-viewer.html?q=SS-452-1&c=ss&p=14
 OK,SS,SS-452-2,"Gynecological Scissor, Dissecting Scissor","35 cm (13 ¾"")",14,"35 cm (133/4"")","Forbici per ginecologia, Forbici per dissezione / Kieback Parametrium Scissor / Angled go",,https://www.opixinst.com/catalog-viewer.html?q=SS-452-2&c=ss&p=14
-OK,SS,SS-453-1,Kieback Parametrium Scissor OO —Sazaan,"26 cm (10 ¼"")",14,"26 cm (10 1/4"")","Kieback Parametrium Scissor / Curved to Side, One Probe Pointed Blade / One Toothed Cutting Edge",,https://www.opixinst.com/catalog-viewer.html?q=SS-453-1&c=ss&p=14
-OK,SS,SS-453-2,Kieback Parametrium Scissor OO —Sazaan,"35 cm (13 ¾"")",14,"35 cm (133/4"")","Kieback Parametrium Scissor / Curved to Side, One Probe Pointed Blade / One Toothed Cutting Edge",,https://www.opixinst.com/catalog-viewer.html?q=SS-453-2&c=ss&p=14
+OK,SS,SS-453-1,Kieback Parametrium Scissor,"26 cm (10 ¼"")",14,"26 cm (10 1/4"")","Kieback Parametrium Scissor / Curved to Side, One Probe Pointed Blade / One Toothed Cutting Edge",,https://www.opixinst.com/catalog-viewer.html?q=SS-453-1&c=ss&p=14
+OK,SS,SS-453-2,Kieback Parametrium Scissor,"35 cm (13 ¾"")",14,"35 cm (133/4"")","Kieback Parametrium Scissor / Curved to Side, One Probe Pointed Blade / One Toothed Cutting Edge",,https://www.opixinst.com/catalog-viewer.html?q=SS-453-2&c=ss&p=14
 OK,SS,SS-454-1,Kelly Dissecting Scissor,"16 cm (6 ¼"")",14,"16 cm (61/4"")",Kelly Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-454-1&c=ss&p=14
 OK,SS,SS-455-1,Kelly Dissecting Scissor,"16 cm (6 ¼"")",14,"16cm (61/"")",Kelly Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-455-1&c=ss&p=14
-OK,SS,SS-456-1,Kelly Dissecting Scissor Zz,"16 cm (6 ¼"")",14,"16 cm (61/4"")",Kelly Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-456-1&c=ss&p=14
+OK,SS,SS-456-1,Kelly Dissecting Scissor,"16 cm (6 ¼"")",14,"16 cm (61/4"")",Kelly Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-456-1&c=ss&p=14
 OK,SS,SS-457-1,Kelly Dissecting Scissor,"16 cm (6 ¼"")",15,"16 cm (61/4"")",Kelly Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-457-1&c=ss&p=15
 OK,SS,SS-458-1,Joseph Dissecting Scissor,"15 cm (6"")",15,"15 cm (6"")",Joseph Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-458-1&c=ss&p=15
 OK,SS,SS-459-1,Joseph Dissecting Scissor,"15 cm (6"")",15,"15 cm (6"")",Joseph Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-459-1&c=ss&p=15
 OK,SS,SS-460-1,Joseph Dissecting Scissor,"15 cm (6"")",15,"15 cm (6"")",Joseph Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-460-1&c=ss&p=15
 OK,SS,SS-461-1,Joseph Dissecting Scissor,"15 cm (6"")",15,"15 cm (6"")",Joseph Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-461-1&c=ss&p=15
 OK,SS,SS-462-1,Dissecting Scissor,"28 cm (11"")",16,"28cm (11"")",Forbici per dissezione / Weller Dissecting Scissor / Heavy Pattern,,https://www.opixinst.com/catalog-viewer.html?q=SS-462-1&c=ss&p=16
-OK,SS,SS-463-1,Resano Cartilage Scissor SS,"25 cm (9 ¾"")",16,"25 cm (9 3/4"")",Resano Cartilage Scissor,,https://www.opixinst.com/catalog-viewer.html?q=SS-463-1&c=ss&p=16
+OK,SS,SS-463-1,Resano Cartilage Scissor,"25 cm (9 ¾"")",16,"25 cm (9 3/4"")",Resano Cartilage Scissor,,https://www.opixinst.com/catalog-viewer.html?q=SS-463-1&c=ss&p=16
 OK,SS,SS-464-1,Metzenbaum Dissecting Scissor,"11.5 cm (4 ½"")",16,"11.5 cm (41/2"")","Metzenbaum Dissecting Scissor / Straight, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-464-1&c=ss&p=16
 OK,SS,SS-465-1,Metzenbaum Dissecting Scissor,"11.5 cm (4 ½"")",16,"11.5 cm (4½/"")","Metzenbaum Dissecting Scissor / Straight, Blunt/Blunt / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-465-1&c=ss&p=16
 OK,SS,SS-466-1,Metzenbaum Dissecting Scissor,"11.5 cm (4 ½"")",16,"11.5 cm (4½/"")","Metzenbaum Dissecting Scissor / Curved, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-466-1&c=ss&p=16
@@ -8665,7 +8534,7 @@ OK,SS,SS-470-1,Metzenbaum Dissecting Scissor,"15.5 cm (6"")",17,"15.5 cm (6"")",
 OK,SS,SS-471-1,Metzenbaum Dissecting Scissor,"15.5 cm (6"")",17,"15.5 cm (6"")","Metzenbaum Dissecting Scissor / Curved, Blunt/Blunt / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-471-1&c=ss&p=17
 OK,SS,SS-472-1,Dissecting Scissor,"14.5 cm (5 ¾"")",18,"14.5 cm (53/4"")","Forbici per dissezione / Metzenbaum Dissecting Scissor / Straight, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-472-1&c=ss&p=18
 OK,SS,SS-473-1,Metzenbaum Dissecting Scissor,"14.5 cm (5 ¾"")",18,"14.5 cm(53/"")","Metzenbaum Dissecting Scissor / Straight, Blunt/Blunt / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-473-1&c=ss&p=18
-OK,SS,SS-474-1,Metzenbaum Dissecting Scissor Z,"14.5 cm (5 ¾"")",18,"14.5 cm (5 3/4"")","Metzenbaum Dissecting Scissor / Curved, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-474-1&c=ss&p=18
+OK,SS,SS-474-1,Metzenbaum Dissecting Scissor,"14.5 cm (5 ¾"")",18,"14.5 cm (5 3/4"")","Metzenbaum Dissecting Scissor / Curved, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-474-1&c=ss&p=18
 OK,SS,SS-475-1,Metzenbaum Dissecting Scissor,"14.5 cm (5 ¾"")",18,"14.5 cm (53/4"")","Metzenbaum Dissecting Scissor / Curved, Blunt/Blunt / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-475-1&c=ss&p=18
 OK,SS,SS-476-1,Metzenbaum Dissecting Scissor,"14.5 cm (5 ¾"")",18,"14.5 cm (53½/4"")","Metzenbaum Dissecting Scissor / Straight, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-476-1&c=ss&p=18
 OK,SS,SS-477-1,Metzenbaum Dissecting Scissor,"14.5 cm (5 ¾"")",19,"14.5cm (53/4"")","Metzenbaum Dissecting Scissor / Curved, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-477-1&c=ss&p=19
@@ -8696,26 +8565,27 @@ OK,SS,SS-484-2,Metzenbaum-Nelson Dissecting Scissor,"20.5 cm (8"")",20,"20.5 cm 
 OK,SS,SS-485-1,Metzenbaum Dissecting Scissor,"14.5 cm (5 ¾"")",21,"14.5 cm (53/4"")","Metzenbaum Dissecting Scissor / Straight, Sharp/Sharp, Toothed",,https://www.opixinst.com/catalog-viewer.html?q=SS-485-1&c=ss&p=21
 OK,SS,SS-486-1,Metzenbaum Dissecting Scissor 2,"14.5 cm (5 ¾"")",21,"14.5 cm (53/4"")","Metzenbaum Dissecting Scissor / Curved, Sharp/Sharp, Toothed",,https://www.opixinst.com/catalog-viewer.html?q=SS-486-1&c=ss&p=21
 OK,SS,SS-487-1,Metzenbaum Nerve Dissecting Scissor,"15.5 cm (6"")",21,"15.5 cm (6"")",Metzenbaum Nerve Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-487-1&c=ss&p=21
-OK,SS,SS-488-1,Metzenbaum Nerve Dissecting Scissor —_,"15.5 cm (6"")",21,"15.5 cm (6"")",Metzenbaum Nerve Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-488-1&c=ss&p=21
+OK,SS,SS-488-1,Metzenbaum Nerve Dissecting Scissor,"15.5 cm (6"")",21,"15.5 cm (6"")",Metzenbaum Nerve Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-488-1&c=ss&p=21
 OK,SS,SS-489-1,McIndoe Cartilage Scissor,"18.5 cm (7 ¼"")",21,"18.5 cm (71/4"")","Mclndoe Cartilage Scissor / Straight, Toothed",,https://www.opixinst.com/catalog-viewer.html?q=SS-489-1&c=ss&p=21
 OK,SS,SS-490-1,Face-lift Scissor,"18.5 cm (7 ¼"")",22,"18.5 cm (7 3½/4"")","Forbici per Face-lift / McIndoe Cartilage Scissor / Curved, Toothed",,https://www.opixinst.com/catalog-viewer.html?q=SS-490-1&c=ss&p=22
 OK,SS,SS-491-1,Kaye Face-Lift Scissor,"18.5 cm (7 ¼"")",22,"18.5 cm(71½."")","Kaye Face-Lift Scissor / Curved, Toothed / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-491-1&c=ss&p=22
 OK,SS,SS-492-1,Gorney Face-Lift Scissor,"12.5 cm (5"")",22,"12.5 cm (5"")","Gorney Face-Lift Scissor / Straight, Toothed / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-492-1&c=ss&p=22
 OK,SS,SS-492-2,Gorney Face-Lift Scissor,"19.5 cm (7 ¾"")",22,"19.5 cm (734"")","Gorney Face-Lift Scissor / Straight, Toothed / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-492-2&c=ss&p=22
+OK,SS,SS-493-1,Gorney Face-Lift Scissor,"19.5 cm (7 ¾"")",22,"19.5 cm (734"")","Gorney Face-Lift Scissor / Curved, Toothed / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-493-1&c=ss&p=22
 OK,SS,SS-494-1,Aston Face-Lift Scissor,"17 cm (6 ¾"")",22,"17 cm (6 3/"")","Aston Face-Lift Scissor / Straight, Toothed / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-494-1&c=ss&p=22
-OK,SS,SS-495-1,Lexer Dissecting Scissor =,"16 cm (6 ¼"")",23,"16 cm (61/4"")",Lexer Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-495-1&c=ss&p=23
+OK,SS,SS-495-1,Lexer Dissecting Scissor,"16 cm (6 ¼"")",23,"16 cm (61/4"")",Lexer Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-495-1&c=ss&p=23
 OK,SS,SS-496-1,Lexer Dissecting Scissor,"16 cm (6 ¼"")",23,"16 cm (6 1/4"")",Lexer Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-496-1&c=ss&p=23
-OK,SS,SS-497-1,Lexer Dissecting Scissor A,"16 cm (6 ¼"")",23,"16 cm (61/4"")",Lexer Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-497-1&c=ss&p=23
+OK,SS,SS-497-1,Lexer Dissecting Scissor,"16 cm (6 ¼"")",23,"16 cm (61/4"")",Lexer Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-497-1&c=ss&p=23
 OK,SS,SS-498-1,Lexer Dissecting Scissor,"16 cm (6 ¼"")",23,"16 cm (61/4"")",Lexer Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-498-1&c=ss&p=23
-OK,SS,SS-499-1,Cottle-Massing Plastic Surgery Scissor ZZ,"10.5 cm (4 ¼"")",23,"10.5 cm (41/"")","Cottle-Massing Plastic Surgery Scissor / Curved, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-499-1&c=ss&p=23
+OK,SS,SS-499-1,Cottle-Massing Plastic Surgery Scissor,"10.5 cm (4 ¼"")",23,"10.5 cm (41/"")","Cottle-Massing Plastic Surgery Scissor / Curved, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-499-1&c=ss&p=23
 OK,SS,SS-500-1,"Dissecting Scissor, Nasal Scissor","10.5 cm (4 ¼"")",24,"10.5 cm (41/4"")","Forbici per dissezione, Forbici nasali / Cottle-Massing Plastic Surgery Scissor / Curved, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-500-1&c=ss&p=24
-OK,SS,SS-501-1,Cinelli Nasal Scissor Va,"11.5 cm (4 ½"")",24,"11.5 cm(41/2"")",Cinelli Nasal Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-501-1&c=ss&p=24
-OK,SS,SS-502-1,Fomon Nasal Scissor Go,"14 cm (5 ½"")",24,"14 cm (51½/2"")",Foman Nasal Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-502-1&c=ss&p=24
-OK,SS,SS-503-1,Thorek Dissecting Scissor OZ,"18.5 cm (7 ¼"")",24,"18.5 cm (71/."")",Thorek Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-503-1&c=ss&p=24
+OK,SS,SS-501-1,Cinelli Nasal Scissor,"11.5 cm (4 ½"")",24,"11.5 cm(41/2"")",Cinelli Nasal Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-501-1&c=ss&p=24
+OK,SS,SS-502-1,Fomon Nasal Scissor,"14 cm (5 ½"")",24,"14 cm (51½/2"")",Foman Nasal Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-502-1&c=ss&p=24
+OK,SS,SS-503-1,Thorek Dissecting Scissor,"18.5 cm (7 ¼"")",24,"18.5 cm (71/."")",Thorek Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-503-1&c=ss&p=24
 OK,SS,SS-504-1,Lexer-Baby Dissecting Scissor,"10 cm (4"")",24,"10 cm (4"")",Lexer-Baby Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-504-1&c=ss&p=24
 OK,SS,SS-505-1,Lexer-Baby Dissecting Scissor,"10 cm (4"")",25,"10 cm (4"")",Lexer-Baby Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-505-1&c=ss&p=25
 OK,SS,SS-506-1,Lexer-Fino Delicate Dissecting Scissor,"16.5 cm (6 ½"")",25,"16.5 cm (61/"")","Lexer-Fino Delicate Dissecting Scissor / Straight, Slender Pattern",,https://www.opixinst.com/catalog-viewer.html?q=SS-506-1&c=ss&p=25
-OK,SS,SS-507-1,Lexer-Fino Delicate Dissecting Scissor AA,"16.5 cm (6 ½"")",25,"16.5 cm (61/"")","Lexer-Fino Delicate Dissecting Scissor / Curved, Slender Pattern",,https://www.opixinst.com/catalog-viewer.html?q=SS-507-1&c=ss&p=25
+OK,SS,SS-507-1,Lexer-Fino Delicate Dissecting Scissor,"16.5 cm (6 ½"")",25,"16.5 cm (61/"")","Lexer-Fino Delicate Dissecting Scissor / Curved, Slender Pattern",,https://www.opixinst.com/catalog-viewer.html?q=SS-507-1&c=ss&p=25
 OK,SS,SS-508-1,Metzenbaum-Fino Delicate Dissecting Scissor,"14.5 cm (5 ¾"")",25,"14.5 cm (5 3/"")","Metzenbaum-Fino Delicate Dissecting Scissor / Straight, Blunt/Blunt, Slender Pattern",,https://www.opixinst.com/catalog-viewer.html?q=SS-508-1&c=ss&p=25
 OK,SS,SS-509-1,Metzenbaum-Fino Dissecting Scissor,"14.5 cm (5 ¾"")",25,"14.5 cm (53/"")","Metzenbaum-Fino Dissecting Scissor / Straight, Blunt/Blunt, Slender Pattern / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-509-1&c=ss&p=25
 OK,SS,SS-510-1,Delicate Dissecting Scissor,"14.5 cm (5 ¾"")",26,"14.5 cm (53/"")","Forbici fini per dissezione / Metzenbaum-Fino Delicate Dissecting Scissor / Curved, Blunt/Blunt, Slender Pattern",,https://www.opixinst.com/catalog-viewer.html?q=SS-510-1&c=ss&p=26
@@ -8760,11 +8630,11 @@ OK,SS,SS-529-1,Peck-Joseph Face-Lift Scissor,"14.5 cm (5 ¾"")",30,"14.5 cm(53/4
 OK,SS,SS-530-1,Peck-Joseph Face-Lift Scissor,"14.5 cm (5 ¾"")",30,"14.5 cm (5 3½/"")","Peck-Joseph Face-Lift Scissor / Straight, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-530-1&c=ss&p=30
 OK,SS,SS-531-1,Peck-Joseph Face-Lift Scissor,"14.5 cm (5 ¾"")",30,"14.5 cm (53/"")","Peck-Joseph Face-Lift Scissor / Curved, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-531-1&c=ss&p=30
 OK,SS,SS-532-1,Shea Vein Graft Scissor,"12 cm (4 ¾"")",30,"12 cm (43/4"")",Shea Vein Graft Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-532-1&c=ss&p=30
-OK,SS,SS-533-1,Kilner Dissecting Scissor a,"12 cm (4 ¾"")",31,"12 cm (43/4"")",Kilner Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-533-1&c=ss&p=31
-OK,SS,SS-533-2,Kilner Dissecting Scissor a,"15 cm (6"")",31,"15 cm (6"")",Kilner Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-533-2&c=ss&p=31
-OK,SS,SS-534-1,Nerve Dissecting Scissor a,"15 cm (6"")",31,"15 cm (6"")","Nerve Dissecting Scissor / Curved, Semi Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-534-1&c=ss&p=31
+OK,SS,SS-533-1,Kilner Dissecting Scissor,"12 cm (4 ¾"")",31,"12 cm (43/4"")",Kilner Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-533-1&c=ss&p=31
+OK,SS,SS-533-2,Kilner Dissecting Scissor,"15 cm (6"")",31,"15 cm (6"")",Kilner Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-533-2&c=ss&p=31
+OK,SS,SS-534-1,Nerve Dissecting Scissor,"15 cm (6"")",31,"15 cm (6"")","Nerve Dissecting Scissor / Curved, Semi Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-534-1&c=ss&p=31
 OK,SS,SS-535-1,Dissecting Scissor,"14.5 cm (5 ¾"")",31,"14.5 cm (53/"")",Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-535-1&c=ss&p=31
-OK,SS,SS-536-1,Dissecting Scissor ee,"14.5 cm (5 ¾"")",31,"14.5 cm (53/"")",Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-536-1&c=ss&p=31
+OK,SS,SS-536-1,Dissecting Scissor,"14.5 cm (5 ¾"")",31,"14.5 cm (53/"")",Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-536-1&c=ss&p=31
 OK,SS,SS-537-1,Reynolds Dissecting Scissor,"15.5 cm (6"")",31,"15.5 cm(6"")",Reynolds Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-537-1&c=ss&p=31
 OK,SS,SS-537-2,Reynolds Dissecting Scissor,"18 cm (7"")",31,"18 cm (7"")",Reynolds Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-537-2&c=ss&p=31
 OK,SS,SS-538-1,Dissecting Scissor,"15.5 cm (6"")",32,"15.5 cm (6"")",Reynolds Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-538-1&c=ss&p=32
@@ -8773,16 +8643,20 @@ OK,SS,SS-539-1,Reynolds Dissecting Scissor,"15.5 cm (6"")",32,"15.5 cm (6"")",Re
 OK,SS,SS-539-2,Reynolds Dissecting Scissor,"18 cm (7"")",32,"18 cm (7"")",Reynolds Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-539-2&c=ss&p=32
 OK,SS,SS-540-1,Reynolds Dissecting Scissor,"15.5 cm (6"")",32,"15.5 cm (6"")",Reynolds Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-540-1&c=ss&p=32
 OK,SS,SS-540-2,Reynolds Dissecting Scissor,"18 cm (7"")",32,"18 cm (7"")",Reynolds Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-540-2&c=ss&p=32
+OK,SS,SS-541-1,Jameson Dissecting Scissor,"15.5 cm (6"")",32,"15.5 cm (6"")",Jameson Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-541-1&c=ss&p=32
 OK,SS,SS-542-1,Jameson Dissecting Scissor,"15.5 cm (6"")",32,"15.5 cm (6"")",Jameson Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-542-1&c=ss&p=32
 OK,SS,SS-543-1,Jameson-Werber Dissecting Scissor,"13 cm (5"")",33,"13 cm (5"")",Jameson-Werber Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-543-1&c=ss&p=33
 OK,SS,SS-544-1,Potts Dissecting Scissor,"18 cm (7"")",33,"18 cm (7"")",Potts Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-544-1&c=ss&p=33
 OK,SS,SS-545-1,DeBakey Arteriotomy Scissor,"17.5 cm (7"")",33,"17.5 cm (7"")",DeBakey Arteriotomy Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-545-1&c=ss&p=33
 OK,SS,SS-546-1,Vascular Scissor,"19 cm (7 ½"")",33,"19 cm (7 1½/2"")",Vascular Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-546-1&c=ss&p=33
+OK,SS,SS-547-1,Vascular Scissor,"19 cm (7 ½"")",33,"19 cm (7½/2"")",Vascular Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-547-1&c=ss&p=33
+OK,SS,SS-548-1,Satinsky Thoracic Scissor,"25.5 cm (10"")",34,"25.5 cm (10"")",Forbici vascolari / Satinsky Thoracic Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-548-1&c=ss&p=34
 OK,SS,SS-549-1,Diethrich-Salyer Cleft Palate Dissecting Scissor,"12 cm (4 ¾"")",34,"12 cm (4 3/4"")",Diethrich-Salyer Cleft Palate Dissecting Scissor / Angled,,https://www.opixinst.com/catalog-viewer.html?q=SS-549-1&c=ss&p=34
 OK,SS,SS-550-1,Diethrich Vascular Scissor,"17.5 cm (7"")",34,"17.5 cm (7"")","Diethrich Vascular Scissor / Angled 125°, With Guide",,https://www.opixinst.com/catalog-viewer.html?q=SS-550-1&c=ss&p=34
 OK,SS,SS-551-1,DeBakey Vascular Scissor,"16.5 cm (6 ½"")",34,"16.5 cm (61½/2"")",DeBakey Vascular Scissor / Angled 45,,https://www.opixinst.com/catalog-viewer.html?q=SS-551-1&c=ss&p=34
 OK,SS,SS-552-1,DeBakey Vascular Scissor,"16 cm (6 ¼"")",34,"16cm(61"")",DeBakey Vascular Scissor / Angled 60,,https://www.opixinst.com/catalog-viewer.html?q=SS-552-1&c=ss&p=34
 OK,SS,SS-553-1,Potts-Smith Vascular Scissor,"18 cm (7"")",35,"18 cm (7"")","Potts-Smith Vascular Scissor / Angled 6o°, With Probe Tip",,https://www.opixinst.com/catalog-viewer.html?q=SS-553-1&c=ss&p=35
+OK,SS,SS-554-1,Potts-Smith Vascular Scissor,"18 cm (7"")",35,"18 cm (7"")",Potts-Smith Vascular Scissor / Angled 25,,https://www.opixinst.com/catalog-viewer.html?q=SS-554-1&c=ss&p=35
 OK,SS,SS-555-1,Potts-Smith Vascular Scissor,"18 cm (7"")",35,"18 cm (7"")",Potts-Smith Vascular Scissor / Angled 25 / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-555-1&c=ss&p=35
 OK,SS,SS-556-1,Potts-Smith Vascular Scissor,"18.5 cm (7 ¼"")",35,"18.5cm(734"") UMENTS",Potts-Smith Vascular Scissor / Angled 45,,https://www.opixinst.com/catalog-viewer.html?q=SS-556-1&c=ss&p=35
 OK,SS,SS-557-1,Potts-Smith Vascular Scissor,"18.5 cm (7 ¼"")",35,"18.5 cm (71/4"")",Potts-Smith Vascular Scissor / Angled 45 / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-557-1&c=ss&p=35
@@ -8806,17 +8680,18 @@ OK,SS,SS-569-1,Potts-De Martel Cardiovascular Scissor,"22 cm (8 ¾"")",38,"22 cm
 OK,SS,SS-570-1,DeBakey Offset Scissor,"15.5 cm (6"")",38,"15.5 cm (6"")",SeBakey  / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SS-570-1&c=ss&p=38
 OK,SS,SS-571-1,Favoloro Offset Scissor,"15 cm (6"")",39,"15 cm (6"")",Favoloro Offset Scissor / Angled,,https://www.opixinst.com/catalog-viewer.html?q=SS-571-1&c=ss&p=39
 OK,SS,SS-572-1,Vascular Scissor,"12 cm (4 ¾"")",39,"12 cm (43/"")",Vascular Scissor / One Blade Probe,,https://www.opixinst.com/catalog-viewer.html?q=SS-572-1&c=ss&p=39
+OK,SS,SS-573-1,Vascular Scissor,"14.5 cm (5 ¾"")",39,"14.5 cm (53½/"")",Vascular Scissor / One Blade Probe,,https://www.opixinst.com/catalog-viewer.html?q=SS-573-1&c=ss&p=39
 OK,SS,SS-574-1,Strully Vascular Scissor,"22 cm (8 ¾"")",39,"22 cm (8 3/"")",Strully Vascular Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-574-1&c=ss&p=39
 OK,SS,SS-575-1,Vascular Scissor,"22.5 cm (8 ¾"")",39,"22.5 cm (8 3/4"")",Vascular Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-575-1&c=ss&p=39
 OK,SS,SS-576-1,Vascular Scissor,"28 cm (11"")",40,"28 cm (11"")",Forbici vascolari / Barre Vascular Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-576-1&c=ss&p=40
 OK,SS,SS-577-1,Potts-Smith Vascular Scissor,"19 cm (7 ½"")",40,"19 cm (71/2"")",Potts-Smith Vascular Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-577-1&c=ss&p=40
 OK,SS,SS-578-1,Cooley Vascular Scissor,"19 cm (7 ½"")",40,"19 cm (71/2"")",Cooley Vascular Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-578-1&c=ss&p=40
-OK,SS,SS-579-1,Klinkenberg-Loth Vascular Scissor ==,"23 cm (9"")",40,"23 cm (9"")",Klinkenberg-Loth Vascular Scissor / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SS-579-1&c=ss&p=40
+OK,SS,SS-579-1,Klinkenberg-Loth Vascular Scissor,"23 cm (9"")",40,"23 cm (9"")",Klinkenberg-Loth Vascular Scissor / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SS-579-1&c=ss&p=40
 OK,SS,SS-580-1,Olivecrona Trigeminal Scissor,"23 cm (9"")",40,"23cm (9""), 120 mm",Olivecrona Trigeminal Scissor / Toothed,,https://www.opixinst.com/catalog-viewer.html?q=SS-580-1&c=ss&p=40
 OK,SS,SS-581-1,Strully Neurological Scissor,"22.5 cm (8 ¾"")",41,"22.5 cm (8 3/4"")",Strully Neurological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-581-1&c=ss&p=41
 OK,SS,SS-582-1,Schmieden-Taylor Dissecting Scissor,"16.5 cm (6 ½"")",41,"16.5 cm (61/2"")",Schmieden-Taylor Dissecting Scissor / One Blade Probed,,https://www.opixinst.com/catalog-viewer.html?q=SS-582-1&c=ss&p=41
 OK,SS,SS-583-1,Toennis-Adson Dissecting Scissor,"17.5 cm (7"")",41,"17.5 cm (7"")",Toennis-Adson Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-583-1&c=ss&p=41
-OK,SS,SS-584-1,Toennis Dissecting Scissor —_,"18 cm (7"")",41,"18 cm (7"")","Toennis Dissecting Scissor / Straight, Very Delicate",,https://www.opixinst.com/catalog-viewer.html?q=SS-584-1&c=ss&p=41
+OK,SS,SS-584-1,Toennis Dissecting Scissor,"18 cm (7"")",41,"18 cm (7"")","Toennis Dissecting Scissor / Straight, Very Delicate",,https://www.opixinst.com/catalog-viewer.html?q=SS-584-1&c=ss&p=41
 OK,SS,SS-585-1,Toennis Dissecting Scissor,"18 cm (7"")",41,"18 cm (7"")","Toennis Dissecting Scissor / Straight, Delicate",,https://www.opixinst.com/catalog-viewer.html?q=SS-585-1&c=ss&p=41
 OK,SS,SS-586-1,"Dissecting Scissor, Tonsil and Nasal Scissor","18 cm (7"")",42,"18 cm (7"")","Forbici per dissezione, Forbici per tonsille, Forbici nasali / Toennis Dissecting Scissor / Curved, Delicate",,https://www.opixinst.com/catalog-viewer.html?q=SS-586-1&c=ss&p=42
 OK,SS,SS-587-1,Killian Bone Shear,"21 cm (8 ¼"")",42,"21 cm (81/4"")",Killian Bone Shear,,https://www.opixinst.com/catalog-viewer.html?q=SS-587-1&c=ss&p=42
@@ -8867,7 +8742,7 @@ OK,SS,SS-630-1,Iris Scissor,"9 cm (3 ½"")",50,"9 cm (31½/2"")",Iris Scissor / 
 OK,SS,SS-630-2,Iris Scissor,"10 cm (4"")",50,"10 cm (4"")",Iris Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-630-2&c=ss&p=50
 OK,SS,SS-631-1,Iris Scissor,"10 cm (4"")",51,"10 cm (4"")",Iris Scissor / With Extra Flat Blades,,https://www.opixinst.com/catalog-viewer.html?q=SS-631-1&c=ss&p=51
 OK,SS,SS-632-1,Bonn Iris Scissor,"8 cm (3 ¼"")",51,"g cm (3½/2"")",Bonn Iris Scissor / Straight,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=SS-632-1&c=ss&p=51
-OK,SS,SS-633-1,Bonn Iris Scissor Z,"8 cm (3 ¼"")",51,"g cm (31½/2"")",Bonn Iris Scissor / Curved,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=SS-633-1&c=ss&p=51
+OK,SS,SS-633-1,Bonn Iris Scissor,"8 cm (3 ¼"")",51,"g cm (31½/2"")",Bonn Iris Scissor / Curved,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=SS-633-1&c=ss&p=51
 OK,SS,SS-634-1,Iris Scissor,"11.5 cm (4 ½"")",51,"11.5 cm (41½/2"")",Iris Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-634-1&c=ss&p=51
 OK,SS,SS-635-1,Iris Scissor,"11.5 cm (4 ½"")",51,"11.5 cm (41/2"")",Iris Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-635-1&c=ss&p=51
 OK,SS,SS-636-1,Iris Scissor,"11.5 cm (4 ½"")",52,"11.5 cm (41½/2"")",Forbici per iridectomia / Iris Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-636-1&c=ss&p=52
@@ -8900,13 +8775,14 @@ OK,SS,SS-656-1,Dissecting Scissor,"11.5 cm (4 ½"")",56,"11.5 cm (41½/2"")",For
 OK,SS,SS-657-1,Enucleation Scissor,"11.5 cm (4 ½"")",56,"11.5 cm (41/2"")",Enucleation Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-657-1&c=ss&p=56
 OK,SS,SS-658-1,Chadwick Delicate Scissor,"11.5 cm (4 ½"")",56,"11.5 cm (41½/2"")",Chadwick Delicate Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-658-1&c=ss&p=56
 OK,SS,SS-659-1,Quimby Delicate Scissor,"13 cm (5"")",56,"13 cm (5"")",Quimby Delicate Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-659-1&c=ss&p=56
+OK,SS,SS-660-1,Nerve Dissecting Scissor,"11 cm (4 ½"")",56,"11 cm (4 1½/2"")",Nerve Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-660-1&c=ss&p=56
 OK,SS,SS-660-2,Nerve Dissecting Scissor,"13 cm (5"")",56,"13 cm (5"")",Nerve Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-660-2&c=ss&p=56
 OK,SS,SS-661-1,Nerve Dissecting Scissor,"11 cm (4 ¼"")",57,"11 cm (4½/2"")",Nerve Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-661-1&c=ss&p=57
 OK,SS,SS-661-2,Nerve Dissecting Scissor,"13 cm (5"")",57,"13 cm (5"")",Nerve Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-661-2&c=ss&p=57
 OK,SS,SS-662-1,Delicate Scissor,"11.5 cm (4 ½"")",57,"11.5 cm (41/2"")",Delicate Scissor / Angled,,https://www.opixinst.com/catalog-viewer.html?q=SS-662-1&c=ss&p=57
 OK,SS,SS-663-1,Salyer Ribbon Scissor,"9.5 cm (3 ¾"")",57,9.5 cm (3 3/4),"Salyer Ribbon Scissor / Straight, Flat Shanks",,https://www.opixinst.com/catalog-viewer.html?q=SS-663-1&c=ss&p=57
 OK,SS,SS-664-1,Ribbon Iris Scissor,"9.5 cm (3 ¾"")",57,"9.5 cm (3 3/4"")","Ribbon Iris Scissor / Straight, Sharp, Flat Shanks",,https://www.opixinst.com/catalog-viewer.html?q=SS-664-1&c=ss&p=57
-OK,SS,SS-665-1,Ribbon Iris Scissor Z,"9.5 cm (3 ¾"")",57,"9.5 cm (3 3/4"")","Ribbon Iris Scissor / Curved, Sharp, Flat Shanks",,https://www.opixinst.com/catalog-viewer.html?q=SS-665-1&c=ss&p=57
+OK,SS,SS-665-1,Ribbon Iris Scissor,"9.5 cm (3 ¾"")",57,"9.5 cm (3 3/4"")","Ribbon Iris Scissor / Curved, Sharp, Flat Shanks",,https://www.opixinst.com/catalog-viewer.html?q=SS-665-1&c=ss&p=57
 OK,SS,SS-666-1,Face-lift Scissor,"10 cm (4"")",58,"10 cm (4"")","Forbici per Face-lift / Ribbon Iris Scissor / Straight, Blunt, Flat Shanks",,https://www.opixinst.com/catalog-viewer.html?q=SS-666-1&c=ss&p=58
 OK,SS,SS-667-1,Ribbon Iris Scissor,"10 cm (4"")",58,"10 cm (4"")","Ribbon Iris Scissor / Curved, Blunt, Flat Shanks",,https://www.opixinst.com/catalog-viewer.html?q=SS-667-1&c=ss&p=58
 OK,SS,SS-668-1,Ribbon Strabismus Scissor,"10 cm (4"")",58,"10 cm (4"")","Ribbon Strabismus Scissor / Straight, Flat Shanks",,https://www.opixinst.com/catalog-viewer.html?q=SS-668-1&c=ss&p=58
@@ -8919,12 +8795,12 @@ OK,SS,SS-674-1,Gradle Ribbon Scissor,"10 cm (4"")",59,"10 cm (4"")","Gradle Ribb
 OK,SS,SS-675-1,Gradle Ribbon Scissor,"10 cm (4"")",59,"10 cm (4"")","Gradle Ribbon Scissor / Curved, Flat Shanks",,https://www.opixinst.com/catalog-viewer.html?q=SS-675-1&c=ss&p=59
 OK,SS,SS-676-1,"Face-lift Scissor, Enterotomy Scissor","11 cm (4 ¼"")",60,"11 cm (4 1½/2"")","Forbici per Face-lift, Forbici per enterotomia / Kaye Ribbon Face-Lift Scissor / Curved, Flat Shanks, Toothed",,https://www.opixinst.com/catalog-viewer.html?q=SS-676-1&c=ss&p=60
 OK,SS,SS-677-1,Enterotomy Scissor,"21.5 cm (8 ½"")",60,"21.5 cm (8 1½/"")",Enterotomy Scissor / One Probe Tip,,https://www.opixinst.com/catalog-viewer.html?q=SS-677-1&c=ss&p=60
-OK,SS,SS-678-1,Enterotomy Scissor C,"21.5 cm (8 ½"")",60,"21.5 cm (8 1/2"")",Enterotomy Scissor / One Probe Tip,,https://www.opixinst.com/catalog-viewer.html?q=SS-678-1&c=ss&p=60
+OK,SS,SS-678-1,Enterotomy Scissor,"21.5 cm (8 ½"")",60,"21.5 cm (8 1/2"")",Enterotomy Scissor / One Probe Tip,,https://www.opixinst.com/catalog-viewer.html?q=SS-678-1&c=ss&p=60
 OK,SS,SS-679-1,Rectal Scissor,"32.5 cm (12 ¾"")",60,"32.5 cm (123/4"")","Rectal Scissor / Curved, Heavy Pattern",,https://www.opixinst.com/catalog-viewer.html?q=SS-679-1&c=ss&p=60
 OK,SS,SS-680-1,Dissecting Scissor (For Cutting of Bowel),"28 cm (11"")",61,"28 cm (11"")",Dissecting Scissor (For Cutting of Bowel) / Angled 60,,https://www.opixinst.com/catalog-viewer.html?q=SS-680-1&c=ss&p=61
-OK,SS,SS-681-1,Lloyd-Davies (Golighers) Rectal So 7,"27 cm (10 ¾"")",61,27 cm (10 3/),Lloyd-Davies (Golighers) Rectal Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-681-1&c=ss&p=61
+OK,SS,SS-681-1,Lloyd-Davies (Golighers) Rectal Scissor,"27 cm (10 ¾"")",61,27 cm (10 3/),Lloyd-Davies (Golighers) Rectal Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-681-1&c=ss&p=61
 OK,SS,SS-682-1,Stelzner Rectal Scissor,"31 cm (12 ¼"")",61,"31 cm (121/4"")",Stelzner Rectal Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-682-1&c=ss&p=61
-OK,SS,SS-683-1,Stelzner Rectal Scissor an,"31 cm (12 ¼"")",61,"31 cm (121/4"")",Stelzner Rectal Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-683-1&c=ss&p=61
+OK,SS,SS-683-1,Stelzner Rectal Scissor,"31 cm (12 ¼"")",61,"31 cm (121/4"")",Stelzner Rectal Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-683-1&c=ss&p=61
 OK,SS,SS-684-1,Mueller Rectal Scissor,"32.5 cm (12 ¾"")",61,"32.5 cm (123/4"")",Mueller Rectal Scissor / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SS-684-1&c=ss&p=61
 OK,SS,SS-685-1,Stitch Scissor,"13 cm (5"")",62,"13 cm (5"")",Ciseaux à ligatures / Forbici per legature / Northbent Stitch Scissor,,https://www.opixinst.com/catalog-viewer.html?q=SS-685-1&c=ss&p=62
 OK,SS,SS-686-1,Spencer Stitch Scissor,"9 cm (3 ½"")",62,"9 cm (31/2"")",Spencer Stitch Scissor,,https://www.opixinst.com/catalog-viewer.html?q=SS-686-1&c=ss&p=62
@@ -8940,7 +8816,7 @@ OK,SS,SS-693-1,Beebee Crown Scissor,"10.5 cm (4 ¼"")",63,"10.5 cm (41/4"")",Bee
 OK,SS,SS-694-1,Beebee Crown Scissor,"12 cm (4 ¾"")",63,"12 cm (43/4"")","Beebee Crown Scissor / Straight, One Toothed Cutting Edge",,https://www.opixinst.com/catalog-viewer.html?q=SS-694-1&c=ss&p=63
 OK,SS,SS-695-1,"Crown Scissor, Nail Scissor","12 cm (4 ¾"")",64,"12 cm (43/4"")","Forbici per corone, Forbici per unghie / Beebee Crown Scissor / Curved, One Toothed Cutting Edge",,https://www.opixinst.com/catalog-viewer.html?q=SS-695-1&c=ss&p=64
 OK,SS,SS-696-1,Nail Scissor,"8 cm (3 ¼"")",64,"g cm (33½/2"")",Nail Scissor,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=SS-696-1&c=ss&p=64
-OK,SS,SS-697-1,Nail Scissor AZ,"9 cm (3 ½"")",64,"9 cm (31½/2"")",Nail Scissor / Delicate Pattern,,https://www.opixinst.com/catalog-viewer.html?q=SS-697-1&c=ss&p=64
+OK,SS,SS-697-1,Nail Scissor,"9 cm (3 ½"")",64,"9 cm (31½/2"")",Nail Scissor / Delicate Pattern,,https://www.opixinst.com/catalog-viewer.html?q=SS-697-1&c=ss&p=64
 OK,SS,SS-698-1,Nail Scissor,"8.5 cm (3 ¼"")",64,8.5 cm(31/4),Nail Scissor,,https://www.opixinst.com/catalog-viewer.html?q=SS-698-1&c=ss&p=64
 OK,SS,SS-699-1,Nail Scissor,"9 cm (3 ½"")",64,"9 cm (31/2"")",Nail Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-699-1&c=ss&p=64
 OK,SS,SS-700-1,Nail Scissor,"9 cm (3 ½"")",65,"9 cm (31/2"")",Nail Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-700-1&c=ss&p=65
@@ -8961,6 +8837,7 @@ OK,SS,SS-708-2,Lister Bandage Scissor,"18.5 cm (7 ¼"")",66,"18.5 cm (7 1/4"")",
 OK,SS,SS-708-3,Lister Bandage Scissor,"20 cm (7 ¾"")",66,"20 cm (8"")",Lister Bandage Scissor,,https://www.opixinst.com/catalog-viewer.html?q=SS-708-3&c=ss&p=66
 OK,SS,SS-709-1,Lister Bandage Scissor,"18.5 cm (7 ¼"")",67,"18.5cm (7½/4"")",Lister Bandage Scissor / One Large Ring,,https://www.opixinst.com/catalog-viewer.html?q=SS-709-1&c=ss&p=67
 OK,SS,SS-709-2,Lister Bandage Scissor,"21 cm (8 ¼"")",67,"21 cm (8 1/4"")",Lister Bandage Scissor / One Large Ring,,https://www.opixinst.com/catalog-viewer.html?q=SS-709-2&c=ss&p=67
+OK,SS,SS-710-1,Lister (Excentric) Bandage Scissor,"16 cm (6 ¼"")",67,16 cm (614'),Lister (Excentric) Bandage Scissor / One Toothed Cutting Edge,,https://www.opixinst.com/catalog-viewer.html?q=SS-710-1&c=ss&p=67
 OK,SS,SS-710-2,Lister (Excentric) Bandage Scissor,"19 cm (7 ½"")",67,"19 cm (7 1/2"")",Lister (Excentric) Bandage Scissor / One Toothed Cutting Edge,,https://www.opixinst.com/catalog-viewer.html?q=SS-710-2&c=ss&p=67
 OK,SS,SS-711-1,Bergmann Bandage Scissor,"23.5 cm (9 ¼"")",67,"23.5 cm (9 1/4"")",Bergmann Bandage Scissor / Heavy Pattern,,https://www.opixinst.com/catalog-viewer.html?q=SS-711-1&c=ss&p=67
 OK,SS,SS-712-1,Esmarch Bandage Scissor,"20 cm (7 ¾"")",67,"20 cm (8"")","Esmarch Bandage Scissor / Heavy Pattern, Short Blades",,https://www.opixinst.com/catalog-viewer.html?q=SS-712-1&c=ss&p=67
@@ -8981,8 +8858,9 @@ OK,SS,SS-714-1,Seutin Plaster of Paris Shear,"23 cm (9"")",68,"23 cm (9"")",Seut
 OK,SS,SS-715-1,Plaster of Paris Shear,"20 cm (7 ¾"")",68,"20 cm (8"")",Plaster of Paris Shear / One Toothed Cutting Edge,,https://www.opixinst.com/catalog-viewer.html?q=SS-715-1&c=ss&p=68
 OK,SS,SS-716-1,Bruns Plaster of Paris Shear,"24 cm (9 ½"")",68,"24 cm (g 1½/2"")",Bruns Plaster of Paris Shear / One Toothed Cutting Edge,,https://www.opixinst.com/catalog-viewer.html?q=SS-716-1&c=ss&p=68
 OK,SS,SS-717-1,Noyes Iris Scissor,"12.5 cm (5"")",69,"12.5 cm (5"")","Noyes Iris Scissor / Straight, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-717-1&c=ss&p=69
+OK,SS,SS-718-1,Noyes Iris Scissor,"12.5 cm (5"")",69,"12.5 cm (5"")","Noyes Iris Scissor / Curved, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-718-1&c=ss&p=69
 OK,SS,SS-719-1,Noyes Iris Scissor,"12.5 cm (5"")",69,"12.5 cm (5"")","Noyes Iris Scissor / Straight, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-719-1&c=ss&p=69
-OK,SS,SS-720-1,Noyes Iris Scissor Sa,"12.5 cm (5"")",69,"12.5 cm (5"")","Noyes Iris Scissor / Curved, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-720-1&c=ss&p=69
+OK,SS,SS-720-1,Noyes Iris Scissor,"12.5 cm (5"")",69,"12.5 cm (5"")","Noyes Iris Scissor / Curved, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-720-1&c=ss&p=69
 OK,SS,SS-721-1,Noyes Iris Scissor,"12.5 cm (5"")",69,"12.5 cm (5"")","Noyes Iris Scissor / Straight, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-721-1&c=ss&p=69
 OK,SS,SS-722-1,Micro Scissor,"12.5 cm (5"")",70,"12.5cm (5"")","Micro-Forbici / Noyes Iris Scissor / Curved, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-722-1&c=ss&p=70
 OK,SS,SS-723-1,Micro Scissor,"12 cm (4 ¾"")",70,12 cm (43/4),Micro Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-723-1&c=ss&p=70
@@ -8998,10 +8876,12 @@ OK,SS,SS-730-1,Castroviejo Corneoscleral Scissor,"10.5 cm (4 ¼"")",71,"10.5 cm 
 OK,SS,SS-731-1,Micro Scissor,"11 cm (4 ¼"")",72,"11 cm (41½/2"")","Micro Forbici / Castroviejo Corneoscleral Scissor / Right, Medium Blades",,https://www.opixinst.com/catalog-viewer.html?q=SS-731-1&c=ss&p=72
 OK,SS,SS-732-1,Castroviejo Corneoscleral Scissor,"11 cm (4 ¼"")",72,11 cm (41/2),"Castroviejo Corneoscleral Scissor / Left, Medium Blades",,https://www.opixinst.com/catalog-viewer.html?q=SS-732-1&c=ss&p=72
 OK,SS,SS-733-1,Troutman-Castroviejo Corneoscleral Scissor,"10.5 cm (4 ¼"")",72,"10.5 cm (4"")","Troutman-Castroviejo CorneoscleralScissor / Right, Small Blades, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SS-733-1&c=ss&p=72
+OK,SS,SS-734-1,Troutman-Castroviejo Corneoscleral Scissor,"10.5 cm (4"")",72,"10.5 cm (4"")","Troutman-Castroviejo Corneoscleral Scissor / Left, Small Blades, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SS-734-1&c=ss&p=72
 OK,SS,SS-735-1,Troutman-Castroviejo Corneoscleral Scissor,"11 cm (4 ¼"")",72,"11 cm (4 1½/2"")","Troutman-Castroviejo Corneoscleral Scissor / Right, Medium Blades, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SS-735-1&c=ss&p=72
 OK,SS,SS-736-1,Troutman-Castroviejo Corneoscleral Scissor,"11 cm (4 ¼"")",73,11 cm (4½/2),"Troutman-Castroviejo Corneoscleral Scissor / Left, Medium Blades, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SS-736-1&c=ss&p=73
 OK,SS,SS-737-1,Troutman-Katzin Corneal Transplant Scissor,"10.5 cm (4 ¼"")",73,"10.5 cm (4"")","Troutman-Katzin Corneal Transplant Scissor / Right, Strongly Curved, Small Blades With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SS-737-1&c=ss&p=73
 OK,SS,SS-738-1,Troutman-Katzin Corneal Transplant Scissor,"10.5 cm (4 ¼"")",73,"10.5 cm (4"")","Troutman-Katzin Corneal Transplant Scissor / Left, Strongly Curved, Small Blades With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SS-738-1&c=ss&p=73
+OK,SS,SS-739-1,Katzin Corneal Transplant Scissor,"11 cm (4 ½"")",73,"11 cm (41½/"")","Katzin Corneal Transplant Scissor / Right, Strongly Curved, Medium Blades With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SS-739-1&c=ss&p=73
 OK,SS,SS-740-1,Katzin Corneal Transplant Scissor,"10.5 cm (4 ¼"")",73,"10.5cm (41½/2"")","Katzin Corneal Transplant Scissor / Left, Strongly Curved, Medium Blades With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SS-740-1&c=ss&p=73
 OK,SS,SS-741-1,Micro Scissor,"11 cm (4 ¼"")",74,"11 cm (41/2"")","Micro-Forbici / Castroviejo Universal Cornel Scissor / Curved, Blunt Tips, Small Blades",,https://www.opixinst.com/catalog-viewer.html?q=SS-741-1&c=ss&p=74
 OK,SS,SS-742-1,Castroviejo Universal Cornel Scissor,"11 cm (4 ¼"")",74,"11 cm (4½/"")","Castroviejo Universal Cornel Scissor / Curved, Blunt Tips, Medium Blades",,https://www.opixinst.com/catalog-viewer.html?q=SS-742-1&c=ss&p=74
@@ -9045,12 +8925,12 @@ OK,SS,SS-779-1,Vannas Micro Scissor,"12 cm (4 ¾"")",81,"12 cm (43/4"")",Vannas 
 OK,SS,SS-780-1,Biemer Vein Scissor,"13 cm (5"")",81,"13 cm (5"")",Biemer Vein Scissor,,https://www.opixinst.com/catalog-viewer.html?q=SS-780-1&c=ss&p=81
 OK,SS,SS-781-1,Micro Scissor,"16 cm (6 ¼"")",82,"16 cm (61/"")",Micro Forbici / Micro Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-781-1&c=ss&p=82
 OK,SS,SS-782-1,Micro Scissor,"16 cm (6 ¼"")",82,"16 cm (61/4"")",Micro Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-782-1&c=ss&p=82
-OK,SS,SS-783-1,Vannas Micro Scissor SS,"16 cm (6 ¼"")",82,"16 cm (61/4"")",Vannas Micro Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-783-1&c=ss&p=82
-OK,SS,SS-784-1,Vannas Micro Scissor A,"16 cm (6 ¼"")",82,"16 cm (61/4"")",Vannas Micro Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-784-1&c=ss&p=82
+OK,SS,SS-783-1,Vannas Micro Scissor,"16 cm (6 ¼"")",82,"16 cm (61/4"")",Vannas Micro Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-783-1&c=ss&p=82
+OK,SS,SS-784-1,Vannas Micro Scissor,"16 cm (6 ¼"")",82,"16 cm (61/4"")",Vannas Micro Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-784-1&c=ss&p=82
 OK,SS,SS-785-1,Millesi Micro Scissor,"16 cm (6 ¼"")",82,16 cm (61/4),Millesi Micro Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-785-1&c=ss&p=82
 OK,SS,SS-786-1,Millesi Micro Scissor,"16 cm (6 ¼"")",83,16 cm (61/),Millesi Micro Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-786-1&c=ss&p=83
 OK,SS,SS-787-1,Yasargil Micro Scissor,"18.5 cm (7 ¼"")",83,"18.5 cm (714"")",Yasargil Micro Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-787-1&c=ss&p=83
-OK,SS,SS-788-1,Jacobson Micro Scissor Aa,"18.5 cm (7 ¼"")",83,18.5 cm (71½4),Jacobson Micro Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-788-1&c=ss&p=83
+OK,SS,SS-788-1,Jacobson Micro Scissor,"18.5 cm (7 ¼"")",83,18.5 cm (71½4),Jacobson Micro Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-788-1&c=ss&p=83
 OK,SS,SS-789-1,Adventitia Micro Scissor,"14.5 cm (5 ¾"")",83,"14.5 cm (53/4"")","Adventitia Micro Scissor / Straight, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-789-1&c=ss&p=83
 OK,SS,SS-790-1,Micro Scissor,"14.5 cm (5 ¾"")",83,"14.5cm(53/4"")","Micro Scissor / Curved, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-790-1&c=ss&p=83
 OK,SS,SS-791-1,Micro Scissor,"14.5 cm (5 ¾"")",84,"14.5cm (53/4"")","Micro-Forbici / Micro Dissecting Scissor / Curved, Blunt/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-791-1&c=ss&p=84
@@ -9146,7 +9026,7 @@ OK,SS,SS-828-1,Micro Scissor,"23 cm (9"")",96,"23 cm (9"")","Micro Scissor / Cur
 OK,SS,SS-829-1,Micro Scissor,"18.5 cm (7 ¼"")",96,"18.5cm (71/4"")","Micro Scissor / Straight, Bayonet Shaped",,https://www.opixinst.com/catalog-viewer.html?q=SS-829-1&c=ss&p=96
 OK,SS,SS-830-1,Micro Scissor,"18.5 cm (7 ¼"")",96,"18.5cm (7 1/4"")","Micro Scissor / Curved, Bayonet Shaped",,https://www.opixinst.com/catalog-viewer.html?q=SS-830-1&c=ss&p=96
 OK,SS,SS-831-1,Micro Scissor,"19 cm (7 ½"")",97,"19 cm (71/2"")","Micro Scissor / Straight, Bayonet Shaped",,https://www.opixinst.com/catalog-viewer.html?q=SS-831-1&c=ss&p=97
-OK,SS,SS-832-1,Micro Scissor _,"18.5 cm (7 ¼"")",97,"18.5cm(714"")","Micro Scissor / Curved Upwards, Bayonet Shaped",,https://www.opixinst.com/catalog-viewer.html?q=SS-832-1&c=ss&p=97
+OK,SS,SS-832-1,Micro Scissor,"18.5 cm (7 ¼"")",97,"18.5cm(714"")","Micro Scissor / Curved Upwards, Bayonet Shaped",,https://www.opixinst.com/catalog-viewer.html?q=SS-832-1&c=ss&p=97
 OK,SS,SS-833-1,Micro Scissor,"18.5 cm (7 ¼"")",97,"18.5cm (71½/4"")","Micro Scissor / Curved Downwards, Bayonet Shaped",,https://www.opixinst.com/catalog-viewer.html?q=SS-833-1&c=ss&p=97
 OK,SS,SS-834-1,Jaboma Micro Scissor,"18 cm (7"")",97,"18 cm (7""), 12 mm","Jaboma Micro Scissor / Angled, One Blade Probe Tip",,https://www.opixinst.com/catalog-viewer.html?q=SS-834-1&c=ss&p=97
 OK,SS,SS-835-1,Jaboma Micro Scissor,"18 cm (7"")",97,"18 cm (7""), 12mm","Jaboma Micro Scissor / Angled, One Blade Probe Tip",,https://www.opixinst.com/catalog-viewer.html?q=SS-835-1&c=ss&p=97
@@ -9158,10 +9038,10 @@ OK,SS,SS-840-1C,TC Operating Scissor,"14.5 cm (5 ¾"")",100,14.5cm (53/4),"TC Op
 OK,SS,SS-841-1,TC Operating Scissor,"14.5 cm (5 ¾"")",100,"14.5 cm (53/4"")","TC Operating Scissor / Curved, Sharp/Blunt",,https://www.opixinst.com/catalog-viewer.html?q=SS-841-1&c=ss&p=100
 OK,SS,SS-842-1C,TC Operating Scissor,"14.5 cm (5 ¾"")",101,"14.5cm(53/4"")","TC Operating Scissor / Curved, Sharp/Blunt / SuperCut",,https://www.opixinst.com/catalog-viewer.html?q=SS-842-1C&c=ss&p=101
 OK,SS,SS-843-1,TC Operating Scissor,"14.5 cm (5 ¾"")",101,14.5 cm (534),"TC Operating Scissor / Straight, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-843-1&c=ss&p=101
-OK,SS,SS-844-1,TC Operating Scissor ZA,"14.5 cm (5 ¾"")",101,"14.5 cm (53/4"")","TC Operating Scissor / Curved, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-844-1&c=ss&p=101
-OK,SS,SS-845-1,TC Mayo Dissecting Scissor __,"14.5 cm (5 ¾"")",101,"14.5 cm (53/4"")",TC Mayo Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-845-1&c=ss&p=101
-OK,SS,SS-845-2,TC Mayo Dissecting Scissor __,"17 cm (6 ¾"")",101,"17 cm (6 3/4"")",TC Mayo Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-845-2&c=ss&p=101
-OK,SS,SS-845-3,TC Mayo Dissecting Scissor __,"23 cm (9"")",101,"23 cm (9"")",TC Mayo Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-845-3&c=ss&p=101
+OK,SS,SS-844-1,TC Operating Scissor,"14.5 cm (5 ¾"")",101,"14.5 cm (53/4"")","TC Operating Scissor / Curved, Sharp/Sharp",,https://www.opixinst.com/catalog-viewer.html?q=SS-844-1&c=ss&p=101
+OK,SS,SS-845-1,TC Mayo Dissecting Scissor,"14.5 cm (5 ¾"")",101,"14.5 cm (53/4"")",TC Mayo Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-845-1&c=ss&p=101
+OK,SS,SS-845-2,TC Mayo Dissecting Scissor,"17 cm (6 ¾"")",101,"17 cm (6 3/4"")",TC Mayo Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-845-2&c=ss&p=101
+OK,SS,SS-845-3,TC Mayo Dissecting Scissor,"23 cm (9"")",101,"23 cm (9"")",TC Mayo Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-845-3&c=ss&p=101
 OK,SS,SS-846-1,TC Mayo Dissecting Scissor,"14.5 cm (5 ¾"")",101,"14.5cm (53/4"")",TC Mayo Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-846-1&c=ss&p=101
 OK,SS,SS-846-2,TC Mayo Dissecting Scissor,"17 cm (6 ¾"")",101,"17 cm (6 3/4"")",TC Mayo Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-846-2&c=ss&p=101
 OK,SS,SS-846-3,TC Mayo Dissecting Scissor,"23 cm (9"")",101,"23 cm (9"")",TC Mayo Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-846-3&c=ss&p=101
@@ -9180,10 +9060,10 @@ OK,SS,SS-851-2,TC Mayo-Stille Dissecting Scissor,"17 cm (6 ¾"")",103,"17 cm (6 
 OK,SS,SS-852-1C,TC Mayo-Stille Dissecting Scissor,"15 cm (6"")",103,"15 cm (6"")",TC Mayo-Stille Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-852-1C&c=ss&p=103
 OK,SS,SS-852-2C,TC Mayo-Stille Dissecting Scissor,"17 cm (6 ¾"")",103,"17 cm (6 3/4"")",TC Mayo-Stille Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-852-2C&c=ss&p=103
 OK,SS,SS-853-1,TC Metzenbaum Dissecting Scissor,"11.5 cm (4 ½"")",103,"11.5 cm (41½/2"")",TC Metzenbaum Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-853-1&c=ss&p=103
-OK,SS,SS-854-1,TC Metzenbaum Dissecting Scissor ZZ,"11.5 cm (4 ½"")",103,"11.5 cm (4½2"")",TC Metzenbaum Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-854-1&c=ss&p=103
+OK,SS,SS-854-1,TC Metzenbaum Dissecting Scissor,"11.5 cm (4 ½"")",103,"11.5 cm (4½2"")",TC Metzenbaum Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-854-1&c=ss&p=103
 OK,SS,SS-855-1,TC Metzenbaum Dissecting Scissor,"14.5 cm (5 ¾"")",103,"14.5 cm (53/4"")",TC Metzenbaum Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-855-1&c=ss&p=103
 OK,SS,SS-856-1C,Dissecting Scissor,"14.5 cm (5 ¾"")",104,"14.5cm (53/4"")",TC Metzenbaum Dissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-856-1C&c=ss&p=104
-OK,SS,SS-857-1,TC Metzenbaum Dissecting Scissor ZZ,"14.5 cm (5 ¾"")",104,"14.5cm(53/4"")",TC Metzenbaum Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-857-1&c=ss&p=104
+OK,SS,SS-857-1,TC Metzenbaum Dissecting Scissor,"14.5 cm (5 ¾"")",104,"14.5cm(53/4"")",TC Metzenbaum Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-857-1&c=ss&p=104
 OK,SS,SS-858-1C,TC Metzenbaum Dissecting Scissor,"14.5 cm (5 ¾"")",104,"14.5cm (53/4"")",TC Metzenbaum Dissecting Scissor / Curved / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-858-1C&c=ss&p=104
 OK,SS,SS-859-1,TC Metzenbaum Dissecting Scissor,"18 cm (7"")",104,"18 cm (7"")",TC Metzenbaum Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-859-1&c=ss&p=104
 OK,SS,SS-859-2,TC Metzenbaum Dissecting Scissor,"20.5 cm (8"")",104,"20.5 cm (8"")",TC Metzenbaum Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-859-2&c=ss&p=104
@@ -9207,7 +9087,7 @@ OK,SS,SS-863-1,TC Metzenbaum -Thorek Dissecting Scissor,"20 cm (7 ¾"")",105,"20
 OK,SS,SS-863-2,TC Metzenbaum -Thorek Dissecting Scissor,"23 cm (9"")",105,"23 cm (9"")",TC Metzenbaum -Thorek Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-863-2&c=ss&p=105
 OK,SS,SS-863-3,TC Metzenbaum -Thorek Dissecting Scissor,"28 cm (11"")",105,"28 cm (11"")",TC Metzenbaum -Thorek Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-863-3&c=ss&p=105
 OK,SS,SS-864-1,"Operating Scissor, Dissecting Scissor","14.5 cm (5 ¾"")",106,"14.5cm (53/4"")","Forbici per chirurgia, Forbici per dissezione / TC Joseph Dissecting Scissor / Straight",,https://www.opixinst.com/catalog-viewer.html?q=SS-864-1&c=ss&p=106
-OK,SS,SS-865-1,TC Joseph Dissecting Scissor ZA,"14.5 cm (5 ¾"")",106,"14.5cm(53/4"")",TC Joseph Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-865-1&c=ss&p=106
+OK,SS,SS-865-1,TC Joseph Dissecting Scissor,"14.5 cm (5 ¾"")",106,"14.5cm(53/4"")",TC Joseph Dissecting Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-865-1&c=ss&p=106
 OK,SS,SS-866-1,UltraCut™ TC Lexer Dissecting Scissor,"16 cm (6 ¼"")",106,"16 cm (61/4"")",UltraCut™ TC Lexer Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-866-1&c=ss&p=106
 OK,SS,SS-866-2,UltraCut™ TC Lexer Dissecting Scissor,"21 cm (8 ¼"")",106,"21 cm (81/4"")",UltraCut™ TC Lexer Dissecting Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-866-2&c=ss&p=106
 OK,SS,SS-867-1C,TC LexerDissecting Scissor,"16 cm (6 ¼"")",106,"16 cm (61/4"")",TC LexerDissecting Scissor / Straight / SuperCut,,https://www.opixinst.com/catalog-viewer.html?q=SS-867-1C&c=ss&p=106
@@ -9258,8 +9138,8 @@ OK,SS,SS-892-1,TC Stella-S Face-Lift Scissor,"18 cm (7"")",111,"18 cm (7"")","TC
 OK,SS,SS-893-1,"Face-lift Scissor, Hysterectomy Scissor","18 cm (7"")",112,"18 cm (7"")","Forbici per Face lift, Forbici per isterectomia / TC Gorney Face-Lift Scissor / One Toothed Cutting Edge",,https://www.opixinst.com/catalog-viewer.html?q=SS-893-1&c=ss&p=112
 OK,SS,SS-894-1,TC Freeman-Kaye Face-Lift Scissor,"18 cm (7"")",112,"18 cm (7"")",TC Freeman-Kaye Face-Lift Scissor / One Toothed Cutting Edge,,https://www.opixinst.com/catalog-viewer.html?q=SS-894-1&c=ss&p=112
 OK,SS,SS-895-1,TC Freeman Face-Lift Scissor S,"23 cm (9"")",112,"23 cm (9"")",TC Freeman Face-Lift Scissor / One Toothed Cutting Edge,,https://www.opixinst.com/catalog-viewer.html?q=SS-895-1&c=ss&p=112
-OK,SS,SS-896-1,TC Wertheim Gynecological Scissor Za,"23 cm (9"")",112,"23 cm (9"")",TC Wertheim Gynecological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-896-1&c=ss&p=112
-OK,SS,SS-896-2,TC Wertheim Gynecological Scissor Za,"35 cm (13 ¾"")",112,"35 cm (14"")",TC Wertheim Gynecological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-896-2&c=ss&p=112
+OK,SS,SS-896-1,TC Wertheim Gynecological Scissor,"23 cm (9"")",112,"23 cm (9"")",TC Wertheim Gynecological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-896-1&c=ss&p=112
+OK,SS,SS-896-2,TC Wertheim Gynecological Scissor,"35 cm (13 ¾"")",112,"35 cm (14"")",TC Wertheim Gynecological Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-896-2&c=ss&p=112
 OK,SS,SS-897-1,TC Sims Uterine Scissor,"23 cm (9"")",112,"23 cm (9"")",TC Sims Uterine Scissor / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SS-897-1&c=ss&p=112
 OK,SS,SS-898-1,TC Sims Uterine Scissor,"23 cm (9"")",113,"23 cm (9"")",TC Sims Uterine Scissor / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-898-1&c=ss&p=113
 OK,SS,SS-899-1,TC Parametrium Hysterectomy Scissor,"22.5 cm (8 ¾"")",113,"22.5 cm (8 3/4"")",TC Parametrium Hysterectomy Scissor / Strongly Curved,,https://www.opixinst.com/catalog-viewer.html?q=SS-899-1&c=ss&p=113
@@ -9466,6 +9346,85 @@ OK,SU,SU-06-270,Micro Ryder Needle Holder,"15 cm (6"")",28,"15 cm (6"")",Micro R
 OK,SU,SU-06-271,Micro Ryder Needle Holder,"18 cm (7"")",28,"18 cm (7"")",Micro Ryder Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-271&c=su&p=28
 OK,SU,SU-06-272,Micro Ryder Needle Holder,"22 cm (8 ¾"")",28,"22 cm (8 3/4"")",Micro Ryder Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-272&c=su&p=28
 OK,SU,SU-06-273,Micro Ryder Needle Holder,"25 cm (9 ¾"")",28,"25 cm (9 3/4"")",Micro Ryder Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-273&c=su&p=28
+OK,SU,SU-06-274,Barraquer Micro Needle Holder,"13 cm (5"")",29,"13 cm (5"")","Barraquer Micro Needle Holder / Curved, Smooth Jaws, Round Handle",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-274&c=su&p=29
+OK,SU,SU-06-275,TC Barraquer Micro Needle Holder,"13 cm (5"")",29,"13 cm (5"")","TC Barraquer Micro Needle Holder / Curved, Smooth Jaws, Round Handle, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-275&c=su&p=29
+OK,SU,SU-06-276,TC Castroviejo Micro Needle Holder,"14.5 cm (5 ¾"")",29,"14.5cm (53/4"")","TC Castrovieja Micro Needle Holder / Straight, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-276&c=su&p=29
+OK,SU,SU-06-277,TC Castroviejo Micro Needle Holder,"14.5 cm (5 ¾"")",29,"14.5cm (53/4"")","TC Castrovieja Micro Needle Holder / Curved, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-277&c=su&p=29
+OK,SU,SU-06-278,TC Castroviejo Micro Needle Holder,"14.5 cm (5 ¾"")",29,"14.5cm (53/4"")","TC Castrovieja Micro Needle Holder / Straight, Smooth Jaws, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-278&c=su&p=29
+OK,SU,SU-06-279,TC Castroviejo Micro Needle Holder,"14.5 cm (5 ¾"")",30,14.5 cm (5 3/4*),"Micro Portaghi / TC Castrovieja Micro Needle Holder / Curved, Smooth Jaws, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-279&c=su&p=30
+OK,SU,SU-06-280,TC Micro Needle Holder,"18 cm (7"")",30,"18 cm (7"")","TC Micro Needle Holder / Straight, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-280&c=su&p=30
+OK,SU,SU-06-281,TC Micro Needle Holder,"18 cm (7"")",30,"18 cm (7"")","TC Micro Needle Holder / Curved, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-281&c=su&p=30
+OK,SU,SU-06-282,TC Jacobson Micro Needle Holder,"21.5 cm (8 ½"")",30,"21.5 cm (8 1/2"")","TC Jacobson Micro Needle Holder / Straight, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-282&c=su&p=30
+OK,SU,SU-06-283,TC Jacobson Micro Needle Holder,"21.5 cm (8 ½"")",30,"21.5 cm (8 1½/2"")","TC Jacobson Micro Needle Holder / Curved, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-283&c=su&p=30
+OK,SU,SU-06-284,TC Castroviejo Micro Needle Holder,"12.5 cm (5"")",31,"12.5 cm (5"")","TC Castroviejo Micro Needle Holder Smooth / Jaws, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-284&c=su&p=31
+OK,SU,SU-06-285,TC Hepp-Scheidel Micro Needle Holder,"18.5 cm (7 ¼"")",31,"18.5cm(71/4"")","TC Hepp-Scheidel Micro Needle Holder / Smooth Jaws, With Lock",,https://www.opixinst.com/catalog-viewer.html?q=SU-06-285&c=su&p=31
+OK,SU,SU-06-286,TC Diethrich Micro Needle Holder,"16 cm (6 ¼"")",31,"16 cm (61½/4"")",TC Diethrich Micro Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-286&c=su&p=31
+OK,SU,SU-06-287,TC Diethrich Micro Needle Holder,"18 cm (7"")",31,"18 cm (7"")",TC Diethrich Micro Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-287&c=su&p=31
+OK,SU,SU-06-288,TC Diethrich Micro Needle Holder,"20 cm (8"")",31,"20 cm (8"")",TC Diethrich Micro Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-288&c=su&p=31
+OK,SU,SU-06-289,TC Diethrich Micro Needle Holder,"23 cm (9"")",31,"23 cm (9"")",TC Diethrich Micro Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-289&c=su&p=31
+OK,SU,SU-06-290,TC Diethrich Micro Needle Holder,"26 cm (10 ½"")",31,"26 cm (10 1½/2"")",TC Diethrich Micro Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-290&c=su&p=31
+OK,SU,SU-06-291,TC Arruga Needle Holder,"16 cm (6 ¼"")",31,"16 cm (61/"")",TCAruga eede Hol  / Straight,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-291&c=su&p=31
+OK,SU,SU-06-292,TC Arruga Needle Holder,"16 cm (6 ¼"")",31,"16 cm (61/"")",TC Arruga Needle Holder / Curved,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-292&c=su&p=31
+OK,SU,SU-06-293,TC Webster Needle Holder,"13 cm (5"")",32,"13 cm (5"")",Portaghi / TC Webster Needle Holder / With Automatic Release Ratchet,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-293&c=su&p=32
+OK,SU,SU-06-294,TC Crile-Wood Needle Holder,"15 cm (6"")",32,"15 cm (6"")",TC Crile-Wood Needle Holder / With Automatic Release Ratchet,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-294&c=su&p=32
+OK,SU,SU-06-295,TC Webster Needle Holder,"13 cm (5"")",32,"13 cm (5"")",TC Webster Needle Holder / Smooth Jaws,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-295&c=su&p=32
+OK,SU,SU-06-296,TC Kilner Needle Holder,"13 cm (5"")",32,"13 cm (5"")",TC Kilner Needle Holder / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-296&c=su&p=32
+OK,SU,SU-06-297,TC Derf Needle Holder,"12 cm (4 ¾"")",32,"12 cm (43/4"")",TC Derf Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-297&c=su&p=32
+OK,SU,SU-06-298,TC Hegar-Baumgartner Needle Holder,"13 cm (5"")",33,"13 cm (5"")",TC Hegar-Baumgartner Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-298&c=su&p=33
+OK,SU,SU-06-299,TC Hegar-Baumgartner Needle Holder,"14.5 cm (5 ¾"")",33,"14.5 cm (5"")",TC Hegar-Baumgartner Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-299&c=su&p=33
+OK,SU,SU-06-300,TC Halsy Needle Holder,"13 cm (5"")",33,"13 cm (5"")",TC Halsy Needle Holder S / mooth Jaw,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-300&c=su&p=33
+OK,SU,SU-06-301,TC Halsy Needle Holder,"13 cm (5"")",33,"13 cm (5"")",TC Halsy Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-301&c=su&p=33
+OK,SU,SU-06-302,TC Webster Needle Holder,"12 cm (4 ¾"")",33,"12 cm (43/4"")",TC Webster Needle Holder / Smooth Jaw,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-302&c=su&p=33
+OK,SU,SU-06-303,TC Converse Needle Holder,"12.5 cm (5"")",33,"12.5 cm (5"")",TC Converse Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-303&c=su&p=33
+OK,SU,SU-06-304,TC Crile-Wood Needle Holder,"15 cm (6"")",34,"15 cm (6"")",Porte-aiguilles / Portaghi / TC Crile-Wood Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-304&c=su&p=34
+OK,SU,SU-06-305,TC Crile-Wood Needle Holder,"18 cm (7"")",34,"18 cm (7"")",Porte-aiguilles / Portaghi / TC Crile-Wood Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-305&c=su&p=34
+OK,SU,SU-06-306,TC Crile-Wood Needle Holder,"20 cm (8"")",34,"20 cm (8"")",Porte-aiguilles / Portaghi / TC Crile-Wood Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-306&c=su&p=34
+OK,SU,SU-06-307,TC Sarot Needle Holder,"18 cm (7"")",34,"18 cm (7"")",TC Sarot Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-307&c=su&p=34
+OK,SU,SU-06-308,TC Sarot Needle Holder,"20 cm (8"")",34,"20 cm (8"")",TC Sarot Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-308&c=su&p=34
+OK,SU,SU-06-309,TC Sarot Needle Holder,"26 cm (10 ¼"")",34,"26 cm (10 1/4"")",TC Sarot Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-309&c=su&p=34
+OK,SU,SU-06-310,TC Mayo-Hegar Needle Holder,"14.5 cm (5 ¾"")",34,"14.5 cm (5 3/4"")",TC Mayo-Hegar Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-310&c=su&p=34
+OK,SU,SU-06-311,TC Mayo-Hegar Needle Holder,"16 cm (6 ¼"")",34,"16 cm (614"")",TC Mayo-Hegar Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-311&c=su&p=34
+OK,SU,SU-06-312,TC Mayo-Hegar Needle Holder,"18 cm (7"")",34,"18 cm(7"") TRUMENTS",TC Mayo-Hegar Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-312&c=su&p=34
+OK,SU,SU-06-313,TC Mayo-Hegar Needle Holder,"20 cm (8"")",34,"20 cm (8"") TRUMENTS",TC Mayo-Hegar Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-313&c=su&p=34
+OK,SU,SU-06-314,TC Mayo-Hegar Needle Holder,"24 cm (9 ½"")",34,"24 cm (9 1/2"")",TC Mayo-Hegar Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-314&c=su&p=34
+OK,SU,SU-06-315,TC Mayo-Hegar Needle Holder,"26 cm (10 ¼"")",34,"26 cm (10 1/4"")",TC Mayo-Hegar Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-315&c=su&p=34
+OK,SU,SU-06-316,TC Mayo-Hegar Needle Holder,"30 cm (11 ¾"")",34,"30 cm (1134"")",TC Mayo-Hegar Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-316&c=su&p=34
+OK,SU,SU-06-317,TC Hegar Needle Holder,"20 cm (8"")",34,"20 cm (8"")",TC Hegar Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-317&c=su&p=34
+OK,SU,SU-06-318,TC Hegar Needle Holder,"23.5 cm (9 ¼"")",34,"23.5 cm (g1/4"")",TC Hegar Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-318&c=su&p=34
+OK,SU,SU-06-319,TC Heaney Needle Holder,"20 cm (8"")",35,"20 cm (8"")",TC Heaney Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-319&c=su&p=35
+OK,SU,SU-06-320,TC Heaney Needle Holder,"24 cm (9 ½"")",35,"24 cm (g½/2"")",TC Heaney Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-320&c=su&p=35
+OK,SU,SU-06-321,TC Heaney Needle Holder,"26 cm (10 ¼"")",35,"26 cm (10 1/4"")",TC Heaney Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-321&c=su&p=35
+OK,SU,SU-06-322,TC Needle Holder,"20.5 cm (8"")",35,"20.5 cm (8"")",TC Needle Holder / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-322&c=su&p=35
+OK,SU,SU-06-323,TC Needle Holder,"24 cm (9 ½"")",35,"24 cm (g1½/2"")",TC Needle Holder / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-323&c=su&p=35
+OK,SU,SU-06-324,TC Needle Holder,"26.5 cm (10 ½"")",35,"26.5 cm (101/2"")",TC Needle Holder / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-324&c=su&p=35
+OK,SU,SU-06-325,TC Needle Holder,"29 cm (11 ½"")",35,"29 cm (11 1½/2"")",TC Needle Holder / S Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-325&c=su&p=35
+OK,SU,SU-06-326,TC Stratte Needle Holder,"21 cm (8 ¼"")",35,"21 cm (8 1/4"")",TC Stratte Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-326&c=su&p=35
+OK,SU,SU-06-327,TC Stratte Needle Holder,"23 cm (9"")",35,23 cm(9') ENTS,TC Stratte Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-327&c=su&p=35
+OK,SU,SU-06-328,TC Masson Needle Holder,"26.5 cm (10 ½"")",35,"26.5 cm (10 ½/2"")",TC Masson Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-328&c=su&p=35
+OK,SU,SU-06-329,TC Wangensteen Needle Holder,"27 cm (10 ¾"")",36,"27 cm (10 3/4"")",Porte aiguilles / Portaghi / TC Wangensteen Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-329&c=su&p=36
+OK,SU,SU-06-330,TC Needle Holder,"27 cm (10 ¾"")",36,"27 cm (10 3/4"")",TC Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-330&c=su&p=36
+OK,SU,SU-06-331,TC Finochietto Needle Holder,"26.5 cm (10 ½"")",36,"26.5cm (10 1½/2"")",TC Finochietoo Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-331&c=su&p=36
+OK,SU,SU-06-332,TC Naunton-Morgan Needle Holder,"26 cm (10 ¼"")",36,"26 cm (10 1/4"")",TC Naunton-Morgan Needle Holder / Compound Action,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-332&c=su&p=36
+OK,SU,SU-06-333,TC DeBakey Needle Holder,"18 cm (7"")",36,"18 cm (7"")",TC DeBackey Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-333&c=su&p=36
+OK,SU,SU-06-334,TC DeBakey Needle Holder,"20 cm (8"")",36,"20 cm (8"")",TC DeBackey Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-334&c=su&p=36
+OK,SU,SU-06-335,TC DeBakey Needle Holder,"23 cm (9"")",36,"23 cm (9"")",TC DeBackey Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-335&c=su&p=36
+OK,SU,SU-06-336,TC DeBakey Needle Holder,"26 cm (10 ¼"")",36,"26 cm (10 1/4"")",TC DeBackey Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-336&c=su&p=36
+OK,SU,SU-06-337,TC DeBakey Needle Holder,"31 cm (12 ¼"")",36,"31 cm (12 1½/4"")",TC DeBackey Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-337&c=su&p=36
+OK,SU,SU-06-338,TC Ryder Needle Holder,"12.5 cm (5"")",37,"12.5cm (5"")",TC Ryder Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-338&c=su&p=37
+OK,SU,SU-06-339,TC Ryder Needle Holder,"15 cm (6"")",37,"15 cm (6"")",TC Ryder Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-339&c=su&p=37
+OK,SU,SU-06-340,TC Ryder Needle Holder,"18 cm (7"")",37,"18 cm (7"")",TC Ryder Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-340&c=su&p=37
+OK,SU,SU-06-341,TC Ryder Needle Holder,"20 cm (8"")",37,"20 cm (8"")",TC Ryder Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-341&c=su&p=37
+OK,SU,SU-06-342,TC Ryder Needle Holder,"23 cm (9"")",37,"23 cm (9"")",TC Ryder Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-342&c=su&p=37
+OK,SU,SU-06-343,TC Ryder Needle Holder,"26 cm (10 ¼"")",37,"26 cm (10 1/4"")",TC Ryder Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-343&c=su&p=37
+OK,SU,SU-06-344,TC Ryder-Vascular Needle Holder,"12.5 cm (5"")",37,"12.5 cm (5"")",TC Ryder-Vascular Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-344&c=su&p=37
+OK,SU,SU-06-345,TC Ryder-Vascular Needle Holder,"15 cm (6"")",37,"15 cm (6"")",TC Ryder-Vascular Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-345&c=su&p=37
+OK,SU,SU-06-346,TC Ryder-Vascular Needle Holder,"18 cm (7"")",37,"18 cm (7"")",TC Ryder-Vascular Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-346&c=su&p=37
+OK,SU,SU-06-347,TC Ryder-Vascular Needle Holder,"20 cm (8"")",37,"20 cm (8"")",TC Ryder-Vascular Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-347&c=su&p=37
+OK,SU,SU-06-348,TC Ryder-Vascular Needle Holder,"22.5 cm (8 ¾"")",37,"22.5 cm (8 3/4"")",TC Ryder-Vascular Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-348&c=su&p=37
+OK,SU,SU-06-349,TC Ryder-Vascular Needle Holder,"26 cm (10 ¼"")",37,"26 cm (10 1½/4"")",TC Ryder-Vascular Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-349&c=su&p=37
+OK,SU,SU-06-350,TC Martin Needle Holder,"15 cm (6"")",37,"15 cm (6"")",TC Martin Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-350&c=su&p=37
+OK,SU,SU-06-351,TC Martin Needle Holder,"17 cm (6 ¾"")",37,"17 cm (6 3/4"")",TC Martin Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-351&c=su&p=37
+OK,SU,SU-06-352,TC Martin Needle Holder,"20 cm (8"")",37,"20 cm (8"")",TC Martin Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-352&c=su&p=37
 OK,SU,SU-06-353,TC Hegar-Vascular Needle Holder,"14 cm (5 ½"")",38,"14 cm (51½/2"")",Porte-aiguilles / Portaghi / TC Hegar-Vascular Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-353&c=su&p=38
 OK,SU,SU-06-354,TC Hegar-Vascular Needle Holder,"18.5 cm (7 ¼"")",38,"18.5cm (71/4"")",Porte-aiguilles / Portaghi / TC Hegar-Vascular Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-354&c=su&p=38
 OK,SU,SU-06-355,TC Hegar-Vascular Needle Holder,"20.5 cm (8"")",38,"20.5 cm (8"")",Porte-aiguilles / Portaghi / TC Hegar-Vascular Needle Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-355&c=su&p=38
@@ -9585,6 +9544,17 @@ OK,SU,SU-06-468,Michel Clip Applying Forcep,"12 cm (4 ¾"")",56,"12 cm (43/"")",
 OK,SU,SU-06-469,Hegenbarth Clip Applying Forcep,"12 cm (4 ¾"")",56,"12 cm (43/4"")",Hegenbarth Clip Applying Forcep,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-469&c=su&p=56
 OK,SU,SU-06-470,Wachenfeldt Clip Applying Forcep,"12 cm (4 ¾"")",56,"12 cm (43/4"")",Wachenfeldt Clip Applying Forcep,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-470&c=su&p=56
 OK,SU,SU-06-471,Michel Clip Applying Forcep,"12.5 cm (5"")",56,"12.5 cm (5"")",Michel Clip Applying Forcep / For Applying and Removal of Clips,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-471&c=su&p=56
+OK,SU,SU-06-472,Michel Clip Applying Forcep,"13 cm (5"")",57,"13 cm (5"")",Michel Clip Applying Forcep / Long Jaws For Applying and Removal of Clips,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-472&c=su&p=57
+OK,SU,SU-06-473,Collin Clip Applying Forcep,"13 cm (5"")",57,"13 cm (5"")",Collin Clip Applying Forcep / With Screw Lock,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-473&c=su&p=57
+OK,SU,SU-06-474,Richter Clip Applying Forcep,"13.5 cm (5 ¼"")",57,"13.5cm (53/4"")",Richter Clip Applying Forcep / With Screw Lock,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-474&c=su&p=57
+OK,SU,SU-06-475,Michel Suture Clips,7.5 x 1.75 mm,57,7.5× 1.75 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-475&c=su&p=57
+OK,SU,SU-06-476,Michel Suture Clips,11 x 2.0 mm,57,11 x 2.0mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-476&c=su&p=57
+OK,SU,SU-06-477,Michel Suture Clips,12 x 3.0 mm,57,12 × 3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-477&c=su&p=57
+OK,SU,SU-06-478,Michel Suture Clips,14 x 3.0 mm,57,14×3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-478&c=su&p=57
+OK,SU,SU-06-479,Michel Suture Clips,16 x 3.0 mm,57,16 x 3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-479&c=su&p=57
+OK,SU,SU-06-480,Michel Suture Clips,18 x 3.0 mm,57,18 × 3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-480&c=su&p=57
+OK,SU,SU-06-481,Michel Suture Clips,20 x 3.0 mm,57,20 × 3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-481&c=su&p=57
+OK,SU,SU-06-482,Michel Suture Clips,22 x 3.0 mm,57,22× 3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-482&c=su&p=57
 OK,TN,TL-21-100,Fischer Tonsil / Dissector,"21.5 cm (8 ½"")",2,"21.5 cm (8 1/"")",Dissecteur / Rétracteur pour amygdalas / Disettori / Retrattori per tonsille / Fischer Tonsil / Dissector,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-100&c=tn&p=2
 OK,TN,TL-21-101,Abraham Tonsil Knife,"19 cm (7 ½"")",2,"19 cm (71/2"")",Abraham Tonsil Knife,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-101&c=tn&p=2
 OK,TN,TL-21-102,Carpenter Tonsil Knife,"25 cm (9 ¾""), 4.4 mm, 8.8 mm",2,"25 cm (934""),4.4 mm, 8.8 mm",Carpenter Tonsil Knife,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-102&c=tn&p=2
@@ -9632,6 +9602,7 @@ OK,TN,TL-21-143,Huber Universal Handle,N/A,8,N/A,Huber Universa Hande TRUMEN,,ht
 OK,TN,TL-21-144,Bruenings Interchangeable Tube,"20 cm (8"")",9,"20 cm (8"")",Bruenings Interchangeable Tube / Straight,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-144&c=tn&p=9
 OK,TN,TL-21-145,Bruenings Interchangeable Tube,"30 cm (12"")",9,"30 cm (12"")",Bruenings Interchangeable Tube / Straight,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-145&c=tn&p=9
 OK,TN,TL-21-146,Bruenings Interchangeable Tube,"40 cm (16"")",9,"40 cm (16"")",Bruenings Interchangeable Tube / Straight,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-146&c=tn&p=9
+OK,TN,TL-21-147,Bruenings Interchangeable Tube,"20 cm (8"")",9,"20 cm (8"")",Bruenings Interchangeable Tube / Curved,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-147&c=tn&p=9
 OK,TN,TL-21-148,Fraenkel Broncho-Esophagoscopy Forcep Tip,N/A,9,N/A,Fraenkel Broncho-Esophagoscopy Forcep Tip,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-148&c=tn&p=9
 OK,TN,TL-21-149,Seiffert Broncho-Esophagoscopy Forcep Tip,N/A,9,N/A,Seiffert Broncho-Esophagoscopy Forcep Tip,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-149&c=tn&p=9
 OK,TN,TL-21-150,Fraenkel Broncho-Esophagoscopy Forcep Tip,N/A,9,N/A,Fraenkel Broncho-Esophagoscopy Forcep Tip,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-150&c=tn&p=9
@@ -9718,6 +9689,23 @@ OK,TN,TL-21-230,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 24 mm, Fig. 7",15,"13.5 c
 OK,TN,TL-21-231,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 26 mm, Fig. 8",15,"13.5 cm (5 ½4""),  26 mm, Fig. 8",Plane Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-231&c=tn&p=15
 OK,TN,TL-21-232,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 28 mm, Fig. 9",15,"13.5 cm (5 1½/4""),  28 mm, Fig. 9",Plane Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-232&c=tn&p=15
 OK,TN,TL-21-233,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 30 mm, Fig. 10",15,"13.5 cm (5 1½/4""), Ø 30 mm, Fig. 10",Plane Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-233&c=tn&p=15
+OK,TN,TL-21-234,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 8 mm, Fig. 00",16,"13.5 cm (5½4""),  8 mm, Fig.00",Strumenti Tonsille / Laryngeal Mirror / Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-234&c=tn&p=16
+OK,TN,TL-21-235,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 10 mm, Fig. 0",16,"13.5 cm (514""), 0 10 mm, Fig. 0",Strumenti Tonsille / Laryngeal Mirror / Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-235&c=tn&p=16
+OK,TN,TL-21-236,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 12 mm, Fig. 1",16,"13.5 cm (5½4""), 0 12 mm, Fig. 1",Strumenti Tonsille / Laryngeal Mirror / Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-236&c=tn&p=16
+OK,TN,TL-21-237,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 14 mm, Fig. 2",16,"13.5 cm (51/4""), Ø 14 mm, Fig. 2",Strumenti Tonsille / Laryngeal Mirror / Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-237&c=tn&p=16
+OK,TN,TL-21-238,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 16 mm, Fig. 3",16,"13.5 cm (51/4""), Ø 16 mm, Fig. 3",Strumenti Tonsille / Laryngeal Mirror / Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-238&c=tn&p=16
+OK,TN,TL-21-239,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 18 mm, Fig. 4",16,"13.5 cm (534""), 018 mm, Fig. 4",Strumenti Tonsille / Laryngeal Mirror / Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-239&c=tn&p=16
+OK,TN,TL-21-240,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 20 mm, Fig. 5",16,"13.5 cm (5½4""),  20 mm, Fig. 5",Strumenti Tonsille / Laryngeal Mirror / Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-240&c=tn&p=16
+OK,TN,TL-21-241,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 22 mm, Fig. 6",16,"13.5 cm(5 1/4""), 0 22 mm, Fig. 6",Laryngeal Mirror / Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-241&c=tn&p=16
+OK,TN,TL-21-242,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 24 mm, Fig. 7",16,"13.5 cm(5½/4""), Ø 24 mm, Fig. 7",Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-242&c=tn&p=16
+OK,TN,TL-21-243,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 26 mm, Fig. 8",16,"13.5 cm (5½4""), 0 26 mm, Fig. 8",Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-243&c=tn&p=16
+OK,TN,TL-21-244,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 28 mm, Fig. 9",16,"13.5 cm (514""), 0 28 mm, Fig. 9",Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-244&c=tn&p=16
+OK,TN,TL-21-245,Laryngeal Mirror,"13.5 cm (5 ¼""), Ø 30 mm, Fig. 10",16,"13.5 cm (5½4""), Ø 30 mm, Fig.10",Rhodium Plated Without Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-245&c=tn&p=16
+OK,TN,TL-21-246,Michel Laryngeal Mirror,"25 cm (9 ¾""), Ø 12 mm, Fig. 1",16,"25 cm (g 3/""), Ø 12 mm, Fig.1","Michel Laryngeal Mirror / With Handle, Moveable Mirror",,https://www.opixinst.com/catalog-viewer.html?q=TL-21-246&c=tn&p=16
+OK,TN,TL-21-247,Michel Laryngeal Mirror,"25 cm (9 ¾""), Ø 14 mm, Fig. 2",16,"25 cm (934""), Ø 14 mm, Fig. 2","Michel Laryngeal Mirror / With Handle, Moveable Mirror",,https://www.opixinst.com/catalog-viewer.html?q=TL-21-247&c=tn&p=16
+OK,TN,TL-21-248,Michel Laryngeal Mirror,"25 cm (9 ¾""), Ø 16 mm, Fig. 3",16,"25 cm (9 3/4""), Ø 16 mm, Fig. 3","Michel Laryngeal Mirror / With Handle, Moveable Mirror",,https://www.opixinst.com/catalog-viewer.html?q=TL-21-248&c=tn&p=16
+OK,TN,TL-21-249,Michel Laryngeal Mirror,"25 cm (9 ¾""), Ø 18 mm, Fig. 4",16,"25 cm (g3/4""), 0 18 mm, Fig.4 MENTS","Michel Laryngeal Mirror / With Handle, Moveable Mirror",,https://www.opixinst.com/catalog-viewer.html?q=TL-21-249&c=tn&p=16
+OK,TN,TL-21-250,Laryngeal Mirror Handle,"10 cm (4"")",16,"10 cm (4"")",Laryngeal Mirror Handle,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-250&c=tn&p=16
 OK,TR,TM-12-100,Uckermann Tracheotomy Trocar,"11.5 cm (4 ½""), Ø 7.5 mm",2,"11.5 cm (4½/2""), Ø7.5 mm","Dilatateurs pour la trachéotomie, Ecarteurs pour trachéotomie / Dilatatori per tracheotomia, Uncini tracheali / Uckermann Tracheotomy Trocar",,https://www.opixinst.com/catalog-viewer.html?q=TM-12-100&c=tr&p=2
 OK,TR,TM-12-101,Uckermann Tracheotomy Trocar,"11.5 cm (4 ½""), Ø 9.0 mm",2,"11.5 cm (41½/2""),Ø g.0 mm","Dilatateurs pour la trachéotomie, Ecarteurs pour trachéotomie / Dilatatori per tracheotomia, Uncini tracheali / Uckermann Tracheotomy Trocar",,https://www.opixinst.com/catalog-viewer.html?q=TM-12-101&c=tr&p=2
 OK,TR,TM-12-102,Laborde Tracheal Dilator,"14 cm (5 ½"")",2,"14cm(51/2"")",Laborde Tracheal Dilator,,https://www.opixinst.com/catalog-viewer.html?q=TM-12-102&c=tr&p=2
@@ -9756,6 +9744,12 @@ OK,TR,TM-12-135,Chevalier-Jackson Tracheal Tube,"75 mm, Ø 10.0, Fig. 6",5,"75 m
 OK,TR,TM-12-136,Chevalier-Jackson Tracheal Tube,"80 mm, Ø 11.0, Fig. 7",5,"8o mm, Ø 11.0, Fig. 7",Chevalier-Jackson Tracheal Tube,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=TM-12-136&c=tr&p=5
 OK,TR,TM-12-137,Chevalier-Jackson Tracheal Tube,"85 mm, Ø 12.0, Fig. 8",5,"85 mm, 0 12.0, Fig. 8",Chevalier-Jackson Tracheal Tube,,https://www.opixinst.com/catalog-viewer.html?q=TM-12-137&c=tr&p=5
 OK,TR,TM-12-138,Chevalier-Jackson Tracheal Tube,"90 mm, Ø 13.0, Fig. 9",5,"9o mm,  13.0, Fig. 9",Chevalier-Jackson Tracheal Tube,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=TM-12-138&c=tr&p=5
+OK,TR,TM-12-139,Speaking Tube,"65 mm, Fig. 4",6,"65 mm, Fig. 4",Canules tracheales / Cannule tracheali / Speaking Tube,,https://www.opixinst.com/catalog-viewer.html?q=TM-12-139&c=tr&p=6
+OK,TR,TM-12-140,Speaking Tube,"70 mm, Fig. 5",6,"70 mm, Fig. 5",Canules tracheales / Cannule tracheali / Speaking Tube,,https://www.opixinst.com/catalog-viewer.html?q=TM-12-140&c=tr&p=6
+OK,TR,TM-12-141,Speaking Tube,"75 mm, Fig. 6",6,"75 mm, Fig. 6",Canules tracheales / Cannule tracheali / Speaking Tube,,https://www.opixinst.com/catalog-viewer.html?q=TM-12-141&c=tr&p=6
+OK,TR,TM-12-142,Speaking Tube,"80 mm, Fig. 7",6,"8o mm, Fig. 7",Canules tracheales / Cannule tracheali / Speaking Tube,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=TM-12-142&c=tr&p=6
+OK,TR,TM-12-143,Speaking Tube,"85 mm, Fig. 8",6,"85 mm, Fig. 8",Canules tracheales / Cannule tracheali / Speaking Tube,,https://www.opixinst.com/catalog-viewer.html?q=TM-12-143&c=tr&p=6
+OK,TR,TM-12-144,Speaking Tube,"90 mm, Fig. 9",6,"go mm, Fig.9",Cannule tracheali / Speaking Tube,size not readable on the PDF row,https://www.opixinst.com/catalog-viewer.html?q=TM-12-144&c=tr&p=6
 OK,TS,TR-05-100,Universal Trocar,"14.5 cm (5 ¾"")",2,"14.5 cm (5 3/4"")","Trequarti / Universal Trocar / With 4 Trocar Tips Diameter 1.7 mm, 3.0 mm, 4.5 mm and 6.0 mm",,https://www.opixinst.com/catalog-viewer.html?q=TR-05-100&c=ts&p=2
 OK,TS,TR-05-101,Nelson Trocar,"20 cm (8""), Ø 7.5 mm - 22 Charr.",2,"20 cm (8""), 0 7.5 mm - 22 Charr.","Nelson Trocar / 22 FG, Fig. 1",,https://www.opixinst.com/catalog-viewer.html?q=TR-05-101&c=ts&p=2
 OK,TS,TR-05-102,Nelson Trocar,"20 cm (8""), Ø 9.5 mm - 28 Charr.",2,"20 cm (8""),0 9.5 mm - 28 Charr.","Nelson Trocar / 22 FG, Fig. 1",,https://www.opixinst.com/catalog-viewer.html?q=TR-05-102&c=ts&p=2
@@ -9943,3 +9937,9 @@ OK,TS,TR-05-283,Redon Guide Needle,"19.5 cm (7 ¾""), 4.0 mm - 12 Charr.",18,"19
 OK,TS,TR-05-284,Redon Guide Needle,"19.5 cm (7 ¾""), 4.7 mm - 14 Charr.",18,"19.5 cm (7 34""), 4.7 mm - 14 Charr.",Redon Guide Needle / Lancet Tip,,https://www.opixinst.com/catalog-viewer.html?q=TR-05-284&c=ts&p=18
 OK,TS,TR-05-285,Redon Guide Needle,"19.5 cm (7 ¾""), 5.3 mm - 16 Charr.",18,"19.5 cm (7 3/""), 5.3 mm - 16 Charr.",Redon Guide Needle / Lancet Tip,,https://www.opixinst.com/catalog-viewer.html?q=TR-05-285&c=ts&p=18
 OK,TS,TR-05-286,Redon Guide Needle,"19.5 cm (7 ¾""), 6 mm - 18 Charr.",18,"19.5 cm (7 34""), 6 mm - 18 Charr.",Redon Guide Needle / Lancet Tip,,https://www.opixinst.com/catalog-viewer.html?q=TR-05-286&c=ts&p=18
+OK,TS,TR-05-287,Redon Guide Needle,"19.5 cm (7 ¾""), 2.7 mm - 8 Charr.",19,"19.5 cm (73½4""), 2.7 mm - 8 Charr.",Redon Guide Needle / Lancet Tip,,https://www.opixinst.com/catalog-viewer.html?q=TR-05-287&c=ts&p=19
+OK,TS,TR-05-288,Redon Guide Needle,"19.5 cm (7 ¾""), 3.3 mm - 10 Charr.",19,"19.5 cm (7 34""), 3.3 mm - 10 Charr.",Redon Guide Needle / Lancet Tip,,https://www.opixinst.com/catalog-viewer.html?q=TR-05-288&c=ts&p=19
+OK,TS,TR-05-289,Redon Guide Needle,"19.5 cm (7 ¾""), 4.0 mm - 12 Charr.",19,"19.5 cm (7 3/4""), 4.0 mm - 12 Charr.",Redon Guide Needle / Lancet Tip,,https://www.opixinst.com/catalog-viewer.html?q=TR-05-289&c=ts&p=19
+OK,TS,TR-05-290,Redon Guide Needle,"19.5 cm (7 ¾""), 4.7 mm - 14 Charr.",19,"19.5 cm (7 3/4""), 4.7 mm - 14 Charr.",Redon Guide Needle / Lancet Tip,,https://www.opixinst.com/catalog-viewer.html?q=TR-05-290&c=ts&p=19
+OK,TS,TR-05-291,Redon Guide Needle,"19.5 cm (7 ¾""), 5.3 mm - 16 Charr.",19,"19.5 cm (7 34""), 5.3 mm - 16 Charr.",Redon Guide Needle / Lancet Tip,,https://www.opixinst.com/catalog-viewer.html?q=TR-05-291&c=ts&p=19
+OK,TS,TR-05-292,Redon Guide Needle,"19.5 cm (7 ¾""), 6 mm - 18 Charr.",19,"19.5 cm (7 3%4""), 6 mm - 18 Charr.",Redon Guide Needle / Lancet Tip,,https://www.opixinst.com/catalog-viewer.html?q=TR-05-292&c=ts&p=19

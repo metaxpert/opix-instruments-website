@@ -4,6 +4,9 @@
    The site itself still ships with zero runtime dependencies. */
 const { JSDOM } = require('jsdom');
 const fs = require('fs'), path = require('path');
+// Expected counts come from the product data, so adding products never breaks the test.
+const DN_COUNT = require(path.join(__dirname, '..', '..', 'data', 'products.js')).SECTIONS.DN.items.length;
+const DN_FMT = DN_COUNT.toLocaleString('en-US');
 const SITE = path.resolve(__dirname, '..', '..');
 let pass = 0, fail = 0;
 const ok = (c, m) => { c ? (pass++, console.log('  \x1b[32m✓\x1b[0m ' + m)) : (fail++, console.log('  \x1b[31m✗\x1b[0m ' + m)); };
@@ -59,15 +62,15 @@ async function load(file) {
     ok(d.getElementById('cartCount').textContent === '0', 'remove clears the cart');
   }
 
-  console.log('\n\x1b[1mcatalog-dn.html — largest section (1,559 products)\x1b[0m');
+  console.log(`\n\x1b[1mcatalog-dn.html — largest section (${DN_FMT} products)\x1b[0m`);
   {
     const w = await load('catalog-dn.html'), d = w.document;
-    ok(d.querySelectorAll('.card').length === 1559, `all 1,559 dental products in HTML (${d.querySelectorAll('.card').length})`);
+    ok(d.querySelectorAll('.card').length === DN_COUNT, `all ${DN_FMT} dental products in HTML (${d.querySelectorAll('.card').length})`);
     const q = d.getElementById('q');
     q.value = 'extracting forceps'; q.dispatchEvent(new w.Event('input'));
     await wait(220);
     const n = [...d.querySelectorAll('.card')].filter(c => !c.hidden).length;
-    ok(n > 0, `search over 1,559 cards returns ${n} hits`);
+    ok(n > 0, `search over ${DN_FMT} cards returns ${n} hits`);
   }
 
   console.log('\n\x1b[1mcategory page — standalone landing page\x1b[0m');
