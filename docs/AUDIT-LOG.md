@@ -40,6 +40,12 @@ Nothing here has been changed._
   (0740, 0741, 0744… are there). Probably dropped by the original import;
   needs the orthopedic source catalogue to add them.
 
+- **SIMAP membership certificate shown as "valid to 31 March 2026"** on
+  the About page — that date has passed. Upload the renewed certificate
+  (or say if the membership lapsed and the card should go).
+- **"more than 40 countries"** (home page). Not verifiable from anything
+  on the server; confirm the figure is current.
+
 ## Rounds
 
 ### 1 · Product data quality — done
@@ -98,3 +104,16 @@ sub-heading ("Single Ended", "Standard Blade") or a misread title
 - ~960 photos are long thin strips (e.g. 612 x 35 px). These are long
   instruments at the PDF's own resolution — expected, not broken; higher
   resolution needs original photography.
+
+### 4 · Facts and copy consistency — done
+Extracted every count, certificate number, date, phone and email from all
+344 pages and compared them with the data and the certificates.
+- Consistent everywhere: the three phone numbers, info@opixinst.com, ISO
+  SCS/QMS/2025050101 (to 9 May 2027), CE SCS/EC/2025050102, SCCI A-82677,
+  "28 sections", "29 PDF catalogues · 1,245 pages", per-section counts.
+- Fixed: stale "9,720 instruments" on the 404 page, the Distributors page
+  and the Specialties page; Specialties section/specialty totals were frozen
+  at an old build (e.g. Dental 1,559 → 1,566). The build now rewrites these
+  counts from the product data every time (liveCounts in tools/seo/build.js,
+  distributors.js), so they cannot drift again. tools/gen_specialties.js is a
+  legacy generator (Windows path, would overwrite the SEO head) — not used.

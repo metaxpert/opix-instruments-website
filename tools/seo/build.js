@@ -245,6 +245,21 @@ function buildIndex() {
   write('index.html', fixSectionCardImages(h));
 }
 
+/* Counts written into hand-made page bodies (the Specialties grid, the 404
+   copy) go stale whenever products are added. Rewrite them from the data on
+   every build: each section card's "N items", each specialty block's total
+   (the sum of its cards), and any "9,720 instruments"-style site total. */
+function liveCounts(h) {
+  h = h.replace(/(<a class="seccard" href="\/?catalog-([a-z]{2})\.html">[\s\S]*?<p>)[\d,]+( items — )/g,
+    (m, a, code, b) => SECTIONS[code.toUpperCase()] ? a + SECTIONS[code.toUpperCase()].items.length + b : m);
+  h = h.replace(/(<div class="eyebrow">Specialty · )[\d,]+( items<\/div>)([\s\S]*?)(?=<\/section>)/g, (m, a, b, body) => {
+    let n = 0;
+    for (const c of body.matchAll(/href="\/?catalog-([a-z]{2})\.html"/g)) n += (SECTIONS[c[1].toUpperCase()] || { items: [] }).items.length;
+    return a + n + b + body;
+  });
+  return h.replace(/~?\b\d{1,2},\d{3}(?= (?:instruments|products|catalogue references))/g, TOTAL.toLocaleString('en-US'));
+}
+
 function buildStatic(file, active, spec, mutate, mainAppend) {
   const head = L.buildHead(spec);
   let h = rewrite(file, { head, active, extraScripts: spec.extraScripts || '', mainAppend });
@@ -438,7 +453,7 @@ function main() {
       L.collectionSchema({ url: '/specialties.html', name: 'Surgical instruments by specialty',
         desc: 'The Opix range grouped by surgical specialty and procedure.', count: SPECIALTIES.length }),
     ],
-  });
+  }, liveCounts);
 
   buildStatic('downloads.html', 'downloads', {
     url: '/downloads.html',
@@ -572,7 +587,7 @@ function main() {
     url: '/404.html', noindex: true,
     title: 'Page not found — Opix Instruments',
     desc: 'That page does not exist. Browse the surgical instrument catalog or request a quotation.',
-  });
+  }, liveCounts);
 
   // Catalogue + category pages (this is what pre-renders the 9,720 products).
   const written = catalog.generate();

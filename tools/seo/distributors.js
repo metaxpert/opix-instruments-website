@@ -17,6 +17,8 @@
 const L = require('./lib.js');
 const { header, footer, sectionIndex, overlays } = require('./chrome.js');
 const { SITE } = require('./config.js');
+const { SECTIONS: SECTIONS_ALL } = require('./chrome.js');
+const TOTAL_ITEMS = Object.values(SECTIONS_ALL).reduce((a, s) => a + s.items.length, 0);
 
 /* Per-market regulatory route. `holder` is what the distributor or importer
    must hold; `maker` is what the manufacturer must have in place for that
@@ -137,7 +139,7 @@ ${header('distributors')}
 <main class="railpad" id="main"><div class="wrap">
   <section class="sect">
     <div class="seo-intro">
-      <p>We appoint distributors market by market for the full Opix range — 9,720 catalogue references across 28 sections, 20 ready-kitted procedure sets, and private-label programmes under your own brand. You hold the customer relationship and the market registration; we manufacture, document and ship.</p>
+      <p>We appoint distributors market by market for the full Opix range — ${TOTAL_ITEMS.toLocaleString('en-US')} catalogue references across ${Object.keys(SECTIONS_ALL).length} sections, 20 ready-kitted procedure sets, and private-label programmes under your own brand. You hold the customer relationship and the market registration; we manufacture, document and ship.</p>
       <p>This page sets out what a distributorship covers, what your market requires of each side before the first order can move, and how an appointment actually proceeds. Territory, term, targets and exclusivity are negotiated per market — nothing here presumes them.</p>
     </div>
 
