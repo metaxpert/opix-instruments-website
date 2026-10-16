@@ -140,7 +140,7 @@ The one interactive step is `cloudflared tunnel login`. On a headless box it
 prints a URL — open it on any device with a browser (laptop, phone), authorize
 `opixinst.com`, and the server picks up `~/.cloudflared/cert.pem` by itself.
 
-### 3C.2 What's in `deploy/`
+### 3C.2 What's in `tools/deploy/`
 | File | Purpose |
 |---|---|
 | `nginx.conf` | Static origin: gzip, cache policy, 404, blocks `/tools/` and `.py`/`.md` |
@@ -252,7 +252,7 @@ Do **not** use plain FTP for 9,724 small files — it takes hours.
 Hostinger runs LiteSpeed, which reads `.htaccess`. This repo does not ship one —
 the live deployment is the Cloudflare Tunnel in §3C, whose nginx origin ignores
 `.htaccess` entirely. If you move back to Hostinger, port the gzip/cache/404
-rules from `deploy/nginx.conf` into an `.htaccess` at the web root.
+rules from `tools/deploy/nginx.conf` into an `.htaccess` at the web root.
 
 ### 3H.5 SSL and the www/non-www decision
 - hPanel → **Security → SSL** → install the free Let's Encrypt certificate for

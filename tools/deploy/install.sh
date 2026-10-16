@@ -27,8 +27,8 @@ CF="$HOME/.local/bin/cloudflared"
 # 2. nginx prefix — logs, pid and temp paths must be user-writable
 mkdir -p "$PREFIX"/{logs,tmp/client,tmp/proxy,tmp/fastcgi,tmp/uwsgi,tmp/scgi}
 sed "s|/home/metaxperts/opix/opix-instruments-website|$SITE|g" \
-  "$SITE/deploy/nginx.conf" > "$PREFIX/nginx.conf"
-cp "$SITE/deploy/security-headers.conf" "$PREFIX/security-headers.conf"
+  "$SITE/tools/deploy/nginx.conf" > "$PREFIX/nginx.conf"
+cp "$SITE/tools/deploy/security-headers.conf" "$PREFIX/security-headers.conf"
 nginx -p "$PREFIX" -c "$PREFIX/nginx.conf" -t
 
 # 3. Cloudflare auth — prints a URL to open on ANY device with a browser
@@ -63,8 +63,8 @@ $CF tunnel route dns --overwrite-dns "$TUNNEL" www.opixinst.com
 
 # 6. systemd user units + lingering so they survive reboot with nobody logged in
 mkdir -p "$UNITS"
-sed "s|/home/metaxperts|$HOME|g" "$SITE/deploy/opix-nginx.service"  > "$UNITS/opix-nginx.service"
-sed "s|/home/metaxperts|$HOME|g" "$SITE/deploy/opix-tunnel.service" > "$UNITS/opix-tunnel.service"
+sed "s|/home/metaxperts|$HOME|g" "$SITE/tools/deploy/opix-nginx.service"  > "$UNITS/opix-nginx.service"
+sed "s|/home/metaxperts|$HOME|g" "$SITE/tools/deploy/opix-tunnel.service" > "$UNITS/opix-tunnel.service"
 systemctl --user daemon-reload
 systemctl --user enable --now opix-nginx.service opix-tunnel.service
 loginctl enable-linger "$USER"

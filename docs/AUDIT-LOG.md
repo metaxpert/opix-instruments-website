@@ -1,5 +1,36 @@
 # Website audit log
 
+## Summary (16 Oct 2026)
+Ten-area audit of www.opixinst.com and the UDI pages, every round rebuilt,
+checked and pushed. Final re-check: site checks all pass (audit, verify,
+idempotency, render, 57/57 tests); **0 accessibility violations** (axe, 16
+page types × desktop/mobile); no layout defects at 360–1440 px; 14/14
+end-to-end tests; all 401 sitemap URLs live at 200.
+
+**Fixed**
+- Product data: 351 products corrected (misspellings, surgeon names,
+  spacing, units); 25 dental trays given real names; 3 malformed catalogue
+  numbers; typos, degree signs and wrong inch sizes.
+- PDFs: foreign branding removed (Suture pp.55–57 → Opix header/footer;
+  Dental p.107 surgicalsources.com footer → Opix).
+- Photos: 31 more products photographed from the PDFs (9,880 / 9,936).
+- Copy: stale "9,720" totals and frozen Specialties counts — now computed
+  from the data on every build.
+- Accessibility: contrast to WCAG AA, accessible names, landmarks,
+  keyboard-scrollable tables, underlined in-text links on UDI pages.
+- Performance: UDI pages 279 KB → 54 KB image (mobile LCP 3.1 s → <1 s);
+  catalogue viewer layout shift removed.
+- Security: /deploy/ (server config) and the internal audit CSV were
+  publicly downloadable — moved out of the web root; UDI login/admin/API
+  now frame-protected with a CSP.
+- SEO: UDI titles within 60 characters.
+
+**Your action**
+- Purge in Cloudflare: /docs/catalog-pdf-verification.csv (cached copy of a
+  file that is no longer public), plus the Suture and Dental PDFs.
+- Decide the items below.
+
+
 Full audit of www.opixinst.com, started 16 Oct 2026. Ten areas, one per
 round; each round is fixed, rebuilt, checked (audit / verify / idempotency /
 render / test) and pushed before the next starts.
@@ -33,7 +64,7 @@ Nothing here has been changed._
 - **82 products not printed in any PDF** (outside Orthopedic) — e.g. the 26
   "T" variants AF-0150T..0184T, DN trays 786-1125S/1131A/1132S/1137S/1139S,
   786-1531..1533, 786-1605..1654. They may come from another source list;
-  full list in docs/catalog-pdf-verification.csv (status NOT IN PDF).
+  full list in data/catalog-pdf-verification.csv (status NOT IN PDF).
 
 - **Orthopedic 11-01-0742, 11-01-0743A, 11-01-0743B.** Photos exist for
   these catalogue numbers but the products are missing from the website
@@ -192,3 +223,20 @@ End-to-end tests (live site, headless Chromium), all passing:
   counter and the drawer; "View in catalogue" buttons on every located
   product (1,546 on the dental page).
 No defects found.
+
+### 10 · Security — done
+- Probed for exposed files: .git, .github, source data, tools, Markdown docs,
+  UDI data and path-traversal attempts (/udi/../data/users.json etc.) — all
+  404; UDI API 401 without a session; bad login 401 (rate-limited).
+- Fixed: **/deploy/ was public** (nginx.conf with the country-block setup,
+  install.sh, systemd units) → moved to tools/deploy/ (tools/ is 404 at the
+  origin); README, DEPLOY.md, OPERATIONS.md, SEO.md and install.sh updated.
+- Fixed: **/docs/catalog-pdf-verification.csv was public** (internal audit
+  data) → moved to data/ (404). Cloudflare still holds a cached copy for up
+  to 4 h — purge https://www.opixinst.com/docs/catalog-pdf-verification.csv.
+- Website headers on every type of page/asset: CSP (script-src 'self'),
+  HSTS, X-Frame-Options, nosniff, Referrer-Policy, COOP, Permissions-Policy.
+- Fixed: the UDI login/admin/API responses had no CSP or frame protection
+  (clickjacking risk on the login form) → X-Frame-Options DENY and a strict
+  default CSP on every private response (udi-master 20d8cf5). Session cookie
+  is HttpOnly, Secure, SameSite=Strict.

@@ -92,7 +92,7 @@ by assistive tech) while the browser skips layout and paint for off-screen rows.
 
 ## Canonicalisation
 
-`deploy/nginx.conf` 301s apex → `www`, `http` → `https`, and `/index.html` → `/`.
+`tools/deploy/nginx.conf` 301s apex → `www`, `http` → `https`, and `/index.html` → `/`.
 Before this all four answered `200` with identical content. The `/index.html`
 rule tests `$request_uri`, not a `location` — `index index.html` rewrites `/` to
 `/index.html` internally, so a `location = /index.html` block would redirect the

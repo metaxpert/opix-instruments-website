@@ -63,7 +63,7 @@ systemctl --user status opix-tunnel opix-nginx
 git pull
 
 # after editing nginx config
-cp deploy/nginx.conf deploy/security-headers.conf ~/.local/opix-nginx/
+cp tools/deploy/nginx.conf tools/deploy/security-headers.conf ~/.local/opix-nginx/
 nginx -p ~/.local/opix-nginx -c ~/.local/opix-nginx/nginx.conf -t   # ALWAYS test first
 systemctl --user reload opix-nginx
 
@@ -123,7 +123,7 @@ Rarely needed given the no-cache policy on the two files that actually change.
 
 ## 5. Security posture
 
-**What is enforced at the origin** (`deploy/security-headers.conf`, included by
+**What is enforced at the origin** (`tools/deploy/security-headers.conf`, included by
 every location block):
 
 `Content-Security-Policy`, `Strict-Transport-Security` (1 year,
@@ -194,7 +194,7 @@ cloudflared is not connected. `journalctl --user -u opix-tunnel -n 50`, then
 `cloudflared tunnel info opix-site` to see live connector registrations.
 
 ### Legitimate traffic getting 429
-Raise the burst in `deploy/nginx.conf` (`limit_req ... burst=200`), or comment
+Raise the burst in `tools/deploy/nginx.conf` (`limit_req ... burst=200`), or comment
 out the `limit_req` line, then reload.
 
 ### Nothing works after a reboot
@@ -235,7 +235,7 @@ office loses the public site along with everyone else:
 curl -s https://ifconfig.me          # the office's public IP, run from the office
 ```
 
-In `deploy/nginx.conf`, uncomment and set the line in `geo $geo_allowlisted`:
+In `tools/deploy/nginx.conf`, uncomment and set the line in `geo $geo_allowlisted`:
 
 ```nginx
 geo $geo_allowlisted {
@@ -247,14 +247,14 @@ geo $geo_allowlisted {
 Then apply:
 
 ```bash
-cp deploy/nginx.conf deploy/security-headers.conf ~/.local/opix-nginx/
+cp tools/deploy/nginx.conf tools/deploy/security-headers.conf ~/.local/opix-nginx/
 nginx -p ~/.local/opix-nginx -c ~/.local/opix-nginx/nginx.conf -t   # ALWAYS test first
 systemctl --user reload opix-nginx
 ```
 
 ### Turn it OFF — the revert
 
-Change the one line in `deploy/nginx.conf` from `1` to `0`:
+Change the one line in `tools/deploy/nginx.conf` from `1` to `0`:
 
 ```nginx
 map $http_cf_ipcountry $geo_country_blocked {

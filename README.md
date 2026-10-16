@@ -7,7 +7,7 @@ Live at **https://opixinst.com** (and `www`), served from a local nginx through
 a named Cloudflare Tunnel — no public IP, no inbound port.
 Setup: [`DEPLOY.md` §3C](DEPLOY.md). Day-to-day and troubleshooting:
 [`docs/OPERATIONS.md`](docs/OPERATIONS.md). Reproduce from scratch:
-`./deploy/install.sh`.
+`./tools/deploy/install.sh`.
 
 Content changes need no deploy step — nginx serves the working tree, so a
 `git pull` on the host is live immediately.
@@ -23,7 +23,7 @@ Content changes need no deploy step — nginx serves the working tree, so a
 - `assets/css|js/`       — shared styles and logic (cart, catalog filter)
 - `tools/ingest_catalog.py` — slices product photos out of a catalog PDF
 - `tools/seo/`           — the SEO build; see [`docs/SEO.md`](docs/SEO.md)
-- `deploy/`              — nginx config, systemd units and install script
+- `tools/deploy/`              — nginx config, systemd units and install script
 - `docs/OPERATIONS.md`   — runbook: architecture, ops, security, troubleshooting
 - `sitemap*.xml` `robots.txt` `site.webmanifest` — GENERATED
 

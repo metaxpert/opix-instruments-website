@@ -12,7 +12,7 @@ catalogue table and the heading above the table, and compares:
 and, the other way round, catalogue-number-shaped codes printed in a PDF that
 the website does not have.
 
-    python3 tools/verify_catalog_pdf.py            writes docs/catalog-pdf-verification.csv
+    python3 tools/verify_catalog_pdf.py            writes data/catalog-pdf-verification.csv (not public: /data/ is 404)
     python3 tools/verify_catalog_pdf.py --summary  counts only
 
 Runs on the OCR output (assets/catalog-index/*.json), so a "mismatch" can be
@@ -25,7 +25,7 @@ from collections import Counter, defaultdict
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 IDX = os.path.join(ROOT, "assets", "catalog-index")
-OUT = os.path.join(ROOT, "docs", "catalog-pdf-verification.csv")
+OUT = os.path.join(ROOT, "data", "catalog-pdf-verification.csv")
 SITE = "https://www.opixinst.com"
 # Flags looked at against the PDF page and found to be OCR misreads of a
 # correct website value. Add to this when a reviewed flag turns out the same.
