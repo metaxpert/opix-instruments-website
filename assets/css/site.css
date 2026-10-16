@@ -782,3 +782,8 @@ footer{background:#0B2A45;border-top:1px solid rgba(255,255,255,.08);margin-top:
    both page backgrounds. #677685 → #637281, #1A86CC → #1675B3 — the same
    hues, a shade deeper. The home banner keeps its pinned original colours. */
 :root{--mist:#637281;--blue:#1675B3}
+/* Performance (audit round 8): reserve the PDF page's space before PDF.js
+   draws it, so the viewer does not jump as it loads (CLS 0.15 → ~0). */
+.cvlayout{min-height:70vh}
+.cvpage{aspect-ratio:594/828}
+.cvpage canvas{position:absolute;inset:0 auto auto 0}

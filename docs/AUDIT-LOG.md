@@ -157,3 +157,20 @@ and mobile, plus WCAG 2.2 target size on mobile. Before: 5 issue types,
   phones; forms stack; drawer and viewer fit.
 - No changes needed. Noted, not changed: on tablets (768 px) the original
   home banner's four buttons wrap 3 + 1 — kept as the approved design.
+
+### 8 · Performance — done
+Measured live through Cloudflare, cache disabled, desktop and throttled
+mobile 4G, 11 page types.
+- Main content (LCP): 0.28–0.44 s desktop, 0.62–0.81 s mobile 4G.
+  Layout shift ≈ 0 everywhere. HTML and text assets served brotli/gzip.
+- Caching correct per type: HTML no-cache (edits go live at once); photos
+  and fonts 1 year immutable; CSS/JS 7 days, versioned (?v=); PDFs 30 days.
+- Fixed: UDI product pages loaded the 2,000 px GS1 master image to show it
+  at ~600 px (mobile LCP 3.1 s). They now use display copies
+  (/udi/img/<GTIN>-800.jpg, -400 for the register): 279 KB → 54 KB / 13 KB.
+  The GS1 image URL is unchanged. (udi-master)
+- Fixed: catalogue viewer layout shift 0.15 → 0.00 desktop / 0.097 mobile
+  by reserving the PDF page's space before it draws (site.css v23).
+- Left: /assets/catalog-index/*.json has no Cache-Control header (served
+  fresh each time); adding one needs an nginx change, which this audit
+  does not touch. Impact is small (gzip, ~1 MB only on the viewer).
