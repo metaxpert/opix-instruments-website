@@ -29,3 +29,4 @@ cert.pem
 # layers. Not committed — they are the pre-OCR downloads/*.pdf, recoverable
 # with: git show <commit before OCR>:downloads/<file>.pdf > data/ocr/<CODE>/_source.pdf
 data/ocr/*/_source.pdf
+data/ocr/*/_source-before-*.pdf
