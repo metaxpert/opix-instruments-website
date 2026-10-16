@@ -293,7 +293,7 @@ function buildHead(spec) {
   for (const f of (spec.fonts || ['archivo-700', 'inter-400']))
     L.push(`<link rel="preload" href="/assets/fonts/${f}.woff2" as="font" type="font/woff2" crossorigin>`);
   if (spec.preloadImg) L.push(`<link rel="preload" as="image" href="${spec.preloadImg}" fetchpriority="high">`);
-  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 20}">`);
+  L.push(`<link rel="stylesheet" href="/assets/css/site.css?v=${spec.cssVer || 21}">`);
   if (spec.extra) L.push(spec.extra);
   for (const s of (spec.schema || [])) L.push(jsonld(s));
   return L.join('\n');
@@ -348,7 +348,9 @@ function cardHTML(p, sectionTitle, i = Infinity) {
     + (d ? `<p class="desc">${esc(d)}</p>` : '')
     + `<div class="specs"><span class="tag sku">${esc(sku)}</span>`
     + (s ? `<span class="tag">${esc(s)}</span>` : '')
-    + (pdfHref(sku) ? `<a class="tag pdfp" href="${pdfHref(sku)}" title="See ${attr(sku)} highlighted in the PDF catalogue">PDF p.${pdfIndex()[sku][1]}</a>` : '')
+    + (pdfHref(sku) ? `<a class="pdfbtn" href="${pdfHref(sku)}" title="Open the PDF catalogue at page ${pdfIndex()[sku][1]} with ${attr(sku)} highlighted" aria-label="View ${attr(sku)} in the PDF catalogue, page ${pdfIndex()[sku][1]}">`
+        + `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M14 2v6h6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><text x="12" y="17.5" text-anchor="middle" font-size="6.2" font-weight="700" font-family="Arial,sans-serif" fill="currentColor">PDF</text></svg>`
+        + `<span>View in catalogue</span><b>p.${pdfIndex()[sku][1]}</b></a>` : '')
     + `</div></div>`
     + `<button class="addbtn" type="button" data-sku="${attr(sku)}" data-name="${attr(full)}" data-size="${attr(s)}">Add to Inquiry</button>`
     + `</article>`;
