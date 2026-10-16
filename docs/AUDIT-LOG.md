@@ -35,6 +35,11 @@ Nothing here has been changed._
   786-1531..1533, 786-1605..1654. They may come from another source list;
   full list in docs/catalog-pdf-verification.csv (status NOT IN PDF).
 
+- **Orthopedic 11-01-0742, 11-01-0743A, 11-01-0743B.** Photos exist for
+  these catalogue numbers but the products are missing from the website
+  (0740, 0741, 0744… are there). Probably dropped by the original import;
+  needs the orthopedic source catalogue to add them.
+
 ## Rounds
 
 ### 1 · Product data quality — done
@@ -79,3 +84,17 @@ Fixed:
 Reviewed and fine: all 19 "name differs" flags are the OCR reading a
 sub-heading ("Single Ended", "Standard Blade") or a misread title
 ("Mini-Lambatesteotome"); the website names are correct.
+
+### 3 · Product photos — done
+- 9,936 products; every recorded image size matches its file; no broken or
+  missing files referenced by any page (verify.js).
+- 87 products had no photo (55 dental, 32 orthopedic). Cropped the dental
+  ones from their PDF pages and kept the **31 that show the complete
+  instrument and match the product** (scissors, skin hooks, retractors,
+  elevators, carvers, tissue punches, extraction forceps, sterilisation
+  trays). 22 dental crops were rejected as partial or ambiguous (zoomed
+  retractor tips, blade fragments) — those products still show the
+  placeholder. The 32 orthopedic ones have no source PDF on the server.
+- ~960 photos are long thin strips (e.g. 612 x 35 px). These are long
+  instruments at the PDF's own resolution — expected, not broken; higher
+  resolution needs original photography.
