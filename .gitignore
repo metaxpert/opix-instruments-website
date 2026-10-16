@@ -24,3 +24,8 @@ cert.pem
 
 # Local nginx runtime (the prefix lives in ~/.local/opix-nginx, not here)
 *.pid
+
+# OCR: originals of the catalogue PDFs, kept so re-runs never stack text
+# layers. Not committed — they are the pre-OCR downloads/*.pdf, recoverable
+# with: git show <commit before OCR>:downloads/<file>.pdf > data/ocr/<CODE>/_source.pdf
+data/ocr/*/_source.pdf

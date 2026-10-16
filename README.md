@@ -42,6 +42,35 @@ node tools/seo/render.js       # every page renders correctly
 
 All three exit non-zero on failure. Run them before any content deploy.
 
+## Searchable PDF catalogues (OCR)
+The catalogue PDFs are page images, so `tools/ocr_catalogs.py` adds an invisible
+OCR text layer to every page. The pages render pixel-for-pixel as before, but
+Ctrl+F works in any PDF reader, and every catalogue number printed in a PDF
+becomes a link to that product's card on the website. OCR'd catalogue numbers
+are checked against the 9,720 known SKUs in `data/products.js`, and common
+misreads (`S5-414-1` → `SS-414-1`) are corrected before they go into the text layer.
+
+```
+~/.local/opix-ocr/bin/python tools/ocr_catalogs.py          # all catalogues (OCR only pages not cached)
+~/.local/opix-ocr/bin/python tools/ocr_catalogs.py SS DN    # just these
+~/.local/opix-ocr/bin/python tools/ocr_catalogs.py --index  # re-link/re-index from the cache, no OCR
+node tools/seo/build.js                                     # then rebuild the site
+```
+The OCR engine runs in its own venv: `python3 -m venv ~/.local/opix-ocr &&
+~/.local/opix-ocr/bin/pip install pymupdf rapidocr onnxruntime` (PP-OCRv5 English).
+
+- `data/ocr/<CODE>/NNNN.json` is the OCR cache per page (committed). `_source.pdf` is the original
+  un-OCR'd PDF (git-ignored; restore it from the pre-OCR commit with `git show`), and every
+  run rebuilds from it, so text layers never stack.
+  **To replace a catalogue**, put the new PDF in `downloads/`, delete
+  `data/ocr/<CODE>/`, and rerun the tool.
+- `data/pdf-index.json` maps each SKU to `[catalogue, page]`. The build turns it into
+  the "PDF p.N" tag on every product card.
+- `assets/catalog-index/<code>.json` holds every OCR'd line with its box, per page.
+  `_products.json` is the product → page index. Both feed `catalog-viewer.html`,
+  the search page that draws the PDF page with PDF.js (`assets/vendor/pdfjs/`,
+  renamed `.js` because nginx has no MIME type for `.mjs`) and boxes the matches.
+
 ## Configure before launch
 1. `assets/js/site.js` → set `OPIX.wa` to your WhatsApp Business number
    (e.g. `"9230xxxxxxxxx"`, no `+`).

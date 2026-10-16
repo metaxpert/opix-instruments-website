@@ -471,7 +471,50 @@ function main() {
         }))
       },
     ],
+  }, h => {
+    // Search box above the catalogue cards, and each card's page count / size
+    // refreshed from downloads/_index.json (the OCR pass changes the sizes).
+    const box = `<form class="dlsearch" action="/catalog-viewer.html" role="search"><b>Search inside the catalogues</b>`
+      + `<input name="q" type="search" placeholder="Catalogue number or instrument name — e.g. SS-414-1" aria-label="Catalogue number or instrument name">`
+      + `<button type="submit">Search</button>`
+      + `<small>Opens the catalogue page with the product highlighted — or <a href="/catalog-viewer.html">browse and search any catalogue</a>. Every PDF is also text-searchable (Ctrl+F), and each catalogue number in it links to the product on this site.</small></form>`;
+    h = L.hasRegion(h, 'DLSEARCH') ? L.replaceRegion(h, 'DLSEARCH', box)
+      : h.replace('<div class="dlgrid">', `<!--SEO:DLSEARCH-->${box}<!--/SEO:DLSEARCH-->\n  <div class="dlgrid">`);
+    for (const d of DOWNLOADS) {
+      const re = new RegExp(`(href="/?${d.file.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}"[\\s\\S]*?<span class="dlmeta">)[^<]*`);
+      h = h.replace(re, `$1${d.pages} pages · ${d.mb} MB · PDF, searchable`);
+    }
+    return h;
   });
+
+  // ---- PDF catalogue search ------------------------------------------
+  // The viewer's product index: every catalogue number, its name and where
+  // tools/ocr_catalogs.py found it printed. Rebuilt with the site so a new
+  // product or a re-OCR'd catalogue shows up in search on the next build.
+  {
+    const PI = L.pdfIndex(), codes = {}, items = [];
+    for (const d of DOWNLOADS) codes[d.code] = { title: d.title, file: '/' + d.file, pages: d.pages };
+    for (const [code, sec] of Object.entries(SECTIONS)) for (const it of sec.items) {
+      const at = PI[it[0]];
+      if (at && codes[at[0]]) items.push([it[0], [it[1], it[2] && it[2] !== 'N/A' ? it[2] : '', it[3] && it[3] !== 'N/A' ? it[3] : ''].filter(Boolean).join(', '), at[0], at[1]]);
+    }
+    fs.mkdirSync(path.join(ROOT, 'assets', 'catalog-index'), { recursive: true });
+    write('assets/catalog-index/_products.json', JSON.stringify({ codes, items }));
+  }
+  const cvOptions = '<option value="">All catalogues</option>' + DOWNLOADS
+    .filter(d => fs.existsSync(path.join(ROOT, 'assets', 'catalog-index', d.code.toLowerCase() + '.json')))
+    .map(d => `<option value="${d.code}">${L.esc(d.title)}</option>`).join('');
+  buildStatic('catalog-viewer.html', 'downloads', {
+    url: '/catalog-viewer.html',
+    title: 'Search the PDF Catalogues by Catalogue Number | Opix',
+    desc: 'Search every Opix Instruments PDF catalogue by catalogue number or instrument name. The page opens with the product highlighted, ready to quote or download.',
+    schema: [
+      L.breadcrumbSchema([{ name: 'Home', url: '/' }, { name: 'Catalog Downloads', url: '/downloads.html' }, { name: 'Search the catalogues' }]),
+      { "@context": "https://schema.org", "@type": "WebPage", "url": L.abs('/catalog-viewer.html'),
+        "name": "Search the Opix Instruments PDF catalogues", "isPartOf": L.siteRef(),
+        "potentialAction": { "@type": "SearchAction", "target": L.abs('/catalog-viewer.html') + '?q={search_term_string}', "query-input": "required name=search_term_string" } },
+    ],
+  }, h => L.replaceRegion(h, 'CVOPTS', cvOptions));
 
   buildStatic('about.html', 'about', {
     url: '/about.html',
@@ -543,6 +586,7 @@ function main() {
   push('/catalog.html', '0.9', 'weekly', 'core');
   push('/specialties.html', '0.8', 'monthly', 'core');
   push('/downloads.html', '0.7', 'monthly', 'core');
+  push('/catalog-viewer.html', '0.6', 'monthly', 'core');
   push('/about.html', '0.6', 'yearly', 'core');
   push('/contact.html', '0.7', 'yearly', 'core');
   push('/distributors.html', '0.8', 'yearly', 'core');

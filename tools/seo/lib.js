@@ -300,6 +300,21 @@ function buildHead(spec) {
 }
 
 /* ---------- product card (pre-rendered, crawlable) ---------- */
+/* Where each catalogue number is printed in the PDF catalogues, written by
+   tools/ocr_catalogs.py: { SKU: [catalogue code, page] }. Absent file = no links. */
+let PDF_INDEX;
+function pdfIndex() {
+  if (PDF_INDEX === undefined) {
+    const f = path.join(ROOT, 'data', 'pdf-index.json');
+    PDF_INDEX = fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : {};
+  }
+  return PDF_INDEX;
+}
+const pdfHref = (sku) => {
+  const at = pdfIndex()[sku];
+  return at ? `/catalog-viewer.html?q=${encodeURIComponent(sku)}&amp;c=${at[0].toLowerCase()}&amp;p=${at[1]}` : null;
+};
+
 function cardHTML(p, sectionTitle, i = Infinity) {
   const [sku, name, desc, size] = p;
   const d = desc && desc !== 'N/A' ? desc : '';
@@ -333,6 +348,7 @@ function cardHTML(p, sectionTitle, i = Infinity) {
     + (d ? `<p class="desc">${esc(d)}</p>` : '')
     + `<div class="specs"><span class="tag sku">${esc(sku)}</span>`
     + (s ? `<span class="tag">${esc(s)}</span>` : '')
+    + (pdfHref(sku) ? `<a class="tag pdfp" href="${pdfHref(sku)}" title="See ${attr(sku)} highlighted in the PDF catalogue">PDF p.${pdfIndex()[sku][1]}</a>` : '')
     + `</div></div>`
     + `<button class="addbtn" type="button" data-sku="${attr(sku)}" data-name="${attr(full)}" data-size="${attr(s)}">Add to Inquiry</button>`
     + `</article>`;
@@ -355,5 +371,5 @@ module.exports = {
   ROOT, esc, attr, slug, abs, clampDesc, dims, hasImage, listPages,
   jsonld, ORG_ID, SITE_ID, orgSchema, websiteSchema, breadcrumbSchema,
   collectionSchema, productListSchema, faqSchema,
-  buildHead, cardHTML, replaceRegion, hasRegion,
+  buildHead, cardHTML, replaceRegion, hasRegion, pdfIndex,
 };

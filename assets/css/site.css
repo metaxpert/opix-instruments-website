@@ -513,3 +513,53 @@ footer{border-top:1px solid var(--line);background:var(--white);margin-top:40px}
 .settable .mkt span{font-family:'JetBrains Mono',monospace;font-size:10.5px;color:var(--mist);letter-spacing:.3px}
 .settable td{vertical-align:top}
 @media(max-width:520px){.steps li{grid-template-columns:1fr;gap:6px}}
+
+/* ---------- PDF catalogue search + viewer (catalog-viewer.html) ---------- */
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.cvwrap{padding-top:26px;padding-bottom:70px}
+.cvsearch{display:flex;gap:10px;flex-wrap:wrap}
+.cvsearch label{display:block}.cvq{flex:1 1 320px}.cvc{flex:0 1 260px}
+.cvsearch input,.cvsearch select{width:100%;height:46px;padding:0 14px;border:1.5px solid var(--line);border-radius:9px;font:inherit;font-size:15px;color:var(--ink);background:var(--white)}
+.cvsearch input:focus,.cvsearch select:focus{outline:none;border-color:var(--blue)}
+.cvsearch .go{height:46px;padding:0 24px;border:0;border-radius:9px;background:var(--ink);color:#fff;font:inherit;font-weight:600;cursor:pointer}
+.cvsearch .go:hover{background:var(--blue)}
+.cvhint{color:var(--mist);font-size:13.5px;margin:10px 0 20px;max-width:760px}
+.cvlayout{display:grid;grid-template-columns:minmax(260px,340px) minmax(0,1fr);gap:22px;align-items:start}
+.cvview{grid-column:2}
+@media(max-width:900px){.cvlayout{grid-template-columns:1fr}.cvview{grid-column:auto}.cvres{max-height:none!important;position:static!important}}
+.cvres{position:sticky;top:12px;max-height:calc(100vh - 24px);overflow:auto}
+.cvres:empty{display:none}
+.cvres h2{font-family:'Archivo',sans-serif;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--mist);margin:4px 0 8px}
+.cvres h2 span{color:var(--blue)}
+.cvlist{list-style:none;display:grid;gap:4px;margin-bottom:18px}
+.cvlist a{display:block;padding:9px 12px;border:1px solid var(--line);border-radius:8px;background:var(--white);font-size:13.5px;color:var(--graphite);line-height:1.4}
+.cvlist a:hover{border-color:var(--blue)}.cvlist a.on{border-color:var(--blue);background:var(--blue-soft)}
+.cvlist b{font-family:'JetBrains Mono',monospace;font-size:12.5px;color:var(--ink);margin-right:4px}
+.cvlist small{display:block;color:var(--mist);font-size:12px;margin-top:2px}
+.cvmuted{color:var(--mist);font-size:14px}.cvmuted a{color:var(--blue);font-weight:600}
+.cvview{background:var(--white);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.cvbar{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:10px 14px;border-bottom:1px solid var(--line);font-size:14px}
+.cvbar b{color:var(--ink);font-family:'Archivo',sans-serif;margin-right:auto}
+.cvnav{display:flex;align-items:center;gap:8px;color:var(--graphite)}
+.cvnav button{width:34px;height:34px;border:1px solid var(--line);border-radius:8px;background:var(--white);font-size:20px;line-height:1;color:var(--ink);cursor:pointer}
+.cvnav button:disabled{opacity:.35;cursor:default}
+.cvnav input{width:58px;height:34px;border:1px solid var(--line);border-radius:8px;text-align:center;font:inherit}
+.cvopen{padding:7px 12px;border:1px solid var(--line);border-radius:8px;font-weight:600;color:var(--ink)}
+.cvopen:hover{border-color:var(--blue);color:var(--blue)}
+.cvpage{position:relative;background:#fff;min-height:300px}
+.cvpage canvas{display:block}
+.cvhl{position:absolute;inset:0;pointer-events:none}
+.cvhl i{position:absolute;background:rgba(255,213,0,.38);outline:2px solid #E0A800;border-radius:3px;box-shadow:0 0 0 4px rgba(255,213,0,.18);mix-blend-mode:multiply}
+.cvhl .cverr{position:absolute;inset:auto 0 40% 0;text-align:center;pointer-events:auto}
+.cvload{position:absolute;top:14px;left:50%;transform:translateX(-50%);background:var(--ink);color:#fff;font-size:12.5px;padding:5px 12px;border-radius:20px}
+/* "PDF p.N" on product cards — opens the viewer at that page, highlighted. */
+.tag.pdfp{background:var(--white);border:1px solid var(--line);color:var(--blue);font-weight:600}
+.tag.pdfp:hover{border-color:var(--blue)}
+/* Downloads page: search the catalogues */
+.dlsearch{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 26px;padding:18px;border:1px solid var(--line);border-radius:12px;background:var(--white)}
+.dlsearch b{flex:1 1 100%;font-family:'Archivo',sans-serif;color:var(--ink)}
+.dlsearch input{flex:1 1 280px;height:44px;padding:0 14px;border:1.5px solid var(--line);border-radius:9px;font:inherit;font-size:15px}
+.dlsearch input:focus{outline:none;border-color:var(--blue)}
+.dlsearch button{height:44px;padding:0 22px;border:0;border-radius:9px;background:var(--ink);color:#fff;font:inherit;font-weight:600;cursor:pointer}
+.dlsearch button:hover{background:var(--blue)}
+.dlsearch small{flex:1 1 100%;color:var(--mist);font-size:12.5px}
