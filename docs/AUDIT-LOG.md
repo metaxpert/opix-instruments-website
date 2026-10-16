@@ -46,6 +46,10 @@ Nothing here has been changed._
 - **"more than 40 countries"** (home page). Not verifiable from anything
   on the server; confirm the figure is current.
 
+- **UDI product images.** 24 of the 25 GTIN products in UDI Master have no
+  photo, so the product register and their scan pages show "No image".
+  Upload them in UDI Master → Product images (they then also feed GS1).
+
 ## Rounds
 
 ### 1 · Product data quality — done
@@ -144,3 +148,12 @@ and mobile, plus WCAG 2.2 target size on mobile. Before: 5 issue types,
   regions, each named after its own heading.
 - UDI pages: in-text links underlined (they relied on colour alone).
 - Tap targets: none below the WCAG 2.2 minimum on mobile.
+
+### 7 · Layout at 360 / 390 / 768 / 1024 / 1280 / 1440 — done
+16 page types × 6 widths (96 renders), automated + visual review.
+- No sideways scroll, nothing off-screen, header single-row at every width,
+  no clipped text (the only flags were screen-reader-only labels, hidden on
+  purpose). Grids reflow 4 → 3 → 2 → 1 cleanly; category strip scrolls on
+  phones; forms stack; drawer and viewer fit.
+- No changes needed. Noted, not changed: on tablets (768 px) the original
+  home banner's four buttons wrap 3 + 1 — kept as the approved design.
