@@ -117,3 +117,14 @@ Extracted every count, certificate number, date, phone and email from all
   counts from the product data every time (liveCounts in tools/seo/build.js,
   distributors.js), so they cannot drift again. tools/gen_specialties.js is a
   legacy generator (Windows path, would overwrite the SEO head) — not used.
+
+### 5 · Links, sitemaps, robots, canonicals, structured data — done
+- Live crawl of every sitemap URL (374 site + 27 UDI): all 200, no redirects,
+  no duplicates, every canonical self-referencing, nothing noindexed listed.
+- robots.txt lists both sitemaps and blocks /tools/ /data/ /deploy/ /docs/.
+- External links: one (WhatsApp, 200). All 9,092 product links inside the
+  PDFs land on an existing product card.
+- JSON-LD parses on every page (verify.js: 998 blocks) and on the UDI pages;
+  sitemap lastmod range 2026-09-10 … 2026-10-16, none in the future.
+- Fixed: UDI product page titles ran to ~78 characters; now kept within 60
+  (drops the REF, then the long brand form). udi-master b8979f8.
