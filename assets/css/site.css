@@ -777,3 +777,8 @@ footer{background:#0B2A45;border-top:1px solid rgba(255,255,255,.08);margin-top:
 .pdfbtn:hover b{background:rgba(255,255,255,.15);border-color:rgba(255,255,255,.35);color:#fff}
 .pdfbtn:focus-visible{box-shadow:0 0 0 3px rgba(180,35,44,.25)}
 @media(max-width:640px){.pdfbtn{height:36px;position:relative}.pdfbtn::after{content:"";position:absolute;inset:-4px}}
+
+/* Accessibility (audit round 6): text colours raised to WCAG AA 4.5:1 on
+   both page backgrounds. #677685 → #637281, #1A86CC → #1675B3 — the same
+   hues, a shade deeper. The home banner keeps its pinned original colours. */
+:root{--mist:#637281;--blue:#1675B3}

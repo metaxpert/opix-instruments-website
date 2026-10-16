@@ -128,3 +128,19 @@ Extracted every count, certificate number, date, phone and email from all
   sitemap lastmod range 2026-09-10 … 2026-10-16, none in the future.
 - Fixed: UDI product page titles ran to ~78 characters; now kept within 60
   (drops the REF, then the long brand form). udi-master b8979f8.
+
+### 6 · Accessibility — done
+axe-core (WCAG 2.0/2.1 A + AA + best practice) on 16 page types × desktop
+and mobile, plus WCAG 2.2 target size on mobile. Before: 5 issue types,
+~2,900 nodes. After: **0 violations**.
+- Contrast: grey text 4.37:1 and blue links/buttons 3.7–3.94:1 → raised to
+  ≥ 4.6:1 by a shade-deeper grey (#637281) and blue (#1675B3); same hues,
+  the home banner keeps its pinned colours.
+- Accessible names: the logo link and the "View in catalogue" button now
+  expose their visible text (2,100+ nodes).
+- Landmarks: page headings and the home banner are labelled regions; the
+  WhatsApp button sits in its own labelled aside (site.js v4).
+- Keyboard: scrollable instrument tables (sets, distributors) are focusable
+  regions, each named after its own heading.
+- UDI pages: in-text links underlined (they relied on colour alone).
+- Tap targets: none below the WCAG 2.2 minimum on mobile.

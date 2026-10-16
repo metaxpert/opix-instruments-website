@@ -635,6 +635,26 @@ function main() {
 
   const sections = written.filter(w => w.kind === 'section').length;
   const cats = written.filter(w => w.kind === 'category').length;
+  // Accessibility pass over every generated page (WCAG landmarks and
+  // keyboard access). Idempotent: each pattern only matches markup that does
+  // not carry the attribute yet.
+  for (const f of L.listPages()) {
+    const p = path.join(ROOT, f);
+    const h0 = fs.readFileSync(p, 'utf8');
+    const h1 = h0
+      .replace(/<div class="pagehead railpad">/g, '<div class="pagehead railpad" role="region" aria-label="Page heading">')
+      .replace(/<section class="hero railpad">/g, '<section class="hero railpad" aria-label="Introduction">')
+      .replace(/<div class="settable"><table>/g, '<div class="settable" tabindex="0" role="region" aria-label="Instrument list"><table>')
+      .replace(/\/assets\/js\/site\.js\?v=3"/g, '/assets/js/site.js?v=4"');
+    // Several tables on one page need distinct names: use each one's heading.
+    let lastH = '';
+    const h2 = h1.replace(/<h[23][^>]*>([\s\S]*?)<\/h[23]>|<div class="settable" tabindex="0" role="region" aria-label="[^"]*">/g, (m, head) => {
+      if (head !== undefined) { lastH = head.replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim(); return m; }
+      return `<div class="settable" tabindex="0" role="region" aria-label="${L.attr(lastH ? lastH + ' — instrument list' : 'Instrument list')}">`;
+    });
+    if (h2 !== h0) fs.writeFileSync(p, h2);
+  }
+
   console.log(`SEO build complete
   ${sections} section pages   (${TOTAL.toLocaleString()} products pre-rendered into HTML)
   ${cats} category pages
