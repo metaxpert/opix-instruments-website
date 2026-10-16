@@ -861,27 +861,6 @@ NOT IN PDF,SS,SS-718-2,Noyes Iris Scissor,"12.5 cm (5"")",,,,"catalogue number n
 NOT IN PDF,SS,SS-734-2,Troutman-Castroviejo Corneoscleral Scissor,"10.5 cm (4 ¼"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,SS,SS-739-2,Katzin Corneal Transplant Scissor,"11 cm (4 ¼"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,SS,SS-910-1C,TC Iris Scissor,"11.5 cm (4 ½"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-462,Modell Wien Ligature Catcher,"23.5 cm (9 ¼"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-463,Bozemann Knot Tier,"21 cm (8 ¼"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-464,Ligature Adjuster,"23 cm (9"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-465,Casper Ligature Adjuster,"23 cm (9"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-466,Millin Ligature Holding Forcep,"24 cm (9 ½"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-467,Childe Approximation Forcep,"17.5 cm (7"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-468,Michel Clip Applying Forcep,"12 cm (4 ¾"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-469,Hegenbarth Clip Applying Forcep,"12 cm (4 ¾"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-470,Wachenfeldt Clip Applying Forcep,"12 cm (4 ¾"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-471,Michel Clip Applying Forcep,"12.5 cm (5"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-472,Michel Clip Applying Forcep,"13 cm (5"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-473,Collin Clip Applying Forcep,"13 cm (5"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-474,Richter Clip Applying Forcep,"13.5 cm (5 ¼"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-475,Michel Suture Clips,7.5 x 1.75 mm,,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-476,Michel Suture Clips,11 x 2.0 mm,,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-477,Michel Suture Clips,12 x 3.0 mm,,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-478,Michel Suture Clips,14 x 3.0 mm,,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-479,Michel Suture Clips,16 x 3.0 mm,,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-480,Michel Suture Clips,18 x 3.0 mm,,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-481,Michel Suture Clips,20 x 3.0 mm,,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
-NOT IN PDF,SU,SU-06-482,Michel Suture Clips,22 x 3.0 mm,,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 NOT IN PDF,TR,TM-12-109,Schoenborn Tracheal Retractor,"21 cm (8 ¼"")",,,,"catalogue number not found in any PDF (not printed, or unreadable to OCR)",
 "IN PDF, NOT ON WEBSITE",BS,OR-07-165,,,78,OR-07-165,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-07-165&c=bs&p=78
 "IN PDF, NOT ON WEBSITE",BS,OR-07-166,,,78,OR-07-166,,printed in the PDF but no such product on the website (or an OCR misread),https://www.opixinst.com/catalog-viewer.html?q=OR-07-166&c=bs&p=78
@@ -9555,6 +9534,27 @@ OK,SU,SU-06-458,Koing Ligature Conductor,"19.5 cm (7 ¾"")",54,,,size not readab
 OK,SU,SU-06-459,Koing Ligature Conductor,"19.5 cm (7 ¾"")",54,,,size not readable on the PDF row; no table heading found,https://www.opixinst.com/catalog-viewer.html?q=SU-06-459&c=su&p=54
 OK,SU,SU-06-460,Payr Ligature Conductor,"22 cm (8 ¾"")",54,"22 cm (8 3/4"")",Payr Ligature Conductor,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-460&c=su&p=54
 OK,SU,SU-06-461,Payr Ligature Conductor,"22 cm (8 ¾"")",54,"22 cm(83/4"")",Payr Ligature Conductor,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-461&c=su&p=54
+OK,SU,SU-06-462,Modell Wien Ligature Catcher,"23.5 cm (9 ¼"")",55,"23.5 cm (g1/4"")",Modell Wien Ligature Catcher,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-462&c=su&p=55
+OK,SU,SU-06-463,Bozemann Knot Tier,"21 cm (8 ¼"")",55,"21 cm (81/4"")",Bozemann Knot Tier,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-463&c=su&p=55
+OK,SU,SU-06-464,Ligature Adjuster,"23 cm (9"")",55,"23 cm (9"")",Ligature Adjuster,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-464&c=su&p=55
+OK,SU,SU-06-465,Casper Ligature Adjuster,"23 cm (9"")",55,"23 cm (9"")",Casper Ligature Adjuster / Bayonet Shaped,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-465&c=su&p=55
+OK,SU,SU-06-466,Millin Ligature Holding Forcep,"24 cm (9 ½"")",55,"24 cm (g1/2"")",Millin Ligature Holding Forcep,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-466&c=su&p=55
+OK,SU,SU-06-467,Childe Approximation Forcep,"17.5 cm (7"")",56,"17.5 cm (7"")",Pinze per applicare le agrafe / Childe Approximation Forcep / Heavy Pattern With Clip Holder,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-467&c=su&p=56
+OK,SU,SU-06-468,Michel Clip Applying Forcep,"12 cm (4 ¾"")",56,"12 cm (43/"")",Michel Clip Applying Forcep,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-468&c=su&p=56
+OK,SU,SU-06-469,Hegenbarth Clip Applying Forcep,"12 cm (4 ¾"")",56,"12 cm (43/4"")",Hegenbarth Clip Applying Forcep,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-469&c=su&p=56
+OK,SU,SU-06-470,Wachenfeldt Clip Applying Forcep,"12 cm (4 ¾"")",56,"12 cm (43/4"")",Wachenfeldt Clip Applying Forcep,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-470&c=su&p=56
+OK,SU,SU-06-471,Michel Clip Applying Forcep,"12.5 cm (5"")",56,"12.5 cm (5"")",Michel Clip Applying Forcep / For Applying and Removal of Clips,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-471&c=su&p=56
+OK,SU,SU-06-472,Michel Clip Applying Forcep,"13 cm (5"")",57,"13 cm (5"")",Michel Clip Applying Forcep / Long Jaws For Applying and Removal of Clips,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-472&c=su&p=57
+OK,SU,SU-06-473,Collin Clip Applying Forcep,"13 cm (5"")",57,"13 cm (5"")",Collin Clip Applying Forcep / With Screw Lock,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-473&c=su&p=57
+OK,SU,SU-06-474,Richter Clip Applying Forcep,"13.5 cm (5 ¼"")",57,"13.5cm(53/4"")",Richter Clip Applying Forcep / With Screw Lock,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-474&c=su&p=57
+OK,SU,SU-06-475,Michel Suture Clips,7.5 x 1.75 mm,57,7.5 × 1.75 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-475&c=su&p=57
+OK,SU,SU-06-476,Michel Suture Clips,11 x 2.0 mm,57,11 x 2.0mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-476&c=su&p=57
+OK,SU,SU-06-477,Michel Suture Clips,12 x 3.0 mm,57,12 × 3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-477&c=su&p=57
+OK,SU,SU-06-478,Michel Suture Clips,14 x 3.0 mm,57,14×3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-478&c=su&p=57
+OK,SU,SU-06-479,Michel Suture Clips,16 x 3.0 mm,57,16 x 3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-479&c=su&p=57
+OK,SU,SU-06-480,Michel Suture Clips,18 x 3.0 mm,57,18 × 3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-480&c=su&p=57
+OK,SU,SU-06-481,Michel Suture Clips,20 x 3.0 mm,57,20 × 3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-481&c=su&p=57
+OK,SU,SU-06-482,Michel Suture Clips,22 x 3.0 mm,57,22×3.0 mm,Michel Suture Clips / Pack of 1000,,https://www.opixinst.com/catalog-viewer.html?q=SU-06-482&c=su&p=57
 OK,TN,TL-21-100,Fischer Tonsil / Dissector,"21.5 cm (8 ½"")",2,"21.5 cm (8 1/"")",Dissecteur / Rétracteur pour amygdalas / Disettori / Retrattori per tonsille / Fischer Tonsil / Dissector,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-100&c=tn&p=2
 OK,TN,TL-21-101,Abraham Tonsil Knife,"19 cm (7 ½"")",2,"19 cm (71/2"")",Abraham Tonsil Knife,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-101&c=tn&p=2
 OK,TN,TL-21-102,Carpenter Tonsil Knife,"25 cm (9 ¾""), 4.4 mm, 8.8 mm",2,"25 cm (934""),4.4 mm, 8.8 mm",Carpenter Tonsil Knife,,https://www.opixinst.com/catalog-viewer.html?q=TL-21-102&c=tn&p=2
