@@ -115,7 +115,7 @@ function fixSectionCardImages(h) {
    FAQPage structured data and as the text an AI answer engine can quote. */
 const FAQ = [
   ["Are Opix Instruments ISO 13485 certified?",
-   "Yes. Opix Instruments manufactures under an ISO 13485:2016 quality management system, certified by InterCert, an IAF-accredited certification body, under registration IC-MD-2610227, valid to 20 October 2027, and by Standard Certifications Services under registration SCS/QMS/2025050101, valid to 9 May 2027. The range is CE compliant to MDR 2017/745 as Class I reusable, non-sterile devices under registration SCS/EC/2025050102, and the facility holds a US FDA establishment registration. The ISO 13485 and CE certificates can be downloaded from the Quality section of our home page; technical files and material declarations are issued on request."],
+   "Yes. Opix Instruments manufactures under an ISO 13485:2016 quality management system, certified by InterCert, an IAF-accredited certification body, under registration IC-MD-2610227, valid to 20 October 2027. The range is CE compliant to MDR 2017/745 as Class I reusable, non-sterile devices under registration SCS/EC/2025050102, and the facility holds a US FDA establishment registration. The ISO 13485 and CE certificates can be downloaded from the Quality section of our home page; technical files and material declarations are issued on request."],
   /* The two questions an EU or US buyer asks before anything else. Both are
      written to the documents we can actually produce, and both say what a
      registration is NOT: the FDA treats "approved" or "cleared" on a Class I

@@ -1,6 +1,6 @@
 {
  "/": {
-  "hash": "fb84e7265265a837e14d9cfaf33ea9c748593e08",
+  "hash": "d254e87817be909939743287e792039fd5ede711",
   "date": "2026-10-22"
  },
  "/catalog.html": {
@@ -20,7 +20,7 @@
   "date": "2026-10-16"
  },
  "/about.html": {
-  "hash": "30784486cf0cde2c0aa46c0f1ccb83f4a3740247",
+  "hash": "d2234a49bd09f70248ade3f537b1e6cc574517bd",
   "date": "2026-10-22"
  },
  "/contact.html": {
@@ -150,10 +150,6 @@
  "/assets/certificates/opix-iso-13485-intercert-2026-27.pdf": {
   "hash": "9155bbbe03047530a432e5b5c40eb61177cd0fdd",
   "date": "2026-10-22"
- },
- "/assets/certificates/opix-iso-13485-2026-27.pdf": {
-  "hash": "e0b7960c13349f662b3f571c3857db95c76da342",
-  "date": "2026-09-10"
  },
  "/assets/certificates/opix-ce-mdr-2026-27.pdf": {
   "hash": "b6d97baaa1d532fc56203b28621efe8df9ccabf1",

@@ -98,7 +98,7 @@ const SITE = {
   certificates: [
     {
       name: "ISO 13485:2016",
-      covers: "ISO 13485:2016",
+      covers: "ISO 13485:2016",          // the SITE.certs entry this document evidences
       kicker: "Quality management system · IAF accredited",
       issuer: "InterCert, an IAF-accredited certification body",
       file: "/assets/certificates/opix-iso-13485-intercert-2026-27.pdf",
@@ -107,18 +107,6 @@ const SITE = {
         ["Scope", "Manufacturer of non-active surgical and dental instruments"],
         ["Valid", "21 October 2026 — 20 October 2027"],
         ["Accreditation", "IAF · UAF CB-MS-6114"],
-      ],
-    },
-    {
-      name: "ISO 13485:2016",
-      covers: "ISO 13485:2016",          // the SITE.certs entry this document evidences
-      kicker: "Quality management system",
-      issuer: "Standard Certifications Services",
-      file: "/assets/certificates/opix-iso-13485-2026-27.pdf",
-      rows: [
-        ["Registration", "SCS/QMS/2025050101"],
-        ["Scope", "Manufacture of non-active surgical and dental instruments"],
-        ["Valid", "10 May 2026 — 9 May 2027"],
       ],
     },
     {
