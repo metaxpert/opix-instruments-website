@@ -39,9 +39,9 @@ render / test) and pushed before the next starts.
 _Items that are not clearly wrong, or that change what the business says.
 Nothing here has been changed._
 
-- **Prices printed in the Dental PDF.** Orthodontic pliers on pp.106–107
-  show prices (e.g. "49.50"), while the website says no prices are published.
-  Remove the prices from the PDF, or keep them?
+- ~~**Prices printed in the Dental PDF.**~~ Resolved 22 Oct 2026: on your instruction,
+  all 16 prices (786-001 to 786-016, pp.106–107) were painted out of the page images
+  and the OCR text layer rebuilt. Original kept as `data/ocr/DN/_source-before-price-removal.pdf`.
 - **"Lerche Dissecting Forcep" (FR-245-1).** Could be a misspelling of
   "Lerch"; the PDF prints "Lerche". Left as printed.
 

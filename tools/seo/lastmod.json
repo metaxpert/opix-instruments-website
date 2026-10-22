@@ -1,7 +1,7 @@
 {
  "/": {
-  "hash": "6b3d985dc0f30ee6ad7e6fb7daa22219f3e1fd1c",
-  "date": "2026-10-16"
+  "hash": "fb84e7265265a837e14d9cfaf33ea9c748593e08",
+  "date": "2026-10-22"
  },
  "/catalog.html": {
   "hash": "23908eb79fba21706d6122015f9f796e5c5bd08e",
@@ -12,16 +12,16 @@
   "date": "2026-10-16"
  },
  "/downloads.html": {
-  "hash": "19c94459781c15ecbc3cadbd3c771faca1f2196e",
-  "date": "2026-10-16"
+  "hash": "f8b03e045f85d2645424367b97d3fbe2543b65e4",
+  "date": "2026-10-22"
  },
  "/catalog-viewer.html": {
   "hash": "e1680172b7bd5b05f8d6a8316414945e12157188",
   "date": "2026-10-16"
  },
  "/about.html": {
-  "hash": "0fd9b33e66e133e50d40f706d716c7472aa31424",
-  "date": "2026-10-16"
+  "hash": "dfd315d84763e08ba8440295dc7cc93b702ba317",
+  "date": "2026-10-22"
  },
  "/contact.html": {
   "hash": "9872210a4ab4fe92a0e0ffbc150e097cd6d6c714",
@@ -136,8 +136,8 @@
   "date": "2026-10-16"
  },
  "/downloads/opix-dn-dental-instruments.pdf": {
-  "hash": "105f61ef2c273f8be8296b87e24a02b5b603efed",
-  "date": "2026-10-16"
+  "hash": "42d5fb7a473d63bc7f9c6485447533c0b9a4d2d3",
+  "date": "2026-10-22"
  },
  "/downloads/opix-or-orthopedic-instrument-sets.pdf": {
   "hash": "19e92bbd4db8ffca08b3494be51fa160f7a7a950",
@@ -146,6 +146,10 @@
  "/downloads/opix-procedure-sets-catalogue.pdf": {
   "hash": "c4b52977044da3cdbd447a79d83bfe30623bf6ac",
   "date": "2026-10-16"
+ },
+ "/assets/certificates/opix-iso-13485-intercert-2026-27.pdf": {
+  "hash": "9155bbbe03047530a432e5b5c40eb61177cd0fdd",
+  "date": "2026-10-22"
  },
  "/assets/certificates/opix-iso-13485-2026-27.pdf": {
   "hash": "e0b7960c13349f662b3f571c3857db95c76da342",
@@ -157,7 +161,7 @@
  },
  "/sets/": {
   "hash": null,
-  "date": "2026-10-16"
+  "date": "2026-10-22"
  },
  "/sets/set-gs-001-major-surgery-set.html": {
   "hash": "aa89b1c29543bd9b0ef7eabd2b51abe3cc38ecfd",
@@ -1168,8 +1172,8 @@
   "date": "2026-10-16"
  },
  "/catalog-dn.html": {
-  "hash": "cc7dee567ecfd6f718cafa1859010747530e6245",
-  "date": "2026-10-16"
+  "hash": "23ff78e82539b8c2256f58ede53e5600ced06ff5",
+  "date": "2026-10-22"
  },
  "/catalog-dn-extracting-forceps.html": {
   "hash": "5b48b0c8efe14211b5e36a607ee1b296bff44755",
