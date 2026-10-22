@@ -45,10 +45,9 @@ Nothing here has been changed._
 - **"Lerche Dissecting Forcep" (FR-245-1).** Could be a misspelling of
   "Lerch"; the PDF prints "Lerche". Left as printed.
 
-- **9 duplicate Scissors products.** SS-447, 493, 541, 547, 548, 554, 718,
-  734 and 739 each exist as "-1" (what the PDF prints) and "-2" (the original
-  import's misnumbering of the same row), with identical details.
-  Recommendation: remove the nine "-2" entries.
+- ~~**9 duplicate Scissors products.**~~ Resolved 22 Oct 2026: on your instruction the
+  nine "-2" entries (SS-447, 493, 541, 547, 548, 554, 718, 734, 739) and their photos
+  were removed; the "-1" entries the PDF prints remain. Catalogue total now 9,927.
 - **Size contradictions printed in the PDFs** (the website copies them
   faithfully; which number is right needs the instrument measured):
   SL-6117 32 cm (13"), FR-238-1 13 cm (5 ¾"), FR-281-1 12 cm (3 ¾"),
