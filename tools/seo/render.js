@@ -7,7 +7,10 @@
    Run: npm install jsdom && node tools/seo/render.js                        */
 const fs = require('fs'), path = require('path');
 const ROOT = path.resolve(__dirname, '..', '..');
-const pages = require('./lib.js').listPages();
+// Standalone buyer documents: hand-written, print-styled, noindex, rendered to
+// PDF — deliberately without the site header, footer and scripts.
+const STANDALONE = new Set(['uk-product-matrix.html']);
+const pages = require('./lib.js').listPages().filter(f => !STANDALONE.has(f));
 const bad = [];
 const note = (f, m) => bad.push(`${f}: ${m}`);
 

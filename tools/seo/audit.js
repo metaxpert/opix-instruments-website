@@ -70,7 +70,9 @@ for (const f of smFiles)
     inMap.add(m[1].replace(/^https:\/\/www\.opixinst\.com\//, '') || 'index.html');
 // A sitemap <loc> of /sets/ covers the page written as sets/index.html.
 for (const d of [...inMap]) if (d.endsWith('/')) inMap.add(d + 'index.html');
-const missing = pages.filter(p => p !== '404.html' && !inMap.has(p) && !(p === 'index.html' && inMap.has('index.html')));
+// noindex pages (404, the UK buyer matrix) are deliberately kept out of the sitemap.
+const noindexPages = new Set(pages.filter(p => /<meta name="robots" content="[^"]*noindex/.test(fs.readFileSync(path.join(ROOT, p), 'utf8'))));
+const missing = pages.filter(p => !noindexPages.has(p) && !inMap.has(p) && !(p === 'index.html' && inMap.has('index.html')));
 if (missing.length) problems.push(`${missing.length} pages absent from sitemap: ${missing.slice(0, 5).join(', ')}`);
 
 /* Near-duplicate titles.

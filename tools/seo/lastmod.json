@@ -12,16 +12,16 @@
   "date": "2026-10-22"
  },
  "/downloads.html": {
-  "hash": "44b521871e926c8056527bc05d72ec33155a6ff1",
-  "date": "2026-10-22"
+  "hash": "c950870f38ccdea2af280a94bb94db836ce7ff1c",
+  "date": "2026-10-29"
  },
  "/catalog-viewer.html": {
   "hash": "4d180bdcf94d28a6400450013f2572fc03944735",
   "date": "2026-10-22"
  },
  "/about.html": {
-  "hash": "cec8882a821a5ac772bc6e4ac99a86d6da6d283c",
-  "date": "2026-10-22"
+  "hash": "298537246a78fdd020581eea5d6d0a4ac7929793",
+  "date": "2026-10-29"
  },
  "/contact.html": {
   "hash": "63acbd159cc54d632948ed2ce4eb720d85d03c47",
@@ -32,120 +32,120 @@
   "date": "2026-10-22"
  },
  "/downloads/opix-sl-scalpels-knives.pdf": {
-  "hash": "704e904f841b5811ff34c267b1035db2d68ea9fc",
-  "date": "2026-10-22"
+  "hash": "dbf7edf95284bf7c323729c7d0ef1c12ae249257",
+  "date": "2026-10-29"
  },
  "/downloads/opix-ss-scissors.pdf": {
-  "hash": "b9ac3f3976a46826c9c5944073842010d888fd7d",
-  "date": "2026-10-22"
+  "hash": "477cc9516842eabed3176aa647654229570e95fd",
+  "date": "2026-10-29"
  },
  "/downloads/opix-fr-forceps.pdf": {
-  "hash": "428d38ab870a3721d8df524ec257e753f6fe062c",
-  "date": "2026-10-22"
+  "hash": "aa83d0dba24414476ad28d88a59f0122f6e9e99f",
+  "date": "2026-10-29"
  },
  "/downloads/opix-af-artery-hemostatic-forceps.pdf": {
-  "hash": "ffdfdab0f754ba26a52c1b62c3c84d9b2578acb5",
-  "date": "2026-10-22"
+  "hash": "89862f0e1ba51e51d0e8973f15976920de128cde",
+  "date": "2026-10-29"
  },
  "/downloads/opix-cs-cotton-swab-forceps.pdf": {
-  "hash": "968f9b6a564217e1b59338a77de01c9a40019e63",
-  "date": "2026-10-22"
+  "hash": "c6b8eb26ae06e71c4b175dd9881f5480e1346943",
+  "date": "2026-10-29"
  },
  "/downloads/opix-rt-retractors.pdf": {
-  "hash": "af17a5cd04f83ac78744ba73db80d3e4488f3a31",
-  "date": "2026-10-22"
+  "hash": "32ea0ba46ba88313399aa138ef35635389e0f3fe",
+  "date": "2026-10-29"
  },
  "/downloads/opix-pb-probes-applicators.pdf": {
-  "hash": "16d3271b563c38b02c2be068a106dc054862eaa3",
-  "date": "2026-10-22"
+  "hash": "10bb6e2a17b881453a126ebde2e2e323cca8e49d",
+  "date": "2026-10-29"
  },
  "/downloads/opix-dg-diagnostic-instruments.pdf": {
-  "hash": "c86c1703afbd724ea8d486b3c08a2677d3aa1626",
-  "date": "2026-10-22"
+  "hash": "845fcd35ecf4ccc3cba96fee121ea9513bec1e57",
+  "date": "2026-10-29"
  },
  "/downloads/opix-ts-trocars-suction.pdf": {
-  "hash": "2d10262f57b5d54b01b292b6aa5ef3d0af02cbf0",
-  "date": "2026-10-22"
+  "hash": "0132a3dfc3e70b06e0bf720e721f958ce36cb348",
+  "date": "2026-10-29"
  },
  "/downloads/opix-su-suture-instruments.pdf": {
-  "hash": "44026af1121448ef16e39dfd6b4283f312a88566",
-  "date": "2026-10-22"
+  "hash": "81f56ab28ce76f5356bf16de176b00bb52150ee5",
+  "date": "2026-10-29"
  },
  "/downloads/opix-dr-dressing-instruments.pdf": {
-  "hash": "d7d6ff37258ae8b8bd41ec217554e27f993f25cf",
-  "date": "2026-10-22"
+  "hash": "d5348926961bf04c36df60fcc9fed84b7a9eb6a0",
+  "date": "2026-10-29"
  },
  "/downloads/opix-bs-bone-surgery.pdf": {
-  "hash": "1c1edfab9f043c216227d87c463dc416a8b84f69",
-  "date": "2026-10-22"
+  "hash": "c0e3f9b00a992d36b58fcdcea94a6c4fde401220",
+  "date": "2026-10-29"
  },
  "/downloads/opix-cv-thorax-cardiovascular.pdf": {
-  "hash": "9409110649659a87ae3f5070a004a35562700919",
-  "date": "2026-10-22"
+  "hash": "c342b58bac93bb03530617f8fee3c14cc86b96ff",
+  "date": "2026-10-29"
  },
  "/downloads/opix-ns-neurosurgery.pdf": {
-  "hash": "65c3f467a96da8da940a9ad79dffb5c70a0faaa5",
-  "date": "2026-10-22"
+  "hash": "fa36a55901763680c83336688d0860392a984489",
+  "date": "2026-10-29"
  },
  "/downloads/opix-og-ophthalmic-surgery.pdf": {
-  "hash": "624f1e602323cefa7662074092bdc6ba8ab776f1",
-  "date": "2026-10-22"
+  "hash": "80cd75268a954d49b67a66a9d6e5bf08486bda0b",
+  "date": "2026-10-29"
  },
  "/downloads/opix-tr-tracheotomy.pdf": {
-  "hash": "655f75578554a6848181afb4df5e3a1041024126",
-  "date": "2026-10-22"
+  "hash": "503936204db98920510261de6282804fb5dd30ac",
+  "date": "2026-10-29"
  },
  "/downloads/opix-dm-dermatology.pdf": {
-  "hash": "aa6c6d9f3ce4778db130260bb2dbb586c28525d5",
-  "date": "2026-10-22"
+  "hash": "3a240572c429d8ccd61f3b939391211ddbef07cb",
+  "date": "2026-10-29"
  },
  "/downloads/opix-ga-stomach-intestinal.pdf": {
-  "hash": "3059db932f2579d3676f5bcb472588cf91d0aa0a",
-  "date": "2026-10-22"
+  "hash": "af528dbedb4224389375ad3cd621609f319e99f5",
+  "date": "2026-10-29"
  },
  "/downloads/opix-lg-liver-gallbladder.pdf": {
-  "hash": "b656e8b2eff72309c49b6eb72b55ce8a8284c827",
-  "date": "2026-10-22"
+  "hash": "dc940687c412bcbb0876c05297e568164e2d7115",
+  "date": "2026-10-29"
  },
  "/downloads/opix-gy-gynecology.pdf": {
-  "hash": "4ab246965dbd48509a295abfe9eaa4fa7146a4a8",
-  "date": "2026-10-22"
+  "hash": "eb61ef90f492f8192a95fb527942a5ee4b2313db",
+  "date": "2026-10-29"
  },
  "/downloads/opix-ob-obstetric.pdf": {
-  "hash": "58fc511105f911266dffbe99e533cbbfd1ef6ea1",
-  "date": "2026-10-22"
+  "hash": "e367276da1c0d5c37dc451fadd9c12de6da81ac2",
+  "date": "2026-10-29"
  },
  "/downloads/opix-ot-otology-ear.pdf": {
-  "hash": "69c999ba98e5af4a4b5765b3edc0033f3965588c",
-  "date": "2026-10-22"
+  "hash": "19eaebf28a8d03b6054da429f345f81d5b729758",
+  "date": "2026-10-29"
  },
  "/downloads/opix-rh-rhinology-nose.pdf": {
-  "hash": "15c05ae6c6aed9504455541fd7e71d7851c65b01",
-  "date": "2026-10-22"
+  "hash": "8cdad0191e13684e09c83730d97058e9d69eb730",
+  "date": "2026-10-29"
  },
  "/downloads/opix-om-oral-maxillofacial.pdf": {
-  "hash": "4fe3328a7694b9c7925c84dee83273897cdbfb74",
-  "date": "2026-10-22"
+  "hash": "76559bb7d1bbfd593cd20dd8d42f99987950bd31",
+  "date": "2026-10-29"
  },
  "/downloads/opix-tn-tonsillectomy.pdf": {
-  "hash": "b32bdc3a38e3c341d0d068160d454ffd404b076f",
-  "date": "2026-10-22"
+  "hash": "49974c1136307244638fcd9e1ac2e1ce80598627",
+  "date": "2026-10-29"
  },
  "/downloads/opix-pd-podiatry.pdf": {
-  "hash": "504c43d0bf1c91d0237c08d3ceb36c3d4f0acadb",
-  "date": "2026-10-22"
+  "hash": "591ad3e2602dfe56021c6bcb729893316aecc112",
+  "date": "2026-10-29"
  },
  "/downloads/opix-dn-dental-instruments.pdf": {
-  "hash": "e10dbf546d6fa7894fe88f42c279986027a9729f",
-  "date": "2026-10-22"
+  "hash": "42d5fb7a473d63bc7f9c6485447533c0b9a4d2d3",
+  "date": "2026-10-29"
  },
  "/downloads/opix-or-orthopedic-instrument-sets.pdf": {
-  "hash": "a29abb819690a27c2eda536c1a26156a2610aa22",
-  "date": "2026-10-22"
+  "hash": "19e92bbd4db8ffca08b3494be51fa160f7a7a950",
+  "date": "2026-10-29"
  },
  "/downloads/opix-procedure-sets-catalogue.pdf": {
-  "hash": "99e7bef01f3ed1579f3318b74a1fd826f8866a9e",
-  "date": "2026-10-22"
+  "hash": "c4b52977044da3cdbd447a79d83bfe30623bf6ac",
+  "date": "2026-10-29"
  },
  "/assets/certificates/opix-iso-13485-intercert-2026-27.pdf": {
   "hash": "9155bbbe03047530a432e5b5c40eb61177cd0fdd",
@@ -157,7 +157,7 @@
  },
  "/sets/": {
   "hash": null,
-  "date": "2026-10-22"
+  "date": "2026-10-29"
  },
  "/sets/set-gs-001-major-surgery-set.html": {
   "hash": "38427e53a02d04e3758d83aa17599a19fa7706f4",
