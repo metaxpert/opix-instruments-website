@@ -928,7 +928,8 @@ const SECTIONS = {
 ["SS-918-1","Dissecting Scissor, Operating Scissor","TC Locklin Gum Scissor, Angled, One Toothed Cutting Edge","16 cm (6 ¼\")","ent"],
 ["SS-919-1","TC Locklin Gum Scissor","Angled, S Shaped, One Toothed Cutting Edge","16 cm (6 ¼\")","ent"],
 ["SS-920-1","TC Lister Bandage Scissor","Angled","18 cm (7\")","bandage"],
-["SS-921-1","TC Dean Gum Scissor","S Shaped, One Toothed Cutting Edge","17.5 cm (7\")","ent"]
+["SS-921-1","TC Dean Gum Scissor","S Shaped, One Toothed Cutting Edge","17.5 cm (7\")","ent"],
+["SS-922-1","Suture Scissor","Straight","14 cm (5 ½\")","bandage"]
     ]
   },
   "FR": {
@@ -1540,6 +1541,8 @@ const SECTIONS = {
 ["FR-049-1","TC DeBakey Atrauma Forcep","","16 cm (6 ¼\"), 2.0 mm","tissue"],
 ["FR-049-2","TC DeBakey Atrauma Forcep","","20 cm (8\"), 2.0 mm","tissue"],
 ["FR-049-3","TC DeBakey Atrauma Forcep","","24.5 cm (9 ¾\"), 2.0 mm","tissue"],
+["FR-400-1","Cushing Dressing Forcep","Bayonet, Serrated","18 cm (7\")","dissecting"],
+["FR-401-1","Cushing Tissue Forcep","Bayonet, 1 × 2 Teeth","18 cm (7\")","tissue"],
     ]
   },
   "AF": {
@@ -2780,6 +2783,7 @@ const SECTIONS = {
 ["RT-02-655","Cloward Lamina Spreader","","13.5 cm (5 ¼\")","retractors"],
 ["RT-02-656","Inge Lamina Spreader","","16 cm (6 ¼\")","retractors"],
 ["RT-02-657","Inge Lamina Spreader","","25.5 cm (10\")","retractors"],
+["RT-02-658","Amputation Retractor","3-Tail, Cloth","N/A","retractors"],
     ]
   },
   "PB": {
@@ -3157,6 +3161,7 @@ const SECTIONS = {
 ["TR-05-290","Redon Guide Needle","Lancet Tip","19.5 cm (7 ¾\"), 4.7 mm - 14 Charr.","guide_needles"],
 ["TR-05-291","Redon Guide Needle","Lancet Tip","19.5 cm (7 ¾\"), 5.3 mm - 16 Charr.","guide_needles"],
 ["TR-05-292","Redon Guide Needle","Lancet Tip","19.5 cm (7 ¾\"), 6 mm - 18 Charr.","guide_needles"],
+["TR-05-293","Lothrop Tonsil Suction Tube","","25 cm (9 ¾\")","suction_tubes"],
     ]
   },
   "SU": {
@@ -3552,13 +3557,15 @@ const SECTIONS = {
 ["SU-06-480","Michel Suture Clips","Pack of 1000","18 x 3.0 mm","clip_applying_forceps"],
 ["SU-06-481","Michel Suture Clips","Pack of 1000","20 x 3.0 mm","clip_applying_forceps"],
 ["SU-06-482","Michel Suture Clips","Pack of 1000","22 x 3.0 mm","clip_applying_forceps"],
+["SU-06-483","Jacobson Needle Holder","Bayonet","18 cm (7\")","needle_holders"],
     ]
   },
   "DR": {
     title: "Dressing Instruments",
     cats: {
       plaster_shears:"Plaster Shears",
-      plaster_spreaders:"Plaster Spreaders"
+      plaster_spreaders:"Plaster Spreaders",
+      hollowware:"Hollowware & Sterilization Trays"
     },
     items: [
 ["DR-07-100","Stille Plaster of Paris Shear","","23 cm (9\")","plaster_shears"],
@@ -3585,6 +3592,15 @@ const SECTIONS = {
 ["DR-07-121","Waisted Saw Blade","","Ø 65 mm","plaster_shears"],
 ["DR-07-122","Deep Saw Blade","","Ø 70 mm","plaster_shears"],
 ["DR-07-123","Deep Saw Blade for Aspiration","","Ø 80 mm","plaster_shears"],
+["DR-07-124","Gallipot","Stainless Steel","60 ml","hollowware"],
+["DR-07-125","Gallipot","Stainless Steel","100 ml","hollowware"],
+["DR-07-126","Kidney Tray","Stainless Steel","20 cm (7 ¾\")","hollowware"],
+["DR-07-127","Kidney Tray","Stainless Steel","25 cm (9 ¾\")","hollowware"],
+["DR-07-128","Perforated Sterilization Tray","With Lid","300 × 200 × 60 mm","hollowware"],
+["DR-07-129","Perforated Sterilization Tray","With Lid","480 × 250 × 80 mm","hollowware"],
+["DR-07-130","Perforated Sterilization Tray","With Lid","580 × 280 × 100 mm","hollowware"],
+["DR-07-131","Silicone Instrument Mat","For the 580 × 280 mm Sterilization Tray","560 × 260 mm","hollowware"],
+["DR-07-132","Micro-Instrument Case","Silicone-Lined, With Lid","250 × 150 × 40 mm","hollowware"],
     ]
   },
   "BS": {
@@ -4740,6 +4756,8 @@ const SECTIONS = {
 ["OR-08-421","Spare Saw Blade","","N/A","finger_ring_saws"],
 ["OR-08-422","Anvil Nail Extracting Forcep","","12.5 cm (5\")","finger_ring_saws"],
 ["OR-08-423","Radolf Nail Extracting Forcep","","14 cm (5 ½\")","finger_ring_saws"],
+["OR-08-424","Liston Bone Cutting Forcep","Angled","22 cm (8 ¾\")","bone_cutting_forceps"],
+["OR-08-425","Satterlee Saw Blade","Spare, Pack of 3","N/A","amputation_saws"],
     ]
   },
   "CV": {
@@ -5125,6 +5143,11 @@ const SECTIONS = {
 ["CV-09-466","Ligature Catcher","","26 cm (10 ¼\"), 3.0 mm","intima_spatulas"],
 ["CV-09-467","Rumel-Belmont Tourniquet","","27 cm (10 ¾\"), Ø 3.2 mm","intima_spatulas"],
 ["CV-09-468","Rumel-Belmont Tourniquet","","30.5 cm (12\"), Ø 6.4 mm","intima_spatulas"],
+["CV-09-469","Sarot Bronchus Clamp","Angled","26 cm (10 ¼\")","bronchus_clamps"],
+["CV-09-470","Semb Ligature Carrying Forcep","","23 cm (9\")","cardiovascular_clamps"],
+["CV-09-471","Allison Lung Retractor","","30 cm (11 ¾\")","rib_retractors"],
+["CV-09-472","Glover Bulldog Clamp","Angled","5 cm (2\")","bulldog_clamps"],
+["CV-09-473","Kelly-Wick Vascular Tunneller","Ø 6 mm","30 cm (11 ¾\")","tunneling_set"],
     ]
   },
   "NS": {
@@ -5573,6 +5596,10 @@ const SECTIONS = {
 ["NS-10-525","Mirror","","Ø 10.0 mm","micro_neuro_instruments"],
 ["NS-10-526","Mirror","","Ø 12.0 mm","micro_neuro_instruments"],
 ["NS-10-527","Mirror Handle","Bayonet Shaped","15 cm (6\")","micro_neuro_instruments"],
+["NS-10-528","Cloward Laminectomy Punch","4 mm","25 cm (9 ¾\")","laminectomy_punches"],
+["NS-10-529","Woodson Dural Elevator","Double Ended","19 cm (7 ½\")","dura_dissectors"],
+["NS-10-530","Ball Tip Probe","90°","22 cm (8 ¾\")","nerve_hooks"],
+["NS-10-531","Ball Tip Probe","Straight","22 cm (8 ¾\")","nerve_hooks"],
     ]
   },
   "OG": {
@@ -6025,6 +6052,14 @@ const SECTIONS = {
 ["OP-11-531","Wilder Lacrimal Dilator","","10.5 cm (4 ¼\"), Medium Taper, Size 2","opthalmology_instruments"],
 ["OP-11-532","Wilder Lacrimal Dilator","","10.5 cm (4 ¼\"), Heavy Taper, Size 3","opthalmology_instruments"],
 ["OP-11-533","Castroviejo Lacrimal Dilator","Double Ended Fine and Medium Taper","14 cm (5 ½\")","opthalmology_instruments"],
+["OP-11-534","Castroviejo Fixation Forcep","0.5 mm, 1 × 2 Teeth","10 cm (4\")","opthalmology_instruments"],
+["OP-11-535","Crescent Knife Handle","Reusable","12 cm (4 ¾\")","corneal_knives"],
+["OP-11-536","Keratome Handle","Reusable","12 cm (4 ¾\")","keratome"],
+["OP-11-537","Castroviejo Tying Forcep","Curved, 0.3 mm","10 cm (4\")","opthalmology_instruments"],
+["OP-11-538","Iris Repositor","Double Ended","13 cm (5\")","opthalmology_instruments"],
+["OP-11-539","Snellen Lens Loop (Vectis)","8 mm","13 cm (5\")","opthalmology_instruments"],
+["OP-11-540","Rycroft Anterior Chamber Cannula","30 G","N/A","cannulas"],
+["OP-11-541","Cystitome Holder","","12 cm (4 ¾\")","opthalmology_instruments"],
     ]
   },
   "GA": {
@@ -6242,6 +6277,8 @@ const SECTIONS = {
 ["SI-14-300","Yeoman (Turrell) Rectal Biopsy Forcep Complete","","42 cm (16 ½\")","rectal_biopsy_forceps"],
 ["SI-14-301","Yeoman (Turrell) Rectal Biopsy Forcep Complete","","42 cm (16 ½\")","rectal_biopsy_forceps"],
 ["SI-14-303","Yeoman (Turrell) Rectal Biopsy Forcep Complete","","42 cm (16 ½\")","rectal_biopsy_forceps"],
+["SI-14-304","Lane Twin Intestinal Clamp","Atraumatic","29 cm (11 ½\")","intestinal_clamps"],
+["SI-14-305","Dennis Anastomosis Clamp","Curved","26 cm (10 ¼\")","intestinal_clamps"],
     ]
   },
   "GY": {
@@ -6605,6 +6642,11 @@ const SECTIONS = {
 ["GY-16-380","Cohen Uterine Cannula","With 2 Cones","N/A","uterine_biopsy_forceps"],
 ["GY-16-381","Cohen Cone Only","","N/A, 19 mm","uterine_biopsy_forceps"],
 ["GY-16-382","Cohen Cone Only","","N/A, 25 mm","uterine_biopsy_forceps"],
+["GY-16-383","Kelly (Zeppelin) Hysterectomy Forcep","Straight","23 cm (9\")","uterine_seizing_forceps"],
+["GY-16-384","Teale Vulsellum Forcep","2 × 2 Teeth","24 cm (9 ½\")","uterine_tenaculum_forceps"],
+["GY-16-385","Sims Uterine Curette","Sharp, Fig. 1","N/A","uterine_curettes"],
+["GY-16-386","Sims Uterine Curette","Sharp, Fig. 2","N/A","uterine_curettes"],
+["GY-16-387","Sims Uterine Curette","Sharp, Fig. 3","N/A","uterine_curettes"],
     ]
   },
   "OT": {
@@ -6975,6 +7017,8 @@ const SECTIONS = {
 ["OT-18-444","Beyer Mastoid Rongeur","","14 cm (5 ½\"), 1 mm","ear_periosteal_elevators"],
 ["OT-18-445","Ear Syringe Complete","With Protection Disk and 2 Tips","50 ml","ear_periosteal_elevators"],
 ["OT-18-446","Ear Syringe Complete","With Protection Disk and 2 Tips","100 ml","ear_periosteal_elevators"],
+["OT-18-447","Aural Probe and Hook","Double Ended","16 cm (6 ¼\")","ear_hooklet"],
+["OT-18-448","Jobson-Horne Probe","With Ring Curette","17 cm (6 ¾\")","ear_curettes"],
     ]
   },
   "RH": {
@@ -7337,6 +7381,10 @@ const SECTIONS = {
 ["RH-19-434","Ritter-Halle Frontal Sinus Dilator","","14.5 cm (5 ¾\"), Ø 2.5 mm","adenoid_curettes"],
 ["RH-19-435","Ritter-Halle Frontal Sinus Dilator","","14.5 cm (5 ¾\"), Ø 3.0 mm","adenoid_curettes"],
 ["RH-19-436","Ritter-Halle Frontal Sinus Dilator","","14.5 cm (5 ¾\"), Ø 4.0 mm","adenoid_curettes"],
+["RH-19-437","Cottle-McKenty Elevator","","22 cm (8 ¾\")","septum_elevators"],
+["RH-19-438","Walsham Septum Forcep","Right","21 cm (8 ¼\")","septum_forceps"],
+["RH-19-439","Walsham Septum Forcep","Left","21 cm (8 ¼\")","septum_forceps"],
+["RH-19-440","Tilley Nasal Dressing Forcep","Angled","16 cm (6 ¼\")","nasal_tampon_forceps"],
     ]
   },
   "OM": {
@@ -7574,7 +7622,8 @@ const SECTIONS = {
     cats: {
       tracheal_dilators:"Tracheal Dilators",
       tracheal_hooks:"Tracheal Hooks",
-      goitre_grasping_forceps:"Goitre Grasping Forceps"
+      goitre_grasping_forceps:"Goitre Grasping Forceps",
+      tracheal_punches:"Tracheal Punches"
     },
     items: [
 ["TM-12-100","Uckermann Tracheotomy Trocar","","11.5 cm (4 ½\"), Ø 7.5 mm","tracheal_dilators"],
@@ -7622,6 +7671,8 @@ const SECTIONS = {
 ["TM-12-142","Speaking Tube","","80 mm, Fig. 7","goitre_grasping_forceps"],
 ["TM-12-143","Speaking Tube","","85 mm, Fig. 8","goitre_grasping_forceps"],
 ["TM-12-144","Speaking Tube","","90 mm, Fig. 9","goitre_grasping_forceps"],
+["TM-12-145","Cricoid Hook","Blunt","16 cm (6 ¼\")","tracheal_hooks"],
+["TM-12-146","Kerrison Tracheal Punch","4 mm","18 cm (7\")","tracheal_punches"],
     ]
   },
   "LG": {
@@ -7748,6 +7799,10 @@ const SECTIONS = {
 ["UR-15-208","Stockman Penis Clamp","","8 cm (3 ¼\")","circumcision_instruments"],
 ["UR-15-209","Strauss Penis Clamp","","11 cm (4 ½\")","circumcision_instruments"],
 ["UR-15-210","Coolingwood-Stewart Hernia Ring Forcep","","13 cm (5\")","circumcision_instruments"],
+["UR-15-211","Gallstone Scoop","Double Ended, Fig. 1","N/A","gall_stone_forceps"],
+["UR-15-212","Gallstone Scoop","Double Ended, Fig. 2","N/A","gall_stone_forceps"],
+["UR-15-213","Gallstone Scoop","Double Ended, Fig. 3","N/A","gall_stone_forceps"],
+["UR-15-214","Mayo Common Duct Probe","Malleable","22 cm (8 ¾\")","gall_duct_dilators"],
     ]
   },
   "OB": {
@@ -7950,6 +8005,11 @@ const SECTIONS = {
 ["TL-21-248","Michel Laryngeal Mirror","With Handle, Moveable Mirror","25 cm (9 ¾\"), Ø 16 mm, Fig. 3","tonsil_instruments"],
 ["TL-21-249","Michel Laryngeal Mirror","With Handle, Moveable Mirror","25 cm (9 ¾\"), Ø 18 mm, Fig. 4","tonsil_instruments"],
 ["TL-21-250","Laryngeal Mirror Handle","","10 cm (4\")","tonsil_instruments"],
+["TL-21-251","Denis-Browne Tonsil Holding Forcep","","21 cm (8 ¼\")","tonsil_instruments"],
+["TL-21-252","Wilson Tonsil Artery Forcep","Angled","20 cm (7 ¾\")","tonsil_instruments"],
+["TL-21-253","Tonsil Swab Holding Forcep","Curved","24 cm (9 ½\")","tonsil_instruments"],
+["TL-21-254","Yankauer Tonsil Scissor","Curved","21 cm (8 ¼\")","tonsil_instruments"],
+["TL-21-255","Boettcher Tonsil Needle Holder","Angled","25 cm (9 ¾\")","tonsil_instruments"],
     ]
   },
   "PD": {
@@ -9622,7 +9682,11 @@ const SECTIONS = {
 ["786-1673","Key Rings","Scissor","N/A","key_rings"],
 ["786-1674","Key Rings","Needle Holder","N/A","key_rings"],
 ["786-1675","Key Rings","Impression Tray Perforated","N/A","key_rings"],
-["786-1676","Key Rings","Impression Trays, Solid.","N/A","key_rings"]
+["786-1676","Key Rings","Impression Trays, Solid.","N/A","key_rings"],
+["786-1677","Luxator","3 mm, Straight","N/A","elevators"],
+["786-1678","Luxator","5 mm, Straight","N/A","elevators"],
+["786-1679","Luxator","3 mm, Curved","N/A","elevators"],
+["786-1680","Periodontia Instruments","Ochsenbein Chisel No. 1","N/A","periodontia_instruments"]
     ]
   },
   "OR": {
@@ -10424,7 +10488,9 @@ const SECTIONS = {
 ["11-01-1005","Chisel, flat, straight, 16 mm wide","Length 140 mm","N/A","instruments_for_truamatology"],
 ["11-01-1006","Chisel, flat, curved, 4 mm wide","Length 140 mm","N/A","instruments_for_truamatology"],
 ["11-01-1007","Chisel, flat, 20 mm wide","Length 140 mm","N/A","instruments_for_truamatology"],
-["11-01-1008","Chisel, flat, curved, 8 mm wide","Length 140 mm","N/A","instruments_for_truamatology"]
+["11-01-1008","Chisel, flat, curved, 8 mm wide","Length 140 mm","N/A","instruments_for_truamatology"],
+["11-01-1009","Bone File","Double Ended","23 cm (9\")","bone_rasps"],
+["11-01-1010","Cushing Bone Awl","","20 cm (7 ¾\")","bone_tampers_impactors"]
     ]
   }
 };

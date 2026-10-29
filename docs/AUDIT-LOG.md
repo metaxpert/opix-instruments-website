@@ -256,7 +256,18 @@ rewritten in place (original kept as `data/ocr/ST/_source-before-set-numbers.pdf
 - Set pages link every number to its product card; a footnote explains `*` and `—`.
 - Fixed: 21 lines whose instrument name sat in the Size column (parse_sets.py).
 
+### Follow-up, 29 Oct 2026 — missing products added
+On your instruction the 57 `—` lines were added to the catalogue as 64 new
+products (multi-piece lines become one product per piece), numbered after each
+section's highest number: SS-922-1; DR-07-124–132 (new category "Hollowware &
+Sterilization Trays"); UR-15-211–214; SI-14-304/305; GY-16-383–387;
+TL-21-251–255; TR-05-293; RH-19-437–440; OT-18-447/448; SU-06-483; TM-12-145/146
+(new category "Tracheal Punches"); 11-01-1009/1010; OR-08-424/425; RT-02-658;
+CV-09-469–473; FR-400-1, FR-401-1; NS-10-528–531; OP-11-534–541; 786-1677–1680.
+Every set line now carries a catalogue number. Catalogue total 9,991.
+
 ### Needs your decision
-- The 57 `—` lines: add these products to the catalogue, or change the set contents.
-- Matches judged nearest-size are listed in the agent notes; a hand review of the
-  `*` lines against the instruments actually packed would confirm them.
+- The 64 new products have no photos and no page in their section PDFs yet; they
+  are printed only in the Procedure Sets catalogue.
+- OR-08-425 assumes the spare blades (pack of 3) are for the Satterlee saw.
+- The 171 `*` lines: confirm against the instruments actually packed.

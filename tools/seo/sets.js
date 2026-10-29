@@ -44,8 +44,9 @@ function catCell(cat) {
   });
   return `<td class="cat">${parts.join('/')}${star ? '<sup title="Nearest catalogue pattern">*</sup>' : ''}</td>`;
 }
-const SETNOTE = '<p class="setnote"><sup>*</sup> Catalogue number of the same pattern; the catalogue lists it in a slightly different size or detail. '
-  + '— Not a stand-alone catalogue item; supplied with the set.</p>';
+const setNote = (star, dash) => `<p class="setnote">${[
+  star && '<sup>*</sup> Catalogue number of the same pattern; the catalogue lists it in a slightly different size or detail.',
+  dash && '\u2014 Not a stand-alone catalogue item; supplied with the set.'].filter(Boolean).join(' ')}</p>`;
 
 const sectionLink = code => SECTIONS[code]
   ? `<a href="/catalog-${code.toLowerCase()}.html">${L.esc(M[code] ? M[code].title : code)}</a>`
@@ -82,7 +83,11 @@ function contents(set) {
       <tbody>${rows}</tbody>
     </table></div>
   </section>`;
-  }).join('\n') + (set.groups.some(g => g.rows.some(r => /[*\u2014]$/.test(r.cat))) ? '\n' + SETNOTE : '');
+  }).join('\n') + (() => {
+    const cats = set.groups.flatMap(g => g.rows.map(r => r.cat));
+    const star = cats.some(c => c.endsWith('*')), dash = cats.includes('\u2014');
+    return star || dash ? '\n' + setNote(star, dash) : '';
+  })();
 }
 
 function setSchema(set, url) {
