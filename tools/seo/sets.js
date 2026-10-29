@@ -22,10 +22,31 @@ const M = {}; manifest.forEach(m => { M[m.code] = m; });
 const SETS = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'sets.json'), 'utf8'));
 const PDF = '/downloads/opix-procedure-sets-catalogue.pdf';
 
-/* The set catalogue numbers are their own scheme — of 335 distinct numbers
-   only 9 collide with a product SKU — so a row must never link to a product
-   anchor that would land on the wrong instrument or nothing at all. Every
-   group prefix IS a real section code, so the link belongs on the group. */
+/* Set lines carry real catalogue numbers (written into the Procedure Sets PDF
+   and read back by tools/parse_sets.py), so each number links to its product
+   card. "SS-418-3/4" lists further sizes by suffix, "RT-02-289–291" a run,
+   a trailing "*" marks the nearest catalogue pattern, and "—" an item that is
+   not sold on its own (trays, gallipots, mats). Group prefixes link sections. */
+const SKU_SECTION = {};
+for (const [code, sec] of Object.entries(SECTIONS)) for (const it of sec.items) SKU_SECTION[it[0]] = code;
+const skuLink = (sku, text) => SKU_SECTION[sku]
+  ? `<a href="/catalog-${SKU_SECTION[sku].toLowerCase()}.html#${L.attr(sku)}">${L.esc(text)}</a>`
+  : L.esc(text);
+function catCell(cat) {
+  if (cat === '—') return '<td class="cat"><span title="Not a stand-alone catalogue item">—</span></td>';
+  const star = cat.endsWith('*'), body = star ? cat.slice(0, -1) : cat;
+  let prefix = '';
+  const parts = body.split('/').map(tok => {
+    const [first] = tok.split('–');
+    const full = SKU_SECTION[first] ? first : prefix + first;
+    if (SKU_SECTION[first]) prefix = first.slice(0, first.lastIndexOf('-') + 1);
+    return skuLink(full, tok);
+  });
+  return `<td class="cat">${parts.join('/')}${star ? '<sup title="Nearest catalogue pattern">*</sup>' : ''}</td>`;
+}
+const SETNOTE = '<p class="setnote"><sup>*</sup> Catalogue number of the same pattern; the catalogue lists it in a slightly different size or detail. '
+  + '— Not a stand-alone catalogue item; supplied with the set.</p>';
+
 const sectionLink = code => SECTIONS[code]
   ? `<a href="/catalog-${code.toLowerCase()}.html">${L.esc(M[code] ? M[code].title : code)}</a>`
   : L.esc(code);
@@ -51,7 +72,7 @@ function statBar(set) {
 
 function contents(set) {
   return set.groups.map(g => {
-    const rows = g.rows.map(r => `<tr><td class="cat">${L.esc(r.cat)}</td><td>${L.esc(r.name)}</td>`
+    const rows = g.rows.map(r => `<tr>${catCell(r.cat)}<td>${L.esc(r.name)}</td>`
       + `<td class="size">${L.esc(r.size)}</td><td class="qty">${r.qty}</td></tr>`).join('');
     return `<section class="setgroup">
     <h3>${L.esc(g.label)} <span class="pcs">${g.pcs} pcs</span></h3>
@@ -61,7 +82,7 @@ function contents(set) {
       <tbody>${rows}</tbody>
     </table></div>
   </section>`;
-  }).join('\n');
+  }).join('\n') + (set.groups.some(g => g.rows.some(r => /[*\u2014]$/.test(r.cat))) ? '\n' + SETNOTE : '');
 }
 
 function setSchema(set, url) {

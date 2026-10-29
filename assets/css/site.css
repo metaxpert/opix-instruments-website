@@ -787,3 +787,10 @@ footer{background:#0B2A45;border-top:1px solid rgba(255,255,255,.08);margin-top:
 .cvlayout{min-height:70vh}
 .cvpage{aspect-ratio:594/828}
 .cvpage canvas{position:absolute;inset:0 auto auto 0}
+/* Procedure sets: catalogue numbers link to the product card */
+.settable .cat a{color:var(--blue)}
+.settable .cat a:hover{text-decoration:underline;text-underline-offset:2px}
+.settable .cat sup{color:var(--mist);margin-left:1px}
+.setnote{font-size:12.5px;color:var(--mist);margin-top:14px;line-height:1.5}
+/* .cat is also the category-rail button class; keep set table cells as cells */
+.settable td.cat{display:table-cell;border-left:0;border-radius:0;padding:11px 14px;font-weight:500;transition:none}

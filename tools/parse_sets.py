@@ -11,7 +11,7 @@ already in buyers' hands with those URLs printed into it -- deriving a slug
 that differs by one character would 404 exactly the visitor who was reading
 the catalogue.
 
-Usage:  python3 tools/parse_sets.py
+Usage:  ~/.local/opix-ocr/bin/python tools/parse_sets.py
 Needs:  pdftotext (poppler-utils)
 """
 import json
@@ -34,11 +34,20 @@ SUBTITLE = re.compile(r"^(.+?) · (\d+) instruments\s*$")
 
 
 def slugs_from_pdf():
-    """{'SET-GS-001': 'set-gs-001-major-surgery-set'} from the link annotations."""
-    raw = subprocess.run(["strings", str(PDF)], capture_output=True, text=True).stdout
+    """{'SET-GS-001': 'set-gs-001-major-surgery-set'} from the link annotations.
+
+    The published PDF has compressed object streams, where `strings` sees no
+    /URI at all, so read the annotations with PyMuPDF when it is available
+    (~/.local/opix-ocr/bin/python) and fall back to `strings` otherwise."""
+    try:
+        import pymupdf
+        urls = [l.get("uri", "") for p in pymupdf.open(str(PDF)) for l in p.get_links()]
+    except ImportError:
+        raw = subprocess.run(["strings", str(PDF)], capture_output=True, text=True).stdout
+        urls = [re.sub(r"\\(\d{3})", lambda o: chr(int(o.group(1), 8)), m.group(1))
+                for m in re.finditer(r"/URI \((\S*?)\)", raw)]
     out = {}
-    for m in re.finditer(r"/URI \((\S*?)\)", raw):
-        url = re.sub(r"\\(\d{3})", lambda o: chr(int(o.group(1), 8)), m.group(1))
+    for url in urls:
         s = re.match(r"https://www\.opixinst\.com/sets/(set-([a-z]{2})-(\d{3})-[a-z0-9-]+)\.html", url)
         if s:
             out[f"SET-{s.group(2).upper()}-{s.group(3)}"] = s.group(1)
@@ -124,6 +133,12 @@ def parse_set(pages, code, name):
                 cat, iname, size, qty = (g.strip() for g in m.groups())
                 if cat.startswith("SET-") or "Page" in size:
                     continue
+                # A wide gap after the catalogue number makes the lazy name
+                # group take a lone space, leaving the name in the size column
+                # ("Hartmann ear speculum, set of 4      4 sizes").
+                if not iname:
+                    parts = re.split(r"\s{2,}", size)
+                    iname, size = parts[0], (parts[-1] if len(parts) > 1 else "")
                 cur["rows"].append({"cat": cat, "name": iname, "size": size, "qty": int(qty)})
 
     return {

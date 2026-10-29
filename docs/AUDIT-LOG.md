@@ -239,3 +239,24 @@ No defects found.
   (clickjacking risk on the login form) → X-Frame-Options DENY and a strict
   default CSP on every private response (udi-master 20d8cf5). Session cookie
   is HttpOnly, Secure, SameSite=Strict.
+
+## 29 Oct 2026 — Procedure-set catalogue numbers
+
+The 20 procedure sets (695 lines) used an internal numbering scheme that did not
+exist in the catalogue. Each line was matched to the real catalogue by
+instrument, pattern and size, and the Procedure Sets PDF's Cat. No. column was
+rewritten in place (original kept as `data/ocr/ST/_source-before-set-numbers.pdf`);
+`data/sets.json` is re-read from the PDF, so the website and the PDF agree.
+
+- 130 lines: exact catalogue number.
+- 171 lines: nearest catalogue pattern, marked `*` (size or a detail differs).
+- 57 lines: `—`, no stand-alone catalogue item (gallipots, trays, mats, suture
+  scissors, and instruments not in the catalogue, or where the only candidate is
+  a different pattern, e.g. curved for angled, straight for bayonet).
+- Set pages link every number to its product card; a footnote explains `*` and `—`.
+- Fixed: 21 lines whose instrument name sat in the Size column (parse_sets.py).
+
+### Needs your decision
+- The 57 `—` lines: add these products to the catalogue, or change the set contents.
+- Matches judged nearest-size are listed in the agent notes; a hand review of the
+  `*` lines against the instruments actually packed would confirm them.
